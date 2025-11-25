@@ -4,7 +4,7 @@ Tips for getting the most out of Claude Code and AI-assisted development.
 
 ---
 
-## 0. Get API Access
+## 0. Get API Access & Use the Best Model
 
 Before anything else, you need API access to use Claude Code:
 
@@ -15,6 +15,22 @@ Before anything else, you need API access to use Claude Code:
    export ANTHROPIC_API_KEY=your-key-here
    # Or add to your ~/.zshrc or ~/.bashrc for persistence
    ```
+
+**Switch to the latest model (Opus 4.5):**
+
+By default, Claude Code uses Sonnet. To use Opus 4.5 (the most capable model):
+
+```bash
+# In Claude Code, run:
+/model opus
+```
+
+Or set it permanently in `~/.claude/settings.json`:
+```json
+{
+  "model": "opus"
+}
+```
 
 **Pro tip:** If you're just getting started and want to try it out, ask a friend who's already using Claude Code - they might be able to share access or help you get set up.
 
