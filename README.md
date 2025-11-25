@@ -170,4 +170,36 @@ Check available MCPs at: https://github.com/modelcontextprotocol/servers
 
 ---
 
-*Last updated: 2025-01-25*
+## 11. Meta: Keep This Guide Updated
+
+This guide itself is maintained using Claude Code! Here's the workflow:
+
+**How this guide stays current:**
+- The guide lives at `~/Documents/vibe-coding-guide/README.md`
+- When I learn new tips, I just tell Claude "update the vibe guide with X"
+- Claude edits, commits, and pushes automatically
+- Friends see updates in real-time at this repo
+
+**To set this up yourself:**
+Add to your `~/.claude/CLAUDE.md`:
+```markdown
+# Vibe Coding Guide
+- The vibe coding guide lives at `~/Documents/vibe-coding-guide/README.md`
+- When updating the guide, commit and push changes to GitHub so friends can see updates
+```
+
+---
+
+## Contributing
+
+Got tips to add? **Pull requests welcome!**
+
+1. Fork this repo
+2. Add your tips
+3. Submit a PR
+
+Or just open an issue with your suggestion.
+
+---
+
+*Last updated: 2025-11-25*
