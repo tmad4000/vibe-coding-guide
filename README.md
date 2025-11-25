@@ -32,6 +32,35 @@ Or set it permanently in `~/.claude/settings.json`:
 }
 ```
 
+**Skip permissions for faster workflow:**
+
+By default, Claude Code asks permission for many actions. To skip these prompts:
+
+```bash
+claude --dangerously-skip-permissions
+```
+
+**Pro tip:** Use TextExpander (or similar) to expand a short snippet like `cld` into the full command. Much faster than typing it every time.
+
+**Extended thinking mode:**
+
+For complex problems, enable extended thinking to let Claude reason more deeply:
+
+```bash
+# In Claude Code:
+/think
+```
+
+This gives Claude more "thinking time" for harder tasks.
+
+**Other AI coding tools worth trying:**
+
+- **Codex CLI** - OpenAI's coding agent with extra thinking capabilities
+- **Gemini CLI** - Google's coding assistant
+  ```bash
+  gemini --model gemini-2.5-pro --yolo
+  ```
+
 **Pro tip:** If you're just getting started and want to try it out, ask a friend who's already using Claude Code - they might be able to share access or help you get set up.
 
 ---
