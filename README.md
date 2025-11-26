@@ -150,7 +150,59 @@ This saves you from repeating yourself across projects.
 
 ---
 
-## 5. Project-Specific Instructions (CLAUDE.md)
+## 5. Sound Notifications When Claude Needs Input
+
+Don't babysit Claude! Set up sound alerts so you can context-switch while Claude works:
+
+**Add to `~/.claude/settings.json`:**
+```json
+{
+  "hooks": {
+    "Notification": [
+      {
+        "matcher": "idle_prompt",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "afplay /System/Library/Sounds/Glass.aiff"
+          }
+        ]
+      },
+      {
+        "matcher": "permission_prompt",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "afplay /System/Library/Sounds/Ping.aiff"
+          }
+        ]
+      }
+    ]
+  }
+}
+```
+
+**What this does:**
+- **Glass sound** = Claude is done and waiting for input
+- **Ping sound** = Claude needs permission for something
+
+**Customize sounds:** Browse `/System/Library/Sounds/` for options (Submarine, Blow, Funk, etc.)
+
+**Bonus - add desktop notification too:**
+```bash
+# Create ~/bin/claude-alert.sh
+#!/bin/bash
+afplay /System/Library/Sounds/Glass.aiff
+osascript -e 'display notification "Claude Code needs input" with title "Claude Code"'
+```
+
+Then use `"command": "~/bin/claude-alert.sh"` in your hook.
+
+**Linux users:** Replace `afplay` with `paplay` or `aplay`.
+
+---
+
+## 6. Project-Specific Instructions (CLAUDE.md)
 
 Put a `CLAUDE.md` in your project root for project-specific context:
 
@@ -163,7 +215,7 @@ Claude reads this automatically when working in that directory.
 
 ---
 
-## 6. Let Claude Plan Complex Tasks
+## 7. Let Claude Plan Complex Tasks
 
 For big features, let Claude use its todo/planning tools. Say things like:
 - "Plan out how we'd implement X"
@@ -173,7 +225,7 @@ This helps Claude stay organized and gives you visibility into progress.
 
 ---
 
-## 7. Be Specific About What You Want
+## 8. Be Specific About What You Want
 
 Good: "Add a login form with email/password fields, validation, and error states"
 Less good: "Add login"
@@ -182,7 +234,7 @@ The more context upfront, the fewer back-and-forth iterations.
 
 ---
 
-## 8. Use "Don't Commit" When Experimenting
+## 9. Use "Don't Commit" When Experimenting
 
 If you have auto-commit enabled but want to experiment:
 - "Try this but don't commit"
@@ -192,7 +244,7 @@ You stay in control.
 
 ---
 
-## 9. Ask Claude to Explain Before Changing
+## 10. Ask Claude to Explain Before Changing
 
 If you're learning or want to understand:
 - "Explain this code before we change it"
@@ -203,7 +255,7 @@ Great for onboarding to new codebases.
 
 ---
 
-## 10. MCP Servers Worth Exploring
+## 11. MCP Servers Worth Exploring
 
 - **Playwright** - Browser automation and testing
 - **Chrome DevTools** - Real-time browser debugging
@@ -215,7 +267,7 @@ Check available MCPs at: https://github.com/modelcontextprotocol/servers
 
 ---
 
-## 11. Meta: Keep This Guide Updated
+## 12. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
 
