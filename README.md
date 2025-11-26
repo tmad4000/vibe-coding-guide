@@ -262,6 +262,24 @@ Great for onboarding to new codebases.
 - **Filesystem** - Enhanced file operations
 - **GitHub** - PR and issue management
 - **Postgres/SQLite** - Direct database access
+- **Gemini CLI** - Use Google's Gemini AI from within Claude Code
+
+### Gemini CLI MCP Setup
+
+Want to use Gemini (Google's AI) from within Claude Code? Install the Gemini CLI MCP:
+
+```bash
+claude mcp add gemini-cli -- npx -y gemini-mcp-tool
+```
+
+This adds Gemini as a tool that Claude can call. Useful for:
+- Cross-referencing answers between AI models
+- Tasks where Gemini might have different/complementary capabilities
+- Having Claude orchestrate multiple AI models
+
+**Prerequisites:**
+1. Gemini CLI installed: `npm install -g @anthropic-ai/gemini-cli`
+2. Authenticated with Google: `gemini login`
 
 Check available MCPs at: https://github.com/modelcontextprotocol/servers
 
@@ -299,4 +317,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2025-11-25*
+*Last updated: 2025-11-26*
