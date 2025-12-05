@@ -255,7 +255,35 @@ Great for onboarding to new codebases.
 
 ---
 
-## 11. MCP Servers Worth Exploring
+## 11. Managing Local Dev Servers with Hotel
+
+When you're running multiple projects on localhost, it's easy to forget which port is which. **Hotel** solves this by giving you:
+
+- A dashboard showing all your dev servers
+- Friendly `.localhost` URLs instead of port numbers
+- Start/stop control from one place
+
+**Install:**
+```bash
+npm install -g hotel
+hotel start
+```
+
+**Register a project:**
+```bash
+cd ~/your-project
+hotel add 'npm run dev'     # or whatever starts your server
+```
+
+**Access:**
+- Dashboard: http://localhost:2000
+- Projects: `http://projectname.localhost:2000`
+
+No changes to your project code needed - Hotel wraps your existing start commands.
+
+---
+
+## 12. MCP Servers Worth Exploring
 
 - **Playwright** - Browser automation and testing
 - **Chrome DevTools** - Real-time browser debugging
@@ -285,7 +313,7 @@ Check available MCPs at: https://github.com/modelcontextprotocol/servers
 
 ---
 
-## 12. Meta: Keep This Guide Updated
+## 13. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
 
@@ -317,4 +345,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2025-11-26*
+*Last updated: 2025-12-04*
