@@ -272,11 +272,13 @@ brew install caddy
 
 **Create `~/Caddyfile`:**
 ```
-world-issue-tracker.localhost {
+# Use http:// prefix to avoid HTTPS cert issues
+
+http://myapp.localhost {
     reverse_proxy localhost:5173
 }
 
-api.localhost {
+http://api.localhost {
     reverse_proxy localhost:8080
 }
 
@@ -289,7 +291,7 @@ caddy run --config ~/Caddyfile
 ```
 
 **Access:**
-- `https://world-issue-tracker.localhost` → your Vite app on 5173
+- `http://myapp.localhost` → your app on 5173
 - `http://localhost:5173` still works too
 
 **Adding new projects with Claude:**
@@ -304,12 +306,13 @@ I use Caddy for local dev subdomains. Config is at `~/Caddyfile`.
 
 When adding a project to Caddy:
 1. Use `.localhost` domains (NOT `.local`) — they auto-resolve, no /etc/hosts needed
-2. Check what port the app runs on (grep config files or use `lsof -iTCP -sTCP:LISTEN | grep node` if running)
-3. Add to `~/Caddyfile`:
-   projectname.localhost {
+2. Use `http://` prefix to avoid HTTPS certificate issues
+3. Check what port the app runs on (grep config files or use `lsof -iTCP -sTCP:LISTEN | grep node` if running)
+4. Add to `~/Caddyfile`:
+   http://projectname.localhost {
        reverse_proxy localhost:PORT
    }
-4. Reload with: `caddy reload --config ~/Caddyfile`
+5. Reload with: `caddy reload --config ~/Caddyfile`
 ```
 
 **List registered projects:**
