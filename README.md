@@ -255,31 +255,44 @@ Great for onboarding to new codebases.
 
 ---
 
-## 11. Managing Local Dev Servers with Hotel
+## 11. Managing Local Dev Servers with Caddy
 
-When you're running multiple projects on localhost, it's easy to forget which port is which. **Hotel** solves this by giving you:
+When you're running multiple projects on localhost, it's easy to forget which port is which. **Caddy** gives you friendly `.localhost` URLs with automatic HTTPS.
 
-- A dashboard showing all your dev servers
-- Friendly `.localhost` URLs instead of port numbers
-- Start/stop control from one place
+**Why Caddy:**
+- `.localhost` domains auto-resolve (no `/etc/hosts` editing)
+- Auto-generates trusted HTTPS certs
+- Simple config, actively maintained
+- Your apps still work on their original ports too
 
 **Install:**
 ```bash
-npm install -g hotel
-hotel start
+brew install caddy
 ```
 
-**Register a project:**
+**Create `~/Caddyfile`:**
+```
+world-issue-tracker.localhost {
+    reverse_proxy localhost:5173
+}
+
+api.localhost {
+    reverse_proxy localhost:8080
+}
+
+# Add more as needed
+```
+
+**Run:**
 ```bash
-cd ~/your-project
-hotel add 'npm run dev'     # or whatever starts your server
+caddy run --config ~/Caddyfile
 ```
 
 **Access:**
-- Dashboard: http://localhost:2000
-- Projects: `http://projectname.localhost:2000`
+- `https://world-issue-tracker.localhost` → your Vite app on 5173
+- `http://localhost:5173` still works too
 
-No changes to your project code needed - Hotel wraps your existing start commands.
+**Tip:** Add new projects to your Caddyfile as you create them. Restart Caddy to pick up changes.
 
 ---
 
