@@ -292,7 +292,35 @@ caddy run --config ~/Caddyfile
 - `https://world-issue-tracker.localhost` → your Vite app on 5173
 - `http://localhost:5173` still works too
 
-**Tip:** Add new projects to your Caddyfile as you create them. Restart Caddy to pick up changes.
+**Adding new projects with Claude:**
+
+Just say: "Add this project to Caddy" — Claude will check the port and update your Caddyfile.
+
+To make this work reliably, add to your `~/.claude/CLAUDE.md`:
+```markdown
+# Local Dev Server Routing (Caddy)
+
+I use Caddy for local dev subdomains. Config is at `~/Caddyfile`.
+
+When adding a project to Caddy:
+1. Use `.localhost` domains (NOT `.local`) — they auto-resolve, no /etc/hosts needed
+2. Check what port the app runs on (grep config files or use `lsof -iTCP -sTCP:LISTEN | grep node` if running)
+3. Add to `~/Caddyfile`:
+   projectname.localhost {
+       reverse_proxy localhost:PORT
+   }
+4. Reload with: `caddy reload --config ~/Caddyfile`
+```
+
+**List registered projects:**
+```bash
+cat ~/Caddyfile
+```
+
+**Reload after changes:**
+```bash
+caddy reload --config ~/Caddyfile
+```
 
 ---
 
