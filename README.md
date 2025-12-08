@@ -2,6 +2,8 @@
 
 Tips for getting the most out of Claude Code and AI-assisted development.
 
+**New to the terminal?** Start with the [Minimal Terminal Guide](terminal-guide.md) first.
+
 ---
 
 ## 0. Get API Access & Use the Best Model
