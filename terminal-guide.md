@@ -59,8 +59,8 @@ pwd       # show where you are
 ## TL;DR
 
 ```bash
-mkdir NAME
-cd NAME
+mkdir someName
+cd someName
 cd ..
 cd ~
 ls
