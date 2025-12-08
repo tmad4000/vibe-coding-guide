@@ -18,7 +18,7 @@ mkdir myproject
 cd myproject     # go into a folder
 cd ..            # go up one level
 cd ~             # go to your home directory
-cd ./src         # folder inside the current directory
+cd ./someDirectory   # folder inside the current directory
 cd ~/Documents   # absolute path from home
 ```
 
@@ -51,7 +51,7 @@ open file.txt
 
 ```bash
 pwd       # show where you are
-./run.sh  # run a script in the current folder
+./somefile.sh  # run a script in the current folder
 ```
 
 ---
