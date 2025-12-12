@@ -359,7 +359,38 @@ Check available MCPs at: https://github.com/modelcontextprotocol/servers
 
 ---
 
-## 13. Meta: Keep This Guide Updated
+## 13. Fetching JavaScript-Heavy Pages (Gemini shares, etc.)
+
+Some URLs can't be fetched with `curl` or standard web tools because they require JavaScript to render the content. Examples:
+- Gemini share links (`gemini.google.com/share/...`)
+- ChatGPT share links
+- Many modern SPAs
+
+**The problem:** `curl` just returns an empty HTML shell with JavaScript loaders.
+
+**The solution:** Use Chrome DevTools MCP to navigate with a real browser:
+
+```
+# In Claude Code, just ask:
+"Fetch the content from https://gemini.google.com/share/abc123"
+```
+
+Claude will:
+1. Open the URL in Chrome via DevTools MCP
+2. Wait for content to load
+3. Take a snapshot of the rendered page
+4. Extract and summarize the content
+
+**Why this works:**
+- Uses your real Chrome session (not a headless browser)
+- No automation detection issues since it's your actual browser
+- Can access pages that require authentication (if you're logged in)
+
+**Setup:** Make sure Chrome DevTools MCP is configured (see section 2).
+
+---
+
+## 14. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
 
@@ -391,4 +422,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2025-12-04*
+*Last updated: 2025-12-11*
