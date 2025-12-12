@@ -63,6 +63,8 @@ This gives Claude more "thinking time" for harder tasks.
   gemini --model gemini-2.5-pro --yolo
   ```
 
+**Gemini CLI not working with your Workspace account?** "Google AI Ultra for Business" doesn't support Gemini 3 in CLI yet. Workaround: use a direct API key from [AI Studio](https://aistudio.google.com/), then `export GEMINI_API_KEY="your_key"`.
+
 **Pro tip:** If you're just getting started and want to try it out, ask a friend who's already using Claude Code - they might be able to share access or help you get set up.
 
 ---
