@@ -4,6 +4,8 @@ Tips for getting the most out of Claude Code and AI-assisted development.
 
 **New to the terminal?** Start with the [Minimal Terminal Guide](terminal-guide.md) first.
 
+**Running Claude Code + server + logs?** See the [tmux Guide](tmux-guide.md) for managing multiple terminals.
+
 ---
 
 ## 0. Get API Access & Use the Best Model
@@ -424,4 +426,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2025-12-11*
+*Last updated: 2025-12-12*
