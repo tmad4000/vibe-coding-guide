@@ -384,6 +384,70 @@ The hook receives JSON on stdin, checks patterns, and returns exit code 2 to blo
 
 **Version control your Claude config:** Put `~/.claude` in a private GitHub repo so you can track changes and rollback if needed.
 
+### Gemini CLI Safety
+
+**Gemini CLI doesn't support PreToolUse hooks**, so it can't intercept commands before execution. Instead, add safety rules to `~/.gemini/GEMINI.md`:
+
+```markdown
+# Critical: Protect Against Accidental Deletions
+
+**NEVER run these commands:**
+- `rm -rf /`, `rm -rf ~`, `rm -rf $HOME`
+- `rm -rf *`, `rm -rf .`, `rm -rf ..`
+- Any `rm` on paths starting with `~/`, `/Users/`, `/home/`
+- ANY deletion from iCloud Drive (`~/Library/Mobile Documents/`)
+
+**When in home directory:**
+- Do NOT use recursive `rm` commands
+- Ask user to confirm first
+
+**If deletion requested from important paths:**
+1. Ask user to confirm the exact path
+2. Suggest safer alternatives (move to trash)
+3. Remind that manual terminal deletion is safer
+```
+
+This relies on the AI following instructions rather than technical enforcement. Less reliable than hooks, but better than nothing.
+
+### Shell-Level Protection (Manual Commands)
+
+Add these functions to your shell profile for protection even when typing commands manually:
+
+**Block rm in iCloud (works in zsh and bash):**
+```bash
+# Add to ~/.zshrc or ~/.bash_profile
+function rm() {
+  if [[ "$PWD" == *"Mobile Documents"* ]] || [[ "$PWD" == *"iCloud Drive"* ]]; then
+    echo "⛔ Refusing to run rm in an iCloud directory"
+    return 1
+  fi
+  command rm "$@"
+}
+```
+
+**Visual iCloud warning in prompt (zsh):**
+```bash
+# Add to ~/.zshrc
+function in_icloud() {
+  [[ "$PWD" == *"Mobile Documents"* ]] || [[ "$PWD" == *"iCloud Drive"* ]]
+}
+
+setopt PROMPT_SUBST
+PROMPT='%F{cyan}%n@%m%f %F{yellow}%~%f $(in_icloud && echo "%F{red}⚠️ iCloud%f") %# '
+```
+
+**Visual iCloud warning in prompt (bash):**
+```bash
+# Add to ~/.bash_profile
+function in_icloud() {
+  [[ "$PWD" == *"Mobile Documents"* ]] || [[ "$PWD" == *"iCloud Drive"* ]]
+}
+
+PS1='\[\033[36m\]\u@\h\[\033[0m\] \[\033[33m\]\w\[\033[0m\]$(in_icloud && echo " \[\033[31m\]⚠️ iCloud\[\033[0m\]") \$ '
+```
+
+These protect you from accidentally running dangerous commands yourself, not just when AI does it.
+
 ---
 
 ## 13. MCP Servers Worth Exploring
