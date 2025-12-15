@@ -333,72 +333,78 @@ caddy reload --config ~/Caddyfile
 
 ---
 
-## 12. Read-Only Permission Allow List
+## 12. Permission Tiers: Choose Your Safety Level
 
-Speed up your workflow by allowing common read-only commands without permission prompts. Add these to your `~/.claude/settings.local.json`:
+Speed up your workflow by choosing a permission tier that matches your trust level. Three pre-configured tiers available:
 
-**Why use an allow list:**
-- Skip permission prompts for safe operations (file reading, git status, system info)
-- Keep destructive operations protected (still require permission)
-- Claude can explore codebases faster
+### Tier 1: Read-Only (140+ permissions)
+**For:** Exploring unfamiliar code, learning, maximum safety
 
-**Comprehensive read-only commands:**
+Zero modifications. Pure exploration:
+- ✅ All file reading (cat, grep, find, rg)
+- ✅ Git inspection (status, log, diff, blame)
+- ✅ System info (ps, lsof, uptime)
+- ❌ No Write/Edit operations
+- ❌ No git add/commit/push
 
-Add this to `~/.claude/settings.local.json`:
-
-```json
-{
-  "permissions": {
-    "allow": [
-      "Read",
-      "LS",
-      "Grep",
-      "Glob",
-      "WebSearch",
-      "Bash(ls:*)",
-      "Bash(tree:*)",
-      "Bash(pwd)",
-      "Bash(cat:*)",
-      "Bash(head:*)",
-      "Bash(tail:*)",
-      "Bash(grep:*)",
-      "Bash(find:*)",
-      "Bash(rg:*)",
-      "Bash(diff:*)",
-      "Bash(git status:*)",
-      "Bash(git log:*)",
-      "Bash(git diff:*)",
-      "Bash(git show:*)",
-      "Bash(git branch:*)",
-      "Bash(ps:*)",
-      "Bash(lsof:*)",
-      "Bash(which:*)",
-      "Bash(npm list:*)",
-      "Bash(pip list:*)"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
+```bash
+cp ~/Documents/vibe-coding-guide/permissions-read-only.json ~/.claude/settings.local.json
 ```
 
-**See the full list:** 140+ safe commands including:
-- File reading: `cat`, `head`, `tail`, `less`, `more`, `wc`, `bat`
-- Searching: `grep`, `find`, `rg`, `ack`, `ag`
-- Git read ops: `status`, `log`, `diff`, `show`, `blame`, `reflog`
-- System info: `ps`, `lsof`, `uname`, `whoami`, `hostname`, `uptime`
-- Package managers: `npm list`, `pip list`, `brew list`, `gem list`
-- Version checks: All `--version` flags for languages/tools
-- Data tools: `jq`, `yq`, `xmllint`
-- Hashing: `md5`, `shasum`, `sha256sum`
+### Tier 2: Create-Only (200+ permissions) ⭐ RECOMMENDED
+**For:** Active development on trusted projects
 
-**Commands intentionally excluded** (potentially dangerous):
-- `echo` - can write files with redirection (`echo "data" > file.txt`)
-- `curl` without restrictions - can POST data or download files
-- `tar -x*` - extraction can overwrite files
-- Any `rm`, `mv`, `cp`, `chmod` without explicit approval
+Can add/modify, but **never delete**. Perfect for git-tracked development:
+- ✅ Everything from Read-Only
+- ✅ Write, Edit (file operations)
+- ✅ Git write ops (add, commit, push, merge)
+- ✅ File creation (mkdir, touch, cp, mv)
+- ✅ Package install (npm install, pip install)
+- ✅ Build/test (npm run, cargo test, pytest)
+- ❌ **Blocks all rm commands**
+- ❌ **Blocks git reset --hard, git clean**
+- ❌ **Blocks git push --force**
+- ❌ **Blocks package uninstall**
 
-**Balance with safety hooks:** Combine this allow list with PreToolUse hooks (see section 13 below) to get speed + safety.
+```bash
+cp ~/Documents/vibe-coding-guide/permissions-create-only.json ~/.claude/settings.local.json
+```
+
+**Why Create-Only is safe:** Every change is tracked in git. You can always revert:
+```bash
+git reset --hard HEAD  # Undo all changes
+git clean -fd          # Remove untracked files
+```
+
+### Tier 3: Development (coming soon)
+Full development including controlled deletions with PreToolUse hooks.
+
+### Quick Comparison
+
+| Operation | Read-Only | Create-Only | Development |
+|-----------|-----------|-------------|-------------|
+| Read files | ✅ | ✅ | ✅ |
+| Git status/log/diff | ✅ | ✅ | ✅ |
+| Edit files | ❌ | ✅ | ✅ |
+| Git add/commit/push | ❌ | ✅ | ✅ |
+| Install packages | ❌ | ✅ | ✅ |
+| Delete files (rm) | ❌ | ❌ | ⚠️ |
+| Force push | ❌ | ❌ | ❌ |
+
+⚠️ = Allowed with restrictions
+
+**Full documentation:** See [PERMISSIONS.md](PERMISSIONS.md) for complete details, safety tips, and customization.
+
+**Switch anytime:**
+```bash
+# More restrictive for sensitive work
+cp ~/Documents/vibe-coding-guide/permissions-read-only.json ~/.claude/settings.local.json
+
+# More permissive for trusted projects
+cp ~/Documents/vibe-coding-guide/permissions-create-only.json ~/.claude/settings.local.json
+```
+
+Changes take effect immediately.
 
 ---
 
