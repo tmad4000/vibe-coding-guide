@@ -333,7 +333,60 @@ caddy reload --config ~/Caddyfile
 
 ---
 
-## 12. MCP Servers Worth Exploring
+## 12. Safety: Protect Against Accidental Deletions
+
+**Critical if using `--dangerously-skip-permissions`:** When you skip permission prompts for faster workflow, you lose the safety net. Add PreToolUse hooks to block catastrophic commands.
+
+**Real incidents:** Multiple users have accidentally wiped home directories with `rm -rf` commands when Claude misunderstood cleanup tasks. [See GitHub issues](https://github.com/anthropics/claude-code/issues?q=rm+-rf+deleted).
+
+**My safety setup:** [github.com/tmad4000/claude-config](https://github.com/tmad4000/claude-config) (private)
+
+### Quick Setup
+
+Create `~/.claude/hooks/validate-bash-command.sh` to intercept dangerous commands before execution. My setup blocks:
+
+1. **Catastrophic patterns:** `rm -rf /`, `rm -rf ~`, `rm -rf $HOME`, `rm -rf *`
+2. **Home directory paths:** Anything starting with `~/`, `/Users/`, `/home/`
+3. **Current directory deletion:** `rm -rf .` or `rm -rf ..`
+4. **Recursive rm from home:** If you're in `~`, blocks ALL `rm -r` commands
+5. **iCloud Drive:** ANY deletion from `~/Library/Mobile Documents/`
+
+**Config in `~/.claude/settings.json`:**
+```json
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "~/.claude/hooks/validate-bash-command.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
+```
+
+The hook receives JSON on stdin, checks patterns, and returns exit code 2 to block dangerous commands. See my [claude-config repo](https://github.com/tmad4000/claude-config) for the full implementation.
+
+**What's still allowed:**
+- `rm -rf node_modules` from project directories
+- `rm -rf dist`, `.next`, `build` (relative paths from projects)
+- Normal file operations
+
+**If a command is blocked but you need it:**
+- Run it manually in your terminal
+- Use relative paths instead of absolute (`./folder` vs `~/code/folder`)
+- Move to trash: `mv ~/old-project ~/.Trash/`
+
+**Version control your Claude config:** Put `~/.claude` in a private GitHub repo so you can track changes and rollback if needed.
+
+---
+
+## 13. MCP Servers Worth Exploring
 
 - **Playwright** - Browser automation and testing
 - **Chrome DevTools** - Real-time browser debugging
@@ -363,7 +416,7 @@ Check available MCPs at: https://github.com/modelcontextprotocol/servers
 
 ---
 
-## 13. Fetching JavaScript-Heavy Pages (Gemini shares, etc.)
+## 14. Fetching JavaScript-Heavy Pages (Gemini shares, etc.)
 
 Some URLs can't be fetched with `curl` or standard web tools because they require JavaScript to render the content. Examples:
 - Gemini share links (`gemini.google.com/share/...`)
@@ -394,7 +447,7 @@ Claude will:
 
 ---
 
-## 14. Meta: Keep This Guide Updated
+## 15. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
 
@@ -426,4 +479,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2025-12-12*
+*Last updated: 2025-12-14*
