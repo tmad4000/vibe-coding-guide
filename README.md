@@ -333,7 +333,76 @@ caddy reload --config ~/Caddyfile
 
 ---
 
-## 12. Safety: Protect Against Accidental Deletions
+## 12. Read-Only Permission Allow List
+
+Speed up your workflow by allowing common read-only commands without permission prompts. Add these to your `~/.claude/settings.local.json`:
+
+**Why use an allow list:**
+- Skip permission prompts for safe operations (file reading, git status, system info)
+- Keep destructive operations protected (still require permission)
+- Claude can explore codebases faster
+
+**Comprehensive read-only commands:**
+
+Add this to `~/.claude/settings.local.json`:
+
+```json
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "LS",
+      "Grep",
+      "Glob",
+      "WebSearch",
+      "Bash(ls:*)",
+      "Bash(tree:*)",
+      "Bash(pwd)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(rg:*)",
+      "Bash(diff:*)",
+      "Bash(git status:*)",
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(git show:*)",
+      "Bash(git branch:*)",
+      "Bash(ps:*)",
+      "Bash(lsof:*)",
+      "Bash(which:*)",
+      "Bash(npm list:*)",
+      "Bash(pip list:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
+```
+
+**See the full list:** 140+ safe commands including:
+- File reading: `cat`, `head`, `tail`, `less`, `more`, `wc`, `bat`
+- Searching: `grep`, `find`, `rg`, `ack`, `ag`
+- Git read ops: `status`, `log`, `diff`, `show`, `blame`, `reflog`
+- System info: `ps`, `lsof`, `uname`, `whoami`, `hostname`, `uptime`
+- Package managers: `npm list`, `pip list`, `brew list`, `gem list`
+- Version checks: All `--version` flags for languages/tools
+- Data tools: `jq`, `yq`, `xmllint`
+- Hashing: `md5`, `shasum`, `sha256sum`
+
+**Commands intentionally excluded** (potentially dangerous):
+- `echo` - can write files with redirection (`echo "data" > file.txt`)
+- `curl` without restrictions - can POST data or download files
+- `tar -x*` - extraction can overwrite files
+- Any `rm`, `mv`, `cp`, `chmod` without explicit approval
+
+**Balance with safety hooks:** Combine this allow list with PreToolUse hooks (see section 13 below) to get speed + safety.
+
+---
+
+## 13. Safety: Protect Against Accidental Deletions
 
 **Critical if using `--dangerously-skip-permissions`:** When you skip permission prompts for faster workflow, you lose the safety net. Add PreToolUse hooks to block catastrophic commands.
 
@@ -450,7 +519,7 @@ These protect you from accidentally running dangerous commands yourself, not jus
 
 ---
 
-## 13. MCP Servers Worth Exploring
+## 14. MCP Servers Worth Exploring
 
 - **Playwright** - Browser automation and testing
 - **Chrome DevTools** - Real-time browser debugging
@@ -480,7 +549,7 @@ Check available MCPs at: https://github.com/modelcontextprotocol/servers
 
 ---
 
-## 14. Fetching JavaScript-Heavy Pages (Gemini shares, etc.)
+## 15. Fetching JavaScript-Heavy Pages (Gemini shares, etc.)
 
 Some URLs can't be fetched with `curl` or standard web tools because they require JavaScript to render the content. Examples:
 - Gemini share links (`gemini.google.com/share/...`)
@@ -511,7 +580,7 @@ Claude will:
 
 ---
 
-## 15. Meta: Keep This Guide Updated
+## 16. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
 
