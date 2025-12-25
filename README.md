@@ -494,17 +494,26 @@ This relies on the AI following instructions rather than technical enforcement. 
 
 Add these functions to your shell profile for protection even when typing commands manually:
 
-**Block rm in iCloud (works in zsh and bash):**
+**Block catastrophic rm patterns + iCloud (works in zsh and bash):**
 ```bash
 # Add to ~/.zshrc or ~/.bash_profile
 function rm() {
+  # Block catastrophic patterns (use /bin/rm to bypass if truly needed)
+  case "$*" in
+    *-rf\ /*|*-rf\ ~*|*-rf\ \$HOME*|*-rf\ .)
+      echo "⛔ Blocked catastrophic rm. Use /bin/rm if you really mean it."
+      return 1 ;;
+  esac
+  # Block in iCloud directories
   if [[ "$PWD" == *"Mobile Documents"* ]] || [[ "$PWD" == *"iCloud Drive"* ]]; then
-    echo "⛔ Refusing to run rm in an iCloud directory"
+    echo "⛔ No rm in iCloud directories"
     return 1
   fi
   command rm "$@"
 }
 ```
+
+This blocks patterns you'd never intentionally type (`rm -rf /`, `rm -rf ~`, `rm -rf .`) while allowing normal operations like `rm -rf node_modules`.
 
 **Visual iCloud warning in prompt (zsh):**
 ```bash
