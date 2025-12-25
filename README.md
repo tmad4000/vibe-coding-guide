@@ -538,6 +538,27 @@ PS1='\[\033[36m\]\u@\h\[\033[0m\] \[\033[33m\]\w\[\033[0m\]$(in_icloud && echo "
 
 These protect you from accidentally running dangerous commands yourself, not just when AI does it.
 
+**Start new shells in ~/code (not home):**
+```bash
+# Add to ~/.zshrc or ~/.bash_profile
+# Reduces risk of accidentally running commands in home directory
+if [[ $PWD == $HOME ]]; then
+  cd ~/code  # or your preferred projects directory
+fi
+```
+
+**Keep API keys out of shell configs:**
+```bash
+# In ~/.zshrc or ~/.bash_profile - add this line:
+[[ -f ~/.secrets ]] && source ~/.secrets
+
+# Then create ~/.secrets (never commit this file):
+export OPENAI_API_KEY="sk-..."
+export ANTHROPIC_API_KEY="sk-ant-..."
+```
+
+This way your `.zshrc` is safe to share/commit, and secrets stay in a separate file.
+
 ---
 
 ## 14. MCP Servers Worth Exploring
