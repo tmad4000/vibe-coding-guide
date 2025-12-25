@@ -414,11 +414,17 @@ Changes take effect immediately.
 
 **Real incidents:** Multiple users have accidentally wiped home directories with `rm -rf` commands when Claude misunderstood cleanup tasks. [See GitHub issues](https://github.com/anthropics/claude-code/issues?q=rm+-rf+deleted).
 
-**My safety setup:** [github.com/tmad4000/claude-config](https://github.com/tmad4000/claude-config) (private)
-
 ### Quick Setup
 
-Create `~/.claude/hooks/validate-bash-command.sh` to intercept dangerous commands before execution. My setup blocks:
+Copy [`validate-bash-command.sh`](./validate-bash-command.sh) to intercept dangerous commands before execution:
+
+```bash
+mkdir -p ~/.claude/hooks
+cp validate-bash-command.sh ~/.claude/hooks/
+chmod +x ~/.claude/hooks/validate-bash-command.sh
+```
+
+The script blocks:
 
 1. **Catastrophic patterns:** `rm -rf /`, `rm -rf ~`, `rm -rf $HOME`, `rm -rf *`
 2. **Home directory paths:** Anything starting with `~/`, `/Users/`, `/home/`
@@ -445,7 +451,7 @@ Create `~/.claude/hooks/validate-bash-command.sh` to intercept dangerous command
 }
 ```
 
-The hook receives JSON on stdin, checks patterns, and returns exit code 2 to block dangerous commands. See my [claude-config repo](https://github.com/tmad4000/claude-config) for the full implementation.
+The hook receives JSON on stdin, checks patterns, and returns exit code 2 to block dangerous commands.
 
 **What's still allowed:**
 - `rm -rf node_modules` from project directories
