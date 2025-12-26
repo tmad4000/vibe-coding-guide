@@ -19,6 +19,16 @@
       "WebFetch(domain:stackoverflow.com)",
       "WebFetch(domain:docs.anthropic.com)",
 
+      "mcp__chrome-devtools__list_pages",
+      "mcp__chrome-devtools__list_console_messages",
+      "mcp__chrome-devtools__list_network_requests",
+      "mcp__chrome-devtools__get_console_message",
+      "mcp__chrome-devtools__get_network_request",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__take_screenshot",
+      "mcp__mew-mcp__mew_query",
+      "mcp__mew-mcp__mew_reveal",
+
       "Bash(ls:*)",
       "Bash(tree:*)",
       "Bash(pwd)",
