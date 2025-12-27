@@ -231,6 +231,51 @@ This helps Claude stay organized and gives you visibility into progress.
 
 ---
 
+## 7.5. Use Beads for Multi-Session Issue Tracking
+
+**[Beads](https://github.com/steveyegge/beads)** is a git-backed issue tracker designed for AI-assisted workflows. Great for tracking work across sessions, managing dependencies, and keeping context when Claude's memory resets.
+
+**Install:**
+```bash
+npm install -g @anthropic-ai/beads
+```
+
+**Initialize in your project:**
+```bash
+bd init myproject
+```
+
+**Critical setup (do this once globally):**
+```bash
+bd setup claude
+```
+
+This installs Claude Code hooks that auto-inject `bd prime` (beads workflow context) at session start and after compaction. **Without this, Claude won't know the beads best practices** and may use commands incorrectly.
+
+**Basic workflow:**
+```bash
+bd create "Add login feature" --type feature    # Create issue
+bd create "Fix auth bug" --parent myproj-abc    # Subtask under epic
+bd ready                                         # Find unblocked work
+bd update myproj-123 --status in_progress       # Claim work
+bd close myproj-123                             # Complete work
+```
+
+**Why use beads over TodoWrite:**
+- Persists across sessions (survives context compaction)
+- Tracks dependencies between tasks
+- Works with multiple Claude instances/agents
+- Git-synced for collaboration
+
+**Pro tip:** For epics with subtasks, always use `--parent`:
+```bash
+bd create "Epic: OAuth" --type epic
+bd create "Research providers" --parent myproj-abc
+bd create "Implement OAuth flow" --parent myproj-abc
+```
+
+---
+
 ## 8. Be Specific About What You Want
 
 Good: "Add a login form with email/password fields, validation, and error states"
@@ -654,4 +699,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2025-12-14*
+*Last updated: 2025-12-26*
