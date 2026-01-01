@@ -274,6 +274,14 @@ bd create "Research providers" --parent myproj-abc
 bd create "Implement OAuth flow" --parent myproj-abc
 ```
 
+**Regression tracking (provisional):** When you tell Claude "we lost the ability to X" or "X stopped working", it should immediately create a P1 bug ticket. Regressions are easy to forget mid-conversation - tracking them ensures they get fixed. Add this to your CLAUDE.md:
+```markdown
+## Regression Tracking
+When the user reports "we lost the ability to X" or "X stopped working":
+1. Immediately create a bug ticket with priority P1
+2. Include what worked before and when it stopped (if known)
+```
+
 ---
 
 ## 8. Be Specific About What You Want
