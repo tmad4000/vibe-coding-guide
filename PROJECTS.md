@@ -22,6 +22,7 @@ Living map of projects in ~/code/. Claude should check this when user mentions s
 - First-contacts correlation
 **Vision**: Three-layer architecture (Raw → Structured → Semantic) for unified personal data
 **Docs**: `docs/semantic-browser-vision.md`
+**Knowledge topics**: Apple SQLite schemas, iMessage parsing, contact lookup (multiple DB sources), Thoughtstream API quirks, Gmail OAuth, Partiful/Luma scraping with stealth mode, phone number normalization
 
 ### RealtimeMeetingOutline
 **Path**: `~/code/RealtimeMeetingOutline`
@@ -34,7 +35,8 @@ Living map of projects in ~/code/. Claude should check this when user mentions s
 - Neo4j knowledge base with deduplication
 - Custom entity lists
 **Variants**: `-assemblyai`, `-deepgram` versions exist
-**Potential**: Could be the Neo4j backend for ai-os semantic layer
+**Potential**: Recommended Neo4j backend for ai-os semantic layer
+**Knowledge topics**: Neo4j Cypher queries, AssemblyAI streaming, entity deduplication (85% string similarity), WebSocket audio streaming, Claude entity extraction prompts
 
 ### mew / mew-mcp
 **Path**: `~/code/mew`, `~/code/mew-mcp`
@@ -44,6 +46,7 @@ Living map of projects in ~/code/. Claude should check this when user mentions s
 - Graph database
 - Claude can query via MCP
 **Potential**: Alternative backend for ai-os semantic layer
+**Knowledge topics**: MCP server implementation, graph query patterns, Claude tool integration
 
 ---
 
@@ -124,6 +127,8 @@ When a project is discussed in a Claude session, note the session ID here for co
 |---------|---------|------|-------|
 | ai-os-apple-data | `cef20cac-d64b-4c0b-b2b6-a9de4590d237` | 2025-01-11 | Initial semantic browser vision |
 | ~/memory | `cef20cac-d64b-4c0b-b2b6-a9de4590d237` | 2025-01-11 | Created memory system |
+| ai-os-apple-data | (continuation) | 2026-01-11 | Experience layer, Slack integration, research capture, AI-as-You bot |
+| RealtimeMeetingOutline | (continuation) | 2026-01-11 | Designated as Neo4j backend for ai-os |
 
 ---
 
