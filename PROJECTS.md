@@ -8,6 +8,22 @@ Living map of projects in ~/code/. Claude should check this when user mentions s
 
 ## Core Systems
 
+### noosphere-proto
+**Path**: `~/code/noosphere-proto`
+**Purpose**: Universal semantic memory layer - unified prototype combining all knowledge projects
+**Status**: NEW (2026-01-11)
+**Stack**: Python FastAPI + SQLite + D3.js
+**Features**:
+- Unified node/edge/annotation graph model
+- 5-mode UI (Personal, Idea Hub, Feedback, Innovation, Meetings)
+- Ambient display with voice capture
+- Workflowy-style structured view
+- Ingestors for Contacts, iMessage, CCI, Otter
+- Patch/version system (like git for knowledge)
+**Principles**: Frictionless capture, zero-config intelligence, lossless history, invite contribution
+**Unifies**: ai-os-apple-data, mew, CCI, collaborative-lists
+**Knowledge topics**: Graph schemas, SQLite FTS5, recursive CTE queries, FastAPI, D3 force graphs
+
 ### ai-os-apple-data
 **Path**: `~/code/ai-os-apple-data`
 **Purpose**: Semantic browser foundation - scrapers for Apple data sources
