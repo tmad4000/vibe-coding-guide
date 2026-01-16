@@ -134,6 +134,47 @@ This is incredibly powerful for debugging issues where you need to see what's ac
 
 ---
 
+## 2.5. Native App Debugging: Build a CLI
+
+**For Swift/macOS/iOS apps**, Chrome DevTools won't help you. The solution: **build a CLI wrapper** so AI agents can test your app programmatically.
+
+**Why this matters:**
+- Web apps have Chrome DevTools MCP - agents can inspect, click, navigate
+- Native apps are opaque to AI without a programmatic interface
+- Screenshots + OCR is slow and unreliable
+- A CLI makes debugging 10x faster
+
+**What to expose via CLI:**
+```bash
+# Example CLI for a notes app
+myapp list                    # List items (JSON output)
+myapp create --title "Test"   # Create item
+myapp show <id>               # Show item details
+myapp test-connection         # Verify API connectivity
+```
+
+**Key requirements:**
+1. **JSON output** - AI can parse structured data, not just text
+2. **Error codes** - Return non-zero on failure
+3. **Screen recording permissions** - Grant to Terminal.app for screenshot tools
+
+**Setup screen recording (macOS):**
+1. System Preferences → Privacy & Security → Screen Recording
+2. Enable for Terminal.app (or iTerm, Warp, etc.)
+3. Restart terminal
+
+**When to use which:**
+| App Type | Debugging Tool |
+|----------|---------------|
+| Web apps | Chrome DevTools MCP, Playwright |
+| Backend/API | Server logs, curl |
+| Native macOS/iOS | CLI wrapper + Peekaboo MCP |
+| Electron | Chrome DevTools (it's web under the hood) |
+
+**Pro tip:** [Peekaboo](https://github.com/steipete/peekaboo) is an MCP server for macOS accessibility inspection - useful for seeing UI state without screenshots.
+
+---
+
 ## 3. Alternative: Server Logs for Backend Debugging
 
 If you're debugging backend issues or don't need browser interaction, simply:
