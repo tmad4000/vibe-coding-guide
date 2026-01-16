@@ -282,6 +282,32 @@ When the user reports "we lost the ability to X" or "X stopped working":
 2. Include what worked before and when it stopped (if known)
 ```
 
+**Recurring issues pattern (provisional - still exploring):** Some bugs keep coming back. Instead of maintaining a separate list, use beads labels:
+
+```bash
+# When debugging, check for known recurring issues first
+bd list --label recurring
+
+# When a bug recurs:
+bd reopen <id> --reason "recurred: <context>"  # If closed
+bd label add <id> recurring                     # Add label if not already
+```
+
+Document the pattern (not the issues) in your project's CLAUDE.md:
+```markdown
+## Recurring Issues Pattern
+
+When debugging, first check for known recurring issues:
+bd list --label recurring
+
+When a bug recurs:
+1. If closed, reopen: `bd reopen <id> --reason "recurred: <context>"`
+2. Add label if not already: `bd label add <id> recurring`
+3. Fix the issue, then close normally
+```
+
+This keeps beads as the source of truth - no duplicate tracking to maintain.
+
 ---
 
 ## 8. Be Specific About What You Want
@@ -707,4 +733,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2025-12-26*
+*Last updated: 2026-01-16*
