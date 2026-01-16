@@ -139,3 +139,43 @@ Logs everything in that pane to a file.
 | Next/prev window | `Ctrl+b n` / `Ctrl+b p` |
 | Kill pane | `Ctrl+b x` |
 | Kill session | `tmux kill-session -t name` |
+
+---
+
+## Copy & Paste
+
+### Copy within tmux
+1. `Ctrl+b [` — enter copy mode
+2. Navigate with arrow keys or vim keys (h/j/k/l)
+3. `Space` — start selection
+4. Move to end of text
+5. `Enter` or `y` — copy (exits copy mode)
+
+### Paste within tmux
+- `Ctrl+b ]`
+
+### Copy to system clipboard (macOS)
+
+**Mouse method:** Start dragging, THEN hold `Shift` or `Option` to maintain selection → copies to system clipboard (bypasses tmux).
+
+**Config method:** Add to `~/.tmux.conf`:
+```bash
+set -g mode-keys vi
+bind -T copy-mode-vi y send-keys -X copy-pipe-and-cancel "pbcopy"
+bind -T copy-mode-vi Enter send-keys -X copy-pipe-and-cancel "pbcopy"
+```
+Reload: `tmux source-file ~/.tmux.conf`
+
+Now `y` or `Enter` in copy mode copies to system clipboard.
+
+**Manual method:** `tmux show-buffer | pbcopy`
+
+### Copy mode navigation
+
+| Keys | Action |
+|------|--------|
+| `q` | Exit copy mode |
+| `Ctrl+u` / `Ctrl+d` | Page up/down |
+| `/` | Search forward |
+| `?` | Search backward |
+| `n` / `N` | Next/previous match |
