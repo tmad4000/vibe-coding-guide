@@ -57,6 +57,15 @@ For complex problems, enable extended thinking to let Claude reason more deeply:
 
 This gives Claude more "thinking time" for harder tasks.
 
+**Keyboard shortcut: Clear input line** `#shortcut`
+
+Use `Ctrl+U` to clear the entire input line without interrupting Claude. This is the standard readline shortcut - deletes the whole line while staying in the session.
+
+- `Ctrl+U` = clear line (keep session running)
+- `Ctrl+C` = interrupt/cancel current operation
+
+If you typed something and want to start over, `Ctrl+U` is cleaner than `Ctrl+C` which treats it as an interrupt action.
+
 **Other AI coding tools worth trying:**
 
 - **Codex CLI** - OpenAI's coding agent with extra thinking capabilities
