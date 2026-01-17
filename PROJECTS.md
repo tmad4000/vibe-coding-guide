@@ -2,11 +2,34 @@
 
 Living map of projects in ~/code/. Claude should check this when user mentions something that might be an existing project.
 
-*Last updated: 2026-01-11*
+*Last updated: 2026-01-14*
 
 ---
 
 ## Core Systems
+
+### noos
+**Path**: `~/code/noos`
+**Purpose**: Universal knowledge graph platform - central DB for all knowledge with per-node privacy
+**Status**: ACTIVE
+**Stack**: Node.js + Neo4j + React (Docker Compose on single server)
+**Features**:
+- Per-node privacy (private/public/unlisted/shared)
+- External URI annotations (powers Chrome extension)
+- Cross-computer file system index
+- CLI + API + Claude skill access
+- JWT auth + API keys
+- Neo4j native labels for node types (:List, :Note, :Issue, etc.)
+**Deployment**:
+- **Domain**: `https://globalbr.ai`
+- **DNS/CDN**: Cloudflare
+- **Server**: AWS Lightsail `44.211.180.200`
+- **SSH**: `ssh -i ~/.ssh/lightsail-noos.pem ubuntu@44.211.180.200`
+- **Neo4j**: `bolt://44.211.180.200:7687`
+- **Deploy**: `./deploy.sh`
+- **Remote dev**: `USE_REMOTE_DB=true npm run dev`
+**Related**: Builds on DenovoEntanglement (Neo4j patterns), RealtimeMeetingOutline (auth)
+**Docs**: `ARCHITECTURE.md`, `README.md`
 
 ### noosphere-proto
 **Path**: `~/code/noosphere-proto`
@@ -98,11 +121,42 @@ Living map of projects in ~/code/. Claude should check this when user mentions s
 
 ## Apps & Tools
 
+### Clawd (clawdbot)
+**Path**: `~/clawd`
+**Purpose**: Personal AI assistant (🦊 fox) accessible via Telegram and Slack
+**Status**: Active
+**Platform**: clawdbot (hosted service)
+**Features**:
+- Slack integration (API-based, not browser automation)
+- Mew knowledge graph queries
+- Slack cross-channel search via `~/clawd/canvas/slack-search.sh`
+**Docs**:
+- `IDENTITY.md` - Agent identity and tool preferences
+- `QUICKREF.md` - Command reference
+- `TOOLS.md` - Custom tool documentation
+- `SLACK_ADMIN.md` - Slack API/permissions guide
+**Note**: Different from Claude Code (CLI) - Clawd is a hosted agent for async messaging
+
 ### iMessage Companion
 **Path**: `~/code/ai-os-apple-data/imessage-companion`
 **Purpose**: Floating panel showing context for current Messages.app conversation
 **Stack**: Swift macOS app
 **Features**: Auto-detects conversation, shows open issues, AI tone suggestions
+
+### FreeNote
+**Path**: `~/code/AudNoteSwift/FreeNote`
+**Purpose**: Hands-free voice note-taking iOS app with Siri integration
+**Status**: Active
+**Stack**: Swift, SwiftUI, SwiftData, AVFoundation, App Intents
+**Features**:
+- "Hey Siri, make a FreeNote" - voice-activated recording
+- "Hey Siri, start listening" - continuous listening mode
+- Real-time transcription (SFSpeechRecognizer)
+- Automatic silence detection (10s timeout)
+- Voice commands: "end note", "stop listening"
+- Background recording support
+**Requirements**: iOS 16+, Xcode 15+
+**Beads**: Initialized (prefix: `AudNoteSwift`)
 
 ### AltFinder
 **Path**: `~/code/AltFinder`
