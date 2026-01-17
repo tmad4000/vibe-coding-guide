@@ -144,6 +144,8 @@ Logs everything in that pane to a file.
 
 ## Copy & Paste
 
+**Simpler alternative:** Use [iTerm2](https://iterm2.com/) with native split panes instead of tmux - standard `Cmd+C`/`Cmd+V` just works. Only use tmux when you need background processes or detach/reattach.
+
 ### Copy within tmux
 1. `Ctrl+b [` — enter copy mode
 2. Navigate with arrow keys or vim keys (h/j/k/l)
@@ -156,17 +158,35 @@ Logs everything in that pane to a file.
 
 ### Copy to system clipboard (macOS)
 
-**Mouse method:** Start dragging, THEN hold `Shift` or `Option` to maintain selection → copies to system clipboard (bypasses tmux).
+**Mouse method (with mouse mode on):**
+1. Click and drag to start selection
+2. Hold `Shift` while dragging (or tap it mid-selection)
+3. Selection completes and copies to system clipboard (bypasses tmux buffer)
 
-**Config method:** Add to `~/.tmux.conf`:
+**Recommended config for auto-copy:** Add to `~/.tmux.conf`:
 ```bash
+# Enable mouse mode
+set -g mouse on
+
+# Vi mode for copy
 set -g mode-keys vi
+
+# Auto-copy to system clipboard when mouse selection ends
+bind -T copy-mode-vi MouseDragEnd1Pane send-keys -X copy-pipe-and-cancel "pbcopy"
+
+# y and Enter also copy to system clipboard
 bind -T copy-mode-vi y send-keys -X copy-pipe-and-cancel "pbcopy"
 bind -T copy-mode-vi Enter send-keys -X copy-pipe-and-cancel "pbcopy"
+
+# v to start selection (like vim)
+bind -T copy-mode-vi v send -X begin-selection
 ```
 Reload: `tmux source-file ~/.tmux.conf`
 
-Now `y` or `Enter` in copy mode copies to system clipboard.
+Now:
+- Mouse drag → auto-copies to system clipboard on release
+- `y` or `Enter` in copy mode → copies to system clipboard
+- `v` starts selection (vim-style)
 
 **Manual method:** `tmux show-buffer | pbcopy`
 
@@ -179,3 +199,31 @@ Now `y` or `Enter` in copy mode copies to system clipboard.
 | `/` | Search forward |
 | `?` | Search backward |
 | `n` / `N` | Next/previous match |
+
+---
+
+## Why tmux Over Background Agents?
+
+Mario Zechner's [pi coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/) makes a strong case for tmux over background processes:
+
+> "There's simply no need for background bash."
+
+**Key arguments:**
+- **Observability:** You can always `tmux attach` to see exactly what's running
+- **Interactivity:** You can jump into a session and co-debug with the agent
+- **No black boxes:** Sub-agents spawned in the background are invisible; tmux sessions are not
+- **Simpler debugging:** When something hangs, you can see why
+
+**The pattern:** Instead of background processes, spawn named tmux sessions:
+```bash
+# Start a dev server in a named session
+tmux new-session -d -s backend 'cd ~/project && npm run dev'
+
+# Check on it anytime
+tmux attach -t backend
+
+# List all running sessions
+tmux ls
+```
+
+This gives you the benefits of background execution with full visibility.

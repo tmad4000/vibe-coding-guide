@@ -4,7 +4,28 @@ Tips for getting the most out of Claude Code and AI-assisted development.
 
 **New to the terminal?** Start with the [Minimal Terminal Guide](terminal-guide.md) first.
 
-**Running Claude Code + server + logs?** See the [tmux Guide](tmux-guide.md) for managing multiple terminals.
+**Running Claude Code + server + logs?** See the [tmux Guide](tmux-guide.md) for managing multiple terminals, or use **iTerm2** with split panes (simpler copy/paste).
+
+**Terminal Recommendation: iTerm2**
+
+For macOS, [iTerm2](https://iterm2.com/) is better than the default Terminal.app:
+- Native split panes (`Cmd+D` vertical, `Cmd+Shift+D` horizontal)
+- Standard macOS copy/paste (`Cmd+C`/`Cmd+V`) - no tmux clipboard gymnastics
+- Hotkey window (drop-down terminal with a keystroke)
+- Better search, autocomplete, and shell integration
+
+**When you still need tmux:**
+- Background processes that survive terminal close
+- SSH sessions you want to detach/reattach
+- Sharing sessions between multiple users
+- Scripted layouts that auto-setup on connect
+
+For visual-only multi-pane work, iTerm2 splits are simpler. For persistent background processes, tmux is still the way.
+
+**Opinionated take on agents and tmux:** Mario Zechner's [pi coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/) argues against background bash and sub-agents in favor of tmux for observability. Key points:
+- Use tmux instead of background processes - you can see and interact with what's running
+- Avoid sub-agents (black boxes within black boxes) - spawn visible tmux sessions instead
+- Full observability beats convenience - you can always `tmux attach` to see what's happening
 
 ---
 
@@ -783,4 +804,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2026-01-16*
+*Last updated: 2026-01-17*
