@@ -9,10 +9,16 @@ Tips for getting the most out of Claude Code and AI-assisted development.
 **Terminal Recommendation: iTerm2**
 
 For macOS, [iTerm2](https://iterm2.com/) is better than the default Terminal.app:
-- Native split panes (`Cmd+D` vertical, `Cmd+Shift+D` horizontal)
+- Native split panes (`Cmd+D` vertical, `Cmd+Shift+D` horizontal) - run server + Claude Code side by side
 - Standard macOS copy/paste (`Cmd+C`/`Cmd+V`) - no tmux clipboard gymnastics
 - Hotkey window (drop-down terminal with a keystroke)
 - Better search, autocomplete, and shell integration
+- Window titles can show current directory (see setup below)
+
+**Show current directory in window/tab titles:**
+1. Go to **iTerm2 → Preferences → Profiles → General**
+2. Under "Title", select **PWD** from the dropdown
+3. You can select multiple options (e.g., "Job Name" + "PWD") to show both the running command and directory
 
 **When you still need tmux:**
 - Background processes that survive terminal close
