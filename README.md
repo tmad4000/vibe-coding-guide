@@ -159,6 +159,50 @@ This is incredibly powerful for debugging issues where you need to see what's ac
 - **Playwright** = automated testing, CI/CD, headless browser work → good as global
 - **Chrome DevTools** = active debugging sessions → enable per-project when needed
 
+### Auto-Detect Electron Apps (Provisional)
+
+Chrome DevTools MCP normally launches its own Chrome instance. But Electron apps also expose DevTools! Use this wrapper script to auto-detect and connect to whatever's running:
+
+**Create `~/.claude/scripts/devtools-mcp-wrapper.sh`:**
+```bash
+#!/bin/bash
+# Auto-detect DevTools endpoint and launch chrome-devtools-mcp
+
+# Check common ports for DevTools
+for port in 9222 9223 9224 9225; do
+  if curl -s "http://127.0.0.1:$port/json/version" >/dev/null 2>&1; then
+    TARGET=$(curl -s "http://127.0.0.1:$port/json/list" 2>/dev/null | head -1 | grep -o '"title":"[^"]*"' | head -1 | cut -d'"' -f4)
+    echo "[devtools-wrapper] Connecting to existing DevTools on port $port (${TARGET:-unknown})" >&2
+    exec npx chrome-devtools-mcp@latest --browserUrl "http://127.0.0.1:$port" "$@"
+  fi
+done
+
+# No existing DevTools found, launch Chrome normally
+echo "[devtools-wrapper] No existing DevTools found, launching Chrome" >&2
+exec npx chrome-devtools-mcp@latest "$@"
+```
+
+```bash
+chmod +x ~/.claude/scripts/devtools-mcp-wrapper.sh
+```
+
+**Update `~/.claude/mcp.json`:**
+```json
+"chrome-devtools": {
+  "command": "/Users/yourusername/.claude/scripts/devtools-mcp-wrapper.sh",
+  "args": []
+}
+```
+
+**Behavior:**
+| Scenario | What happens |
+|----------|--------------|
+| No DevTools running | Launches Chrome normally |
+| Electron app running on 9223 | Connects to Electron |
+| Chrome with DevTools on 9222 | Connects to existing Chrome |
+
+**Gotcha:** If Electron is running and you want a fresh Chrome, either kill Electron first or run `npx chrome-devtools-mcp@latest` directly. The wrapper always prefers existing DevTools.
+
 ---
 
 ## 2.5. Native App Debugging: Build a CLI
