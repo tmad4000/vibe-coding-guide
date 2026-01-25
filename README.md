@@ -384,6 +384,35 @@ nosleep --off
 
 **Why not Amphetamine?** Amphetamine + Amphetamine Enhancer works great for GUI workflows, but for terminal-heavy vibe coding, a script is faster and can be automated. Use whichever fits your workflow.
 
+### Enable Wake for Wi-Fi Network Access
+
+For remote access (SSH) when you're away, enable `networkoversleep` so your Mac can wake from sleep for network requests:
+
+```bash
+# Enable only when plugged in (recommended)
+sudo pmset -c networkoversleep 1
+
+# Or enable for both battery and AC power
+sudo pmset -a networkoversleep 1
+```
+
+**The flags:**
+- `-c` = charger/AC only
+- `-b` = battery only
+- `-a` = all (both)
+
+**Battery impact:** Minimal (~0.5% extra per day). The Wi-Fi radio stays in low-power listening mode. If you already have Power Nap enabled, this adds negligible drain on top of that.
+
+**When to use what:**
+
+| Scenario | Solution |
+|----------|----------|
+| Active Claude Code session, closing lid | `nosleep --on` |
+| Away from home, want SSH access if Mac sleeps | `networkoversleep 1` |
+| Both (belt and suspenders) | Use both |
+
+**Note about `caffeinate`:** Standard `caffeinate` only prevents *idle* sleep. It does NOT prevent lid-close (clamshell) sleep, and it doesn't help the Mac wake for incoming SSH connections. For remote access, you need either `nosleep` or `networkoversleep`.
+
 ---
 
 ## 6. Project-Specific Instructions (CLAUDE.md)
@@ -941,4 +970,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2026-01-24*
+*Last updated: 2026-01-25*
