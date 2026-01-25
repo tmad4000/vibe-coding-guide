@@ -121,17 +121,14 @@ All SSO improvements are tracked in Noos epic: `noos-sso-ecosystem`
 ### noosphere-proto
 **Path**: `~/code/noosphere-proto`
 **Purpose**: Universal semantic memory layer - unified prototype combining all knowledge projects
-**Status**: NEW (2026-01-11)
+**Status**: ⚠️ OBSOLETE (superseded by noos) - planning docs may still be valuable
 **Stack**: Python FastAPI + SQLite + D3.js
-**Features**:
-- Unified node/edge/annotation graph model
-- 5-mode UI (Personal, Idea Hub, Feedback, Innovation, Meetings)
-- Ambient display with voice capture
-- Workflowy-style structured view
-- Ingestors for Contacts, iMessage, CCI, Otter
-- Patch/version system (like git for knowledge)
-**Principles**: Frictionless capture, zero-config intelligence, lossless history, invite contribution
-**Unifies**: ai-os-apple-data, mew, CCI, collaborative-lists
+**Valuable Planning Docs**:
+- `ARCHITECTURE.md` - System design thinking
+- `USER_STORIES.md` - User journey design
+- `USE_CASES.md` - Feature concepts
+- `architecture_discussion.md` - Design rationale
+**Superseded by**: noos (cloud-native Neo4j version with auth, permissions, CLI)
 **Knowledge topics**: Graph schemas, SQLite FTS5, recursive CTE queries, FastAPI, D3 force graphs
 
 ### ai-os-apple-data
