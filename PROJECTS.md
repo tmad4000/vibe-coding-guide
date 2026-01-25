@@ -2,7 +2,7 @@
 
 Living map of projects in ~/code/. Claude should check this when user mentions something that might be an existing project.
 
-*Last updated: 2026-01-14*
+*Last updated: 2026-01-25*
 
 ---
 
@@ -30,6 +30,93 @@ Living map of projects in ~/code/. Claude should check this when user mentions s
 - **Remote dev**: `USE_REMOTE_DB=true npm run dev`
 **Related**: Builds on DenovoEntanglement (Neo4j patterns), RealtimeMeetingOutline (auth)
 **Docs**: `ARCHITECTURE.md`, `README.md`
+
+---
+
+## Global Brain Ecosystem
+
+These projects share a common SSO identity (Noos) and work together as an integrated platform.
+
+```
+                    ┌─────────────────────────────────────┐
+                    │             NOOS                     │
+                    │   (Identity + Knowledge Graph)       │
+                    │   globalbr.ai                        │
+                    └──────────────┬──────────────────────┘
+                                   │ SSO
+            ┌──────────────────────┼──────────────────────┐
+            │                      │                      │
+            ▼                      ▼                      ▼
+    ┌───────────────┐    ┌─────────────────┐    ┌─────────────────┐
+    │ Thoughtstreams│    │    OpenChat     │    │ Thoughtstream   │
+    │ (Social Notes)│    │  (Messaging)    │    │ Gemini-Jacob    │
+    │ts.globalbr.ai │    │chat.globalbr.ai │    │  (Voice/Capture)│
+    └───────────────┘    └─────────────────┘    └─────────────────┘
+```
+
+### Shared Infrastructure
+- **Database**: All 4 apps share the same Neo4j database (Noos)
+- **SSO**: All apps authenticate via Noos (`/auth/authorize` → code exchange)
+- **User Graph**: Follows, contacts shared across apps via Noos relationships
+- **Notifications**: Global notification service (planned: noos-8bvm)
+- **Docker Network**: `noos_default` network connects containers
+
+### Noos Client UI
+Noos itself has a React frontend at `~/code/noos/client/` with:
+- GraphView, OutlineView, RecentView
+- QuickCapture, ListsView, QueryView
+- ClaudeSidebar (AI assistant)
+This is the 4th UI hitting the same backend.
+
+### Important: Checking Ticket Status
+**Always run `bd list --status=open` in the project directory** to get current ticket status.
+The "Open Tickets" listed below may be stale. Beads is the source of truth.
+
+### Thoughtstreams
+**Path**: `~/code/Thoughtstreams`
+**Purpose**: Social network for sharing thoughts - like Twitter but for your knowledge graph
+**Status**: ACTIVE
+**Stack**: Node.js + Express + Noos storage backend
+**Domain**: `https://ts.globalbr.ai`
+**Deploy**: `~/code/Thoughtstreams/deploy.sh` → `/opt/thoughtstreams`
+**Data**: All posts stored as Noos nodes via `noos-storage.ts`
+**Auth**: Noos SSO only (standalone auth removed)
+**Open Tickets** (run `bd list --status=open` for current):
+- `Thoughtstreams-nt2`: Following/followers with shared social graph
+- `Thoughtstreams-na5`: Notification system for replies
+
+### OpenChat
+**Path**: `~/code/openchat`
+**Purpose**: Real-time messaging app with AI integration
+**Status**: ACTIVE
+**Stack**: Node.js + WebSockets + Socket.io
+**Domain**: `https://chat.globalbr.ai`
+**Deploy**: `/opt/openchat`
+**Data**: Uses shared Noos Neo4j (same database as all other apps)
+**Auth**: Noos SSO (fully integrated - `/api/auth/login` redirects to Noos)
+**Open Tickets** (run `bd list --status=open` for current):
+- `OpenChat-yg8`: Real-time sidebar + unread indicators
+
+### thoughtstream-gemini-jacob
+**Path**: `~/code/thoughtstream-gemini-jacob`
+**Purpose**: Voice-first capture app with multi-service posting
+**Status**: ACTIVE
+**Stack**: Electron + React + Express
+**Domain**: `https://notes.globalbr.ai`
+**Data**: All notes stored as Noos nodes via `useThoughts.ts` hook (NOT localStorage)
+**Auth**: Noos SSO only (standalone auth removed)
+**Features**:
+- Quick capture with keyboard shortcuts
+- Multi-service posting (Twitter, Slack, Telegram, etc.)
+- Publish to Thoughtstreams via visibility toggle
+- Swift menu bar capture app (`apps/capture/`)
+**Open Tickets** (run `bd list --status=open` for current):
+- `thoughtstream-gemini-jacob-fhx`: URL routes for individual notes
+- `thoughtstream-gemini-jacob-d9c`: Output cells for AI extraction
+**Note**: `src/pages/Index.tsx` is LEGACY (uses localStorage) - actual app uses `App.tsx` with Noos
+
+### Cross-Project SSO Epic
+All SSO improvements are tracked in Noos epic: `noos-sso-ecosystem`
 
 ### noosphere-proto
 **Path**: `~/code/noosphere-proto`
