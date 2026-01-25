@@ -399,6 +399,36 @@ Claude reads this automatically when working in that directory.
 
 ---
 
+## 6.5. Always Display Version Numbers
+
+**Show your app version** in the user interface - ideally in the account menu, settings, or footer. This helps with:
+
+- **Debugging**: "What version are you on?" is the first support question
+- **Deployment verification**: Confirm changes actually deployed
+- **User awareness**: People like knowing they have the latest
+
+**Implementation:**
+
+```typescript
+// Define version (sync with package.json)
+const APP_VERSION = '1.0.0';
+
+// Display in user dropdown footer
+<div className="text-xs text-muted text-center py-1">
+  v{APP_VERSION}
+</div>
+```
+
+**Best locations** (in order of preference):
+1. User account dropdown (bottom)
+2. App sidebar footer
+3. Settings page
+4. Page footer
+
+For multi-app ecosystems (like microservices), displaying version helps users know which service has an issue.
+
+---
+
 ## 7. Let Claude Plan Complex Tasks
 
 For big features, let Claude use its todo/planning tools. Say things like:
