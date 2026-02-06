@@ -105,6 +105,19 @@ If you typed something and want to start over, `Ctrl+U` is cleaner than `Ctrl+C`
 
 **Pro tip:** If you're just getting started and want to try it out, ask a friend who's already using Claude Code - they might be able to share access or help you get set up.
 
+**Mobile client - Happy Coder:**
+
+[Happy](https://happy.engineering/) is a mobile client for Claude Code and Codex that lets you manage coding sessions from your phone. Available on [iOS](https://apps.apple.com/us/app/happy-codex-claude-code-app/id6748571505) and [Android](https://play.google.com/store/apps/details?id=com.ex3ndr.happy).
+
+- Continue Claude Code / Codex sessions from your phone
+- Push notifications for permission requests and task completion
+- File mentions, slash commands, and custom agents
+- Real-time voice coding
+- End-to-end encryption
+- Runs on your hardware, free to use
+
+Great for checking on long-running sessions when you're away from your desk.
+
 **Mobile input - Willow Voice:**
 
 When vibe coding from your phone (dictating prompts to Claude Code via SSH, remote sessions, or mobile apps), [Willow Voice](https://willowvoice.com/) is excellent:
