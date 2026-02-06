@@ -105,6 +105,19 @@ If you typed something and want to start over, `Ctrl+U` is cleaner than `Ctrl+C`
 
 **Pro tip:** If you're just getting started and want to try it out, ask a friend who's already using Claude Code - they might be able to share access or help you get set up.
 
+**Mobile input - Willow Voice:**
+
+When vibe coding from your phone (dictating prompts to Claude Code via SSH, remote sessions, or mobile apps), [Willow Voice](https://willowvoice.com/) is excellent:
+
+- **Full keyboard + dictation** - Unlike competitors that only show a numeric keyboard during voice input, Willow has a full keyboard so you can quickly edit words without switching keyboards
+- **Context-aware formatting** - Automatically formats messages based on the app context (code, email, chat)
+- **100+ languages** - Great for multilingual workflows
+- **Custom vocabulary** - Define technical terms, project names, function names
+
+Free tier: 2,000 words/week. Unlimited: $12/month.
+
+This matters for vibe coding because you often need to mix dictation with quick typed edits - saying "add a function called" then typing `handleUserAuth` is faster than spelling it out loud.
+
 ---
 
 ## 1. Use Playwright MCP for Browser Automation
@@ -970,4 +983,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2026-01-25*
+*Last updated: 2026-02-05*
