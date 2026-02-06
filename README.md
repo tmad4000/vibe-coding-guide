@@ -524,7 +524,7 @@ bd create "Research providers" --parent myproj-abc
 bd create "Implement OAuth flow" --parent myproj-abc
 ```
 
-**Regression tracking (provisional):** When you tell Claude "we lost the ability to X" or "X stopped working", it should immediately create a P1 bug ticket. Regressions are easy to forget mid-conversation - tracking them ensures they get fixed. Add this to your CLAUDE.md:
+**Regression tracking:** When you tell Claude "we lost the ability to X" or "X stopped working", it should immediately create a P1 bug ticket. Regressions are easy to forget mid-conversation - tracking them ensures they get fixed. Add this to your CLAUDE.md:
 ```markdown
 ## Regression Tracking
 When the user reports "we lost the ability to X" or "X stopped working":
@@ -532,7 +532,7 @@ When the user reports "we lost the ability to X" or "X stopped working":
 2. Include what worked before and when it stopped (if known)
 ```
 
-**Recurring issues pattern (provisional - still exploring):** Some bugs keep coming back. Instead of maintaining a separate list, use beads labels:
+**Recurring issues pattern:** Some bugs keep coming back — the fix works, but the underlying conditions that caused the bug recur (timing issues, race conditions, state management edge cases). Use beads labels to track these, with a focus on documenting *why* they recur, not just *that* they recur.
 
 ```bash
 # When debugging, check for known recurring issues first
@@ -543,7 +543,9 @@ bd reopen <id> --reason "recurred: <context>"  # If closed
 bd label add <id> recurring                     # Add label if not already
 ```
 
-Document the pattern (not the issues) in your project's CLAUDE.md:
+**The key insight:** A recurring label without root cause notes is just a list of frustrations. When marking something recurring, add a "Why this recurs" section to the ticket description. This helps future sessions skip re-diagnosis and go straight to the architectural issue.
+
+Document the pattern (not the individual issues) in your project's CLAUDE.md:
 ```markdown
 ## Recurring Issues Pattern
 
@@ -553,10 +555,16 @@ bd list --label recurring
 When a bug recurs:
 1. If closed, reopen: `bd reopen <id> --reason "recurred: <context>"`
 2. Add label if not already: `bd label add <id> recurring`
-3. Fix the issue, then close normally
+3. Add/update a "Why this recurs" section in the ticket description
+4. Fix the issue, then close normally
+
+When closing a recurring issue:
+- Document what fixed it THIS time
+- Note whether the root cause was addressed or just the symptom
+- If only the symptom was fixed, note what a permanent fix would require
 ```
 
-This keeps beads as the source of truth - no duplicate tracking to maintain.
+This keeps beads as the source of truth — no separate markdown file to maintain. The `recurring` label is the canonical list, and the ticket descriptions carry the institutional memory.
 
 ---
 
