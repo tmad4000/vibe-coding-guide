@@ -1020,7 +1020,103 @@ Claude will:
 
 ---
 
-## 16. Meta: Keep This Guide Updated
+## 16. Mobile Vibe Coding: Screenshots From Anywhere
+
+When you're away from your desk but need to share what's on screen or capture app state, you have two directions:
+
+### Remote to Imgur (Headless — No Screen Required)
+
+If your app runs on a remote server (or any machine you can SSH into), you can screenshot it without ever opening a GUI. This uses **headless Chrome + Chrome DevTools Protocol (CDP)** to render the page and capture it programmatically.
+
+**One-time setup** — install this script on your remote Mac:
+
+```bash
+# screenshot-to-imgur: headless Chrome screenshot → Imgur upload → URL output
+# Save to ~/bin/screenshot-to-imgur, chmod +x
+
+#!/bin/bash
+set -e
+IMGUR_CLIENT_ID="YOUR_IMGUR_CLIENT_ID"  # Get one at https://api.imgur.com/oauth2/addclient
+CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+PORT=9222
+SHOT="/tmp/screenshot-$$.png"
+URL="${1:-}"
+
+# Start headless Chrome if not running
+if ! curl -s "http://localhost:$PORT/json/version" > /dev/null 2>&1; then
+    nohup "$CHROME" --remote-debugging-port=$PORT --user-data-dir=/tmp/chrome-debug \
+        --no-first-run --headless=new "$URL" > /dev/null 2>&1 &
+    sleep 4
+fi
+
+# Find page tab WebSocket URL
+PAGE_WS=$(curl -s "http://localhost:$PORT/json" | python3 -c "
+import sys, json
+for t in json.load(sys.stdin):
+    if t['type'] == 'page':
+        print(t['webSocketDebuggerUrl']); break
+")
+
+# Screenshot via CDP (Node.js built-in WebSocket, requires Node 22+)
+cat > /tmp/cdp-shot-$$.mjs << EOF
+import { writeFileSync } from "fs";
+const ws = new WebSocket("$PAGE_WS");
+ws.onopen = () => setTimeout(() => {
+    ws.send(JSON.stringify({ id: 1, method: "Page.captureScreenshot", params: { format: "png" } }));
+}, 2000);
+ws.onmessage = (e) => {
+    const r = JSON.parse(e.data);
+    if (r.id === 1 && r.result) {
+        writeFileSync("$SHOT", Buffer.from(r.result.data, "base64"));
+        ws.close(); process.exit(0);
+    }
+};
+setTimeout(() => process.exit(1), 15000);
+EOF
+node /tmp/cdp-shot-$$.mjs && rm /tmp/cdp-shot-$$.mjs
+
+# Upload to Imgur
+curl -s -X POST "https://api.imgur.com/3/image" \
+    -H "Authorization: Client-ID $IMGUR_CLIENT_ID" \
+    -F "image=@$SHOT" -F "type=file" | python3 -c "import sys,json; print(json.load(sys.stdin)['data']['link'])"
+rm -f "$SHOT"
+```
+
+**Usage from your phone (via SSH):**
+```bash
+ssh myserver screenshot-to-imgur "http://localhost:3000/dashboard"
+# → https://i.imgur.com/abc123.png
+```
+
+**Why this is powerful:**
+- No screen recording permissions needed (headless = no GUI)
+- Works over SSH from any device (phone, tablet, another computer)
+- Captures the actual rendered page (JavaScript, Canvas, WebGL all work)
+- The Imgur URL is instantly shareable
+
+### Local Screenshots to Cloud (Zight)
+
+For the other direction — capturing what's actually visible on your screen (native apps, multiple windows, the full desktop) — use **[Zight](https://zight.com)** (formerly CloudApp).
+
+**Key shortcuts:**
+- `Cmd+Option+7` — Full screen screenshot → auto-uploads → URL copied to clipboard
+- `Option+Cmd+Shift+7` — Window screenshot → click a window → auto-uploads → URL copied
+
+**Why Zight for vibe coding:**
+- Instant shareable URL (no manual upload step)
+- Works with ANY app (native, Electron, browser, terminal)
+- Screen recordings too (not just screenshots)
+- Great for sharing context in Slack/Discord/GitHub issues when pair-coding with AI
+
+**Typical mobile workflow:**
+1. SSH into your dev machine from your phone
+2. Ask Claude to make changes
+3. `screenshot-to-imgur` to see the result
+4. Iterate without needing a monitor
+
+---
+
+## 17. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
 
@@ -1052,4 +1148,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2026-02-05*
+*Last updated: 2026-02-06*
