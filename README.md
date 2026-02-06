@@ -928,6 +928,54 @@ Check available MCPs at: https://github.com/modelcontextprotocol/servers
 
 ---
 
+## 14.5. Multi-Agent: Run Codex in Parallel tmux Panes
+
+You can have Claude Code launch multiple [Codex](https://github.com/openai/codex) agents in parallel tmux panes to work on different tickets simultaneously. This is great for parallelizing independent work items.
+
+**The pattern:**
+
+```bash
+# Step 1: Write prompts to temp files (avoids shell quoting issues)
+cat > /tmp/codex-prompt-1.txt << 'EOF'
+Implement feature X. Source files in src/. Build with: npm run build
+EOF
+
+cat > /tmp/codex-prompt-2.txt << 'EOF'
+Fix bug Y in api/routes.ts. Build with: npm run build
+EOF
+
+# Step 2: Create a tmux window with split panes
+tmux new-window -n codex-work
+tmux split-window -h    # side-by-side layout
+
+# Step 3: Launch Codex in each pane
+tmux send-keys -t 0 'cd ~/myproject && codex -m gpt-5.2-codex \
+  -c model_reasoning_effort=high --full-auto \
+  "$(cat /tmp/codex-prompt-1.txt)"' Enter
+
+tmux send-keys -t 1 'cd ~/myproject && codex -m gpt-5.2-codex \
+  -c model_reasoning_effort=high --full-auto \
+  "$(cat /tmp/codex-prompt-2.txt)"' Enter
+```
+
+**Key tips:**
+- **Always write prompts to files** — multiline prompts with `tmux send-keys` and quotes will break
+- **Reasoning effort** uses `-c model_reasoning_effort=high` (not `--effort`)
+- **`--full-auto`** skips approval prompts so agents run autonomously
+- **Rearrange panes** with `tmux join-pane -s %ID -t %TARGET -h` (horizontal) or `-v` (vertical)
+- **Monitor output** with `tmux capture-pane -t SESSION:WINDOW.PANE -p | tail -20`
+
+**Layout variants:**
+```bash
+# Left panel + stacked right (great for watching 2 agents while you work)
+tmux split-window -h          # left | right
+tmux split-window -t 1 -v    # right splits into top/bottom
+```
+
+This works from Claude Code too — just ask "launch Codex on these tickets in tmux split panes" and it'll set up the layout and send the prompts.
+
+---
+
 ## 15. Fetching JavaScript-Heavy Pages (Gemini shares, etc.)
 
 Some URLs can't be fetched with `curl` or standard web tools because they require JavaScript to render the content. Examples:
