@@ -1,0 +1,491 @@
+﻿Cool Stanford Classes #connectordoc                                                                                 http://systematicawesome.jacobcole.net/ > stanfordclasses.jacobcole.net 
+Contribute to the list at top!                                                                                                                   #connectordoc              started by jcole@mit.edu
+________________
+
+
+Notice: does anyone want to help me make a web app for this? If so, email me at jcole@mit.edu
+Table of Contents
+
+
+* means recently updated
+Misc:
+Add resource here!
+
+
+Add resource here!
+
+
+Stanford Courses
+
+
+CS 234: Reinforcement Learning
+To realize the dreams and impact of AI requires autonomous systems that learn to make good decisions. Reinforcement learning is one powerful paradigm for doing so, and it is relevant to an enormous range of tasks, including robotics, game playing, consumer modeling and healthcare. This class will briefly cover background on Markov decision processes and reinforcement learning, before focusing on some of the central problems, including scaling up to large domains and the exploration challenge. One key tool for tackling complex RL domains is deep learning and this class will include at least one homework on deep reinforcement learning. Prerequisites: proficiency in python, CS 229 or equivalents or permission of the instructor; linear algebra, basic probability.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Brunskill, E. (PI)
+Schedule for CS 234
+2018-2019 Winter
+CS 234 | 3 units | Class # 19796 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Waitlist: 50 
+01/07/2019 - 03/15/2019 Mon, Wed 11:30 AM - 12:50 PM at Gates B1 with Brunskill, E. (PI) 
+Instructors: Brunskill, E. (PI)
+
+
+
+
+CLASSICS 181: Classical Seminar: Origins of Political Thought (CLASSICS 381, ETHICSOC 130A, PHIL 176A, PHIL 276A, POLISCI 230A, POLISCI 330A)
+(Formerly CLASSHIS 133/333.) Political philosophy in classical antiquity, focusing on canonical works of Thucydides, Plato, Aristotle, and Cicero. Historical background. Topics include: political obligation, citizenship, and leadership; origins and development of democracy; and law, civic strife, and constitutional change.
+Terms: Win | Units: 3-5 | UG Reqs: GER:DB-Hum, WAY-A-II, WAY-ER | Grading: Letter or Credit/No Credit
+Instructors: Ober, J. (PI)
+Schedule for CLASSICS 181
+2018-2019 Winter
+CLASSICS 181 | 3-5 units | UG Reqs: GER:DB-Hum, WAY-A-II, WAY-ER | Class # 28115 | Section 01 | Grading: Letter or Credit/No Credit | SEM | Waitlist: 4 
+01/07/2019 - 03/15/2019 Mon, Wed 10:30 AM - 11:50 AM at 50-52H with Ober, J. (PI) 
+Instructors: Ober, J. (PI)
+
+
+
+
+MATH 113: Linear Algebra and Matrix Theory
+Algebraic properties of matrices and their interpretation in geometric terms. The relationship between the algebraic and geometric points of view and matters fundamental to the study and solution of linear equations. Topics: linear equations, vector spaces, linear dependence, bases and coordinate systems; linear transformations and matrices; similarity; eigenvectors and eigenvalues; diagonalization. ( Math 104 offers a more application-oriented treatment.)
+Terms: Aut, Win, Spr | Units: 3 | UG Reqs: GER:DB-Math, WAY-FR | Grading: Letter or Credit/No Credit
+Instructors: Manners, F. (PI) ; Varolgunes, U. (PI) ; Vondrak, J. (PI) ; Helfer, J. (TA)
+Schedule for MATH 113
+2018-2019 Autumn
+MATH 113 | 3 units | UG Reqs: GER:DB-Math, WAY-FR | Class # 25343 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 32 
+09/24/2018 - 12/07/2018 Mon, Wed, Fri 11:30 AM - 12:20 PM at 380-380X with Vondrak, J. (PI); Helfer, J. (TA) 
+Exam Date/Time: 2018-12-14 8:30am - 11:30am (Exam Schedule) 
+Instructors: Vondrak, J. (PI); Helfer, J. (TA)
+2018-2019 Winter
+MATH 113 | 3 units | UG Reqs: GER:DB-Math, WAY-FR | Class # 20439 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 30 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 11:30 AM - 12:20 PM at 380-380F with Varolgunes, U. (PI) 
+Instructors: Varolgunes, U. (PI)
+2018-2019 Spring
+MATH 113 | 3 units | UG Reqs: GER:DB-Math, WAY-FR | Class # 21138 | Section 01 | Grading: Letter or Credit/No Credit | LEC 
+04/01/2019 - 06/05/2019 Tue, Thu 9:00 AM - 10:20 AM at 380-380D with Manners, F. (PI) 
+Instructors: Manners, F. (PI)
+
+
+
+
+MATH 51: Linear Algebra, Multivariable Calculus, and Modern Applications
+This course provides unified coverage of linear algebra and multivariable differential calculus. It discusses applications connecting the material to many quantitative fields. Linear algebra in large dimensions underlies the scientific, data-driven, and computational tasks of the 21st century. The linear algebra portion of the course includes orthogonality, linear independence, matrix algebra, and eigenvalues as well as ubiquitious applications: least squares, linear regression, Markov chains (relevant to population dynamics, molecular chemistry, and PageRank), singular value decomposition (essential in image compression, topic modeling, and data-intensive work in the natural sciences), and more. The multivariable calculus material includes unconstrained optimization via gradients and Hessians (used for energy minimization in physics and chemistry), constrained optimization (via Lagrange multipliers, crucial in economics), gradient descent and the multivariable Chain Rule (which underl more »
+Terms: Aut, Win, Spr | Units: 5 | UG Reqs: GER:DB-Math, WAY-FR | Grading: Letter or Credit/No Credit
+Instructors: Church, T. (PI) ; Conrad, B. (PI) ; De Groote, C. (PI) ... more instructors for MATH 51 »
+2018-2019 Winter
+MATH 51 | 5 units | UG Reqs: GER:DB-Math, WAY-FR | Class # 20647 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 49 / 66 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 9:30 AM - 10:20 AM at Herrin T175 with Taylor, C. (PI) 
+Instructors: Taylor, C. (PI) 
+Notes: Enroll in a lecture section, plus mandatory discussion section. Enroll in discussion section in Axess.
+MATH 51 | 5 units | UG Reqs: GER:DB-Math, WAY-FR | Class # 20648 | Section 02 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 65 / 66 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 10:30 AM - 11:20 AM at 380-380Y with Church, T. (PI) 
+Instructors: Church, T. (PI) 
+Notes: Enroll in a lecture section, plus mandatory discussion section. Enroll in discussion section in Axess.
+MATH 51 | 5 units | UG Reqs: GER:DB-Math, WAY-FR | Class # 20649 | Section 03 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 64 / 66 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 11:30 AM - 12:20 PM at 380-380Y with Church, T. (PI) 
+Instructors: Church, T. (PI) 
+Notes: Enroll in a lecture section, plus mandatory discussion section. Enroll in discussion section in Axess.
+MATH 51 | 5 units | UG Reqs: GER:DB-Math, WAY-FR | Class # 20650 | Section 04 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 66 / 66 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 12:30 PM - 1:20 PM at 380-380Y with Lucianovic, M. (PI) 
+Instructors: Lucianovic, M. (PI) 
+Notes: Enroll in a lecture section, plus mandatory discussion section. Enroll in discussion section in Axess.
+MATH 51 | 5 units | UG Reqs: GER:DB-Math, WAY-FR | Class # 20651 | Section 05 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 66 / 66 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 1:30 PM - 2:20 PM at 380-380Y with Lucianovic, M. (PI) 
+Instructors: Lucianovic, M. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 20652 | Section 06 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 27 / 20 
+01/07/2019 - 03/15/2019 Tue, Thu 9:30 AM - 10:20 AM at 460-301 with McConnell, S. (PI) 
+Instructors: McConnell, S. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 20653 | Section 07 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 26 / 28 
+01/07/2019 - 03/15/2019 Tue, Thu 9:30 AM - 10:20 AM at 380-381U 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 20654 | Section 08 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 27 / 28 
+01/07/2019 - 03/15/2019 Tue, Thu 9:30 AM - 10:20 AM at 160-318 with De Groote, C. (PI) 
+Instructors: De Groote, C. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 26043 | Section 09 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 27 / 32 
+01/07/2019 - 03/15/2019 Tue, Thu 10:30 AM - 11:20 AM at Hewlett Teaching Center 201 with McConnell, S. (PI) 
+Instructors: McConnell, S. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 20655 | Section 10 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 20 / 21 
+01/07/2019 - 03/15/2019 Tue, Thu 10:30 AM - 11:20 AM at Gates100 with Fayyazuddin Ljungberg, B. (PI) 
+Instructors: Fayyazuddin Ljungberg, B. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 20656 (CANCELLED) | Section 11 | Grading: Letter or Credit/No Credit | DIS 
+- - 
+Notes: Enroll in discussion section in Axess along with a lecture section. This class section has been cancelled!
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 20657 | Section 12 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 17 / 16 
+01/07/2019 - 03/15/2019 Tue, Thu 10:30 AM - 11:20 AM at Encina West 106 with He, J. (PI) 
+Instructors: He, J. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 20658 | Section 13 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 28 / 28 
+01/07/2019 - 03/15/2019 Tue, Thu 11:30 AM - 12:20 PM at Hewlett Teaching Center 103 with Kuperberg, V. (PI) 
+Instructors: Kuperberg, V. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 21040 | Section 14 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 28 / 26 
+01/07/2019 - 03/15/2019 Tue, Thu 11:30 AM - 12:20 PM at Econ 218 with He, J. (PI) 
+Instructors: He, J. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 21041 | Section 15 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 27 / 28 
+01/07/2019 - 03/15/2019 Tue, Thu 11:30 AM - 12:20 PM at 200-217 with Zhu, B. (PI) 
+Instructors: Zhu, B. (PI) 
+Notes: Enroll in discussion section in Axess along with a lecture section.
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 28502 | Section 16 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 29 / 32 
+01/07/2019 - 03/15/2019 Tue, Thu 12:30 PM - 1:20 PM at 380-380F with De Groote, C. (PI) 
+Instructors: De Groote, C. (PI)
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 28961 | Section 17 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 26 / 28 
+01/07/2019 - 03/15/2019 Tue, Thu 12:30 PM - 1:20 PM at 380-380W with Kuperberg, V. (PI) 
+Instructors: Kuperberg, V. (PI)
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 28962 | Section 18 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 28 / 28 
+01/07/2019 - 03/15/2019 Tue, Thu 12:30 PM - 1:20 PM at 160-315 with Zhu, B. (PI) 
+Instructors: Zhu, B. (PI)
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 28963 (CANCELLED) | Section 19 | Grading: Letter or Credit/No Credit | DIS 
+- - 
+Notes: This class section has been cancelled!
+
+
+
+
+
+
+
+
+
+
+
+
+EE 376A: Information Theory (STATS 376A)
+Project-based course about how to measure, represent, and communicate information effectively. Why bits have become the universal currency for information exchange. How information theory bears on the design and operation of modern-day systems such as smartphones and the Internet. The role of entropy and mutual information in data compression, communication, and inference. Practical compressors and error correcting codes. The information theoretic way of thinking. Relations and applications to probability, statistics, machine learning, biological and artificial neural networks, genomics, quantum information, and blockchains. Prerequisite: a first undergraduate course in probability.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Weissman, T. (PI)
+Schedule for EE 376A
+2018-2019 Winter
+EE 376A | 3 units | Class # 14430 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 96 
+01/07/2019 - 03/15/2019 Tue, Thu 12:00 PM - 1:20 PM at Gates B3 with Weissman, T. (PI) 
+Instructors: Weissman, T. (PI) 
+Notes: SCPD Online.
+
+
+
+
+BIO 84: Physiology
+The focus of Physiology is on understanding how organisms tackle the physical challenges of life on Earth. This course will provide an overview of animal and plant physiology and teach an understanding of how organisms maintain homeostasis, respond to environmental cues and coordinate behaviors across multiples tissues and organ systems. We will examine the structure and function of organs and organ systems and how those systems are controlled and regulated to maintain homeostasis. Control and regulation requires information as does the ability to respond to environmental stimuli, so we will give special consideration to hormonal and neural information systems. We will also be concerned with the interactions and integration of the activities of the different organ systems we study. Prerequisites: none.
+Terms: Win | Units: 4 | UG Reqs: WAY-SMA | Grading: Letter or Credit/No Credit
+Instructors: Chen, X. (PI) ; Dinneny, J. (PI) ; Khalfan, W. (PI) ; Mourrain, P. (PI) ; Sapolsky, R. (PI) ; Anderson, C. (TA) ; Olguin, F. (TA) ; Pope, L. (TA) ; Warren, M. (TA) ; Wienecke, C. (TA) fewer instructors for BIO 84 «
+Schedule for BIO 84
+BIO 84 | 4 units | UG Reqs: WAY-SMA | Class # 28875 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 171 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 9:30 AM - 10:20 AM at STLC111 with Chen, X. (PI); Dinneny, J. (PI); Khalfan, W. (PI); Mourrain, P. (PI); Sapolsky, R. (PI) 
+Instructors: Chen, X. (PI); Dinneny, J. (PI); Khalfan, W. (PI); Mourrain, P. (PI); Sapolsky, R. (PI) 
+
+
+PSYC 135: Sleep and Dreams (PSYC 235)
+Dr. William Dement created Sleep and Dreams in 1971, the world¿s first university undergraduate-level course on the science of sleep. Now as an emeritus professor, he continues to be actively involved in the course teaching many of the lectures and sometimes driving students to class in his golf cart! The course is designed to impart essential knowledge of the neuroscience of sleep and covers how sleep affects our daily lives. The course covers normal sleep and dreams, as well as common sleep disorders. Course content empowers students to make educated decisions concerning sleep and alertness for the rest of their lives and shapes students' attitudes about the importance of sleep. Students will keep track of their sleep patterns during the course. They will also participate in an outreach project to help improve awareness of the importance of sleep heath in our community. Undergraduates must enroll in PSYC 135, while graduate students should enroll in PSYC 235.
+Terms: Win, Spr | Units: 3 | UG Reqs: GER: DB-NatSci, WAY-SMA | Grading: Medical Option (Med-Ltr-CR/NC)
+Instructors: Pelayo, R. (PI) ; Spain, R. (TA)
+Schedule for PSYC 135
+2018-2019 Winter
+PSYC 135 | 3 units | UG Reqs: GER: DB-NatSci, WAY-SMA | Class # 1864 | Section 01 | Grading: Medical Option (Med-Ltr-CR/NC) | LEC | Students enrolled: 212 / 220 
+01/07/2019 - 03/15/2019 Mon, Wed 1:30 PM - 2:50 PM at Cemex Auditorium with Pelayo, R. (PI); Spain, R. (TA) 
+Instructors: Pelayo, R. (PI); Spain, R. (TA)
+2018-2019 Spring
+PSYC 135 | 3 units | UG Reqs: GER: DB-NatSci, WAY-SMA | Class # 2008 | Section 01 | Grading: Medical Option (Med-Ltr-CR/NC) | LEC 
+04/01/2019 - 06/05/2019 Mon, Wed 1:30 PM - 2:50 PM at Cemex Auditorium with Pelayo, R. (PI); Spain, R. (TA) 
+Instructors: Pelayo, R. (PI); Spain, R. (TA)
+
+
+
+
+
+
+EE 102A: Signal Processing and Linear Systems I
+Concepts and tools for continuous- and discrete-time signal and system analysis with applications in signal processing, communications, and control. Mathematical representation of signals and systems. Linearity and time invariance. System impulse and step responses. System frequency response. Frequency-domain representations: Fourier series and Fourier transforms. Filtering and signal distortion. Time/frequency sampling and interpolation. Continuous-discrete-time signal conversion and quantization. Discrete-time signal processing. Prerequisite: MATH 53 or CME 102.
+Terms: Win, Sum | Units: 4 | UG Reqs: GER:DB-EngrAppSci, WAY-AQR, WAY-FR | Grading: Letter or Credit/No Credit
+Instructors: Kahn, J. (PI) ; Diamandis, T. (TA) ; Murray, G. (TA)
+Schedule for EE 102A
+2018-2019 Winter
+EE 102A | 4 units | UG Reqs: GER:DB-EngrAppSci, WAY-AQR, WAY-FR | Class # 14519 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 61 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 1:30 PM - 2:50 PM at 420-040 with Kahn, J. (PI); Diamandis, T. (TA); Murray, G. (TA) 
+Instructors: Kahn, J. (PI); Diamandis, T. (TA); Murray, G. (TA)
+
+
+
+
+EE 261: The Fourier Transform and Its Applications
+The Fourier transform as a tool for solving physical problems. Fourier series, the Fourier transform of continuous and discrete signals and its properties. The Dirac delta, distributions, and generalized transforms. Convolutions and correlations and applications; probability distributions, sampling theory, filters, and analysis of linear systems. The discrete Fourier transform and the FFT algorithm. Multidimensional Fourier transform and use in imaging. Further applications to optics, crystallography. Emphasis is on relating the theoretical principles to solving practical engineering and science problems. Prerequisites: Math through ODEs, basic linear algebra, Comfort with sums and discrete signals, Fourier series at the level of 102A
+Terms: Win, Sum | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Osgood, B. (PI) ; Kazerouni, A. (TA) ; Zhou, Z. (TA)
+Schedule for EE 261
+2018-2019 Winter
+EE 261 | 3 units | Class # 30519 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 98 
+01/07/2019 - 03/15/2019 Mon, Wed, Fri 11:30 AM - 12:20 PM at Gates B3 with Osgood, B. (PI); Kazerouni, A. (TA); Zhou, Z. (TA) 
+Instructors: Osgood, B. (PI); Kazerouni, A. (TA); Zhou, Z. (TA) 
+Notes: SCPD Online.
+2018-2019 Summer
+EE 261 | 3 units | Class # 16199 | Section 01 | Grading: Letter or Credit/No Credit | LEC 
+06/24/2019 - 08/15/2019 Mon, Wed 11:30 AM - 1:20 PM 
+Notes: SCPD Online.
+
+
+
+
+
+
+EE 262: Two-Dimensional Imaging
+Time and frequency representations, two-dimensional auto- and cross-correlation, Fourier spectra, diffraction and antennas, coordinate systems and the Hankel and Abel transforms, line integrals, impulses and sampling, restoration in the presence of noise, reconstruction and tomography, imaging radar. Tomographic reconstruction using projection-slice and layergarm methods. Students create software to form images using these techniques with actual data. Final project consists of design and simulation of an advanced imaging system. Prerequisite: EE261. Recommended: EE278, EE279.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Zebker, H. (PI)
+Schedule for EE 262
+2018-2019 Winter
+EE 262 | 3 units | Class # 30520 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 17 
+01/07/2019 - 03/15/2019 Mon, Wed 9:30 AM - 11:20 AM at Mitch 350 plus 372 with Zebker, H. (PI) 
+Instructors: Zebker, H. (PI)
+
+
+EE 269: Signal Processing for Machine Learning
+This course will introduce you to fundamental signal processing concepts and tools needed to apply machine learning to discrete signals. You will learn about commonly used techniques for capturing, processing, manipulating, learning and classifying signals. The topics include: mathematical models for discrete-time signals, vector spaces, Fourier analysis, time-frequency analysis, Z-transforms and filters, signal classification and prediction, basic image processing, compressed sensing and deep learning. This class will culminate in a final project. Prerequisites: EE 102A and EE 102B or equivalent, basic programming skills (Matlab). EE 103 and EE 178 are recommended.
+Terms: Win | Units: 3 | Grading: Letter (ABCD/NP)
+Instructors: Pilanci, M. (PI) ; Dwaracherla, V. (TA)
+Schedule for EE 269
+2018-2019 Winter
+EE 269 | 3 units | Class # 34117 | Section 01 | Grading: Letter (ABCD/NP) | LEC | Students enrolled: 22 / 30 
+01/07/2019 - 03/15/2019 Mon, Wed 1:30 PM - 2:50 PM at 200-030 with Pilanci, M. (PI); Dwaracherla, V. (TA) 
+Instructors: Pilanci, M. (PI); Dwaracherla, V. (TA)
+
+
+
+
+EE 369B: Medical Imaging Systems II
+Imaging internal structures within the body using magnetic resonance studied from a systems viewpoint. Analysis of magnetic resonance imaging systems including physics, Fourier properties of image formation, effects of system imperfections, image contrast, and noise. Prerequisite: EE 261
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Nishimura, D. (PI) ; Lee, P. (TA)
+Schedule for EE 369B
+2018-2019 Winter
+EE 369B | 3 units | Class # 19729 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 17 
+01/07/2019 - 03/15/2019 Tue, Thu 3:00 PM - 4:20 PM at Huang Engineering Center 18 with Nishimura, D. (PI); Lee, P. (TA) 
+Instructors: Nishimura, D. (PI); Lee, P. (TA) 
+Notes: SCPD Online.
+
+
+
+
+EE 279: Introduction to Digital Communication
+Digital communication is a rather unique field in engineering in which theoretical ideas have had an extraordinary impact on the design of actual systems. The course provides a basic understanding of the analysis and design of digital communication systems, building on various ideas from probability theory, stochastic processes, linear algebra and Fourier analysis. Topics include: detection and probability of error for binary and M-ary signals (PAM, QAM, PSK), receiver design and sufficient statistics, controlling the spectrum and the Nyquist criterion, bandpass communication and up/down conversion, design trade-offs: rate, bandwidth, power and error probability, coding and decoding (block codes, convolutional coding and Viterbi decoding). Prerequisites: 179 or 261, and 178 or 278
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Ozgur Aydin, A. (PI)
+Schedule for EE 279
+2018-2019 Winter
+EE 279 | 3 units | Class # 17375 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 17 
+01/07/2019 - 03/15/2019 Tue, Thu 3:00 PM - 4:20 PM at Gates B3 with Ozgur Aydin, A. (PI) 
+Instructors: Ozgur Aydin, A. (PI) 
+Notes: SCPD Online.
+
+
+
+
+
+
+
+
+ME 321: Optofluidics: Interplay of Light and Fluids at the Micro and Nanoscale
+Many optical systems in biology have sophisticated designs with functions that conventional optics cannot achieve: no synthetic materials, for example, can provide the camouflage capability exhibited by some animals. This course overviews recent efforts--some inspired by examples in biology--in using fluids, soft materials and nanostructures to create new functions in optics. Topics include electrowetting lenses, electronic inks, colloidal photonic crystals, bioinspired optical nanostructures, nanophotonic biosensors, lens-less optofluidic microscopes. The use of optics to control fluids is also discussed: optoelectronic tweezers, particle trapping and transport, microrheology, optofluidic sorters, fabrication and self-assembly of novel micro and nanostructures.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Tang, S. (PI)
+Schedule for ME 321
+2018-2019 Winter
+ME 321 | 3 units | Class # 32938 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 16 / 30 
+01/07/2019 - 03/15/2019 Mon 12:30 PM - 3:20 PM at 160-315 with Tang, S. (PI) 
+Instructors: Tang, S. (PI)
+
+
+
+
+
+
+AA 289: Robotics and Autonomous Systems Seminar
+Seminar talks by researchers and industry professionals on topics related to modern robotics and autonomous systems. Broadly, talks will cover robotic design, perception and navigation, planning and control, and learning for complex robotic systems. May be repeated for credit.
+Terms: Aut, Win, Spr | Units: 1 | Repeatable for credit | Grading: Satisfactory/No Credit
+Instructors: Pavone, M. (PI)
+Schedule for AA 289
+AA 289 | 1 units | Class # 20058 | Section 01 | Grading: Satisfactory/No Credit | COL | Students enrolled: 41 
+01/07/2019 - 03/15/2019 Fri 10:30 AM - 12:20 PM at McCullough 115 with Pavone, M. (PI) 
+Instructors: Pavone, M. (PI)
+
+
+
+
+
+
+-----------------
+
+
+CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)
+Extracting meaning, information, and structure from human language text, speech, web pages, social networks. Methods include: string algorithms, edit distance, language modeling, the noisy channel, machine learning classifiers, inverted indices, collaborative filtering, neural embeddings, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, spell checking, recommender systems, chatbots. Prerequisites: CS103, CS107, CS109.
+Terms: Win | Units: 3-4 | UG Reqs: WAY-AQR | Grading: Letter or Credit/No Credit
+Instructors: Jurafsky, D. (PI)
+Schedule for CS 124
+2018-2019 Winter
+CS 124 | 3-4 units | UG Reqs: WAY-AQR | Class # 17693 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 262 / 500 
+01/07/2019 - 03/15/2019 Tue, Thu 3:00 PM - 4:20 PM at Hewlett Teaching Center 200 with Jurafsky, D. (PI) 
+Instructors: Jurafsky, D. (PI) 
+Notes: Same as LING 180.
+
+
+
+
+
+
+
+
+CS 43: Functional Programming Abstractions
+This course explores the philosophy and fundamentals of functional programming, with a focus on the Haskell and Clojure programming languages. Topics include: functional abstractions (function composition, higher order functions), immutable data structures, type systems, Lisp macros, homoiconicity, and monads. The course interweaves a theoretical description of fundamentals with hands-on projects in Haskell and Clojure. Prerequisites: CS107 (or equivalent experience)
+Terms: Win | Units: 2 | Grading: Satisfactory/No Credit
+Instructors: Cain, J. (PI)
+Schedule for CS 43
+2018-2019 Winter
+CS 43 | 2 units | Class # 33124 | Section 01 | Grading: Satisfactory/No Credit | ACT | Students enrolled: 29 / 40 
+01/07/2019 - 03/15/2019 Mon, Wed 4:30 PM - 5:50 PM at 200-030 with Cain, J. (PI) 
+Instructors: Cain, J. (PI) 
+Notes: Enrollment limited to 50. Consent of instructors required.
+
+
+
+
+CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)
+Methods for processing human language information and the underlying computational properties of natural languages. Focus on deep learning approaches: understanding, implementing, training, debugging, visualizing, and extending neural network models for a variety of language understanding tasks. Exploration of natural language tasks ranging from simple word level and syntactic processing to coreference, question answering, and machine translation. Examination of representative papers and systems and completion of a final project applying a complex neural network model to a large-scale NLP problem. Prerequisites: calculus and linear algebra; CS124 or CS121/221.
+Terms: Win | Units: 3-4 | Grading: Letter or Credit/No Credit
+Instructors: Manning, C. (PI)
+Schedule for CS 224N
+2018-2019 Winter
+CS 224N | 3-4 units | Class # 30559 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 534 / 999 
+01/07/2019 - 03/15/2019 Tue, Thu 4:30 PM - 5:50 PM at NVIDIA Auditorium with Manning, C. (PI) 
+Instructors: Manning, C. (PI) 
+Notes: May be taken for 3 units by grad students.
+
+
+
+
+CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
+A survey of numerical approaches to the continuous mathematics used in computer vision and robotics with emphasis on machine and deep learning. Although motivated from the standpoint of machine learning, the course will focus on the underlying mathematical methods including computational linear algebra and optimization, as well as special topics such as automatic differentiation via backward propagation, momentum methods from ordinary differential equations, CNNs, RNNs, etc. (Replaces CS205A, and satisfies all similar requirements.) Prerequisites: Math 51; Math 104 or 113 or equivalent or comfortable with the associated material.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Fedkiw, R. (PI)
+Schedule for CS 205L
+2018-2019 Winter
+CS 205L | 3 units | Class # 19762 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 98 / 100 
+01/07/2019 - 03/15/2019 Tue, Thu 12:00 PM - 1:20 PM at Skillaud with Fedkiw, R. (PI) 
+Instructors: Fedkiw, R. (PI)
+CS 205L | Class # 20127 | Section 02 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 52 / 100 
+01/07/2019 - 03/15/2019 Fri 11:30 AM - 12:20 PM at Herrin T175
+
+
+
+
+
+
+CS 334A: Convex Optimization I (CME 364A, EE 364A)
+Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to signal processing, communications, control, analog and digital circuit design, computational geometry, statistics, machine learning, and mechanical engineering. Prerequisite: linear algebra such as EE263, basic probability.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Boyd, S. (PI) ; Barratt, S. (TA) ; Creus-Costa, J. (TA) ... more instructors for CS 334A »
+Schedule for CS 334A
+2018-2019 Winter
+CS 334A | 3 units | Class # 19836 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 87 / 100 
+01/07/2019 - 03/15/2019 Tue, Thu 9:00 AM - 10:20 AM at NVIDIA Auditorium with Boyd, S. (PI); Barratt, S. (TA); Creus-Costa, J. (TA); Dean, J. (TA); Diamond, S. (TA); Garg, S. (TA); Kim, J. (TA); Mani, N. (TA); Pathak, R. (TA); Sholar, J. (TA); Spear, L. (TA); Tefagh, M. (TA) 
+Instructors: Boyd, S. (PI); Barratt, S. (TA); Creus-Costa, J. (TA); Dean, J. (TA); Diamond, S. (TA); Garg, S. (TA); Kim, J. (TA); Mani, N. (TA); Pathak, R. (TA); Sholar, J. (TA); Spear, L. (TA); Tefagh, M. (TA)
+
+
++1        CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
+A survey of numerical approaches to the continuous mathematics used in computer vision and robotics with emphasis on machine and deep learning. Although motivated from the standpoint of machine learning, the course will focus on the underlying mathematical methods including computational linear algebra and optimization, as well as special topics such as automatic differentiation via backward propagation, momentum methods from ordinary differential equations, CNNs, RNNs, etc. (Replaces CS205A, and satisfies all similar requirements.) Prerequisites: Math 51; Math 104 or 113 or equivalent or comfortable with the associated material.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Fedkiw, R. (PI)
+Schedule for CS 205L
+2018-2019 Winter
+CS 205L | 3 units | Class # 19762 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 98 / 100 
+01/07/2019 - 03/15/2019 Tue, Thu 12:00 PM - 1:20 PM at Skillaud with Fedkiw, R. (PI) 
+Instructors: Fedkiw, R. (PI)
+CS 205L | Class # 20127 | Section 02 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 52 / 100 
+01/07/2019 - 03/15/2019 Fri 11:30 AM - 12:20 PM at Herrin T175
+
+
+ +1        CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)
+Methods for processing human language information and the underlying computational properties of natural languages. Focus on deep learning approaches: understanding, implementing, training, debugging, visualizing, and extending neural network models for a variety of language understanding tasks. Exploration of natural language tasks ranging from simple word level and syntactic processing to coreference, question answering, and machine translation. Examination of representative papers and systems and completion of a final project applying a complex neural network model to a large-scale NLP problem. Prerequisites: calculus and linear algebra; CS124 or CS121/221.
+Terms: Win | Units: 3-4 | Grading: Letter or Credit/No Credit
+Instructors: Manning, C. (PI)
+Schedule for CS 224N
+2018-2019 Winter
+CS 224N | 3-4 units | Class # 30559 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 534 / 999 
+01/07/2019 - 03/15/2019 Tue, Thu 4:30 PM - 5:50 PM at NVIDIA Auditorium with Manning, C. (PI) 
+Instructors: Manning, C. (PI) 
+Notes: May be taken for 3 units by grad students.
+
+
+CS 223A: Introduction to Robotics (ME 320)
+Robotics foundations in modeling, design, planning, and control. Class covers relevant results from geometry, kinematics, statics, dynamics, motion planning, and control, providing the basic methodologies and tools in robotics research and applications. Concepts and models are illustrated through physical robot platforms, interactive robot simulations, and video segments relevant to historical research developments or to emerging application areas in the field. Recommended: matrix algebra.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Bohg, J. (PI) ; Khatib, O. (PI)
+Schedule for CS 223A
+2018-2019 Winter
+CS 223A | 3 units | Class # 14496 | Section 01 | Grading: Letter or Credit/No Credit | LEC | Students enrolled: 103 / 160
+01/07/2019 - 03/15/2019 Mon, Wed 4:30 PM - 5:50 PM at Gates B1 with Bohg, J. (PI); Khatib, O. (PI) 
+Instructors: Bohg, J. (PI); Khatib, O. (PI)
+
+
+
+
+------------------------------
+
+
+Future/
+Found
+APPPHYS 61: Science as a Creative Process (BIO 61)
+What is the process of science, and why does creativity matter? We'll delve deeply into the applicability of science in addressing a vast range of real-world problems. This course is designed to teach the scientific method as it's actually practiced by working scientists. It will cover how to ask a well-posed question, how to design a good experiment, how to collect and interpret quantitative data, how to recover from error, and how to communicate findings. Facts matter! Course topics will include experimental design, statistics and statistical significance, formulating appropriate controls, modeling, peer review, and more. The course will incorporate a significant hands-on component featuring device fabrication, testing, and measurement. Among other "Dorm Science" activities, we'll be distributing Arduino microcontroller kits and electronic sensors, then use these items, along with other materials, to complete a variety of group and individual projects outside the classroom. The final course assignment will be to develop and write a scientific grant proposal to test a student-selected myth or scientific controversy. Although helpful, no prior experience with electronics or computer programming is required. Recommended for freshmen.
+Terms: Aut | Units: 4 | UG Reqs: WAY-AQR, WAY-SMA | Grading: Letter (ABCD/NP)
+Instructors: Block, S. (PI) ; Stearns, T. (PI) ; Hogan, D. (TA) ; Quach, N. (TA)
+
+
+AA 248E: Aerial Robot Design (ME 171E, ME 271E)
+(Graduate students only enroll in ME 271e or AA 248e) A result-focused introduction to the design of winged aerial robots capable of vertical takeoff and landing for a wide range of applications. Students will learn how to ideate specific aerial robot applications and make an appropriate design from scratch that meets mission requirements. Design skill outcomes include: robot need identification based on mission requirements; system ideation and sizing; making design performance tradeoffs; aerodynamic wing design; CAD assembly; communicating the design and its application. The hands-on lab experience includes prototyping the aerial robot mission, to inform system design, by building and flying quadcopters. Prerequisites: intro level undergraduate fluid mechanics or aerodynamics (e.g. ME 70 or AA 100) or equivalent; Intro level undergraduate electronics or Arduino experience; MATLAB experience.
+Terms: Aut | Units: 4 | Grading: Letter (ABCD/NP)
+Instructors: Lentink, D. (PI) ; Chang, E. (TA)
+
+
+AA 250: Nanomaterials for Aerospace
+Properties of nanomaterials and current approaches for engineering spacecraft, aircraft, and subsystems with nanotechnology. Manufacturing of nanomaterials; nano-fiber reinforced composites; structural mechanics of nanomaterials; structure-property relationships; and application of nanotechnology for lightweight structures, thermal protection, nanopropellants, and nanoelectronics
+
+
+Professors:
+
+
+Bill Dement
+Robert Sapolsky
+
+
+People’s Tags/Emails/Homepages
+
+
+
+
+
+
+Meta
+Contributors 
+jcole@mit.edu (started), … and many others. Add your emails!
+
+
+Discussion Box
+
+
+hey guys ;)
+hi
+This is pretty freaking awesome!!
+kusu
+
+
+-YAAAAAAAY! ~jcole
+
+
+
+
+
+
+
+
+MATH 51 | UG Reqs: GER:DB-Math, WAY-FR | Class # 28502 | Section 16 | Grading: Letter or Credit/No Credit | DIS | Students enrolled: 29 / 32 
+01/07/2019 - 03/15/2019 Tue, Thu 12:30 PM - 1:20 PM at 380-380F with De Groote, C. (PI)

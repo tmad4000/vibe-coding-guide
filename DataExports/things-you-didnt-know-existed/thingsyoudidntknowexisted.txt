@@ -1,0 +1,63 @@
+﻿ThingsYouDidntKnowExisted                                                                                                                    mitdoc.jacobcole.net > thingsyoudidntknowexisted.jacobcole.net 
+(also thingsyoudidntknowexisted.connectr.site)
+                                          started by jcole@mit.edu
+
+
+All the collaborative ThingsYouDidntKnowExisted docs organizing the world.                                                                                                                 
+________________
+
+
+
+
+
+
+ ThingsYouDidntKnowExisted.jacobcole.net
+* ThingsYouDidntKnowExistedAtMIT.jacobcole.net
+   * Thingsyoudidntknowexistedatharvard.connectr.site (.jacobcole.net also works for all these)
+   * thingsyoudidntknowexistedatoxford.connectr.site
+   * Thingsyoudidntknowexistedatstanford.connectr.site
+* * thingsyoudidntknowexistedinhawaii.connectr.site (.jacobcole.net also works)
+* ThingsyoudidntknowexistedinNyc.jacobcole.net 
+* ThingsyoudidntknowexistedinSanDiego.jacobcole.net
+* ThingsyoudidntknowexistedinSantacruz.jacobcole.net
+* ThingsyoudidntknowexistedinPortland.jacobcole.net/
+* thingsyoudidntknowexistedinSF.jacobcole.net/
+   * Iski's Master List of Mostly Non Consumer Stuff To Do in the Bay Area
+* thingsyoudidntknowexistedinhawaii.jacobcole.net
+* Things You Didn’t Know Existed in Costa Rica
+   * #todo: create jacobcole.net site for it
+
+
+* EXTERNAL
+   * Los Angeles Doc <> James Risberg's Friend
+* * Needs fixingK
+   * ThingsYouDidntKnowExistedInSf.tk
+   * ThingsYouDidntKnowExistedOnTheWeb.tk
+   * Thingsyoudidntknowexistedatoxford.tk
+
+
+
+
+* means featured
+
+
+
+
+
+
+How to make a site like thingsyoudidntknowexistedatmit.tk in 5 min. 
+1. Copy thingsyoudidntknowexistedatmit.tk by going to File > Make a Copy. Edit it/customize for yourself, including title.
+2. Get a free domain (extension .tk is free) for your homepage by going to dot.tk > sign in with Google > Domain Panel > Add Domain. Paste in the URL of the doc. Register for 12 months.
+3. Add homepage to the list thingsyoudidntknowexisted.tk
+
+
+
+
+Comments:
+Notice: does anyone want to help me make a web app for this? I want to make the site: thingsyoudidntknowexisted.in, which transcends and includes thingsyoudidntknowexistedatmit.tk, this page, and more. (Maybe thingsyoudidntknowexistedthatarerelevanttoyou.tk. If so, email me at jcole@mit.edu
+
+
+we should build a web app using GDocs API to make it more suited for building these impromptu “websites” -- email me ~jcole@mit.edu
+
+
+Alternate URL: https://docs.google.com/document/d/1kjtlgye1zWQAgT7gF_wUMWnd_b75lPo3sEwVUyXa6xI/edit

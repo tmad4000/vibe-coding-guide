@@ -1,0 +1,937 @@
+{
+  "exported": [
+    {
+      "url": "http://Commentaries.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "http://Covid19HackIdeas.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "http://Heidegger.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "http://Thingyoudidntknowexistedinsandiego.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "http://autodidacts.jacobcole.net/",
+      "status": "exported"
+    },
+    {
+      "url": "http://easilysolvableworldproblems.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "http://meditation.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "http://salon.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "http://socialsupportforregenerativefarmers.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "http://thingsyoudidntknowexistedatmit.jacobcole.net",
+      "status": "exported"
+    },
+    {
+      "url": "https://lists.jacobcole.net/",
+      "status": "google_doc",
+      "redirectTo": "https://docs.google.com/document/d/1WL_sPn8rcMigt6ula7_mxmrgjO91u7PPPMO_dW-c8EY/pub",
+      "httpCode": 301,
+      "elapsed": 155
+    },
+    {
+      "url": "https://sleep.jacobcole.net/",
+      "status": "google_doc",
+      "redirectTo": "https://docs.google.com/document/d/1F8rleyM5jXbK3BSbt-O4bcanATcGF1ODX6AKd3NaiPk/edit?tab=t.0",
+      "httpCode": 301,
+      "elapsed": 248
+    }
+  ],
+  "live_non_gdoc": [
+    {
+      "url": "http://Accounting.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://accounting.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 129
+    },
+    {
+      "url": "http://Buoyantfitness.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://buoyantfitness.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 312
+    },
+    {
+      "url": "http://Chocolate.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://chocolate.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 78
+    },
+    {
+      "url": "http://Chronicpain.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://chronicpain.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 81
+    },
+    {
+      "url": "http://Culturalendangeredspecies.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://culturalendangeredspecies.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 89
+    },
+    {
+      "url": "http://EthicalDilemmas.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://ethicaldilemmas.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 173
+    },
+    {
+      "url": "http://Index.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://index.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 63
+    },
+    {
+      "url": "http://Memorypalaces.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://memorypalaces.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 83
+    },
+    {
+      "url": "http://Nvc.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://nvc.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 103
+    },
+    {
+      "url": "http://People.SystemicChange.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://people.systemicchange.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 107
+    },
+    {
+      "url": "http://Products.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://products.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 122
+    },
+    {
+      "url": "http://Pureland.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://pureland.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 121
+    },
+    {
+      "url": "http://RSIWiki.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://rsiwiki.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 141
+    },
+    {
+      "url": "http://Shadirecs.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://shadirecs.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 244
+    },
+    {
+      "url": "http://Startupideas.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://startupideas.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 167
+    },
+    {
+      "url": "http://Supplements.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://supplements.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 107
+    },
+    {
+      "url": "http://Tea.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://tea.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 78
+    },
+    {
+      "url": "http://Thoughtfulweb.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://thoughtfulweb.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 184
+    },
+    {
+      "url": "http://Vrcoralreefs.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://vrcoralreefs.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 165
+    },
+    {
+      "url": "http://Wellnessclasses.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://wellnessclasses.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 81
+    },
+    {
+      "url": "http://adhd.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://adhd.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 137
+    },
+    {
+      "url": "http://admitsphere.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://admitsphere.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 198
+    },
+    {
+      "url": "http://aieducation.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://aieducation.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 107
+    },
+    {
+      "url": "http://aspirations.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://aspirations.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 400
+    },
+    {
+      "url": "http://backpain.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://backpain.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 210
+    },
+    {
+      "url": "http://bayqigong.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://bayqigong.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 427
+    },
+    {
+      "url": "http://biotechsalon.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://biotechsalon.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 1048
+    },
+    {
+      "url": "http://bodymasters.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://bodymasters.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 820
+    },
+    {
+      "url": "http://bookslist.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://bookslist.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 1104
+    },
+    {
+      "url": "http://bugslist.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://bugslist.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 175
+    },
+    {
+      "url": "http://burningman.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://burningman.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 218
+    },
+    {
+      "url": "http://ceocircle.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://ceocircle.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 249
+    },
+    {
+      "url": "http://cheese.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://cheese.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 114
+    },
+    {
+      "url": "http://circuits.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://circuits.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 309
+    },
+    {
+      "url": "http://climatechange.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://climatechange.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 93
+    },
+    {
+      "url": "http://climatechangepeople.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://climatechangepeople.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 280
+    },
+    {
+      "url": "http://codex.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://codex.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 180
+    },
+    {
+      "url": "http://coronavirus.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://coronavirus.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 175
+    },
+    {
+      "url": "http://crises.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://crises.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 95
+    },
+    {
+      "url": "http://cryptoconnect.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://cryptoconnect.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 531
+    },
+    {
+      "url": "http://culturaltechnology.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://culturaltechnology.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 117
+    },
+    {
+      "url": "http://dashboard.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://dashboard.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 124
+    },
+    {
+      "url": "http://donnon.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://donnon.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 484
+    },
+    {
+      "url": "http://existentialcrisis.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://existentialcrisis.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 124
+    },
+    {
+      "url": "http://favorverse.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://favorverse.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 301
+    },
+    {
+      "url": "http://firstround2020.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://firstround2020.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 133
+    },
+    {
+      "url": "http://foodslist.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://foodslist.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 293
+    },
+    {
+      "url": "http://gestaltexplanation.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://gestaltexplanation.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 249
+    },
+    {
+      "url": "http://globalideabank.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://globalideabank.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 166
+    },
+    {
+      "url": "http://hackathonprojects.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://hackathonprojects.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 177
+    },
+    {
+      "url": "http://healingartsgrant.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://healingartsgrant.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 208
+    },
+    {
+      "url": "http://hiringblurb.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://hiringblurb.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 249
+    },
+    {
+      "url": "http://housinglist.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://housinglist.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 296
+    },
+    {
+      "url": "http://hypnosis.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://hypnosis.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 271
+    },
+    {
+      "url": "http://ideaflowbackground.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://ideaflowbackground.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 636
+    },
+    {
+      "url": "http://ideaflowdemo.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://ideaflowdemo.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 880
+    },
+    {
+      "url": "http://ideaflowhiring.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://ideaflowhiring.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 143
+    },
+    {
+      "url": "http://ideaflowproject.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://ideaflowproject.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 102
+    },
+    {
+      "url": "http://ifiran.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://ifiran.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 98
+    },
+    {
+      "url": "http://ilparty.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://ilparty.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 146
+    },
+    {
+      "url": "http://index.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://index.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 195
+    },
+    {
+      "url": "http://infrastructure.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://infrastructure.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 99
+    },
+    {
+      "url": "http://interrupt.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://interrupt.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 185
+    },
+    {
+      "url": "http://investorupdates.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://investorupdates.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 113
+    },
+    {
+      "url": "http://jacobgestalts.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://jacobgestalts.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 94
+    },
+    {
+      "url": "http://jacobsfriends.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://jacobsfriends.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 173
+    },
+    {
+      "url": "http://jacobsmetaneighborhood.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://jacobsmetaneighborhood.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 482
+    },
+    {
+      "url": "http://jnet.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://jnet.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 149
+    },
+    {
+      "url": "http://kidactivities.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://kidactivities.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 74
+    },
+    {
+      "url": "http://lifechange.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://lifechange.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 72
+    },
+    {
+      "url": "http://lifechangingthings.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://lifechangingthings.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 68
+    },
+    {
+      "url": "http://lifehacks.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://lifehacks.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 208
+    },
+    {
+      "url": "http://ods.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://ods.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 208
+    },
+    {
+      "url": "http://openproblems.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://openproblems.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 468
+    },
+    {
+      "url": "http://outliersfund.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://outliersfund.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 248
+    },
+    {
+      "url": "http://perfectcoordination.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://perfectcoordination.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 251
+    },
+    {
+      "url": "http://philosophy.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://philosophy.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 139
+    },
+    {
+      "url": "http://press.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://press.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 220
+    },
+    {
+      "url": "http://productfeedback.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://productfeedback.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 73
+    },
+    {
+      "url": "http://projectconnect.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://projectconnect.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 264
+    },
+    {
+      "url": "http://pt.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://pt.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 90
+    },
+    {
+      "url": "http://qigongcrew.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://qigongcrew.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 118
+    },
+    {
+      "url": "http://qiresearch.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://qiresearch.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 313
+    },
+    {
+      "url": "http://quantummafia.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://quantummafia.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 259
+    },
+    {
+      "url": "http://questions.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://questions.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 150
+    },
+    {
+      "url": "http://quotes.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://quotes.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 70
+    },
+    {
+      "url": "http://quotes.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://quotes.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 227
+    },
+    {
+      "url": "http://quoteslist.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://quoteslist.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 77
+    },
+    {
+      "url": "http://rafandjacobdinners.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://rafandjacobdinners.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 84
+    },
+    {
+      "url": "http://recipes.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://recipes.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 319
+    },
+    {
+      "url": "http://recipes.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://recipes.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 199
+    },
+    {
+      "url": "http://rsiwiki.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://rsiwiki.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 660
+    },
+    {
+      "url": "http://si.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://si.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 196
+    },
+    {
+      "url": "http://si.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://si.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 161
+    },
+    {
+      "url": "http://sijointpain.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://sijointpain.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 81
+    },
+    {
+      "url": "http://stanfordclasses.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://stanfordclasses.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 177
+    },
+    {
+      "url": "http://startupideas.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://startupideas.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 325
+    },
+    {
+      "url": "http://startuptrickswiki.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://startuptrickswiki.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 110
+    },
+    {
+      "url": "http://startxenterpriseneighborhood.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://startxenterpriseneighborhood.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 290
+    },
+    {
+      "url": "http://startxrecruitingneighborhood.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://startxrecruitingneighborhood.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 299
+    },
+    {
+      "url": "http://startxs2020.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://startxs2020.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 262
+    },
+    {
+      "url": "http://systematicawesome.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://systematicawesome.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 183
+    },
+    {
+      "url": "http://teamdashboard.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://teamdashboard.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 128
+    },
+    {
+      "url": "http://templates.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://templates.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 77
+    },
+    {
+      "url": "http://thingsyoudidntknowexisted.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://thingsyoudidntknowexisted.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 115
+    },
+    {
+      "url": "http://thingsyoudidntknowexistedinhawaii.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://thingsyoudidntknowexistedinhawaii.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 150
+    },
+    {
+      "url": "http://thingsyoudidntknowexistedinnyc.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://thingsyoudidntknowexistedinnyc.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 178
+    },
+    {
+      "url": "http://thingsyoudidntknowexistedinportland.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://thingsyoudidntknowexistedinportland.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 132
+    },
+    {
+      "url": "http://thingsyoudidntknowexistedinsantacruz.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://thingsyoudidntknowexistedinsantacruz.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 197
+    },
+    {
+      "url": "http://thingsyoudidntknowexistedinsf.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://thingsyoudidntknowexistedinsf.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 172
+    },
+    {
+      "url": "http://toolstacks.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://toolstacks.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 76
+    },
+    {
+      "url": "http://uhaul.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://uhaul.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 107
+    },
+    {
+      "url": "http://visioncharter.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://visioncharter.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 133
+    },
+    {
+      "url": "http://vlog.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://vlog.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 164
+    },
+    {
+      "url": "http://volunteerforce.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://volunteerforce.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 539
+    },
+    {
+      "url": "http://wall.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://wall.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 118
+    },
+    {
+      "url": "http://whyisitawesome.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://whyisitawesome.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 142
+    },
+    {
+      "url": "http://worldgestalts.jacobcole.net",
+      "status": "live_redirect",
+      "redirectTo": "https://worldgestalts.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 110
+    },
+    {
+      "url": "http://worldproblems.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://worldproblems.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 180
+    },
+    {
+      "url": "http://yoga.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://yoga.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 62
+    },
+    {
+      "url": "http://yogalist.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://yogalist.jacobcole.net/",
+      "httpCode": 301,
+      "elapsed": 88
+    },
+    {
+      "url": "https://books.jacobcole.net/",
+      "status": "live",
+      "httpCode": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsed": 237
+    },
+    {
+      "url": "https://enlightenment.jacobcole.net/",
+      "status": "live_redirect",
+      "redirectTo": "https://jacobblog.notion.site/Enlightenment-Blog-0de5411086594277a5b3945954a2cbc0?pvs=4",
+      "httpCode": 301,
+      "elapsed": 234
+    }
+  ],
+  "dead": [
+    {
+      "url": "http://hiringlist.jacobcole.net/",
+      "status": "dead",
+      "reason": "",
+      "elapsed": 509
+    },
+    {
+      "url": "http://hotconnections.jacobcole.net",
+      "status": "dead",
+      "reason": "",
+      "elapsed": 507
+    }
+  ],
+  "auth_required": [],
+  "google_other": []
+}

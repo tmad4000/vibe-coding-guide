@@ -1,0 +1,44 @@
+[[[`systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldgestalts.jacobcole.net](http://worldgestalts.jacobcole.net) > GlobalIdeaBank.jacobcole.net](http://globalideabank.jacobcole.net)
+#connectordoc
+[started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+
+Unsung Crises
+Crises in the world people may not be talking about enough
+
+[[[[See also:  worldgestalts.jacobcole.net](http://worldgestalts.jacobcole.net) • globalideabank.jacobcole.net/](http://globalideabank.jacobcole.net/) • worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com/) • projectconnect.jacobcole.net](http://projectconnect.jacobcole.net/)
+
+Table of Contents
+[[Crises](#h.k25y7ir2k1w7)1](#h.k25y7ir2k1w7)
+[[Tooling Crisis](#h.vmxe2rykzyzu)1](#h.vmxe2rykzyzu)
+[[America Sucks at Non Emergency Medicine](#h.n9xk1tbtqd0d)1](#h.n9xk1tbtqd0d)
+
+# Crises
+
+### Tooling Crisis
+– e.g. lack of macroing/automation tools
+
+### America Sucks at Non Emergency Medicine
+“Also! You know what I was thinking about today? We take “suicidal” very seriously but not “hopeless” or “despairing” which should be taken seriously in their own right. And also are the lead ups to suicidal anyway. We should intervene at an earlier stage than suicidal. And also people who are hopeless deserve help even if they never become suicidal”
+
+Yeah! AMERICA SUCKS AT NON EMERGENCY MEDICINE OMG #CRISIS #RIDICULOUS
+So we go on living lives of “quiet desperation”
+
+“
+ We have goals to meet and meetings to attend and mortgages to pay — all while the phone is ringing and the laptop is pinging. And when we get home, Crate and Barrel and Louis Vuitton and Andy Cohen make us feel just good enough to get up the next day and do it all over again. It is very easy to close your eyes to a problem when you barely have enough time to close them to sleep. The greatest misconception among us, which causes deep and painful social and political tension every day in this country, is that we somehow don’t care about each other. White people don’t care about the problems of black America. Men don’t care about women’s rights. Cops don’t care about the communities they serve. Humans don’t care about the environment. These couldn’t be further from the truth. We do care. We just don’t have the time to do anything about it. Maybe that’s just me. But maybe it’s you, too.
+Well, the treadmill you’ve been on for decades just stopped. Bam!
+[Prepare for the Ultimate Gaslighting* | by Julio Vincent Gambuto | Forge](https://forge.medium.com/prepare-for-the-ultimate-gaslighting-6a8ce3f0a0e0)
+
+### Muscle tension crisis
+
+### Emotional squallor crisis / Emotional tension crisis
+“Ungrieved dead”
+Jack Cornfield - famous meditation person, Spirit Rock meditation center founder
+People are walking around with unprocessed traumas
+Many of traumas are bound up in physical tension which you can discover with massage, yoga, etc.
+
+People are unaware of how much better they can feel with some simple practices / therapies
+- Qi gong exercises
+- Acupuncture
+- Muscle work / massage
+- Osteopathy
+- Alex K Chen - ADHD sufferer, got back adjusted from chiropractor and half of pain dissolved due to bad posture

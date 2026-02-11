@@ -1,0 +1,251 @@
+{
+  "breadcrumbs": {
+    "aspirations": [
+      "systematicawesome",
+      "globalideabank"
+    ],
+    "autodidacts": [
+      "systematicawesome",
+      "autodidacts"
+    ],
+    "bookslist": [
+      "systematicawesome",
+      "bookslist"
+    ],
+    "bugslist": [
+      "systematicawesome",
+      "productfeedback"
+    ],
+    "buoyantfitness": [
+      "systematicawesome",
+      "buoyantfitness"
+    ],
+    "cheese": [
+      "systematicawesome",
+      "foodslist",
+      "cheese"
+    ],
+    "chocolate": [
+      "systematicawesome",
+      "foodslist",
+      "chocolate"
+    ],
+    "circuits": [
+      "systematicawesome",
+      "circuits"
+    ],
+    "climatechange": [
+      "systematicawesome",
+      "climatechange"
+    ],
+    "codex": [
+      "systematicawesome",
+      "infrastructure",
+      "codex"
+    ],
+    "crises": [
+      "systematicawesome",
+      "worldgestalts",
+      "globalideabank"
+    ],
+    "ethicaldilemmas": [
+      "systematicawesome",
+      "philosophy",
+      "ethicaldilemmas"
+    ],
+    "foodslist": [
+      "systematicawesome",
+      "foodslist"
+    ],
+    "healingartsgrant": [
+      "systematicawesome"
+    ],
+    "heidegger": [
+      "systematicawesome",
+      "philosophy",
+      "heidegger"
+    ],
+    "hiringblurb": [
+      "systematicawesome",
+      "hiringblurb"
+    ],
+    "ideaflowproject": [
+      "systematicawesome",
+      "ideaflowproject"
+    ],
+    "ifiran": [
+      "ifiran"
+    ],
+    "index": [
+      "systematicawesome",
+      "index"
+    ],
+    "infrastructure": [
+      "systematicawesome",
+      "infrastructure",
+      "codex"
+    ],
+    "interrupt": [
+      "systematicawesome",
+      "interrupt"
+    ],
+    "lifechange": [
+      "systematicawesome",
+      "lifechange"
+    ],
+    "meditation": [
+      "systematicawesome",
+      "meditation"
+    ],
+    "nvc": [
+      "systematicawesome",
+      "nvc"
+    ],
+    "perfectcoordination": [
+      "systematicawesome"
+    ],
+    "philosophy": [
+      "systematicawesome",
+      "philosophy"
+    ],
+    "productfeedback": [
+      "systematicawesome",
+      "productfeedback"
+    ],
+    "questions": [
+      "systematicawesome",
+      "questions"
+    ],
+    "quoteslist": [
+      "systematicawesome",
+      "quotes"
+    ],
+    "stanfordclasses": [
+      "systematicawesome",
+      "stanfordclasses"
+    ],
+    "startupideas": [
+      "systematicawesome",
+      "startupideas"
+    ],
+    "tea": [
+      "systematicawesome",
+      "foodslist",
+      "tea"
+    ],
+    "templates": [
+      "systematicawesome",
+      "infrastructure",
+      "templates"
+    ],
+    "thingsyoudidntknowexisted": [
+      "mitdoc",
+      "thingsyoudidntknowexisted"
+    ],
+    "thingsyoudidntknowexistedatmit": [
+      "mitdoc",
+      "thingsyoudidntknowexisted",
+      "thingsyoudidntknowexistedatmit"
+    ],
+    "thingsyoudidntknowexistedinhawaii": [
+      "thingsyoudidntknowexisted",
+      "thingsyoudidntknowexistedinhawaii"
+    ],
+    "thingsyoudidntknowexistedinnyc": [
+      "thingsyoudidntknowexisted",
+      "thingsyoudidntknowexistedinnyc"
+    ],
+    "thingsyoudidntknowexistedinportland": [
+      "thingsyoudidntknowexisted",
+      "thingsyoudidntknowexistedinportland"
+    ],
+    "thingsyoudidntknowexistedinsantacruz": [
+      "thingsyoudidntknowexisted",
+      "thingsyoudidntknowexistedinsantacruz"
+    ],
+    "thingsyoudidntknowexistedinsf": [
+      "thingsyoudidntknowexisted",
+      "thingsyoudidntknowexistedinsf"
+    ],
+    "visioncharter": [
+      "systematicawesome"
+    ],
+    "vrcoralreefs": [
+      "systematicawesome",
+      "vrcoralreefs"
+    ],
+    "wall": [
+      "systematicawesome",
+      "wall"
+    ],
+    "worldgestalts": [
+      "systematicawesome"
+    ],
+    "yogalist": [
+      "systematicawesome",
+      "philosophy",
+      "yogalist"
+    ]
+  },
+  "children": {
+    "systematicawesome": [
+      "autodidacts",
+      "bookslist",
+      "buoyantfitness",
+      "circuits",
+      "climatechange",
+      "foodslist",
+      "globalideabank",
+      "hiringblurb",
+      "ideaflowproject",
+      "index",
+      "infrastructure",
+      "interrupt",
+      "lifechange",
+      "meditation",
+      "nvc",
+      "philosophy",
+      "productfeedback",
+      "questions",
+      "quotes",
+      "stanfordclasses",
+      "startupideas",
+      "vrcoralreefs",
+      "wall",
+      "worldgestalts"
+    ],
+    "foodslist": [
+      "cheese",
+      "chocolate",
+      "tea"
+    ],
+    "infrastructure": [
+      "codex",
+      "templates"
+    ],
+    "worldgestalts": [
+      "globalideabank"
+    ],
+    "philosophy": [
+      "ethicaldilemmas",
+      "heidegger",
+      "yogalist"
+    ],
+    "mitdoc": [
+      "thingsyoudidntknowexisted"
+    ],
+    "thingsyoudidntknowexisted": [
+      "thingsyoudidntknowexistedatmit",
+      "thingsyoudidntknowexistedinhawaii",
+      "thingsyoudidntknowexistedinnyc",
+      "thingsyoudidntknowexistedinportland",
+      "thingsyoudidntknowexistedinsantacruz",
+      "thingsyoudidntknowexistedinsf"
+    ]
+  },
+  "roots": [
+    "ifiran",
+    "mitdoc",
+    "systematicawesome"
+  ]
+}

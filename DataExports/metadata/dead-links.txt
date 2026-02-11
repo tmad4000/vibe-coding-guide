@@ -1,0 +1,5 @@
+http://People.SystemicChange.jacobcole.net | write EPROTO 406C950702000000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:ssl/record/rec_layer_s3.c:916:SSL alert number 40
+
+http://recipes.jacobcole.net | write EPROTO 406C950702000000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:ssl/record/rec_layer_s3.c:916:SSL alert number 40
+
+http://recipes.jacobcole.net/ | write EPROTO 406C950702000000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:ssl/record/rec_layer_s3.c:916:SSL alert number 40

@@ -1,0 +1,77 @@
+[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > lifechangingthings.jacobcole.net](http://lifechangingthings.jacobcole.net)
+[Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
+LifeChangingThings
+Quotes, books, activities and more that have changed people’s lives
+Add your own, and add comments on how you connect to quotes!
+[[[[[See also:quoteslist.jacobcole.net](http://quoteslist.jacobcole.net)•whyisitawesome.jacobcole.net](http://whyisitawesome.jacobcole.net/)•Excellent Books (Jacob + Friends Curated)](https://drive.google.com/open?id=1cy36gZz74NwjE9C1UOJ1OUPIIm4v5vSHpuhKcNetfcs) • Jacob’s Raw Books List](https://docs.google.com/document/d/10hCB_gzJZ-Ns5JUkxpPR0DLKXSsCGRUYmsFvrCsairc) • lifechange.jacobcole.net](http://lifechange.jacobcole.net)
+
+# The List
+
+## From Francis’ Salon
+
+Add more!
+
+[[#book Religiousness in Yoga](https://www.amazon.com/Religiousness-Yoga-Lectures-Theory-Practice/dp/0819109673) ~Desikachar. Preview:  http://yoga.jacobcole.net](http://yoga.jacobcole.net/)
+
+#book Understanding Zen ~Benjamin Radcliffe #ExplainingMeditation #WhyAwesome: zen
+
+## General List
+
+Add more!
+
+[#activity Qigong standing: Embrace the Tree Exercise](https://sites.google.com/view/whyisitawesome/meditation-yoga-tai-chi-qigong?authuser=0) #meditation
+
+#word #concept Sonder
+
+#activity Learning to surf → my first meditation. Made me more calm ~Jacob
+
+[[#VideoGame https://robocode.sourceforge.io/](https://robocode.sourceforge.io/)  –  Fun way to learn to program, to do trig, etc. http://robocode.jacobcole.net](http://robocode.jacobcole.net/) ~Jacob
+
+[#VideoGame http://neopets.com](http://neopets.com/) – how I learned HTML ~Jacob
+
+[Making minimalist homepages](https://docs.google.com/document/d/16mZC7AqnNdBosLwYaHSyZSqQEKuoggT3mIfVIoaqvOA/pub) for myself and others
+
+Everything people say or do is either an expression of love or a cry for love.
+#lifeChanging
+
+The Only Path to Serenity
+Fill your bowl to the brim and it will spill.
+Keep sharpening your knife and it will blunt.
+Chase after money and security
+[and your heart will never unclench.[a]](#cmnt1)
+Care about people’s approval
+and you will be their prisoner.
+
+Do your work, then step back.
+[The only path to serenity.[b]](#cmnt2)
+
+~Lao Tzu, Tao Te Ching
+(chapter nine, translation by Stephen Mitchell)
+#lifeChanging
+
+Isn’t it amazing that you don’t have to wait a single moment to start becoming the person you want to become?
+#lifeChanging
+
+I meditate one hour every day, except those days I am too busy. Those days I meditate two hours. ~Gandhi
+Comment: To motivate myself to meditate, I ask myself: honestly, can I save more than 20 minutes today by taking 20 minutes to meditate? Can I save more than an hour over the course of the week by taking an hour to meditate?
+ #lifeChanging
+
+Learning to meditate is like a soldier learning to put down his sword — it’s useless if you simply go and pick it up again when you are done ~Dalal Lama
+#lifeChanging
+
+“There are a thousand hacking at the branches of evil to one who is striking at the root.” ~Henry David Thoreau
+#lifeChanging
+
+Find a happy person and you will find a project
+#lifeChanging
+
+The stuff I do automatically,
+against my conscious intent,
+is a fountain of energy
+The ultimate surf to be ridden
+Which moves me in spite of myself #Poem
+Comment: Surfing is a plainer metaphor than most for what is really going on in the world
+#lifeChanging
+
+[[a]](#cmnt_ref1)!
+[[b]](#cmnt_ref2)!

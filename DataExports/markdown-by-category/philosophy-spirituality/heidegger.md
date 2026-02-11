@@ -1,0 +1,22 @@
+[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > philosophy.jacobcole.net](http://philosophy.jacobcole.net)> heidegger.jacobcole.net](http://heidegger.jacobcole.net/)
+[Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
+Heidegger
+Resources on Heidegger
+
+[[[See Also: Excellent Books (Jacob + Friends Curated)](https://drive.google.com/open?id=1cy36gZz74NwjE9C1UOJ1OUPIIm4v5vSHpuhKcNetfcs) • Jacob’s Raw Books List](https://docs.google.com/document/d/10hCB_gzJZ-Ns5JUkxpPR0DLKXSsCGRUYmsFvrCsairc)• lifechangingthings.jacobcole.net/](http://lifechangingthings.jacobcole.net/)
+
+Misc
+
+Readable intro:
+[Great Thinkers, Heidegger section](https://drive.google.com/file/d/1ccn7QcfBVNgRIPTHdPDhAGOBUCbkC_qq/view?usp=sharing)
+
+yo
+https://www.youtube.com/watch?v=ywuNea7-1Q8&t=3261s
+There is a series of seminar recordings of a Berkeley prof’s seminar on Heidegger’s later thought.
+The prof is excellent and the environment is fun instead of stuffy.
+And there are 26 of them!!
+
+[Great and readable reinterpretation of Being and Time from Stanford Prof. Thomas Sheehan: Making Sense of Heidegger: A Paradigm Shift](http://93.174.95.29/main/9D25696ECBE109844DDB05177AD94972).
+- Description: [This book] presents a radically new reading of Heidegger’s notoriously difficult oeuvre. Clearly written and rigorously grounded in the whole of Heidegger’s writings, Thomas Sheehan’s latest book argues for the strict unity of Heidegger’s thought on the basis of three theses: that his work was phenomenological from beginning to the end; that “being” refers to the meaningful presence of things in the world of human concerns; and that what makes such intelligibility possible is the existential structure of human being as the thrown-open or appropriated “clearing.”
+
+[A poem that illustrates what Heidegger calls “inauthenticity:” T. S Eliot’s “The Love Song of J. Alfred Prufrock](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock)”
