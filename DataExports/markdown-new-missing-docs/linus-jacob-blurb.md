@@ -1,0 +1,46 @@
+Ethos team mission vs co and market
+
+Ideaflow is hiring engineers to research and build AI-infused thinking tools for everyone.
+- Research and build the next hypertext web . Build power tools for the mind
+- Info management system that is more lightweight slick concise
+- Tools that do what each of us would already do if we had more time
+
+At Ideaflow, we want to do to thinking tools what video games did to games before the personal computer.
+ Tools that help us think - productivity software, note-taking apps, even “tools for thought” like Roam or Obsidian - are still only beginning to take advantage of the power, interactivity, and speed of today’s computers to help us make sense of the world both at work and in life. We think long term, asking questions like “What comes after hypertext/” while building products that bring our ideas down into the hands of an enthusiastic community of users.
+
+Our small team includes former founders, competitive programmers, researchers from MIT Media Lab, and experts in collaborative editing. We've raised over $10M from top VCs, including First Round Capital, Sequoia scouts, and Naval. We’re looking for ambitious, creative engineers .. something something prototype together?
+
+Our small team of former founders and researchers comes from MIT Media Lab, and include experts in collaborative editing, X, Y, and Z. We've raised over $10M from top VCs, including First Round Capital, Sequoia scouts, and Naval. We’re looking for ambitious, creative engineers .. something something prototype together?
+
+Here are some experiments our team has built before:
+< attach demos / prototypes here > – screen recording. Here’s an example.
+
+We're bringing personal information management tools mainstream, and making them collaborative, to empower creative souls to fly.
+We see this as a critical step to unlocking the potential of the Web.
+[Jacob Cole, MIT Media Lab product designer and CEO Life mission: http://systematicawesome.jacobcole.net/](http://systematicawesome.jacobcole.net/)
+
+Replit: “We’re on a mission to make programming collaborative, accessible, and fun for everyone. Creating the future of computing is a team effort, though.”
+https://replit.com/site/careers9
+
+The “tools for thought” projects we see today are really just the tip of the iceberg of a revolution in how we interact with information
+
+Jackhammers
+
+Ideaflow is hiring engineers to research and build AI-infused thinking tools for everyone.
+- Research and build the next hypertext web . build power tools for the mind
+- Info management system that is more lightweight slick concise
+
+At Ideaflow, we want to do to thinking tools what video games did to games before the personal computer.
+ Tools that help us think - productivity software, note-taking apps, even “tools for thought” like Roam or Obsidian - are still only beginning to take advantage of the power, interactivity, and speed of today’s computers to help us make sense of the world both at work and in life. We think long term, asking questions like “What comes after hypertext/” while building products that bring our ideas down into the hands of an enthusiastic community of users.
+
+Our small team of former founders and researchers comes from MIT Media Lab, and include experts in collaborative editing, X, Y, and Z. We've raised over $10M from top VCs, including First Round Capital, Sequoia scouts, and Naval. We’re looking for ambitious, creative engineers .. something something prototype together?
+
+< attach demos / prototypes here >
+
+We're bringing personal information management tools mainstream, and making them collaborative, to empower creative souls to fly.
+We see this as a critical step to unlocking the potential of the Web.
+Jacob Cole, MIT Media Lab product designer and CEO Life mission: http://systematicawesome.jacobcole.net/
+
+The “tools for thought” projects we see today are really just the tip of the iceberg of a revolution in how we interact with information
+
+Jackhammers

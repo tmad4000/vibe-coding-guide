@@ -1,0 +1,25 @@
+General Principles:
+
+- Grain of salt: This worked for me, to the point where I have been pain free for long periods of time and can play the guitar without pain in my left wrist. That being said-- you’re pain is different. Nevertheless, I suspect if you design your own exercises and adapt my own, you’ll see progress.
+- Inflammation Integration: wrist pain is the integral of wrist inflammation plus wrist healing. So you want to:
+
+- Reduce activities that cause inflammation.
+- Increase activities that cause healing.
+- Strengthen the area so that future activity causes less inflammation.
+
+- An aside about massage. Massage reduces the current value of the pain, but does not seem to affect the integrand.
+- Brute Strength: I believe developing brute wrist strength is much more important than flexibility. Developing brute strength with heavy weights (5 lbs, 10lbs, then 15lbs) seems to both cause healing in the area and reduce the inflammation caused by future activities. It is the key in my experience to overcoming wrist pain.
+- Daily Exercise: For progress to be attained, daily frequency seems to be more important than overall time spent exercising. Intensity also seems to be more important than overall time. I would exercise my wrists until they there was heavy lactic acid buildup. This did not take very long with heavy weights: 10-20 minutes. Intense use tends to trigger healing/growth/strengthening.
+- An aside about my timeline: It took ~2 months before I began to notice changes. ~4 months before the changes were quite large. During the 1st month, I wondered if things were worse.
+- Exercise design: I designed my exercises to work out the parts of my wrist that hurt in a way that did not cause the same type of pain I experienced while typing etc. That’s why all exercises below are gross motor exercises, not fine motor exercises. You’ll want to design your own in addition to adapting mine. I did all the exercises below, but not with equal time or equal frequency. They are not presented in any particular order.  I used them as they felt right.
+
+Notes on specific exercises:
+
+- Finger_lifts: I loved these. May be difficult to tell from the video, but my right hand is not helping my left hand… it is keeping the weight attached to it.
+- Free_rolls: I use my right hand to provide support to my left hand during some parts of the roll and resistance in other parts as I felt appropriate.
+- Free_roll_unsupported: Also were good, but used sparingly.
+- Left_rights: Also loved these. Important to take it slow and really resist the weight in all parts of the motion.
+- Wrist_curls: Important to let the weight roll down the fingers.
+- Wrist_curls_vertical: Good to do while walking around
+- Hot_water: Would do this afterwards. Water was as hot as I could stand for as long as I could stand.
+- Wrist_position_good/bad: This change also made a big difference. With the wrist straight rather than pinched it feels like your fingers are dangling down onto the keyboard, which is ideal.

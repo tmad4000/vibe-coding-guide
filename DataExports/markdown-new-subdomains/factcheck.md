@@ -1,0 +1,25 @@
+[[[`                     systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > factcheck.jacobcole.net](http://factcheck.jacobcole.net)
+#project #connectordoc
+[started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+
+Fact Check Chrome Extension (Augment) #project #connectordoc
+
+Chrome Extension on Web Store
+https://chrome.google.com/webstore/category/extensions
+
+Fact Checking sources for Fact Checking Chrome Extension
+https://docs.google.com/document/d/1R1vnlP11Dm6oStxPs4g7nQoFKmp0avRtpEDomdWxWFU/edit#heading=h.axv9ej5okz4p
+
+## People
+Jacob Cole
+Linus Lee
+
+[Looking for: designer, full stack engineering collaborator. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io) #lookingfor
+
+## Mocks
+
+## See Also
+http://fixingtheinternet.jacobcole.net/
+
+http://infrastructure.jacobcole.net/
+http://worldquestguild.connectordocs.com/

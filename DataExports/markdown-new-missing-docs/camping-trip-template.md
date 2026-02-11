@@ -1,0 +1,77 @@
+# PINNACLES
+- [Location: https://goo.gl/maps/mBZnGGH3wsBVSexMA](https://goo.gl/maps/mBZnGGH3wsBVSexMA)
+- [Weather: https://www.wunderground.com/forecast/us/ca/pinnacles](https://www.wunderground.com/forecast/us/ca/pinnacles)
+- [Hiking: https://www.nps.gov/pinn/planyourvisit/trails.htm](https://www.nps.gov/pinn/planyourvisit/trails.htm)
+- [Climbing: https://www.mountainproject.com/area/105733947/pinnacles-national-park](https://www.mountainproject.com/area/105733947/pinnacles-national-park)
+- [Caves: https://www.nps.gov/pinn/learn/nature/cave.htm](https://www.nps.gov/pinn/learn/nature/cave.htm)
+
+# CAMPGROUND
+- “Campground is located on the east side of Pinnacles National Park off Hwy 25.”
+- Reserved Friday 8/13 - Sunday 8/15
+- Sites 90 & 93, Loop D (this is car camping!)
+- 6 occupants + 3 tents + 2 vehicles per site
+- Check-in time: 1pm
+- Check-out time: 11am
+- “Wood campfires and charcoal grills are prohibited, propane stoves still allowed only in campground and picnic areas. No fireworks, or smoking on trail.”
+- “Swimming pool open from April 1 through Sept. 30, weather permitting.” 👀 💦
+- “ Vehicles that do not fit in spur must be parked in the overflow parking area near the campground store.”
+
+# GEAR
+- Sleeping bag
+- Sleeping pad
+- tent?
+- day pack for carrying water + lunch
+- big water bottles !!!
+- sunscreen, sunglasses, hat, etc
+- shoes for hiking
+- shoes for camp
+- dish & utensils for eating
+
+Hannah has one extra of the following: egg carton sleeping pad and headlamp.
+Also have 2 person tent
+
+https://rec.stanford.edu/gear-rentals/
+https://rec.stanford.edu/wp-content/uploads/2021/06/MASTER_Outfitting-Rental-List-Summer-2021-Online.docx-Caroline-Hoang-Anh-Le.pdf
+
+# FOOD
+We will bring food from Idyllwild + stop at grocery store on the way. Cooking with Hannah’s stove. Hannah is there enough fuel in your stove for 2 dinners + 2 breakfasts for everyone?
+
+- Propane tank is about half full, probably a good idea to grab another one
+- Have 2 canisters for my jet boil which should be enough for boiling water for coffee/ tea/etc
+
+### Friday dinner
+- pasta
+- tomato sauce + veg + tvp + sausage
+
+### Saturday dinner
+
+### breakfasts
+
+### lunches
+
+# CARS
+
+Car
+Total People
+Leaving Time
+Leaving People
+Returning time
+Returning passengers
+Sean
+4
+Friday 5pm @Idyllwild
+
+- Sean
+- Jacob (if it’s not already taken)
+
+Sunday evening
+- Sean
+
+Julia
+7 potential spots (comfortably seats 4-6)
+Friday evening (flexible timing)
+- Hannah?
+- Julia
+
+Flexible time on Sunday
+- Julia
