@@ -1,0 +1,183 @@
+﻿Tanzania-MIT Hackathon
+MIT Public Service Center Grant Application 2013
+Update 6/19/13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jacob Cole
+Electrical Eng. and Computer Science, English Literature minor, 2014
+jcole@mit.edu, Cell: 858-740-6970
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+Title: Tanzania-MIT Hackathon
+Lead: Jacob Cole <jcole@mit.edu>
+Permanent Address:
+12759 Via Felino
+Del Mar, CA  92014
+Term Address:
+351 Massachusetts Ave
+Cambridge, MA  02139
+Adviser: Sally Susnowitz <susnowit@MIT.EDU>, Director, MIT Public Service Center
+
+
+Table of Contents
+Abstract
+Proposal
+Introduction
+Proposed Event Schedule
+Impact
+Comments
+People
+Additional resources
+Budget
+Funding requested: $6600
+Funds available thus far: $3250
+Abstract
+I plan to travel to Tanzania in July 2013 where my mother, Lisa Cole, is an education volunteer in the US Peace Corps. On July 14-15, in a computer lab at the University of Dar es Salaam, I plan to hold the "Tanzania-MIT Hackathon” -- a midday through late evening programming event at which college and high school students who program and local developers will get together with me and work on fun computer science projects in a structured setting, like my friends and I often do at MIT. Further, we will have a live video chat link to a group of my friends at MIT and Harvard who will be doing the same, so the programmers in Tanzania can experience the wonderful and inspiring culture I am a part of in college, make new friends, and contribute to their educational and leadership experience.  To plan the event, I am working with US Peace Corps IT team, the head of Tanzania’s chapter of the Free Software and Open Source Foundation for Africa, the director of the MIT Public Service Center, and the president of MIT Startlabs. The hope is to establish a model for holding “tele-hackathons” in 3rd world countries and lay the groundwork for future remote collaborative coding. Moreover, past experience indicates that broadcasting participants’ coding has the secondary effect of enabling ordinary programmers everywhere to gain a global following, and to try on the shoes of being an inspiring leader. Ultimately, we plan for our custom web platform for facilitating these events to become a permanent feature of MIT and Harvard’s online learning platform EdX. 
+
+
+I request sponsorship of $5000 to up to $6600 to run the event, and recommendations for further sponsors. Top sponsors will gain naming rights to an event that’s expected to get heavy media attention in Tanzania and possibly worldwide, and all will get a chance to engage with top programmers at MIT and in Tanzania.
+Proposal
+Introduction
+I believe that there is no better way to learn something than spending time with people who are doing it for fun. The story of this project begins over a year ago when, after the incredible 2012 Greylock Hackfest hackathon in San Francisco, I found myself inspired to write a blog post <www.jacobblog.tpclubs.com/2012/08/hackercasting-a-big-idea/> on what I saw to be a new paradigm for both programming and leadership education, which I affectionately named “HackerCasting.”
+
+
+In it, I wrote in part:
+“I’ve been discussing the concept of ‘hackercasting’ ... basically, TwitchTV.com for hackathons, a service that allows people to cast their screens while they are coding, also cast their audio/webcam data, and also display what keystrokes they’re making. By putting themselves on a stage, pros enable avid learners to watch and learn how they think, talk, and code. I think this is of utmost importance as it allows transmission of hacker culture, and it’s a keystone in ‘hacking’ culture and education (not to mention it’s a technically easy and low-hanging project)...
+
+
+The trick is to get people to actually do it. Like recording good conversations, it will start happening if it’s made ultra-convenient. We need to have a boxed tool and get it announced by a charismatic and well-respected person at the beginning of hackathons saying “all competitors! Load up this tool to start broadcasting yourself live and become a coding Olympian, inspiring people all around the nation. Anybody ever wanted a league of skilled minions to follow and work on projects with you? This is the first step to becoming a hero and gaining adoring acolytes!”
+This community would scale exponentially, and have the secondary effect of allowing ordinary programmers to try on the shoes of being an inspiring leader.”
+
+
+Eager to test whether this paradigm would work, I organized the Vertica-sponsored MIT “Hackathon 2.0” -- the first hackathon that was facilitated by supplementary technologies. We cast to, among others, a group of students in India who hungered to learn from the patterns of MIT students on fire working collaboratively. The event was a resounding success on all ends and sparked many follow-up tele-casted coding events.
+
+
+From these experiences, we learned that, in places new to the idea of hackathons, in-person attendance of an experienced hackathoner is extremely helpful to the collaborative atmosphere of tele-hackathons. Programming masterfully is like playing a musical instrument, and to watch the rhythm of the way a veteran ideates, builds teams, and even hits the keys as he or she types is very important. 
+Proposed Event Schedule
+I plan to travel to Tanzania where my mother, Lisa Cole, is an education volunteer in the Peace Corps in July 2013. On July 14-15, in a computer lab at the University of Dar es Salaam, I plan to hold the "Tanzania-MIT Hackathon” a midday through late evening programming event at which college or high school students who program will get together with me and work on fun computer science projects like my friends and I do at MIT. Further, we want to have a live video chat link to a group of my friends at MIT and Harvard who will be doing the same, so programmers in Tanzania can experience the wonderful and inspiring culture I am part of in college, make new friends, and contribute to their educational and leadership experience!
+
+
+The event will be run like past tele-hackathons (e.g. the AT&T London-MIT hackathon) and be geared towards people who can already program who build websites, apps, and the like. Leading up to the event, participants in both the US and Tanzania would join the Facebook Group for the event and start to discuss ideas for projects they want to work on. We would all also enter our personal skills, interests, and ideas into a central database (I've written a web platform to facilitate this. I additionally want to share an informal collaborative Google document in which my friends and I brainstorm our project ideas. http://hackathonprojects.tk/). 
+ 
+On the Tanzanian end, on the day of the event, we would first all gather together in the computer lab for opening remarks. A main dedicated monitor or large TV screen with a webcam viewing the entire event would provide a live video chat link between the participants in Tanzania and the participants in the USA. Next, sponsoring companies would present the APIs they offer and how to use them. 
+Next, participants would get a chance to meet  each other over a catered lunch, which would take place at long tables, and every 3 people there would be a video chat monitor positioned across the table so Tanzanian participants could easily mingle with US participants. After choosing groups (2-5 people), next we would break up into those groups in the computer lab and start coding our respective ideas. Groups would collaborate remote pair programming via EagerPanda.com's custom platform (developed by a friend and participant), or by Google Hangout, or by c9.io if there are technical difficulties. Mentors -- skilled programmers volunteering to help run the hackathon -- would be available to answer people's questions and guide them along. At the end of the evening, everybody would submit projects to the online database  hackerleague.org for the world to see, push their code to github. and demo what they have built. The "winner" (of eternal bragging rights) will be determined by how loud the audience on both sides cheers after the demo!
+
+
+At the end of the event, we would invite all participants to Hacksphere, a primarily intercollegiate group of computer science students at top universities in the USA, to remain in touch and make these trans-continental collaborative coding sessions a regular activity. I plan to follow up this event with another on Jul 29 coordinating with the vaunted Greylock Hackfest in Silicon Valley.
+Deliverables
+-Model workflow by which to run a tele-hackathon between the US and a developing country
+-Writeup: Tutorial: “How to run a tele-hackathon between the US and a developing country”
+-Photo gallery
+-Captured videos and audio of shared screens via EagerPanda.com
+-HackerLeague.org posts with entries on each team's project, including team member names
+-Ideas listed on HackathonProjects.tk
+-Each person makes a homepage and posts on MinimalistHomepages.tk
+
+
+Impact
+I think this event will be a great thing for both US participants and Tanzanians. Sometimes, US hackathons feel like  selfish endeavors, and while exciting to win, they don't always leave me feeling fulfilled. This event would bring the true spirit of ubuntu (roughly, peace, community, collaboration, human kindness, interconnectedness; “we are people because of other people.” Tuko Pamoja is the Swahili translation) to the users of the Ubuntu operating system!
+
+
+For the Tanzanians, I see a future in which the power of the Internet not only enables people to transcend social and economic inequality but gives them concrete tools, social capital, and inspiration to lead the world forward. I see the seeds of this future being planted here in this event, and I am working with Edgar Telesphory, head of the open source movement in Tanzania, to get the media involved. In fact, further, I think it's no accident that an African concept, ubuntu,  gives the most popular open source OS in the world its name. I hope the collaborative spirit my mother has told me she has encountered as a volunteer in Tanzania can lend wisdom to a field that is in the West driven, sometimes to its detriment in my opinion, by hard capitalism.
+Comments
+
+
+“College/university students...are must-attend on these kind of eye-opener training opportunities of course.” ~Edgar Telesphory, Leader of the Software and Open Source Foundation for Africa in Tanzania
+
+
+"Thanks again for extending such service to Tanzania." ~Crispin Rugemalira, Tanzanian, the US Peace Corps IT Specialist in Tanzania
+People
+Jacob Cole <jcole@mit.edu>. Project Lead
+        MIT '14 Electrical Eng. and Computer Science
+Veteran Hackathoner - 1st place at the 2012 MIT t=0 hackathon – largest of the year held at MIT 
+·        Cofounder of HackSphere, an intercollegiate network of thinkers and engineers who hold intellectual discussions/”salons" and work together on mostly tech projects for fun/service/startups. Members meeting through group regularly win major hackathons/­venture funding. We share project ideas publically at hackathonprojects.tk to include everyone in on the fun!
+·        Used HackSphere to start the emerging trend of HackerCasting in which students broadcast their screens/audio on the web while at hackathons to share their inspiration, excitement, and unique approaches. Cast to, among others, a group of students in India who hungered to learn from the patterns of MIT students on fire working collaboratively.
+·        Named MIT EECS Undergraduate Research and Innovation Scholar for work on creating sociotechnical systems to facilitate collaborative cognition and coordinate human activity en masse. Advised by Prof. Danny Weitzner, former White House CTO for Internet Policy. 
+·        Studying at Oxford University in 2014 and working with the Future of Humanity Institute there to implement developed sociotechnical systems on a large scale.
+
+
+Crispin Rugemalira <ccrugemalira@gmail.com>. Local Project Lead
+        US Peace Corps IT Specialist in Tanzania, Tanzanian 
+
+
+Edgar Telesphory <edgar@fossfa.net> Technical Consultant
+        Leader of the Software and Open Source Foundation for Africa in Tanzania
+
+
+Lisa Cole (mother of Jacob Cole) <lmcole@pacbell.net> Education Liaison
+        Education Peace Corps Volunteer in Tanzania 
+        Former director of health education at UCSD
+
+
+Prabhav Jain <jainp@mit.edu>, Telepresence Specialist
+        BS Computer Science, MIT 2013
+Cofounder, EagerPanda.com, video-conference based learning platform
+
+
+Bruno Faviero <bfaviero@mit.edu>. MIT Project Lead
+        President of MIT Startlabs, MIT’s largest software hackerspace
+        Co-organizer of HackMIT, the largest hackathon of all time
+        Plans HackerCast link with Tanzanian group at next HackMIT, Oct 2013
+
+
+Sally Susnowitz <susnowit@MIT.EDU> Advisor
+Director, MIT Public Service Center        
+
+
+Additional links 
+Resources for beginner programmers:
+“Edugaming Scratch Notes” <http://www.jacobblog.tpclubs.com/2012/08/edugaming-scratch-notes/>
+“Why is programming awesome?” <http://whyisitawesome.wikispaces.com[a]/Programming>
+Budget
+I request sponsorship of $5000 to up to $6600 to run the event. Top sponsors will gain naming rights to an event that’s expected to get heavy media attention in Tanzania and possibly worldwide, and all will get a chance to engage with top programmers at MIT and in Tanzania.
+Funding requested: $6600
+        Travel expenses:                 $5300
+                Flights:                        $3500
+                Visa, Insurance:        $400
+                Vaccinations/Medical:        $100
+                Transportation:         $300
+                Lodging:                 $1000
+
+
+        Event expenses:                $1300
+                API Credits:                 $100
+                Venue (TZ):                 $250
+                Venue (USA):                 $250
+                Food:                         $200
+                Equipment & Phone:        $500
+
+
+Funding sources: $3250
+        Personal contribution: $1250
+        MIT Public Service Center Grant: $1000
+        MIT Startlabs: $1000
+        Corporate Sponsorship?
+Angel Investors (Todd Welch?)
+[a]edgar
