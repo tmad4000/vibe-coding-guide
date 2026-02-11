@@ -47,9 +47,9 @@ Before anything else, you need API access to use Claude Code:
    # Or add to your ~/.zshrc or ~/.bashrc for persistence
    ```
 
-**Switch to the latest model (Opus 4.5):**
+**Use the most capable model (Opus 4.6):**
 
-By default, Claude Code uses Sonnet. To use Opus 4.5 (the most capable model):
+Claude Code defaults to Opus 4.6 for Max/Teams/Pro users. If you're on the API or want to switch models:
 
 ```bash
 # In Claude Code, run:
@@ -77,10 +77,8 @@ claude --dangerously-skip-permissions
 
 For complex problems, enable extended thinking to let Claude reason more deeply:
 
-```bash
-# In Claude Code:
-/think
-```
+- **Toggle with keyboard:** `Option+T` (macOS) or `Alt+T` (Linux/Windows)
+- **Or use natural language:** just say "think harder" or "ultrathink" in your prompt
 
 This gives Claude more "thinking time" for harder tasks.
 
@@ -410,16 +408,16 @@ nosleep --off
 
 **Why not Amphetamine?** Amphetamine + Amphetamine Enhancer works great for GUI workflows, but for terminal-heavy vibe coding, a script is faster and can be automated. Use whichever fits your workflow.
 
-### Enable Wake for Wi-Fi Network Access
+### Enable Wake-on-LAN for Remote Access
 
-For remote access (SSH) when you're away, enable `networkoversleep` so your Mac can wake from sleep for network requests:
+For remote access (SSH) when you're away, enable Wake-on-LAN (`womp`) so your Mac can wake from sleep for incoming network connections:
 
 ```bash
 # Enable only when plugged in (recommended)
-sudo pmset -c networkoversleep 1
+sudo pmset -c womp 1
 
 # Or enable for both battery and AC power
-sudo pmset -a networkoversleep 1
+sudo pmset -a womp 1
 ```
 
 **The flags:**
@@ -427,17 +425,19 @@ sudo pmset -a networkoversleep 1
 - `-b` = battery only
 - `-a` = all (both)
 
-**Battery impact:** Minimal (~0.5% extra per day). The Wi-Fi radio stays in low-power listening mode. If you already have Power Nap enabled, this adds negligible drain on top of that.
+**Battery impact:** Minimal. The network interface stays in low-power listening mode.
+
+**Note:** `networkoversleep` is a different setting that controls how macOS presents shared network services during sleep — it does NOT wake your Mac for incoming connections. Use `womp` for wake-on-network.
 
 **When to use what:**
 
 | Scenario | Solution |
 |----------|----------|
 | Active Claude Code session, closing lid | `nosleep --on` |
-| Away from home, want SSH access if Mac sleeps | `networkoversleep 1` |
+| Away from home, want SSH access if Mac sleeps | `womp 1` |
 | Both (belt and suspenders) | Use both |
 
-**Note about `caffeinate`:** Standard `caffeinate` only prevents *idle* sleep. It does NOT prevent lid-close (clamshell) sleep, and it doesn't help the Mac wake for incoming SSH connections. For remote access, you need either `nosleep` or `networkoversleep`.
+**Note about `caffeinate`:** Standard `caffeinate` only prevents *idle* sleep. It does NOT prevent lid-close (clamshell) sleep, and it doesn't help the Mac wake for incoming SSH connections. For remote access, you need either `nosleep` or `womp`.
 
 ---
 
@@ -500,7 +500,7 @@ This helps Claude stay organized and gives you visibility into progress.
 
 **Install:**
 ```bash
-npm install -g @anthropic-ai/beads
+npm install -g @beads/bd
 ```
 
 **Initialize in your project:**
@@ -1148,4 +1148,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2026-02-06*
+*Last updated: 2026-02-10*
