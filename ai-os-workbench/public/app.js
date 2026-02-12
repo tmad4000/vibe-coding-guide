@@ -281,10 +281,6 @@ async function sendChat(message) {
     if (response.reply.surface) {
       renderSurface(response.reply.surface);
     }
-
-    for (const action of response.reply.actions || []) {
-      runAction(action);
-    }
   } catch (error) {
     state.chatLog.push({
       role: "assistant",
