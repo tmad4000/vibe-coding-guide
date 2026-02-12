@@ -1,14 +1,16 @@
+# Aieducation
+
 AI For Personalized Education Brainstorm
 [Short URL: aieducation.jacobcole.net](http://aieducation.jacobcole.net)
 
 Table of Contents
-[[Notes:](#h.6zjiczfoqov9)1](#h.6zjiczfoqov9)
-[[Research Question:](#h.tpe3y1xv6zsw)1](#h.tpe3y1xv6zsw)
-[[Scratch Notes](#h.y7pkgchowpm6)2](#h.y7pkgchowpm6)
-[[From Chat](#h.r5huhnhdt8bf)3](#h.r5huhnhdt8bf)
-[[People](#h.pjcysgdnl4x0)4](#h.pjcysgdnl4x0)
-[[Reference](#h.nawa3iu6d368)4](#h.nawa3iu6d368)
-[[Resources](#h.1i6w333ilw74)7](#h.1i6w333ilw74)
+- [Notes:](#notes)
+- [Research Question:](#research-question)
+- [Scratch Notes](#scratch-notes)
+- [From Chat](#from-chat)
+- [People](#people)
+- [Reference](#reference)
+- [Resources](#resources)
 Events        1
 
 # Notes:
@@ -56,7 +58,7 @@ Jacob
 - Get you into things
 
 ## Scratch Notes
-#todo contribute to:
+Tags:, todo, contribute, to:
 Why is it awesome whyisitawesome.jacobcole.net
 Admitsphere.jacobcole.net
 
@@ -148,7 +150,7 @@ My friend’s suggestions:
 19. What Remains of Edith Finch
 20. Elder Scroll V: Skyrim
 
-#idea* virtual bio lab game, circuit sim, etc
+Tags:, idea*, virtual, bio, lab, game,, circuit, sim,, etc
 
 General Possibly Interesting Projects Going on in Edtech/Edugames
 https://codeherogame.wordpress.com/
@@ -162,11 +164,11 @@ https://www.npr.org/sections/ed/2016/08/05/488669276/remembering-a-thinker-who-t
 
 Carl shan, andrew liu #supporter?
 
-#edu thunkable
+Tags:, edu, thunkable
 
 [#Edugaming Scratch Notes http://www.jacobblog.tpclubs.com/2012/08/edugaming-scratch-notes/](http://www.jacobblog.tpclubs.com/2012/08/edugaming-scratch-notes/)
 
-#meditation #o #t #learn Navy seal breathing exercise <> Qigong, better teaching #meditation
+Tags:, meditation, o, t, learn, Navy, seal, breathing, exercise, <>, Qigong,, better, teaching, meditation
 
 [#relatedwork #book #education The Diamond Age: Or, A Young Lady's Illustrated Primer  https://en.wikipedia.org/wiki/The_Diamond_Age](https://en.wikipedia.org/wiki/The_Diamond_Age)
 
@@ -180,8 +182,8 @@ Health insurance policy
 Typing with brain! <> A connection of mine patented a technology that allows for brain typing, will be reaching out to him shortly to discuss sensors and add him! He’s waiting for people to take notice of his technology, and I think this application of his invention would interest him 🙂 Celine Shaw Celine
 
 + Another thing is learning disabilities, imagine if AI can adapt to your physical needs to help you do your work without interruption.
-#idea: so volunteer work actually improves health, can we incorporate technology and
-#policy: make the legislation available
+Tags:, idea:, so, volunteer, work, actually, improves, health,, can, we, incorporate, technology, and
+Tags:, policy:, make, the, legislation, available
 https://becominghuman.ai/deep-learning-for-sensor-based-human-activity-recognition-970ff47c6b6b?gi=81ad4bbf8879 Deep learning for sensor-based human activity recognition A detailed analysis of my deep learning approach to HAR. becominghuman.ai
 
 I have some cool papers/videos perhaps just out of pure reverence for the application of engineering and educational advancement:
@@ -210,27 +212,27 @@ I think that schools and public education is really unrefined in general, actual
 
 For me, I really got super lucky because I met adults who favored me in a way where they personally took the time to open the door to specialized interest in learning. Whether it was a university professor who agreed to just meet up with me weekly and discuss some of the issues in global energy, or my high school biology teacher teaching me what it truly meant to be a critical thinker and question everything. Teachers are more than just textbooks, they have to teach you a certain philosophy, they teach you how to respect and be kind to others, we should be learning how to be human. Knowledge is garnered through experience, books, your own thinking, and practice. Like I guess tests are pretty good for pressuring you into memorizing a lot of stuff, but it's just not the same as real-life application and repetition and practice. I have learned a lot from cramming stuff into my head for sure, but to be honest I feel like I've lost a lot of knowledge and it kind of hurts me to know that I was so smart but all the information I worked so hard to build up has no real application/usage. Textbooks try to combat this by trying to do word problems, or like put in real-life applications; teachers try to give out lab experiments. #idea AI that works like internet cookies Browsing through the internet has a real power to it in that sense. AI has captured my imagination because of the philosophies of human consciousness, this is actually something one of my best friends and I have talked about in huge detail. He runs an AI company and he's interested in the idea of "to sell is human". So his company helps marketers figure out what to do, what to say, it helps companies SELL. AIs are capable of empathizing with humans, or at least mimicking it, and this is groundbreaking for me. When we incorporate behaviorial economics with design of social systems, I think the quality of our education and life will be exponentially more efficient and beautiful. We draw back to the question of why -- why do we go to such lengths to achieve humanity in our education? It's more the question that if we stick to such rigid systems, what we aren't training is the intuitiveness of humans, which will never be measured nor explained. Have we taught people how to take initiative, to take risks, to have passion and work ethic? #problem We expect kids nowadays to just have a passion/dream at such a young age and they have 0 to no help doing it. WE need other people to grow, we must feel like we BELONG, to a community. #problem We cannot achieve anything in isolation -- it doesn't matter if you isolate yourself in the woods for like 10 years and invent calculus like Newton did, or fall in love with only a pigeon and become an electrical pioneer like Tesla. Well at least that inspirational talk is nice, but logistically speaking the idea would be similar to some books I've read on homeschool education and a few examples of how AI is breaking through technology
 
-#idea - a AI buddy that helps secretary and combines all your stuff and hashtags
-#idea - system that de-offends -- can be scaled up to international policies and public relations
+Tags:, idea, -, a, AI, buddy, that, helps, secretary, and, combines, all, your, stuff, and, hashtags
+Tags:, idea, -, system, that, de-offends, --, can, be, scaled, up, to, international, policies, and, public, relations
 
-#problem the flow issue
+Tags:, problem, the, flow, issue
 
-#question health effects of chronic VR use, position paper on importance of long term studies early in technology deployments, vis-a-vis social media use addiction studies only now coming forward #idea public position paper/op-ed?
+Tags:, question, health, effects, of, chronic, VR, use,, position, paper, on, importance, of, long, term, studies, early, in, technology, deployments,, vis-a-vis, social, media, use, addiction, studies, only, now, coming, forward, idea, public, position, paper/op-ed?
 
-#idea virtual classroom to distribute educational resources across differently ranked districts
+Tags:, idea, virtual, classroom, to, distribute, educational, resources, across, differently, ranked, districts
 
-#idea braintyping + vr google glass +word to text +google face emotion detection
-#problem something that can scan for instances of implicit bias
+Tags:, idea, braintyping, +, vr, google, glass, +word, to, text, +google, face, emotion, detection
+Tags:, problem, something, that, can, scan, for, instances, of, implicit, bias
 
-#idea something that scans textbook sections and tries to match different texts with different learning styles
+Tags:, idea, something, that, scans, textbook, sections, and, tries, to, match, different, texts, with, different, learning, styles
 
-#question: how can we design
+Tags:, question:, how, can, we, design
 - Ask people about their experiences with discouragement
 - Age 18+, consider questions to design to counteract lies
 
 -ethical questions that need to be tested before going on actual human beings, we might be able use simulation, wihthin the flow problem we cannot be in a position  unt il we use background search until flow is interrupted
-#ideas Sensors
-#idea Celine’s spreadsheet creepy thing from high school with survey and chart it
+Tags:, ideas, Sensors
+Tags:, idea, Celine’s, spreadsheet, creepy, thing, from, high, school, with, survey, and, chart, it
 Group core rules:
 - Cynicalism is good
 - Ideas should flow
@@ -248,9 +250,9 @@ http://www.bumblebeesystems.com/wastenotime/ -- set to block your googling in C
 
 [#Literature https://drive.google.com/file/d/1kRfDCn_v5m3qdgEfoGitAV749HuBhj77/view?usp=drivesdk](https://drive.google.com/file/d/1kRfDCn_v5m3qdgEfoGitAV749HuBhj77/view?usp=drivesdk) ERP training with a web-based electronic learning system: The flow theory perspective Duke Hyun Choi, Jeoungkun Kim, Soung Hie Kim International Journal of Human-Computer Studies 65 (3), 223-243, 2007
 
-#miniproject: research on how we learn
+Tags:, miniproject:, research, on, how, we, learn
 
-#sap
+Tags:, sap
 
 ### Events
 [#events: https://events.sap.com/ais19-id/en/sponsor1](https://events.sap.com/ais19-id/en/sponsor1)

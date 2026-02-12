@@ -1,13 +1,15 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > nvc.jacobcole.net](http://nvc.jacobcole.net)
+# Nvc
+
+[systematicawesome.jacobcole.net > nvc.jacobcole.net](http://nvc.jacobcole.net)
 [Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 NVC – Nonviolent Communication and Compassionate Communication
 How to get into NVC and Compassionate Communication. “The language of life”... helps you connect with what’s alive in people even when it’s “negative” energy.
 
 "The energy coming through people is, for me, a very beautiful divine energy. When I can really stay connected with it, I feel like I'm riding in a very precious flow of energy." ~Marshall Rosenberg #NVC
 
-[[See Also: nvctranslator.com](http://nvctranslator.com) • Compassionate Communication](https://www.now-here.global/compassionate-communication)
+[See Also: nvctranslator.com • Compassionate Communication](https://www.now-here.global/compassionate-communication)
 
-# [[[[Feelings](https://www.notion.so/jacobblog/NVC-Feelings-List-58075cad8c0d4feba98b304a3a70036b?pvs=4) (pdf](https://drive.google.com/file/d/1ONXFaI9jmFueV-AKbPmkInabmq7wQZzB/view?usp=drive_link)) and Needs](https://www.notion.so/jacobblog/NVC-Needs-List-331dd10f8de04b85bea25793e3495752?pvs=4) (pdf](https://drive.google.com/file/d/1ME6-TazgAXmskKTrmImft8EGgNKTBY2u/view?usp=drive_link)) Lists
+# [Feelings (pdf ) and Needs (pdf](https://drive.google.com/file/d/1ME6-TazgAXmskKTrmImft8EGgNKTBY2u/view?usp=drive_link)) Lists
 
 # [NVC explained by Marshall Rosenberg | Giraffe Language and Jackal Language – YouTube](https://youtu.be/Xov5z_GJ9Zs) (6 min) AMAZING
 
@@ -21,11 +23,11 @@ How to get into NVC and Compassionate Communication. “The language of life”.
 
 ## Tips on How to Get Started
 - [Watch Giraffe Language and Jackal Language | Nonviolent Communication explained by Marshall Rosenberg - YouTube](https://youtu.be/Xov5z_GJ9Zs)(6 min) – AMAZING
-- [[[Read NVC, the Book](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X). Audio book](https://www.audible.com/pd/Nonviolent-Communication-Audiobook/B00TJJNSQG?source_code=GPAGBSH0508140001&ipRedirectOverride=true&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuYe6W33IR5g5YbZpEIZzT0YC8RsStp48WwpnldDAfff0cOy9FoAenIaAkUCEALw_wcB&gclsrc=aw.ds), narrated by Rosenberg, is great (his voice exudes compassion). Free Digital Copy](https://drive.google.com/file/d/1fvWlh6WGaN7-UccEgdTiISRKMcVOMqsK/view?usp=drive_link)
+- [Read NVC, the Book . Audio book , narrated by Rosenberg, is great (his voice exudes compassion). Free Digital Copy](https://drive.google.com/file/d/1fvWlh6WGaN7-UccEgdTiISRKMcVOMqsK/view?usp=drive_link)
 
 - [And/or Watch the AWESOME 2 hour Youtube talk by Marshall Rosenberg](https://www.youtube.com/watch?v=l7TONauJGfc&t=983s)
 
-- [[[[Use this feelings](https://www.notion.so/jacobblog/NVC-Feelings-List-58075cad8c0d4feba98b304a3a70036b?pvs=4) (pdf](https://drive.google.com/file/d/1ONXFaI9jmFueV-AKbPmkInabmq7wQZzB/view?usp=drive_link)) and needs](https://www.notion.so/jacobblog/NVC-Needs-List-331dd10f8de04b85bea25793e3495752?pvs=4) (pdf](https://drive.google.com/file/d/1ME6-TazgAXmskKTrmImft8EGgNKTBY2u/view?usp=drive_link)) list
+- [Use this feelings (pdf ) and needs (pdf](https://drive.google.com/file/d/1ME6-TazgAXmskKTrmImft8EGgNKTBY2u/view?usp=drive_link)) list
 
 - Memorize the 5  categories feelings and 7 categories of needs
 

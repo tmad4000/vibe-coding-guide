@@ -1,4 +1,6 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > bookslist.jacobcole.net](http://bookslist.jacobcole.net)
+# Bookslist
+
+[systematicawesome.jacobcole.net > bookslist.jacobcole.net](http://bookslist.jacobcole.net)
 
 Table of Contents
 [Inbox (to process)](#h.l4a1vdgkflg6)
@@ -12,15 +14,15 @@ Table of Contents
 [Short Stories](#h.sysekbaj14o)
 [Philosophically Thought Provoking in a Meditative Awakening Way](#h.1s38zv4amld0)
 
-[[[[[See Also: philosophy.jacobcole.net](http://philosophy.jacobcole.net) • Jacob’s Raw Books List](https://docs.google.com/document/d/10hCB_gzJZ-Ns5JUkxpPR0DLKXSsCGRUYmsFvrCsairc)• lifechangingthings.jacobcole.net](http://lifechangingthings.jacobcole.net/) •/quoteslist.jacobcole.net](http://quoteslist.jacobcole.net/) • http://thoughtfulweb.jacobcole.net/](http://thoughtfulweb.jacobcole.net/)
+[See Also: philosophy.jacobcole.net • Jacob’s Raw Books List • lifechangingthings.jacobcole.net •/quoteslist.jacobcole.net • http://thoughtfulweb.jacobcole.net/](http://thoughtfulweb.jacobcole.net/)
 
 [Related:Will Zeng’s “Public Library” Google Doc](https://docs.google.com/document/d/1MSrb1cnKiE8B507Nub9IXK2d3wF3x7PP8_EFf2HbUJc/edit)
 
 Notable Tags:
-#artful on particularly artfully written books
+Tags:, artful, on, particularly, artfully, written, books
 
 Inbox (to file):
-[[Great Thinkers](https://www.amazon.com/Great-Thinkers-thinkers-improve-Library/dp/0993538703) (esp. Heidegger section). ~by The School of Life  (Author), Stuart Patience (Illustrator), Alain de Botton;  See also: http://heidegger.jacobcole.net/](http://heidegger.jacobcole.net/)
+[Great Thinkers (esp. Heidegger section). ~by The School of Life  (Author), Stuart Patience (Illustrator), Alain de Botton;  See also: http://heidegger.jacobcole.net/](http://heidegger.jacobcole.net/)
 
 ## Inbox (to process)
 Drive by Daniel Pink
@@ -151,14 +153,14 @@ General ref:
 - Aesthetics of Change ~Bradford Keeney #Jacob
 - Logicomix #Jacob
 - [The Body in Pain: The Making and Unmaking of the World by Elaine Scarry](http://www.amazon.com/Elaine-Scarry/e/B001IYVNW6/ref=ntt_athr_dp_pel_1) #Jacob
-- [[Neuromancer by William Gibson #artful; recommended to me bunch of times, most recently I saw in a comment on a YouTube video: http://www.youtube.com/watch?v=FWo12rhz_TQ](http://www.youtube.com/watch?v=FWo12rhz_TQ) “This is very very intriguing! Granted his idea of Cyberspace is a pretty much a 3d hallucination﻿ that you control your actions via brainwaves hooked up with trodes.... Still, very interesting. I wonder how well the alpha and beta waves can interact with this. Most engaging. “ ~EJL2004 http://www.youtube.com/user/EJL2004](http://www.youtube.com/user/EJL2004) (AMAZING BOOK, will definitely get you into cyberpunk books and make you want more! - eric)
+- [Neuromancer by William Gibson #artful; recommended to me bunch of times, most recently I saw in a comment on a YouTube video: http://www.youtube.com/watch?v=FWo12rhz_TQ “This is very very intriguing! Granted his idea of Cyberspace is a pretty much a 3d hallucination﻿ that you control your actions via brainwaves hooked up with trodes.... Still, very interesting. I wonder how well the alpha and beta waves can interact with this. Most engaging. “ ~EJL2004 http://www.youtube.com/user/EJL2004](http://www.youtube.com/user/EJL2004) (AMAZING BOOK, will definitely get you into cyberpunk books and make you want more! - eric)
 - Blindness by José Saramago #Jacob
 
 - Anna Karenina #Jacob
 - Steven Erikson “Malazan Book of the Fallen” series #Angela
 - Mountains Beyond Mountains: Healing the World: The Quest of Dr. Paul Farmer
 - Predictably Irrational
-- [[Do Androids Dream of Electric Sheep?](http://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F) (basis of Blade Runner)~Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick)
+- [Do Androids Dream of Electric Sheep? (basis of Blade Runner)~Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick)
 
 Bathroom reads: (Good new category yes? #Eric)
 
@@ -168,7 +170,7 @@ Bathroom reads: (Good new category yes? #Eric)
 - After the Quake #Eric
 
 ### Recommended book list for TedX Oxford (w/ descriptions)
-#Jacob
+Tags:, Jacob
 [Moonwalking with Einstein](http://books.google.com/books?id=-Ac81W-ZQDEC&printsec=frontcover&dq=Moonwalking+with+Einstein&hl=en&sa=X&ei=kmPKUqanJJbYoATn94CgBw&ved=0CDoQ6AEwAA#v=onepage&q=Moonwalking%20with%20Einstein&f=false) ~Joshua Foer -- an eloquent sequence of fresh insights on how memory is a profound root of cognition, and the story of its author, former US memory champion Joshua Foerr. This is where my verbiage of "becoming aware of the tension systems" in objects in the world comes from: Foerr describes how the difference between a novice at chess and a master's thinking can be found in their eye movement patterns and language – a novice sees the board as a disparate collection of pieces, whereas the master sees the pieces is having an elaborate network of tensions between them.
 
 [The Art of Learning](http://books.google.com/books?id=aAYcmC-_sM8C&printsec=frontcover&dq=the+art+of+learning&hl=en&sa=X&ei=t5-sUJHDHM6J0QGCooHwAg&ved=0CC0Q6AEwAA#v=onepage&q=the%20art%20of%20learning&f=false)~Josh Waitzkin -- Burnt-out chess prodigy becomes Tai chi master and world champion, in the process discovering how to channel the forces in his mind, body, and the world around him that cause him to act. (I contend that tai chi is the art of becoming aware of the tension systems in one's mind, body, and the world around you!)
@@ -185,7 +187,7 @@ Secondly, I feel like there's just as much or more to be learned from the exampl
 [Incidentally, its author is famous AI researcher Eliezer Yudkowsky, head of the Singularity Institute/MIRI and also the founder of lesswrong.com](http://lesswrong.com/), an online community dedicated to furthering rational thought.
 [It's free online at hpmor.com](http://hpmor.com/) . The first 17 chapters are also available in a printable book you can give out to people. We can probably get a box of 50 of these to give out for free, though it would be great to donate money to their organization.
 
-[[The Name of the Wind - Patrick Rothfuss](http://www.patrickrothfuss.com/content/books.asp), and its sequel Wise Man's Fear](http://www.amazon.com/The-Wise-Mans-Fear-Kingkiller/dp/0756407915) -- a recent fantasy novel with music in its words that has characters so vibrant you want to get up and emulate them. Those interested in education would learn a great deal from that behavior of the main character. (Incidentally, the author, who spoke here at the worldbuilders society last term, spent nine years as an undergraduate)
+[The Name of the Wind - Patrick Rothfuss , and its sequel Wise Man's Fear](http://www.amazon.com/The-Wise-Mans-Fear-Kingkiller/dp/0756407915) -- a recent fantasy novel with music in its words that has characters so vibrant you want to get up and emulate them. Those interested in education would learn a great deal from that behavior of the main character. (Incidentally, the author, who spoke here at the worldbuilders society last term, spent nine years as an undergraduate)
 
 ### Short Stories
 The Egg ~Andy Weir

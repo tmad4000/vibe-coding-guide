@@ -1,4 +1,6 @@
-[[Things You Didn’t Know Existed in Hawaiithingsyoudidntknowexisted.jacobcole.net](http://thingsyoudidntknowexisted.jacobcole.net) >thingsyoudidntknowexistedinhawaii.jacobcole.net](http://thingsyoudidntknowexistedinhawaii.jacobcole.net)
+# Thingsyoudidntknowexistedinhawaii
+
+[Things You Didn’t Know Existed in Hawaiithingsyoudidntknowexisted.jacobcole.net >thingsyoudidntknowexistedinhawaii.jacobcole.net](http://thingsyoudidntknowexistedinhawaii.jacobcole.net)
 Contribute to the list at top!                                                                                                                                             started by jacob@ideaflow.io
 
 [Notice: does anyone want to help me make a web app for this? I want to make an app for the site: thingsyoudidntknowexisted.connectr.site, which transcends and includes thingsyoudidntknowexistedatmit](http://thingsyoudidntknowexistedatmit.jacobcole.net), this page, and more. (Maybe thingsyoudidntknowexistedthatarerelevanttoyou. If so, email me at jacob@ideaflow.io)
@@ -62,7 +64,7 @@ Diamond head — Intermediate surf, possible for beginners but not on their firs
 [Wendy Medeiros, Inventor of the wrist widget world expert on TFCC injury – #BigIsland https://www.wristwidget.com/pages/about-us](https://www.wristwidget.com/pages/about-us)
 
 Maui
-#Hawaii #taichi #Maui
+Tags:, Hawaii, taichi, Maui
 Jan osterneck taichimaui.com <>#taichi contentgalaxy.com…
 
 Ajaya summers #bodymaster <>continuum #sf #maui #hawaii
@@ -81,7 +83,7 @@ Maui
  Star noodle #Lahaina #maui #Restaurant #hawaii
 Tamora poke
 
-#groceryStore
+Tags:, groceryStore
  Tamura's Market Wailuku
 (808) 242-1414
 https://goo.gl/maps/9KioJZ8jRrY3L269A
@@ -108,7 +110,7 @@ Oahu
 - [Billion Pocha #Korean https://goo.gl/maps/wPKd8N2wETqLt2ot9](https://goo.gl/maps/wPKd8N2wETqLt2ot9)
 -
 
-#oahu #Restaurant #hawaii (Phoebe’s list)
+Tags:, oahu, Restaurant, hawaii, (Phoebe’s, list)
 - Nico’s Pier 38 – specialty: furikake salmon
 
 - Sasabune (sushi) – “A lot of people love it, but it’s not my and my mother’s favorite”
@@ -167,13 +169,13 @@ Ori, nikhil, karen yang, amelie, phoebe, yehong
 
 ## Inbox (to file):
 
-#oahu
-#surf
+Tags:, oahu
+Tags:, surf
 Chuns reef #beginner
 
 Haleiwa #intermediate
 -
-#kauai
+Tags:, kauai
 Russell's #Restaurant #vegan
 Maha ule pu — #trailrunning
 Shipwrecks cliff jumping
@@ -204,11 +206,11 @@ Best Hawaiian food kalihi #oahu  #hawaii
 Helena's Hawaiian Food
 https://www.google.com/search?q=best+hawaiin+food&rlz=1CDGOYI_enUS659US660&oq=best+hawaiin+food&aqs=chrome..69i57j69i60l3j69i61j69i65.2674j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8&dlnr=1&sei=cntZYISEEcOq0PEP0-e6gA4#dlnr=1&trex=m_t:lcl_akp,rc_f:rln,rc_ludocids:1999430406045260437,ru_lqi:ChliZXN0IGhhd2FpaWFuIGZvb2Qga2FsaWhpIgOoAQFI0pCHX1o5ChJiZXN0IGhhd2FpaWFuIGZvb2QQABABEAIYARgCIhliZXN0IGhhd2FpaWFuIGZvb2Qga2FsaWhpkgETaGF3YWlpYW5fcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSSk1tWXlObE5uRUFFqgEqCggvbS8wMndibQoJL20vMDUzbjEwEAEqESINaGF3YWlpYW4gZm9vZCgA,ru_phdesc:ftyCqDarT9A,trex_id:gcBnCc
 
-#mem banana split after golf #hawaii
+Tags:, mem, banana, split, after, golf, hawaii
 
-#hawaii #oahu Ben Williams
+Tags:, hawaii, oahu, Ben, Williams
 
-#food #fish opa ~mom #hawaii #SanDiego
+Tags:, food, fish, opa, ~mom, hawaii, SanDiego
 
 Right pubic symph right
 Beth riley #sf
@@ -216,7 +218,7 @@ Ajaya summers #bodymaster <>continuum #sf #maui #hawaii
 Susan Harper — did body movement -
 Joe Esther
 
-#hawaii coconut island
+Tags:, hawaii, coconut, island
 Kahina beach secret beach black sand - note: its a nude beach
 Green sand beach olivine
 Lavender farm
@@ -239,19 +241,19 @@ It’s been pretty great :)
 I’ve been keeping a list!
 
 Pho bistro 2 #oahu #Restaurant  — the beef pho was unbelievable!
-#hawaii
-#Restaurant #hawaii Da Ono Hawaiian Food, 726 Kapahulu Ave, Honolulu, HI 96816 — Hawaiian lau lau was great :)
+Tags:, hawaii
+Tags:, Restaurant, hawaii, Da, Ono, Hawaiian, Food,, 726, Kapahulu, Ave,, Honolulu,, HI, 96816, —, Hawaiian, lau, lau, was, great, :)
 
 Tonight we dine in Oahu!
 
 Mexico
 Serges #oahu
-#rest
+Tags:, rest
 
 One'ula beach park #surf #oahu #hawaii
 
 Chuns reef
-#oahu
+Tags:, oahu
 Haleiwa #surf
 -
 Russell's #Restaurant #vegan #kauai
@@ -264,7 +266,7 @@ Wailua shaved ice
 Kalalea juice hale —acai bowls #hawaii
 
 David chuck
-#Massagetherapist #oahu <>Spencer Kim #tt*... #hawaii
+Tags:, Massagetherapist, oahu, <>Spencer, Kim, tt*..., hawaii
 
 Pho bistro 2 #oahu #Restaurant
 
@@ -280,15 +282,15 @@ Best Hawaiian food kalihi #oahu  #hawaii
 Helena's Hawaiian Food
 https://www.google.com/search?q=best+hawaiin+food&rlz=1CDGOYI_enUS659US660&oq=best+hawaiin+food&aqs=chrome..69i57j69i60l3j69i61j69i65.2674j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8&dlnr=1&sei=cntZYISEEcOq0PEP0-e6gA4#dlnr=1&trex=m_t:lcl_akp,rc_f:rln,rc_ludocids:1999430406045260437,ru_lqi:ChliZXN0IGhhd2FpaWFuIGZvb2Qga2FsaWhpIgOoAQFI0pCHX1o5ChJiZXN0IGhhd2FpaWFuIGZvb2QQABABEAIYARgCIhliZXN0IGhhd2FpaWFuIGZvb2Qga2FsaWhpkgETaGF3YWlpYW5fcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSSk1tWXlObE5uRUFFqgEqCggvbS8wMndibQoJL20vMDUzbjEwEAEqESINaGF3YWlpYW4gZm9vZCgA,ru_phdesc:ftyCqDarT9A,trex_id:gcBnCc
 
-#oahu kailua
+Tags:, oahu, kailua
 
 The really interesting sightings for me are the crafts that are seen emerging from the ocean. What's the percentage of the ocean that's still entirely unexplored? Something over 90%?  Hmmm. I wonder why that is?
 
 https://www.insideedition.com/pentagon-launching-task-force-to-investigate-ufo-sightings-61276
-#eti
+Tags:, eti
 https://www.insideedition.com/witnesses-call-911-after-possible-ufo-sighting-off-hawaiian-island-oahu-64084
 
-#hawaii #oahu Ben Williams
+Tags:, hawaii, oahu, Ben, Williams
 
 Diamond head oahu
 

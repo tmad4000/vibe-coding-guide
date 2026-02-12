@@ -1,5 +1,7 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  coronavirus.jacobcole.net](http://coronavirus.jacobcole.net)
-[[Contact: systematicAwesome@gmail.com](mailto:systematicawesome@gmail.com), jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+# Coronavirus
+
+[systematicawesome.jacobcole.net >  coronavirus.jacobcole.net](http://coronavirus.jacobcole.net)
+[Contact: systematicAwesome@gmail.com , jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute new items at the tops of lists!                        
 
@@ -7,35 +9,34 @@ Coronavirus Resources #connectorDoc #curatedList
 Gathered resources in responding to coronavirus
 Add items yourself
 
-[[Efficient Ways to Take Action](#h.nfkaeilq9eyt)1](#h.nfkaeilq9eyt)
-[[Products:](#h.vs5orc1u0yv9)1](#h.vs5orc1u0yv9)
-[[General Stuff to buy:](#h.jj51lgafpzqo)2](#h.jj51lgafpzqo)
-[[Medicines](#h.v48nyic4zuap)2](#h.v48nyic4zuap)
-[[Other Consumables](#h.l46h7qpiisrh)2](#h.l46h7qpiisrh)
-[[Precautionary Measures](#h.wmx41pye1u09)2](#h.wmx41pye1u09)
-[[(Guidelines for self- or other-care at home)](#h.484hfhy2wc4x)2](#h.484hfhy2wc4x)
-[[“Coronavirus precautionary measures by James Robb, MD UC San Diego.](#h.f9bpe0s5hj6x)2](#h.f9bpe0s5hj6x)
-[[The following is from an Asst. Prof in infectious diseases at Johns Hopkins University:](#h.xm6e1tgfsrhw)3](#h.xm6e1tgfsrhw)
-[[Interesting Info](#h.ommlhi9jz10e)4](#h.ommlhi9jz10e)
-[[Scratch Notes](#h.cjxlsjzhmsy7)4](#h.cjxlsjzhmsy7)
-[[Treatments](#h.g27674soql24)5](#h.g27674soql24)
-[[Brainstorming on Cures / Treatment Etc.](#h.alwjg68k7vl4)5](#h.alwjg68k7vl4)
-[[Feed of Needs](#h.rtlobv92pwge)6](#h.rtlobv92pwge)
-[[Live Notes from Thoughtstream](#h.ssflmsqo4pb0)6](#h.ssflmsqo4pb0)
+- [Efficient Ways to Take Action](#efficient-ways-to-take-action)
+- [Products:](#products)
+- [General Stuff to buy:](#general-stuff-to-buy)
+- [Medicines](#medicines)
+- [Other Consumables](#other-consumables)
+- [Precautionary Measures](#precautionary-measures)
+- [(Guidelines for self- or other-care at home)](#guidelines-for-self-or-other-care-at-home)
+- [“Coronavirus precautionary measures by James Robb, MD UC San Diego.](#coronavirus-precautionary-measures-by-james-robb-md-uc-san-diego)
+- [The following is from an Asst. Prof in infectious diseases at Johns Hopkins University:](#the-following-is-from-an-asst-prof-in-infectious-diseases-at-johns-hopkins-university)
+- [Interesting Info](#interesting-info)
+- [Scratch Notes](#scratch-notes)
+- [Treatments](#treatments)
+- [Brainstorming on Cures / Treatment Etc.](#brainstorming-on-cures-treatment-etc)
+- [Feed of Needs](#feed-of-needs)
+- [Live Notes from Thoughtstream](#live-notes-from-thoughtstream)
 
 ## Efficient Ways to Take Action
 
 OperationMasks.org #good #competent
 Best way to get PPE to healthcare workers
-#lookingFor money donations
+Tags:, lookingFor, money, donations
 <>flexport
 
 [Frontline responders fund https://www.gofundme.com/f/frontlinerespondersfund](https://www.gofundme.com/f/frontlinerespondersfund)
-#lookingFor loans (12 mo or end of crisis), not donations while gov is going slowly
+Tags:, lookingFor, loans, (12, mo, or, end, of, crisis),, not, donations, while, gov, is, going, slowly
 
 Some of our investors are facilitating a global coronavirus hackathon the next several days (26-30)! See below! Even if you're not able to participate, add to the Idea/Problems Idea Bank! #hackathon
-[[[[Coronavirus Idea Bank:](http://covid19hackideas.jacobcole.net/)Covid19HackIdeas.jacobcole.net](http://covid19hackideas.jacobcole.net/)
-People Directory:](http://covid19hack.jacobcole.net)Covid19Hack.jacobcole.net](http://covid19hack.jacobcole.net)
+[Coronavirus Idea Bank: Covid19HackIdeas.jacobcole.net People Directory: Covid19Hack.jacobcole.net](http://covid19hack.jacobcole.net)
 ["A global Hackathon to build tools to help with coronavirus is coming together this Thursday and Friday. Join the slack group here](https://join.slack.com/t/globalcovidhackathon/shared_invite/zt-cz1m05yf-oXBGT66c68joi3OfDYexYw) to participate. Bring your skills & ideas for ways to get people the resources they need, combat loneliness, and support communities / service workers!"
 
 # Products:
@@ -153,12 +154,12 @@ some countries are or will be scanning passengers for increased body temperature
 take extra supplies of your medications with you. take a supply of cold medicine and a thermometer.
 the who says the virus is transmitted by droplets, and only lives on surfaces for short periods, perhaps 30 minutes. other health groups have questioned that, suggesting it can live much longer on surfaces. if you are concerned, wipe down surfaces you are going to touch on airplanes or other public spaces, such as hotel rooms.
 paper surgical masks are effective at keeping you from spreading disease if you are sick, but not effective at blocking you from ingesting virus. for that, health experts recommend an n95 respirator—a heavy-duty mask.
-#coronavirus
+Tags:, coronavirus
 
 [smart travel planning in the time of coronavirus - wsj](https://www.wsj.com/amp/articles/smart-travel-planning-in-the-time-of-coronavirus-11582726776)’
-#subscription wsj
+Tags:, subscription, wsj
 
-#coronavirus
+Tags:, coronavirus
 [one-page layperson’s guide to the wuhan coronavirus - the prepared](https://theprepared.com/wuhan-coronavirus/?fbclid=iwar2dgepell2fszugpomradjzrd-di-kb0cvx7jqofusnwu7usjftogumddk)
 [survival — itsjusttheflu.com | coronavirus news & research — covid-19](https://www.itsjusttheflu.com/survival?fbclid=iwar0ivmvtman825xlfmurnf52ft_w9hwj_8hde2-46roomkjefi_tqvxr9gk)
 [past time to tell the public: “it will probably go pandemic, and we should all prepare now” - virology down under](https://virologydownunder.com/past-time-to-tell-the-public-it-will-probably-go-pandemic-and-we-should-all-prepare-now/?fbclid=iwar36m33rywjgegymawh_f531basbpwvnk-ej7gk-wnnqalhqaetoqwyfwx4)
@@ -216,8 +217,7 @@ coronavirus in the us: time to pay attention
 
 # Brainstorming on Cures / Treatment Etc.
 
-[[[[Coronavirus Idea Bank:](http://covid19hackideas.jacobcole.net/)Covid19HackIdeas.jacobcole.net](http://covid19hackideas.jacobcole.net/)
-People Directory:](http://covid19hack.jacobcole.net)Covid19Hack.jacobcole.net](http://covid19hack.jacobcole.net)
+[Coronavirus Idea Bank: Covid19HackIdeas.jacobcole.net People Directory: Covid19Hack.jacobcole.net](http://covid19hack.jacobcole.net)
 
 ["A global Hackathon to build tools to help with coronavirus is coming together this Thursday and Friday. Join the slack group here](https://join.slack.com/t/globalcovidhackathon/shared_invite/zt-cz1m05yf-oXBGT66c68joi3OfDYexYw) to participate. Bring your skills & ideas for ways to get people the resources they need, combat loneliness, and support communities / service workers!"
 ----------------------
@@ -232,7 +232,7 @@ HOWEVER:
 
 I'm very curious if there has been any systematic study of it being used in a clinical setting aside from the one small not-well-tested clinical use report from within China.  
 
-[[[[It appears effective in vitro (](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR1HuOsGw9d1nvtsGpd584oWnHkLHRqXzJehPPCBmLrF0q29Ooincy8grNM)https://www.nature.com/articles/s41422-020-0282-0](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR1HuOsGw9d1nvtsGpd584oWnHkLHRqXzJehPPCBmLrF0q29Ooincy8grNM) ) but there are a LOT of contraindications and side effects, and you have to be careful to avoid toxicity.  Here's the clinical use report from China:](https://l.facebook.com/l.php?u=http%3A%2F%2Frs.yiigle.com%2Fyufabiao%2F1182323.htm%3Ffbclid%3DIwAR3hEZbltCESANJS993Jd1NEZaf0nPvBeS8xaCniRJakTUGd09TssLhLEew&h=AT1Pv_8bJQDPfJr0R5l58UsoxXQ04wGvKFX3D_KK_GWglrQtGewVzk_Sb5Y_mvLSbWgIdYBOIhszcvAdMzu0N8wCH3x_MngMSMCigt9KnRRCR_pl-skKlc3kcRaOW2lpVOWSg27FgwYTWwARxQ9fPwPv)http://rs.yiigle.com/yufabiao/1182323.htm](https://l.facebook.com/l.php?u=http%3A%2F%2Frs.yiigle.com%2Fyufabiao%2F1182323.htm%3Ffbclid%3DIwAR3hEZbltCESANJS993Jd1NEZaf0nPvBeS8xaCniRJakTUGd09TssLhLEew&h=AT1Pv_8bJQDPfJr0R5l58UsoxXQ04wGvKFX3D_KK_GWglrQtGewVzk_Sb5Y_mvLSbWgIdYBOIhszcvAdMzu0N8wCH3x_MngMSMCigt9KnRRCR_pl-skKlc3kcRaOW2lpVOWSg27FgwYTWwARxQ9fPwPv)”
+[It appears effective in vitro ( https://www.nature.com/articles/s41422-020-0282-0 ) but there are a LOT of contraindications and side effects, and you have to be careful to avoid toxicity.  Here's the clinical use report from China: http://rs.yiigle.com/yufabiao/1182323.htm](https://l.facebook.com/l.php?u=http%3A%2F%2Frs.yiigle.com%2Fyufabiao%2F1182323.htm%3Ffbclid%3DIwAR3hEZbltCESANJS993Jd1NEZaf0nPvBeS8xaCniRJakTUGd09TssLhLEew&h=AT1Pv_8bJQDPfJr0R5l58UsoxXQ04wGvKFX3D_KK_GWglrQtGewVzk_Sb5Y_mvLSbWgIdYBOIhszcvAdMzu0N8wCH3x_MngMSMCigt9KnRRCR_pl-skKlc3kcRaOW2lpVOWSg27FgwYTWwARxQ9fPwPv)”
 
 # Feed of Needs
 Add what you or others are looking for here...
@@ -242,18 +242,18 @@ Add what you or others are looking for here...
 
 OperationMasks.org #good #competent
 Best way to get PPE to healthcare workers
-#lookingFor money donations
+Tags:, lookingFor, money, donations
 <>flexport
 
 [Frontline responders fund https://www.gofundme.com/f/frontlinerespondersfund](https://www.gofundme.com/f/frontlinerespondersfund)
-#lookingFor loans (12 mo or end of crisis), not donations while gov is going slowly
+Tags:, lookingFor, loans, (12, mo, or, end, of, crisis),, not, donations, while, gov, is, going, slowly
 
-#ventilators
+Tags:, ventilators
 https://e-vent.mit.edu/
 
 -------
 
-#coronavirus
+Tags:, coronavirus
 https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/imperial-college-covid19-npi-modelling-16-03-2020.pdf
  planning for 18 months of uncertainty… #epidemiology #message
 
@@ -289,7 +289,7 @@ How quickly will a vaccine be here?  Already, medical ethics have been pushed t
 
 During those 18 months, things are going to be very difficult and very scary.  Our economy and our society will be disrupted in profound ways.  Worst of all, if the suppression policies actually work, it will feel like we are doing all this for nothing, because the infection and death rates will be very low.  It's easy to get people to come together in common sacrifice in the middle of a war.  It's very hard to get them to do so in a pandemic that looks invisible precisely because suppression methods are working.  But that's exactly what we're going to have to do.
 
-#onlinelibrary #library [love in the time of corona readings - google drive](https://drive.google.com/drive/folders/1-7w2et1lvnaegbjlaszwykwi7brwln5w?fbclid=iwar2g2eyhmlfo1xw8aiwuowxkyqtt-0by5jz7vaeutkl_lt3zsi6gpw8yhqe)
+Tags:, onlinelibrary, library, [love, in, the, time, of, corona, readings, -, google, drive](https://drive.google.com/drive/folders/1-7w2et1lvnaegbjlaszwykwi7brwln5w?fbclid=iwar2g2eyhmlfo1xw8aiwuowxkyqtt-0by5jz7vaeutkl_lt3zsi6gpw8yhqe)
 i’m hosting a podcast rss feed of many audiobooks i love and am going through
 feel free to add podmash.com/graycrawford to your podcast client (my abs fave is overcast)
 silk mafia
@@ -324,23 +324,23 @@ Questions:
 “Help! Someone I care about is very sick and I can’t find them a spot at ER?  What should I do?”
 
 “I have an elderly relative who needs food and care, but I am sick myself.  How can I get something to them?”
-#coronavirus
+Tags:, coronavirus
 
-[[#coronavirus masks](https://www.facebook.com/739471037/posts/10159622229081038/?d=n)https://www.facebook.com/739471037/posts/10159622229081038/?d=n](https://www.facebook.com/739471037/posts/10159622229081038/?d=n)
+[#coronavirus masks https://www.facebook.com/739471037/posts/10159622229081038/?d=n](https://www.facebook.com/739471037/posts/10159622229081038/?d=n)
 
-[[#coronavirus](https://www.facebook.com/100004716362287/posts/1482226468611218/?d=n)https://www.facebook.com/100004716362287/posts/1482226468611218/?d=n](https://www.facebook.com/100004716362287/posts/1482226468611218/?d=n) j
+[#coronavirus https://www.facebook.com/100004716362287/posts/1482226468611218/?d=n](https://www.facebook.com/100004716362287/posts/1482226468611218/?d=n) j
 B Can anyone confirm validity?
 
 https://www.cnn.com/2020/03/16/health/coronavirus-ibuprofen-french-health-minister-scn-intl-scli/index.html
 
 tldr; use tylenol not advil/motrin/ibuprofen/other NSAIDs
 
-[[#coronavirus](https://www.technologyreview.com/s/615348/heres-how-long-the-coronavirus-can-stay-in-the-air-and-on-packages/)https://www.technologyreview.com/s/615348/heres-how-long-the-coronavirus-can-stay-in-the-air-and-on-packages/](https://www.technologyreview.com/s/615348/heres-how-long-the-coronavirus-can-stay-in-the-air-and-on-packages/)
-[[D](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
+[#coronavirus https://www.technologyreview.com/s/615348/heres-how-long-the-coronavirus-can-stay-in-the-air-and-on-packages/](https://www.technologyreview.com/s/615348/heres-how-long-the-coronavirus-can-stay-in-the-air-and-on-packages/)
+[D https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
 
 “Yeah, for the next month or so just assume everything from outside your house is covered in spiders” #coronavirus ~davidad
 
-[[#coronavirus](https://www.endcoronavirus.org/)https://www.endcoronavirus.org/](https://www.endcoronavirus.org/)
+[#coronavirus https://www.endcoronavirus.org/](https://www.endcoronavirus.org/)
 
  #coronavirus New findings from recent research on coronavirus:
 
@@ -429,6 +429,6 @@ James Robb, MD FCAP
 Li, Fei-Fei Ph.D.
 
 https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext
-#coronavirus Human coronaviruses can remain infectious on inanimate surfaces for up to 9 days. Surface disinfection with 0.1% sodium hypochlorite or 62–71% ethanol significantly reduces coronavirus infectivity on surfaces within 1 min exposure time. We expect a similar effect against the SARS-CoV-2.
+Tags:, coronavirus, Human, coronaviruses, can, remain, infectious, on, inanimate, surfaces, for, up, to, 9, days., Surface, disinfection, with, 0.1%, sodium, hypochlorite, or, 62–71%, ethanol, significantly, reduces, coronavirus, infectivity, on, surfaces, within, 1, min, exposure, time., We, expect, a, similar, effect, against, the, SARS-CoV-2.
 
 https://www.washingtonpost.com/health/2020/02/26/how-to-prepare-for-coronavirus/?arc404=true #coronavirus

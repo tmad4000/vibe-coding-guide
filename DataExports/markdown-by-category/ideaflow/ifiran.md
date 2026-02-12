@@ -1,3 +1,5 @@
+# Ifiran
+
 [ifiran.jacobcole.net](http://ifiran.jacobcole.net)
 started by jcole@mit.edu
 What I would do if I ran various companies
@@ -43,7 +45,7 @@ Eleanor Roosevelt remarked that "Great minds discuss ideas. Average minds discus
 Poke me if you have further questions as to how this could be done, at jcole@mit.edu.
 [See also IdeaOverflow IDE (Idea Development Environment)](http://ideaoverflowideplan.tk/) which is a tad outdated.
 
-[[For your reference and amusement, here is a copy of my comments section at the bottom of homepagegen.tk - Google Drive](http://homepagegen.tk/)](http://homepagegen.tk/)
+[For your reference and amusement, here is a copy of my comments section at the bottom of homepagegen.tk - Google Drive](http://homepagegen.tk/)
 - “You're right, having an easily editable web page does make you want to post things on it. I need to make it shinier. Thanks for making me make one!” ~Semon Rezchikov, ex-Thiel Fellow
 -
 - “jacob this thing is damn addictive and i dont think its supposed to be. this whole space thing. i keep wanting to update it with something”
@@ -64,7 +66,7 @@ Poke me if you have further questions as to how this could be done, at jcole@mit
 -
 - I totally agree with [a friend] that the look isn’t fundamentally different than HTML lists. My goal is to be able to enable people to make a homepage with absolutely 0 coding though, perhaps because the groups I'm most interested in having go through this workflow are people who are very much in need of turning their life around or gaining inspiration. I would love to have prisoners getting out (or going in?) or homeless people in a shelter apply this self-reflective workflow to themselves and, through it, come to see themselves clearly and become inspired and continually reminded to make a life change.
 -
-- [[What also is very interesting to me is that the vast majority of my super high-achieving friends lack even simple homepages. Sometimes they're of the "i'm going to make it super pretty or not make it at all" mentality. Sometimes they just don't feel it's that important. Giving people a way to respectably make a super minimal homepage empowers them to reap the benefits of having a homepage sooner. Creating a list of all homepages that lets them see that "all the cool kids are doing it" gives them pause and makes them think "I wonder why all these smart people are doing this?" which inspires them to follow suit. Finally, seeing the structure of categories on the template homepage](http://trezitorul.tk/)/other people's homepages invites people to see what's lacking in their lives and facilitates the project of educating them (or rather, of them educating themselves). Maybe by looking at my homepage](https://docs.google.com/document/d/1WL_sPn8rcMigt6ula7_mxmrgjO91u7PPPMO_dW-c8EY/pub), they'll realize they've never written a poem (or haven't written one since elementary school), which is something I feel sorry for anyone who hasn't done (lol is that grammatical?). They'll become aware of the previously unnamed gaping holes in their lives that are leading them to feel dissatisfaction.
+- [What also is very interesting to me is that the vast majority of my super high-achieving friends lack even simple homepages. Sometimes they're of the "i'm going to make it super pretty or not make it at all" mentality. Sometimes they just don't feel it's that important. Giving people a way to respectably make a super minimal homepage empowers them to reap the benefits of having a homepage sooner. Creating a list of all homepages that lets them see that "all the cool kids are doing it" gives them pause and makes them think "I wonder why all these smart people are doing this?" which inspires them to follow suit. Finally, seeing the structure of categories on the template homepage /other people's homepages invites people to see what's lacking in their lives and facilitates the project of educating them (or rather, of them educating themselves). Maybe by looking at my homepage](https://docs.google.com/document/d/1WL_sPn8rcMigt6ula7_mxmrgjO91u7PPPMO_dW-c8EY/pub), they'll realize they've never written a poem (or haven't written one since elementary school), which is something I feel sorry for anyone who hasn't done (lol is that grammatical?). They'll become aware of the previously unnamed gaping holes in their lives that are leading them to feel dissatisfaction.
 -
 - (It is as Heinlein writes: "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.")
 -
@@ -84,7 +86,7 @@ Poke me if you have further questions as to how this could be done, at jcole@mit
 - Learning the workflow of making a simple website with Google Docs gives me a new super quick programming-free way to prototype ideas for websites; it lowers the activation energy for my creativity!
 -
 
-- [[Minimalist Homepages - Google Drive](http://minimalisthomepages.tk/) direct link: <Minimalist Homepages - Google Drive](https://docs.google.com/document/d/1AAja2VvhYSuTUYB-aLbjoBvWvCFLk-hww32upwqysqk/edit)>
+- [Minimalist Homepages - Google Drive direct link: <Minimalist Homepages - Google Drive](https://docs.google.com/document/d/1AAja2VvhYSuTUYB-aLbjoBvWvCFLk-hww32upwqysqk/edit)>
 
 Twitter
 
@@ -103,7 +105,7 @@ Way to display ideas/project progress a la Outlinr.tk
 Press: Untapped Internet Potential http://dailynews.co.tz/index.php/features/popular-features/21246-telehackathon-internet-untapped-potential
 
 ## Google
-[[[Make memorable names for docs, as in the http://homepagegen.tk/](http://homepagegen.tk/) dot tk workflow. Easier way to make docs link to each other as a coherent site, like I try to do with http://mitdoc.tk/](http://mitdoc.tk/) . See also outlinr.tk](http://outlinr.tk)
+[Make memorable names for docs, as in the http://homepagegen.tk/ dot tk workflow. Easier way to make docs link to each other as a coherent site, like I try to do with http://mitdoc.tk/ . See also outlinr.tk](http://outlinr.tk)
 
 ## Workflowy / Fetchnotes
 syntax to link ideas to each other
@@ -118,7 +120,7 @@ Re: exploring the graph:
 
 Unrelatedly, I finally wanted to comment that I have sort of stopped using workflowy myself (I'm back to wordpad and my own tag filtering tools) because I think I put so much content in that it seriously lagged mine up. This is important to me and I would love to use it! I would also love a minimalist client app!
 
-[[Beyond all that I've discussed, I think that workflowy is operating in a tremendously important space, that is, creating "gestalt](https://docs.google.com/document/d/113OoenkdNGJPW6XwOZdfYnhWtS1UoXx2XnrSM_GViag/edit#heading=h.pjfhk6ksymo2) processing systems for society" that has tremendous room for expansion in many lateral directions. The only question I am asking myself now is, is the workflowy team/mission/platform the right group to implement all this important stuff? I would love to talk about anything. I've started to aggregate some of my grander vision for this project at http://ideaoverflowideplan.tk/](http://ideaoverflowideplan.tk/)
+[Beyond all that I've discussed, I think that workflowy is operating in a tremendously important space, that is, creating "gestalt processing systems for society" that has tremendous room for expansion in many lateral directions. The only question I am asking myself now is, is the workflowy team/mission/platform the right group to implement all this important stuff? I would love to talk about anything. I've started to aggregate some of my grander vision for this project at http://ideaoverflowideplan.tk/](http://ideaoverflowideplan.tk/)
 
 ## MindMeister
 explorable graph interface
@@ -131,11 +133,11 @@ explorable graph interface
 
 [One feature I see as strikingly important for Coggle to add (and the only reason I use MindMeister instead still) is the ability to link ideas to each other. This truly allows me to structure information as it is stored in my mind, and enables a leap in collaborative cognition. (I wrote a class paper on this: https://docs.google.com/document/d/113OoenkdNGJPW6XwOZdfYnhWtS1UoXx2XnrSM_GViag/edit](https://docs.google.com/document/d/113OoenkdNGJPW6XwOZdfYnhWtS1UoXx2XnrSM_GViag/edit); simply see the section 1 A new Turing Test )
 
-[[Thus, I made a mind map of all the projects on http://hackathonprojects.tk/](http://hackathonprojects.tk/) at http://ideamap.tk/](http://ideamap.tk/) using mindmeister. I wish I could use coggle for these purposes.
+[Thus, I made a mind map of all the projects on http://hackathonprojects.tk/ at http://ideamap.tk/](http://ideamap.tk/) using mindmeister. I wish I could use coggle for these purposes.
 
 ## EdX/Coursera/Greylock Hackfest/other big hackathon
 Collaborative hackathoning (at sane hours) as part of education
-[[[[hackercasting <http://www.jacobblog.tpclubs.com/2012/08/](http://www.jacobblog.tpclubs.com/2012/08/hackercasting-a-big-idea/)hackercasting](http://www.jacobblog.tpclubs.com/2012/08/hackercasting-a-big-idea/)-a-big-idea/](http://www.jacobblog.tpclubs.com/2012/08/hackercasting-a-big-idea/)> and intercontinental collaborative telehackathoning a la Tanzania-MIT Hackathon http://tzmithackathon.com/](http://tzmithackathon.com/)
+[hackercasting <http://www.jacobblog.tpclubs.com/2012/08/ hackercasting -a-big-idea/ > and intercontinental collaborative telehackathoning a la Tanzania-MIT Hackathon http://tzmithackathon.com/](http://tzmithackathon.com/)
 [Press: Untapped Internet Potential http://dailynews.co.tz/index.php/features/popular-features/21246-telehackathon-internet-untapped-potential](http://dailynews.co.tz/index.php/features/popular-features/21246-telehackathon-internet-untapped-potential)
 [Grant Proposal https://docs.google.com/document/d/1mXWm0CM7M1LZhM05xQSyYNpmgjdmtrOzyvGPQ9st4Ws/edit#](https://docs.google.com/document/d/1mXWm0CM7M1LZhM05xQSyYNpmgjdmtrOzyvGPQ9st4Ws/edit#)
 
@@ -194,7 +196,7 @@ MBTA officail said Green Line extendtion savings of ½ Billion $ was irrelvevant
                 Making enemies
                         → problems for job and life
 
-## [[[[OpenAI,](https://www.facebook.com/YCombinator?__cft__[0]=AZWPtwP-ZWJFARFvpXbwydkKRWLAcOGTgZZ8bhVZomshNDrD0rKM465Ic3AtFwi81elu3EuR0ZzlvKlqcIuibKQZhyBVKdGm1j5cmkVF3g9IFAbyumSkA3f27ccpETCnG6bBWTpeMpijAgRaf4gWQIw5c8pSDjhJmX_Z_4hGVVPQ7vmLBVoiVfhduLNvQRr9xn8&__tn__=-]KH-R)Y Combinator](https://www.facebook.com/YCombinator?__cft__[0]=AZWPtwP-ZWJFARFvpXbwydkKRWLAcOGTgZZ8bhVZomshNDrD0rKM465Ic3AtFwi81elu3EuR0ZzlvKlqcIuibKQZhyBVKdGm1j5cmkVF3g9IFAbyumSkA3f27ccpETCnG6bBWTpeMpijAgRaf4gWQIw5c8pSDjhJmX_Z_4hGVVPQ7vmLBVoiVfhduLNvQRr9xn8&__tn__=-]KH-R), or](https://www.facebook.com/Stanford?__cft__[0]=AZWPtwP-ZWJFARFvpXbwydkKRWLAcOGTgZZ8bhVZomshNDrD0rKM465Ic3AtFwi81elu3EuR0ZzlvKlqcIuibKQZhyBVKdGm1j5cmkVF3g9IFAbyumSkA3f27ccpETCnG6bBWTpeMpijAgRaf4gWQIw5c8pSDjhJmX_Z_4hGVVPQ7vmLBVoiVfhduLNvQRr9xn8&__tn__=-]KH-R)Stanford University](https://www.facebook.com/Stanford?__cft__[0]=AZWPtwP-ZWJFARFvpXbwydkKRWLAcOGTgZZ8bhVZomshNDrD0rKM465Ic3AtFwi81elu3EuR0ZzlvKlqcIuibKQZhyBVKdGm1j5cmkVF3g9IFAbyumSkA3f27ccpETCnG6bBWTpeMpijAgRaf4gWQIw5c8pSDjhJmX_Z_4hGVVPQ7vmLBVoiVfhduLNvQRr9xn8&__tn__=-]KH-R),
+## [OpenAI, Y Combinator , or Stanford University](https://www.facebook.com/Stanford?__cft__[0]=AZWPtwP-ZWJFARFvpXbwydkKRWLAcOGTgZZ8bhVZomshNDrD0rKM465Ic3AtFwi81elu3EuR0ZzlvKlqcIuibKQZhyBVKdGm1j5cmkVF3g9IFAbyumSkA3f27ccpETCnG6bBWTpeMpijAgRaf4gWQIw5c8pSDjhJmX_Z_4hGVVPQ7vmLBVoiVfhduLNvQRr9xn8&__tn__=-]KH-R),
 
 Sophia Aryan
 If I were OpenAI, Y Combinator, or Stanford University, I would release an educational course targeting journalists, writers, and PR people called “ML for Dummies” or ''How to Write about AI” (spoiler). The course would provide basic knowledge on ML to develop a deeper understanding of the topic, as well as common mistakes and misconceptions in AI media coverage, and examples of articles with inaccuracies and exaggerations. I often hear  from researchers that AI doesn’t need hype. Well, it’s an inevitable process and this process should be managed and facilitated in a proper way among those who deliver content to the average reader. The education of AI writers should be a part of the mission in building safe AGI.

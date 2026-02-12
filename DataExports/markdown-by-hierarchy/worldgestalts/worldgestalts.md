@@ -1,9 +1,11 @@
-[[[gestalts.world](http://gestalts.world)`                     systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldgestalts.connectr.site](http://worldgestalts.connectr.site)
+# Worldgestalts
+
+[gestalts.world `                     systematicawesome.jacobcole.net > worldgestalts.connectr.site](http://worldgestalts.connectr.site)
 world.gestalts.ai (formerly worldgestalts.jacobcole.net) #connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 World Gestalt Dashboard
-[[[Dashboard of all the open (and closed) gestalts](https://docs.google.com/document/d/1O8t7ouEYC_1TMI9XbvWWT0wRPDxRpIIHafA-lJVqZls/edit) – ideas, problems, anything that tugs on one’s attention – in the world. #TopLevel #MetaList. See also: ideabank.global](http://ideabank.global/),Knowledgebase.world](http://knowledgebase.world)
+[Dashboard of all the open (and closed) gestalts – ideas, problems, anything that tugs on one’s attention – in the world. #TopLevel #MetaList. See also: ideabank.global ,Knowledgebase.world](http://knowledgebase.world)
 
 # Gestalt Trackers
 
@@ -20,9 +22,9 @@ Beginnings of a "global strategic idea reserve."
 
 - [EasilySolvableWorldProblems.jacobcole.net](http://easilysolvableworldproblems.jacobcole.net/)
 - [Crises.jacobcole.net](http://crises.jacobcole.net)Unsung crises in the world people may not be talking about enough
-- [[OpenProblems.connectr.site](http://openproblems.connectr.site) (WIP) •ope](http://openproblems.jacobcole.net/)
+- [OpenProblems.connectr.site (WIP) •ope](http://openproblems.jacobcole.net/)
 - [Pages:openresearch.connectr.site](http://openresearch.connectr.site)•  #internal openproblems.jacobcole.net
-- [[F](http://favorverse.jacobcole.net/)avorverse.jacobcole.net](http://favorverse.jacobcole.net/)
+- [F avorverse.jacobcole.net](http://favorverse.jacobcole.net/)
 - [External: http://garden.irmacs.sfu.ca/](http://garden.irmacs.sfu.ca/) Open Problem Garden (Math) <> Project polymath
 
 - Political debates
@@ -57,6 +59,6 @@ Apple’s Gestalt List
 [Mongolia’s Gestalt List https://ideapad.io/mongolia-issues](https://ideapad.io/mongolia-issues)
 
 # Curated Reference Lists
-[[See also: openlists.jacobcole.net](http://openlists.jacobcole.net/)A dashboard for the “Open Curated Lists” movement. A part of the Humanity Basic Infrastructure Project infrastructure.jacobcole.net](http://infrastructure.jacobcole.net/)
+[See also: openlists.jacobcole.net A dashboard for the “Open Curated Lists” movement. A part of the Humanity Basic Infrastructure Project infrastructure.jacobcole.net](http://infrastructure.jacobcole.net/)
 
-#todo referencelists
+Tags:, todo, referencelists

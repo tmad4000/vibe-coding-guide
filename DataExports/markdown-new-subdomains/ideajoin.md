@@ -1,3 +1,5 @@
+# Ideajoin
+
 Ideaflow / IdeaJoin.com Collaborative Ideation Platform Introduction
 a platform to collaboratively build graphs  -- of ideas, knowledge, and people -- to support individual and collaborative research, creativity, synthesis, and analysis
 [Or:
@@ -5,7 +7,7 @@ a platform to collaboratively build graphs  -- of ideas, knowledge, and people 
 -a “gestalt processing system](https://drive.google.com/file/d/0B-pHhDIV_JyBbU54ZDdRSENhbEk/edit?usp=sharing)” for society
 -a collaborative network of human ideas and intentions
 Which, incidentally, provides key data AIs are lacking -- as creative human thinking is rooted in human experience.
-[[[(seeking additional research project](http://research.ideajoin.jacobcole.net) or paid full time](http://job.ideajoin.jacobcole.net)collaborator great at frontend Javascript or NLP/ML. Funding offer from billionaire Nicolas Berggruen](http://en.wikipedia.org/wiki/Nicolas_Berggruen); See below)
+[(seeking additional research project or paid full time collaborator great at frontend Javascript or NLP/ML. Funding offer from billionaire Nicolas Berggruen](http://en.wikipedia.org/wiki/Nicolas_Berggruen); See below)
 [[a]](#cmnt1)
 ## Demos
 [jcr.stcatz.ox.ac.uk/ideas/](http://jcr.stcatz.ox.ac.uk/ideas/)Sample user base: St. Catherine’s College Oxford
@@ -21,7 +23,7 @@ Commercial Product (data analysis platform)
 
 [Updated: 1/27/2015 Jacob Cole <jcole@mit.edu](mailto:jcole@mit.edu)>
 Advisers: Prof. Tim Berners-Lee, Henry Lieberman
-[[More info: index.ideajoin.jacobcole.net](http://index.ideajoin.jacobcole.net/), ideaflowproject.wordpress.com](http://ideaflowproject.wordpress.com/)
+[More info: index.ideajoin.jacobcole.net , ideaflowproject.wordpress.com](http://ideaflowproject.wordpress.com/)
 
 ## Table of Contents
 - [Demos](#h.ig8au4yanpy)
@@ -54,7 +56,7 @@ Advisers: Prof. Tim Berners-Lee, Henry Lieberman
 - [Smart notetaking software: Make the best ever application to keep lists of ideas + new interface for posting to the Web.](#h.ytybjjmoth07)
 
 # [[[Abstract[e]](#cmnt5)[f]](#cmnt6)[g]](#cmnt7)
-[[At the core, IdeaFlow is a web platform  that enables individuals or groups of people to create “ideation boards” on which they can post partially or fully formed ideas/projects and share connections they see between them or external ideas/projects. To facilitate the task of finding related ideas, IdeaFlow has machine learning/natural language processing algorithms to automatically suggest connections between ideas, and an interface to visualize networks of ideas. Because finding relationships between ideas is such a fundamental operation of cognition, this platform is applicable across fields, from organizing and exploring ideas/projects within a company or research group, to identifying clusters of suggestions from a political constituency, to finding patterns in spreadsheets of textual data. Ultimately, IdeaFlow has the goal of realizing my advisor Prof. Tim Berners-Lee's vision of creating a unified Giant Global Graph http://en.wikipedia.org/wiki/Giant_Global_Graph](http://en.wikipedia.org/wiki/Giant_Global_Graph) of ideas which exhibits emergent intelligent properties. To understand the platform better, let’s consider a specific use case (below: Learn How IdeaFlow Works](#h.r8epakqq376d)).
+[At the core, IdeaFlow is a web platform  that enables individuals or groups of people to create “ideation boards” on which they can post partially or fully formed ideas/projects and share connections they see between them or external ideas/projects. To facilitate the task of finding related ideas, IdeaFlow has machine learning/natural language processing algorithms to automatically suggest connections between ideas, and an interface to visualize networks of ideas. Because finding relationships between ideas is such a fundamental operation of cognition, this platform is applicable across fields, from organizing and exploring ideas/projects within a company or research group, to identifying clusters of suggestions from a political constituency, to finding patterns in spreadsheets of textual data. Ultimately, IdeaFlow has the goal of realizing my advisor Prof. Tim Berners-Lee's vision of creating a unified Giant Global Graph http://en.wikipedia.org/wiki/Giant_Global_Graph of ideas which exhibits emergent intelligent properties. To understand the platform better, let’s consider a specific use case (below: Learn How IdeaFlow Works](#h.r8epakqq376d)).
 
 ## Status (3/1/2017)
 
@@ -62,7 +64,7 @@ Advisers: Prof. Tim Berners-Lee, Henry Lieberman
 
 ## Status (1/22/2015)
 
-### [[Seeking further full-time](http://job.ideajoin.jacobcole.net)/research project](http://research.ideajoin.jacobcole.net)-level collaborators
+### [Seeking further full-time /research project](http://research.ideajoin.jacobcole.net)-level collaborators
 Especially needed skills are: hardcore webdev; hardcore ML/NLP.  Web technologies include ReactJS, Backbone, D3, and NodeJS; Python for machine learning/NLP
 
 If you or anyone ideal you know would like to be involved on a lower time-commitment scale, like undergraduate research, we may be able to arrange that as well.
@@ -109,7 +111,7 @@ Creating a platform that encourages users to contribute connections between idea
 ## User case study: St Catherine’s College Oxford
 The suggestion box for St. Catherine’s College, Oxford has already proven to be remarkably useful despite the early stage of software development. And happily, the suggestion box itself allows users to make recommendations to further develop and refine the software..
 
-[[A suggestion box for St. Catherine’s College Oxford launched publically at](http://jcr.stcatz.ox.ac.uk/)jcr.stcatz.ox.ac.uk](http://jcr.stcatz.ox.ac.uk/) on Jan 26, 2014 and by June 6, 2014 had received significant usage: 106 suggestions, 127 comments, and 1245 upvotes.   Additionally, the suggestion box system was so well-liked that the undergraduate student government (JCR Committee) amended its constitution to require the Vice President to review suggestions, mark them as acknowledged, in progress, done, or, in rare occasions, rejected, and propose new motions based off of them as appropriate.
+[A suggestion box for St. Catherine’s College Oxford launched publically at jcr.stcatz.ox.ac.uk](http://jcr.stcatz.ox.ac.uk/) on Jan 26, 2014 and by June 6, 2014 had received significant usage: 106 suggestions, 127 comments, and 1245 upvotes.   Additionally, the suggestion box system was so well-liked that the undergraduate student government (JCR Committee) amended its constitution to require the Vice President to review suggestions, mark them as acknowledged, in progress, done, or, in rare occasions, rejected, and propose new motions based off of them as appropriate.
 
 88 of these suggestions have been acknowledged by student government, 8 are in progress being implemented, 3 have been completed, and 4 have been rejected.
 
@@ -122,7 +124,7 @@ Suggestions in progress include
 
 Other colleges have adopted the platform as well, and the president of Oxford University student government (OUSU) proposed an analogous motion to be passed first thing next term for student government as a whole in the hope that it will help enable the much-criticized organization to become more transparent and to better respond to student feedback.
 
-[[Anyone can make a suggestion box at our homepage, ideajoin.](http://ideajoin.com/)com](http://ideajoin.com/) .
+[Anyone can make a suggestion box at our homepage, ideajoin. com](http://ideajoin.com/) .
 
 # Motivations
 What motivates me is right now I see the most fundamental pressing problem in the world is that human activity is scattered:
@@ -133,7 +135,7 @@ This isn't okay.
 
 Minsky teaches us that a mind is a system to meditate between a collection of little agents, and that society is a mind. This mind is currently scatterbrained.
 
-[[In the abstract, the goal of this project is to build a "gestalt processing system for society" (ref: ideajoin.jacobcole.net](http://ideajoin.jacobcole.net/)) so that everyone, everywhere can be included in the circle of humanity. It is to lift the fog of non connection that sits on the world between people and their ideas,  and build the giant global graph. It is to create a system to relate ideas - a rudimentary intelligence able to, for fundamental reasons, make broader connections than any single brain - which, as a side effect, produces a new paradigm for conducting Internet research that is fundamentally better than Google for many tasks (ref: researchlists.jacobcole.net](http://researchlists.jacobcole.net)). It also incidentally produces a new type of smart text document not trapped in the paradigm of paper.
+[In the abstract, the goal of this project is to build a "gestalt processing system for society" (ref: ideajoin.jacobcole.net ) so that everyone, everywhere can be included in the circle of humanity. It is to lift the fog of non connection that sits on the world between people and their ideas,  and build the giant global graph. It is to create a system to relate ideas - a rudimentary intelligence able to, for fundamental reasons, make broader connections than any single brain - which, as a side effect, produces a new paradigm for conducting Internet research that is fundamentally better than Google for many tasks (ref: researchlists.jacobcole.net](http://researchlists.jacobcole.net)). It also incidentally produces a new type of smart text document not trapped in the paradigm of paper.
 
 The data collected from this system is vast and hopes to lay the groundwork for strong AI that produces new ideas autonomously.
 

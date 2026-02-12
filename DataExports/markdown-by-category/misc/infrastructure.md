@@ -1,13 +1,15 @@
-[[[[[`systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > infrastructure.jacobcole.net](http://infrastructure.jacobcole.net)/ codex](http://codex.jacobcole.net).jacobcole.net](http://codex.jacobcole.net)
+# Infrastructure
 
-#connectordoc
+[`systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > infrastructure.jacobcole.net / codex .jacobcole.net](http://codex.jacobcole.net)
+
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 “The Codex” / Humanity Basic Infrastructure Project
 Codex of human know-how as a public resource to humanity. Imagine it were everyone’s birthright to have access to the wealth that is the sum-total of human know-how!
 Includes “How to survive as a highly sensitive person on a low budget”. Also includes “Guide to Reconstructing Society” and “Surviving/Thriving if We Had to Build/Rebuild From Scratch”. And the “know-how”/craftsmanship that is all software (shouldn’t all software from 10 years ago be free by now?)
 
-[[The Codex is a hub of knowledge resources + hacked-together open source software infrastructure to coordinate human activity – with the goal of bringing human flourishing into every person’s reach. We’re building the more general, not-just-engineering equivalent of the open source movement. We envision this as something the majority of the developed world eventually becomes a part of to a lesser or greater degree – it will be like: “If you're not part of this cool community improving the world together, what are you doing with your life?”  For the services side of this “Volunteerism Movement” – i.e. things you could do right now that would help people – see favorverse.jacobcole.net](http://favorverse.jacobcole.net/)!  Also, yourself and your interests on people.worldquestguild.connectordocs.com](http://people.worldquestguild.connectordocs.com/)
+[The Codex is a hub of knowledge resources + hacked-together open source software infrastructure to coordinate human activity – with the goal of bringing human flourishing into every person’s reach. We’re building the more general, not-just-engineering equivalent of the open source movement. We envision this as something the majority of the developed world eventually becomes a part of to a lesser or greater degree – it will be like: “If you're not part of this cool community improving the world together, what are you doing with your life?”  For the services side of this “Volunteerism Movement” – i.e. things you could do right now that would help people – see favorverse.jacobcole.net !  Also, yourself and your interests on people.worldquestguild.connectordocs.com](http://people.worldquestguild.connectordocs.com/)
 
 Comments on “The Codex”:
 [Know-how guide for basic survival (and also thriving) in life <> consciousness owners manual ~Cody. See also: Healing Resources "Cody Codex"](https://plausible-text-76b.notion.site/Cody-s-Healing-List-v4-b05b097d529c4c54b5d62f87f55b1f6f)
@@ -20,10 +22,10 @@ Survival guide for sensitive people on a budget
 “Building tools for the well intended.”
 
 See also:
-[[FixingTheInternet.jacobcole.net](http://fixingtheinternet.jacobcole.net/) • Favorverse.jacobcole.net](http://favorverse.jacobcole.net/)
-[[People.worldquestguild.connectordocs.com](http://people.worldquestguild.connectordocs.com/) • WorldQuestGuild.connectordocs.com](http://worldquestguild.connectordocs.com/)
-[[[VolunteerForce.jacobcole.net](http://volunteerforce.jacobcole.net/) • SystematicAwesome.jacobcole.net](http://systematicawesome.jacobcole.net/) • globalideabank.jacobcole.net](http://globalideabank.jacobcole.net/)
-[[[Supplements.jacobcole.net](http://supplements.jacobcole.net/) • products.jacobcole.net](http://products.jacobcole.net/) • lifehacks.jacobcole.net](https://lifehacks.jacobcole.net/)
+[FixingTheInternet.jacobcole.net • Favorverse.jacobcole.net](http://favorverse.jacobcole.net/)
+[People.worldquestguild.connectordocs.com • WorldQuestGuild.connectordocs.com](http://worldquestguild.connectordocs.com/)
+[VolunteerForce.jacobcole.net • SystematicAwesome.jacobcole.net • globalideabank.jacobcole.net](http://globalideabank.jacobcole.net/)
+[Supplements.jacobcole.net • products.jacobcole.net • lifehacks.jacobcole.net](https://lifehacks.jacobcole.net/)
 
 ## Inbox #toProcess
 Attitudes to adopt #attitude
@@ -86,7 +88,7 @@ Feynman quote on physics -> atoms ; sam harris on meditation “you are not your
 - http://supplements.jacobcole.net/
 -
 
-#todo make higher budget version of this list
+Tags:, todo, make, higher, budget, version, of, this, list
 
 ## Basic Infrastructure that Needs to Be Built – By Type
 - [opensource.jacobcole.net](http://opensource.jacobcole.net)A dashboard for the open source movement.
@@ -120,7 +122,7 @@ Add to this list!
 
 - Platform for people to share resources they can share (e.g. tools, uhaul truck)
 
-- [[See also: favorverse.jacobcole.net/](http://favorverse.jacobcole.net/) • volunteerforce.jacobcole.net/](http://volunteerforce.jacobcole.net/)
+- [See also: favorverse.jacobcole.net/ • volunteerforce.jacobcole.net/](http://volunteerforce.jacobcole.net/)
 
 - [Fixing the Internet](http://fixingtheinternet.jacobcole.net/)
 
@@ -216,7 +218,7 @@ Add to this list!
 
 - “Literature ‘immunizes’ us against tropes we may encounter in society”
 
-- [[hpmor.org/](http://hpmor.org/) (lesswrong.com/](https://www.lesswrong.com/) good for people who grew up in intense religious contexts)
+- [hpmor.org/ (lesswrong.com/](https://www.lesswrong.com/) good for people who grew up in intense religious contexts)
 - Harry Potter had profound effect on housemate who grew up with troubled family
 - Wheel of Time books as intro to mental control/portable happiness
 
@@ -307,7 +309,7 @@ Add to this list!
 - [#socialenterprise #nonprofitHelp funnel resources/funding to under resourced/underdog nonprofits via e-commerce/social enterprise; the idea would be to move towards helping nonprofits operate better through a connector entity (like No Rival Industries](http://www.norivalindustries.com)) where projects are created sustainably on a volume basis and purely crowdfunded where 100% of profits are given away on the notion of ideation for the next-gen of nonprofit fundraising
 
 - [Volume 1](https://www.norivalindustries.com/projectcovid): COVID hits, manufacture handcrafted cloth masks in the US and send out donations to shelters, hospitals and grocers across the country
-- [[Volume 2:](https://www.norivalindustries.com/)Partner w/ Spread The Vote](https://www.norivalindustries.com/volume2) ---nonprofit that fights to help the 21 million eligible voters in the US get IDs in voter-ID required states; we sell our first apparel line to get funding towards this cause --$40 is their operating cost for an ID aka 4 shirts sold net 1 ID. How can we scale this without a marketing budget?
+- [Volume 2: Partner w/ Spread The Vote](https://www.norivalindustries.com/volume2) ---nonprofit that fights to help the 21 million eligible voters in the US get IDs in voter-ID required states; we sell our first apparel line to get funding towards this cause --$40 is their operating cost for an ID aka 4 shirts sold net 1 ID. How can we scale this without a marketing budget?
 - [Volume 3 and onward--TBD, looking for ways to scale and the “why](https://www.norivalindustries.com/about-us)” for starting this
 
 - #actionable #specific “ThunderPledge” – a website like Kickstarter for pledging to take collective actions when you reach a critical mass. For instance, there are a large number of people who would consider becoming vegetarian for climate reasons, but feel like it's pointless unless millions of others do the same. Using ThunderPledge you could pledge to become vegetarian only when a million other people have also committed the same. At that point, not only would you know for certain that your change is part of making a difference, but you would have a ready-made support group of people all trying to do the same thing.
@@ -325,7 +327,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 - Place acupuncturists, massage therapists, etc. in ER waiting rooms
 - Make it easier for people to have great diets with low climate impact
 
-- [[#urgent #actionable Bail out Garden Fresh restaurants](https://www.qsrmagazine.com/finance/garden-fresh-restaurants-declares-chapter-7-bankruptcy) (Sweet Tomatoes/Souplantation) healthy soup/salad buffet. And/or help them come up with new business model. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+- [#urgent #actionable Bail out Garden Fresh restaurants (Sweet Tomatoes/Souplantation) healthy soup/salad buffet. And/or help them come up with new business model. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 - Better/ More Ubiquitous / cheaper great fake meats like Impossible burgers
 - [Effective fish farming like aquabyte.ai/](https://www.aquabyte.ai/)
 - [Ubiquitous delicious vegan cooking education / meal delivery services like thistle.co](http://thistle.co)
@@ -333,7 +335,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 - Build really fun adult-sized playgrounds everywhere as alternatives to gyms
 - [Rebuild the legomindstorms.com](http://legomindstorms.com) online robotic sharing community #education
 -
-- [[[Web Clearinghouse for campaign donations -- Currently Democrats and Republicans donate vast amounts of money to their parties to cancel out the media noise from the opposing party. My friend Sam Galler ~smgaller@gmail.com](http://instadefine.com/IdeaOverflow/Outlinr-PHP/public_html/hackathonideas/public_html/index.1.7_suggestionbox.php?mapid=169#), who is super nice, massively connected, and a graduate student at Oxford on a Rhodes scholarship, proposed that we build a website that acts as a clearinghouse for donations to political campaigns in the US. If you donate to the Democratic Party it cancels out the donations to the Republican Party. The resulting bag of saved money goes to charity. He has the connections to get this website, if built, on frontline media, and would love to find people who want to work with him on it. I think this could save millions of dollars, and is a #lowhangingfruit #govtech #good](http://instadefine.com/IdeaOverflow/Outlinr-PHP/public_html/hackathonideas/public_html/index.1.7_suggestionbox.php?mapid=169#)jacob@ideaflow.io](mailto:jacob@ideaflow.io) 858-740-6970
+- [Web Clearinghouse for campaign donations -- Currently Democrats and Republicans donate vast amounts of money to their parties to cancel out the media noise from the opposing party. My friend Sam Galler ~smgaller@gmail.com , who is super nice, massively connected, and a graduate student at Oxford on a Rhodes scholarship, proposed that we build a website that acts as a clearinghouse for donations to political campaigns in the US. If you donate to the Democratic Party it cancels out the donations to the Republican Party. The resulting bag of saved money goes to charity. He has the connections to get this website, if built, on frontline media, and would love to find people who want to work with him on it. I think this could save millions of dollars, and is a #lowhangingfruit #govtech #good jacob@ideaflow.io](mailto:jacob@ideaflow.io) 858-740-6970
 
 ##
 -
@@ -358,7 +360,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 -
 ## Problems #EasilySolvable with the right connection
 
-- [[Find a hardware / robotics mentor with knowledge of mechanical actuators for master healer, tai chi practitioner and tech visionary Dima Grinberg](https://www.linkedin.com/in/dmitry-grinberg-878b0920/) to help him build awesome next generation interactive smart exercise/pt equipment. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+- [Find a hardware / robotics mentor with knowledge of mechanical actuators for master healer, tai chi practitioner and tech visionary Dima Grinberg to help him build awesome next generation interactive smart exercise/pt equipment. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 - [Find soft materials engineering, business or AI cofounder for new smart sleep devices company by sleep researcher + yoga teacher Roger Cole](https://www.yogadelmar.com/teacher/roger-cole-ph-d/); Contact: jacob@ideaflow.io
 -
 
@@ -392,7 +394,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 - [Kidactivities.jacobcole.net](http://kidactivities.jacobcole.net/) – List of Kids Games and Activities
 -
 -
-- [[AdmitSphere](http://admitsphere.jacobcole.net/) – Wiki of College Essays and Advice <admitsphere.jacobcole.net](http://admitsphere.jacobcole.net/)>
+- [AdmitSphere – Wiki of College Essays and Advice <admitsphere.jacobcole.net](http://admitsphere.jacobcole.net/)>
 
 [Admitsphere.org](http://admitsphere.org/)
 -
@@ -678,7 +680,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 - [Related: whyisitawesome.jacobcole.net](http://whyisitawesome.jacobcole.net)
 
 # Related
-#IdeaList
+Tags:, IdeaList
 [hackathonprojects.jacobcole.net/](http://hackathonprojects.jacobcole.net/)
         E.g. has things like
 - #App Shortcut coach that tracks your actions and occasionally suggests a shortcut to improve efficiency and auto-programming macros for you.
@@ -713,7 +715,7 @@ Meta:
 
 [58:57](https://www.youtube.com/watch?v=S_gScJAitg0&t=3537s) "A stage five [kidney disease] means you get a transplant or you go on dialysis. I screwed up and became stage four, so I'm using the crap out of LiteNet [Jack's information management system] now to study kidney disease. This is the kind of stuff that's going to befall a lot of people and they're not even going to see it coming. I mean I'm a guy that studies math, studies medicine, and I listen to my body, and I still screwed up. It's just gonna happen, so whatever we can do – everybody who's in this on this call right now – and whatever we can do to get ourselves geared up to this kind of thinking – whatever it is – your brand is not the same as my brand and I don't want it to be, but your brand is going to affiliate with my brand and I'm going to affiliate with yours, and we're going to learn from each other and that's how this the planet's going to get fixed...There was a lot to like in your demo"
 
-[[56:00](https://youtu.be/S_gScJAitg0?t=3360) “I'm here today and it's because I learned how to do research. Look I was simply motivated, you know what I'm saying? Now we're faced with a pandemic and everybody should be as motivated as I was when I was diagnosed with leukemia, but they're not; they still go to the beach they go to parties and not wear their face masks and blah blah blah, and we have this other thing called climate change – and look, you and I are in California – I don't know about the rest of these people, but California is burning and the Gulf Goast is being flooded and the East Coast is probably going to have some some of its own problems – the point is climate change](https://docs.google.com/document/d/1ULNUP9HaHxe6DABI0AcfM_sVcqWh93gbfKno9_cGKCQ/edit#heading=h.5aioitbl8p11) is going to be equivalent to a diagnosis of leukemia very soon for all humankind.”        
+[56:00 “I'm here today and it's because I learned how to do research. Look I was simply motivated, you know what I'm saying? Now we're faced with a pandemic and everybody should be as motivated as I was when I was diagnosed with leukemia, but they're not; they still go to the beach they go to parties and not wear their face masks and blah blah blah, and we have this other thing called climate change – and look, you and I are in California – I don't know about the rest of these people, but California is burning and the Gulf Goast is being flooded and the East Coast is probably going to have some some of its own problems – the point is climate change](https://docs.google.com/document/d/1ULNUP9HaHxe6DABI0AcfM_sVcqWh93gbfKno9_cGKCQ/edit#heading=h.5aioitbl8p11) is going to be equivalent to a diagnosis of leukemia very soon for all humankind.”        
 
 [57:13](https://youtu.be/S_gScJAitg0?t=3433) “We need these tools, all of them, and to be honest with you, they need to be in the hands of everybody. And we need the MOOCs and the blogs and the people learning how to use them, so they can think clearer. This is it. This is our mission."
 

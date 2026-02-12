@@ -1,6 +1,8 @@
+# Spiritual Growth Hawaii
+
 [< Folder](https://drive.google.com/drive/u/0/folders/15elT34wdl8PYz3DH4MLcw176xlrJuOdS)
 
-#Index Spiritual Growth and Healing from Hawaii Sangha  #connectorDoc
+Tags:, Index, Spiritual, Growth, and, Healing, from, Hawaii, Sangha, connectorDoc
 
 Table of Contents
 [Root Folder and Legend #connectordocs](#h.ucfrqh3uyeot)
@@ -27,8 +29,8 @@ Table of Contents
 https://drive.google.com/drive/u/0/folders/15elT34wdl8PYz3DH4MLcw176xlrJuOdS
 Legend
 ##Discussions - conversation recordings and notes
-#DataFiles - has supporting files for docs
-#ConnectorDocs - curated lists
+Tags:, DataFiles, -, has, supporting, files, for, docs
+Tags:, ConnectorDocs, -, curated, lists
 
 #### Docs
 [Healing Techniques #connectorDoc](https://docs.google.com/document/d/1kCbohD7sMHrL2rkfzqU8QHPPhcFWTSKV-vlc7V6dZZU/edit) – has many items inside
@@ -51,7 +53,7 @@ Pilates ex
 https://www.amazon.com/Philosophy-Daodejing-Hans-Georg-Moeller/dp/023113679X
 
 http://foodslist.jacobcole.net/
-#toMake #ttt https://supplements.jacobcole.net/
+Tags:, toMake, ttt, https://supplements.jacobcole.net/
 
 https://www.google.com/search?q=emotional+color+wheel&rlz=1C9BKJA_enUS940US942&oq=emotional+color+wheel+&aqs=chrome..69i57.3252j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#imgrc=sv4E-0u8sg1OtM
 
@@ -113,10 +115,10 @@ Peter Vishaka, Vedic astrologer:
 
 ## Knowhow
 [Retreat List for Dharma Retreats at Aum's](https://docs.google.com/document/d/11iWUirI2CcUQxrw5qV8HPL6Wy7CN8-26/edit)
-[[See also: https://codex.jacobcole.net/](https://codex.jacobcole.net/)  • http://foodslist.jacobcole.net/](http://foodslist.jacobcole.net/)
+[See also: https://codex.jacobcole.net/ • http://foodslist.jacobcole.net/](http://foodslist.jacobcole.net/)
 
 ## Posture
-#ttt
+Tags:, ttt
 
 ## Books List
 
@@ -124,11 +126,11 @@ Key Books (Highlights)
 
 - Soul Healing Miracles ~Zhi Gang Shah
 - Wang Tsit chan a sourcebook in Chinese philosophy — Princeton #book #buy #chinesePhilosophy #taoism #ttt
-- [[[[[[[[[[Zhuan](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)F](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)x](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)a](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)w](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)l](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)q](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)u](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)q](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)n](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)
+- [Zhuan F x a w l q u q n](https://comabook.com/wp-content/uploads/2020/11/Zhuan-Falun-2018-v1.7c.pdf)
 
 —
-#toProcess
-#book the body electric
+Tags:, toProcess
+Tags:, book, the, body, electric
 
 I have Earth Thunder copy in CA, not here.
 You might be able to get it from Dawn Mountain in Texas, or from Tara Mandala’s Bookstore in Pagosa Springs, CO, if you are outrageously diligent and persistent
@@ -209,7 +211,7 @@ Guy who put staff thru rock - tibet
 # Relevant Hard Science
 [Michael Levin: The electrical blueprints that orchestrate life | TED](https://www.youtube.com/watch?v=XheAMrS8Q1c)
 
-[[Warp Drives https://arxiv.org/abs/2102.06824](https://arxiv.org/abs/2102.06824)https://www.youtube.com/watch?v=vclfqT5oOyY](https://www.youtube.com/watch?v=vclfqT5oOyY) Giani
+[Warp Drives https://arxiv.org/abs/2102.06824 https://www.youtube.com/watch?v=vclfqT5oOyY](https://www.youtube.com/watch?v=vclfqT5oOyY) Giani
 
 # Mantras
 The Sadhana of Mahamudra
@@ -224,5 +226,5 @@ http://qigong.connectordocs.com/
 
 [Chronicpain.jacobcole.net](http://chronicpain.jacobcole.net)
 
-#ttt #curate oases
+Tags:, ttt, curate, oases
 https://thoughtfulweb.jacobcole.net/

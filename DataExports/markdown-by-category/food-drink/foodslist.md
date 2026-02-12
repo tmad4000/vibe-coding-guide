@@ -1,11 +1,13 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > foodslist.jacobcole.net](http://foodslist.jacobcole.net)
+# Foodslist
+
+[systematicawesome.jacobcole.net > foodslist.jacobcole.net](http://foodslist.jacobcole.net)
 Also: recipes.jacobcole.net
 [started by jcole@mit.edu](mailto:jcole@mit.edu)
 Foods List
 [(Link](https://docs.google.com/document/d/1rmTYQRbNuOSK7kZjRIiEJwJnqWf1zTbZqeLNlG6xBQE/edit))
 List of foods that people who live healthfully, efficiently, and tastefully cook and eat on daily basis over a period of time. More generally, attempting to make a database of what the life-rhythms of happy people look like!
 
-[[[[[[[[See Also: cheese.jacobcole.net](http://cheese.jacobcole.net) • chocolate.jacobcole.net](http://chocolate.jacobcole.net/) • tea.jacobcole.net](http://tea.jacobcole.net) • Cody Foods List](https://docs.google.com/spreadsheets/d/1P8_zOeXTCJ58iJlPFpl_xVOPtWIHGfsypj-OG8PelGs/edit?usp=sharing)• supplements.jacobcole.net](https://supplements.jacobcole.net/) • products.jacobcole.net](http://products.jacobcole.net) • FoodsList on Airtable (edit link](https://airtable.com/appo2etW8K0EsVCXe/tblwCy1oNY1B3v3Td/viwi0XwGxZyJbvaJ3?blocks=hide)) (sharing link](https://airtable.com/appo2etW8K0EsVCXe/shrzttSGBX3LNLLpT))
+[See Also: cheese.jacobcole.net • chocolate.jacobcole.net • tea.jacobcole.net • Cody Foods List • supplements.jacobcole.net • products.jacobcole.net • FoodsList on Airtable (edit link ) (sharing link](https://airtable.com/appo2etW8K0EsVCXe/shrzttSGBX3LNLLpT))
 
 [#Meta](#h.ip8l1v7pn8pq)
 [Logs of what healthy people actually ate #FoodLog](#h.7py5br5amirl)
@@ -58,7 +60,7 @@ List of foods that people who live healthfully, efficiently, and tastefully cook
 
 # #Meta
 [See the structured version of this data here on the Airtable: [link]](https://airtable.com/appo2etW8K0EsVCXe/tblwCy1oNY1B3v3Td/viwi0XwGxZyJbvaJ3?blocks=hide)
-#idea Food Coordinator app. Name ideas: CookWithMe,  FoodMom
+Tags:, idea, Food, Coordinator, app., Name, ideas:, CookWithMe,, FoodMom
 App that suggests what to cook and automatically orders ingredients (or makes you a shopping list). Also suggest who you should cook with using the following people matching strategy:
 Connect people who have similar interests by matching people to each other who have mentioned titles to the same Wikipedia articles in their gmail chats, or used the same quotes. (Or it could look at your playlist history and match by music taste! (real “musicmatch”)). Cooking/eating is one of the few anchors to physical world in an era of increasing digital distraction, and we should use it to resurrect classic face to face socialization. Also cures obesity!
 Partner with ActualFood and/or tim ferriss/4 hour chef?
@@ -681,11 +683,11 @@ On plane: whole-grain multi grain tortilla wrap toasted with two farm fresh frie
 Lin #FoodLog #swedishInfluence
 
 2018-Oct-23
-#Breakfast
+Tags:, Breakfast
 Arla yoghurt-kvarg nature taste
 Musli--35% nuts + 35%dry fruit
 
-#Lunch
+Tags:, Lunch
 Colorful peppers with lentils --one of my favorite vegetarian dish
 Gluten free pasta salad with homemade pesto and spinach
 Greek salad, beetroot with feta cheese, tomato mix
@@ -693,13 +695,13 @@ Stewed broccoli & cauliflower salad
 Broccoli soup
 
 2018-Oct-25
-#breakfast
+Tags:, breakfast
 Dried longan tea-1 cup
 Red date-2
 
-#lunch
+Tags:, lunch
 Shrimp Salad, non-cabs
-#Dinner
+Tags:, Dinner
 Black rice + brown rice + jasmine rice
 Seaweed soup with Doufu
 
@@ -708,13 +710,13 @@ Milk tea with tapioca and brown sugar
 
 2018-Oct-26
 
-#breakfast
+Tags:, breakfast
 black sesame powder -50g
 Red date -3
 Boiled egg-1
 Swedish Kalle’s kaviar
 
-#lunch
+Tags:, lunch
 Feta cheese & redbets
 gratinated salmon fillet
 Brussels cabbage & roasted hazelnuts
@@ -723,49 +725,49 @@ tomato & avocado salad with basil oil
 Roasted carrots, avocado cream
 Shrimp soup
 
-#dinner
+Tags:, dinner
 1)Warm -smoked salmon, white beans, mixed vegetables & red dressing;
 2)tomato apricot soup
 
 2018-Oct-27
-#breakfast
+Tags:, breakfast
 Milk
 Musli--35% nuts + 35%dry fruit
 
-#lunch
+Tags:, lunch
 Farm chicken with autumn vegetables, mushroom and calvadossås
 
 2018-Oct-29
-#breakfast
+Tags:, breakfast
 tea , fruit
-#lunch
+Tags:, lunch
 sushi
-#dinner
+Tags:, dinner
 Fruit
 
 2018-Oct-30
-#breakfast
+Tags:, breakfast
 tea , fruit
-#lunch
+Tags:, lunch
 sushi
-#dinner
+Tags:, dinner
 Fruit
 
 2018-Oct-31
-#breakfast
+Tags:, breakfast
 tea , fruit
-#lunch
+Tags:, lunch
 sushi
-#dinner
+Tags:, dinner
 Fruit
 sushi
 
 2018-Nov-1
-#breakfast
+Tags:, breakfast
 tea , fruit
-#lunch
+Tags:, lunch
 sushi
-#dinner
+Tags:, dinner
 Fruit
 
 #### Minda #Microscopic Colitis #Crohn’s #Colitis
@@ -873,17 +875,17 @@ There is some question of whether soy and/or gluten is good with MC
 
 —--------------------------
 
-#breakfast
+Tags:, breakfast
 Potato
 Carrot (cooked)
 Whey Protein Shake (recipe below)
 Amazing Adaptogen Drink (recipe below)
 
-#snack
+Tags:, snack
 ½ Kiwi
 2 pieces of Hu Mint Chocolate Bar
 
-#lunch
+Tags:, lunch
 Fish (or chicken) Tacos:
 Grain free wraps
 Dairy Free Sourcream
@@ -895,14 +897,14 @@ Sprouted pumpkin seeds
 Field greens salad with olive oil and balsamic vinegar (I will add shredded carrot, shredded fennel, etc) *I will often heat my salad briefly in the frying pan so that it’s slightly cooked for easier digestion
 1 portion of pre-frozen chicken or beef broth
 
-#snack
+Tags:, snack
 ½ kiwi
 1 sheet of nori cut into small squares
 1 serving of dulse (atlantic seaweed)
 3-6 macadamia nuts
 [1 T of Dairy Free Cheese (my favorite is Miyoko’s Mozzarella](https://miyokos.com/collections/vegan-mozz))
 
-#dinner
+Tags:, dinner
 Chicken or Fish Dinner
         Cooked Chicken or Fish (flavored with Dill and/or Lime Juice)
         Potato or Sweet Potato
@@ -969,7 +971,7 @@ Reading
 
 #### Judy Z
 
-#food sprouted crackers by living spoonful rainbow grocery (in the nuts not crackers isle)
+Tags:, food, sprouted, crackers, by, living, spoonful, rainbow, grocery, (in, the, nuts, not, crackers, isle)
 
 # People’s recipe sets
 (many from college)
@@ -1138,7 +1140,7 @@ Thai green curry by Amy’s #Food #FrozenDinner
 Granola
 Yogurt
 Blueberries
-#food #picnic
+Tags:, food, picnic
 
 Avocado soy sauce #Food
 
@@ -1167,27 +1169,27 @@ Bisque at mamas in Maui #food* #restaurant
 
 Koko sabzi #food #persianfood
 
-#food #drink borage water
+Tags:, food, drink, borage, water
 Pussywillow water
  #persianfood
-#bizidea sell in USA, like Chobani did
+Tags:, bizidea, sell, in, USA,, like, Chobani, did
 
-#food Melissa's quick crack coconut <> Dragonberry #food coconut water
-#food ranginak: sweet  - halva Koko Sabzi <>spanikopita
+Tags:, food, Melissa's, quick, crack, coconut, <>, Dragonberry, food, coconut, water
+Tags:, food, ranginak:, sweet, -, halva, Koko, Sabzi, <>spanikopita
 Ash #soup
 
-#food Baked Sweet potatoes
-#food chicken/hen stock
-#food beef stock
-#food Salmon, teriyaki sauce, oven 60°C, 15-20 mins
-#food Reindeer meat, long-cook, oven 75°C 4-6 hours
-#food Wild boar meat, with chanterelle butter sauce, long-cook, oven 75°C 4-6 hours
+Tags:, food, Baked, Sweet, potatoes
+Tags:, food, chicken/hen, stock
+Tags:, food, beef, stock
+Tags:, food, Salmon,, teriyaki, sauce,, oven, 60°C,, 15-20, mins
+Tags:, food, Reindeer, meat,, long-cook,, oven, 75°C, 4-6, hours
+Tags:, food, Wild, boar, meat,, with, chanterelle, butter, sauce,, long-cook,, oven, 75°C, 4-6, hours
 
-#food new-pressed carrot juice
-#food freshly made black bean+soy bean juice
-#food jeo&the juice
-#food keso ost + soy sauce + oliv olja
-#food Swedish fresh potatoes, boiled with dill
+Tags:, food, new-pressed, carrot, juice
+Tags:, food, freshly, made, black, bean+soy, bean, juice
+Tags:, food, jeo&the, juice
+Tags:, food, keso, ost, +, soy, sauce, +, oliv, olja
+Tags:, food, Swedish, fresh, potatoes,, boiled, with, dill
 
 Grilled halloumi
 Ribeye with a sweet soy sauce (soy sauce, corn starch, sugar, spices optional) <> #restaurant 1608 Bistro #filipino #sf
@@ -1199,38 +1201,38 @@ Early girl tomatoes (march to july ish?)
 
 [#ketovegan #recipe 4 Ingredient Zucchini Cauliflower Fritters (Paleo, Vegan)](https://thebigmansworld.com/4-ingredient-zucchini-cauliflower-fritters-paleo-vegan/)
 Keto Diet Feels natural after fasting – it sort of preserves the meditative mental state Instead of shocking you out of it #keto <>concept of a fast-mimicking diet
-[[#study #keto](https://www.sciencedaily.com/releases/2020/01/200127134741.htm)Keto diet works best in small doses, mouse study finds — ScienceDaily](https://www.sciencedaily.com/releases/2020/01/200127134741.htm)
-#recipe #soup #vegan #keto
+[#study #keto Keto diet works best in small doses, mouse study finds — ScienceDaily](https://www.sciencedaily.com/releases/2020/01/200127134741.htm)
+Tags:, recipe, soup, vegan, keto
 [SuperFood Keto Soup | KetoDiet Blog](https://ketodietapp.com/Blog/lchf/superfood-keto-soup)
 [Best Instant Pot Vegetable Soup Recipe - How to Make Instant Pot Vegetable Soup](https://www.delish.com/cooking/recipe-ideas/a25336945/instant-pot-vegetable-soup/)
-#ketovegan
+Tags:, ketovegan
 [Keto Broccoli Salad Recipe - How to Make Keto Broccoli Salad](https://www.delish.com/cooking/nutrition/a28186450/keto-broccoli-salad-recipe/)
-#ketovegan #recipe
-[[~alex k chen](https://www.thinslimfoods.com/)https://www.thinslimfoods.com/](https://www.thinslimfoods.com/) . basically, keto bread/bagels
+Tags:, ketovegan, recipe
+[~alex k chen https://www.thinslimfoods.com/](https://www.thinslimfoods.com/) . basically, keto bread/bagels
 tastes amazing (VERY similar to the real thing but not as “crumbly”) and very filling, and makes you never want to EVER eat regular bread or bagels again. i don’t GET why people even still make bread with such toxic ingredients when they can make something like this now #food #keto
 https://www.facebook.com/100001281229599/posts/3180714168647926/?d=n
 https://twosleevers.com/no-bake-keto-peanut-butter-chocolate-bars-keto/
-#keto
+Tags:, keto
 https://twosleevers.com/keto-tabouli-recipe/ #Recipe
 https://thespoon.tech/launched-on-instagram-the-cereal-school-creates-low-carb-keto-friendly-sugar-cereal/ #keto #food
-[[#food #keto bread](https://www.facebook.com/105112046191641/posts/2290048971031260?sfns=xmo)https://www.facebook.com/105112046191641/posts/2290048971031260?sfns=xmo](https://www.facebook.com/105112046191641/posts/2290048971031260?sfns=xmo)
-[[#recipeList #ketovegetarian](https://www.dietdoctor.com/low-carb/keto/recipes/vegetarian)Vegetarian Keto Recipes – Simple & Delicious – Diet Doctor](https://www.dietdoctor.com/low-carb/keto/recipes/vegetarian)
-#ketovegan #recipe
+[#food #keto bread https://www.facebook.com/105112046191641/posts/2290048971031260?sfns=xmo](https://www.facebook.com/105112046191641/posts/2290048971031260?sfns=xmo)
+[#recipeList #ketovegetarian Vegetarian Keto Recipes – Simple & Delicious – Diet Doctor](https://www.dietdoctor.com/low-carb/keto/recipes/vegetarian)
+Tags:, ketovegan, recipe
 PALEO VEGAN ZUCCHINI CAULIFLOWER FRITTERS (KETO VEGGIE BURGERS!)
 [Paleo Vegan Zucchini Cauliflower Fritters (Keto Veggie Burgers!)](https://thebigmansworld.com/4-ingredient-zucchini-cauliflower-fritters-paleo-vegan/)
 [Bone Broths, Soups & Keto Soups Online. Delivered to Your Door. – Kettle & Fire](https://www.kettleandfire.com/collections/products#ketosoups)
-#good
+Tags:, good
 [OWYN - 100% Vegan Plant-Based Protein Shakes | Turmeric, 12 Fl Oz (Pack of 12) | Dairy-Free, Gluten-Free, Soy-Free, Tree Nut-Free, Egg-Free, Allergy-Free, Vegetarian : Grocery & Gourmet Food](https://www.amazon.com/gp/product/B07KQS9KFK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 [milkadamia Macadamia Milk, Unsweetened - 32 Oz, 2 Count: Grocery & Gourmet Food](https://www.amazon.com/gp/product/B06W9JG8JV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 [Manitoba Harvest Organic Hemp Hearts Shelf Stable Hemp Seeds, 18oz; with 10g Protein & 12g Omegas per Serving, Keto, Gluten Free, Vegan, Whole 30, Paleo, Non-GMO : Grocery & Gourmet Food](https://www.amazon.com/gp/product/B07PKWT278/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 Good with
-#salad lettuce, hemp hearts, olive oil, balsamic vinegar
+Tags:, salad, lettuce,, hemp, hearts,, olive, oil,, balsamic, vinegar
 [Keto Hot Breakfast by Keto and Co | Apple Cinnamon Flavor | Just 3.5 Net Carbs Per Serving | Gluten Free, Low Carb, No Added Sugar, Naturally Sweetened | (8 Servings - Apple Cinnamon)](https://www.amazon.com/gp/product/B07W8DRNCP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 [Keto Hot Breakfast by Keto and Co | Peaches and Cream Flavor | Just 3.5 Net Carbs Per Serving | Gluten Free, Low Carb, No Added Sugar, Naturally Sweetened | (8 Servings - Peaches and Cream)](https://www.amazon.com/gp/product/B07PH9ZZPP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) #breakfast
 [Diabetic Kitchen Cinnamon Pecan Granola Keto Cereal - Keto Friendly, 3 Net Carbs, No Added Sugar, Gluten-Free, 5g Fiber, Non-GMO, No Artificial Sweeteners or Sugar Alcohols](https://www.amazon.com/gp/product/B07BW4XQ8M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 [Dry Riced Cauliflower by Keto and Co | Unseasoned | Just 5.6g Net Carbs Per Serving | Gluten free, Vegan, Non-GMO, Diabetic Friendly | (5 Servings-Makes 1 Pound) : Grocery & Gourmet Food](https://www.amazon.com/gp/product/B071NM1TN2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-[[#proteinShake](https://www.amazon.com/gp/product/B07VKC1F6C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)Pirq, Vegan Protein Shake, Turmeric Curcumin, Maca, Plant-Based Protein Drink, Gluten-Free, Dairy-Free, Soy-Free, Non-GMO, Vegetarian, Kosher, Keto, Low Calorie (Indulgent Variety Pack, 12 Pack) : Grocery & Gourmet Food](https://www.amazon.com/gp/product/B07VKC1F6C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-[[#ProteinPowder Collagen protein is generally way tastier and less grainy.](https://www.amazon.com/gp/product/B07Q1YYD1P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)Orgain Keto Collagen Protein Powder with MCT Oil, Chocolate - Paleo Friendly, Grass Fed Hydrolyzed Collagen Peptides Type I and III, Dairy Free, Lactose Free, Gluten Free, Soy Free, 0.88 Pound : Grocery & Gourmet Food](https://www.amazon.com/gp/product/B07Q1YYD1P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+[#proteinShake Pirq, Vegan Protein Shake, Turmeric Curcumin, Maca, Plant-Based Protein Drink, Gluten-Free, Dairy-Free, Soy-Free, Non-GMO, Vegetarian, Kosher, Keto, Low Calorie (Indulgent Variety Pack, 12 Pack) : Grocery & Gourmet Food](https://www.amazon.com/gp/product/B07VKC1F6C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+[#ProteinPowder Collagen protein is generally way tastier and less grainy. Orgain Keto Collagen Protein Powder with MCT Oil, Chocolate - Paleo Friendly, Grass Fed Hydrolyzed Collagen Peptides Type I and III, Dairy Free, Lactose Free, Gluten Free, Soy Free, 0.88 Pound : Grocery & Gourmet Food](https://www.amazon.com/gp/product/B07Q1YYD1P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 [Quest Nutrition Double Chocolate Chunk Protein Bar, High Protein, Low Carb, Gluten Free, Keto Friendly, 12 Count : Sports Nutrition Protein Bars : Grocery & Gourmet Food](https://www.amazon.com/gp/product/B00FEKGO1A/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (edited)
 
 ### #CookingTrick
@@ -1243,22 +1245,22 @@ General tricks / tricks for cooking that have come from executing multiple recip
 ### Jacob
 Curated with love at https://ideaflow.app
 --
-#recipe
+Tags:, recipe
 In proportion of 1 spoon of Shan Masala to 1 cup of lentil to 3 cups of water
-#instapot
+Tags:, instapot
 https://www.amazon.com/Shan-Masala-Lentil-Curry-Grams/dp/B0090OYPWG/ref=mp_s_a_1_3?dchild=1&keywords=shan+daal+masala&qid=1600508525&sprefix=shan+da&sr=8-3
 https://www.amazon.com/gp/aw/d/B005Z84UQ2/ref=pd_alm_fs_gw_rp_1_12_fs_mwb_sf_ry_tcl?fpw=alm&almBrandId=QW1hem9uIEZyZXNo&pd_rd_r=9da3339f-03a1-4f8c-8ad9-14b5746351f3&pd_rd_w=B0t6j&pd_rd_wg=di4Y7&pd_rd_i=B005Z84UQ2&pf_rd_r=Q0A6HJ6F9BJ99ENYQDPX&pf_rd_p=2e16fbb4-1c88-488b-add4-16d9101d972f
 daal
 ~aku
 --
-#morningroutine https://bengreenfieldfitness.com/article/lifestyle-articles/ben-greenfields-morning-routine/
+Tags:, morningroutine, https://bengreenfieldfitness.com/article/lifestyle-articles/ben-greenfields-morning-routine/
 Half avocado, celery or cucumber, handful of spinach, 2 tbspns coconut oil, 1 tspn turmeric, pinch of sea salt, cup of unsweetened organic almond milk, blended not too much.
 It’s a weird taste sort of Thai in flavour. It really hits the body and the brain, hard!
 Never stick to it though, my body just tells me to change up later – cacao/ghee smoothie, or bacon and eggs, or bulletproof coffee etc. It changes.
 Yours sounds even better than mine though. I’ll give it a try ingredient for ingredient and let you know.
 Thanks for that.
-#recipe #morningroutine
-#smoothie
+Tags:, recipe, morningroutine
+Tags:, smoothie
 -A huge bunch of greens. I prefer kale, but spinach, bok choy, mustard greens, etc. also works.
 -Some kind of herb. Cleansing herbs like parsley, cilantro or thyme are nice. Get ‘em fresh.
 -Half an avocado, or a whole one if it’s a high calorie day.
@@ -1279,14 +1281,14 @@ Finally, stir (don’t blend) in the following ingredients:
 https://bengreenfieldfitness.com/article/lifestyle-articles/ben-greenfields-morning-routine/
 --
 Being a knowledgeable intellectual who knows what people are referring to when someone refers to mughal empire
-#whyawesome history class
+Tags:, whyawesome, history, class
 https://www.awesomecuisine.com/recipes/8/malai-kofta.html
 https://www.awesomecuisine.com/recipes/4981/mughlai-paneer-kofta-curry.html #recipe #indian <>chase varga
 can get educated while hanging out and having fun
 --
 https://getpocket.com/explore/item/once-you-try-spanish-fried-eggs-you-ll-never-cook-them-any-other-way?utm_source=pocket-newtab #recipe
 --
-#recipe @Cranberry Sauce @ missing entity 75  Perrino
+Tags:, recipe, @Cranberry, Sauce, @, missing, entity, 75, Perrino
 Wed, Nov 25, 10:47 AM (1 day ago)
 to me
 
@@ -1304,14 +1306,14 @@ Happy Thanksgiving to you and your family.
 Warm Regards,
 
 --
-#recipe ~ben greenfield https://www.amazon.com/gp/registry/wishlist/3C04JV6SAB601/ref=as_li_ss_tl?ie=UTF8&linkCode=sl2&tag=bengree-20&linkId=bc2844c526c64387730a935affee87ab&language=en_US
-#smoothie #breakfast https://bengreenfieldfitness.com/article/weekly-roundup-articles/2-28-20/
+Tags:, recipe, ~ben, greenfield, https://www.amazon.com/gp/registry/wishlist/3C04JV6SAB601/ref=as_li_ss_tl?ie=UTF8&linkCode=sl2&tag=bengree-20&linkId=bc2844c526c64387730a935affee87ab&language=en_US
+Tags:, smoothie, breakfast, https://bengreenfieldfitness.com/article/weekly-roundup-articles/2-28-20/
 --
-#recipe https://bengreenfieldfitness.com/podcast/nutrition-podcasts/inner-circle-podcast-4-healthy-breakfast-lunch-for-kids-and-does-breakfast-boost-your-metabolism/
+Tags:, recipe, https://bengreenfieldfitness.com/podcast/nutrition-podcasts/inner-circle-podcast-4-healthy-breakfast-lunch-for-kids-and-does-breakfast-boost-your-metabolism/
 --
-#recipe liver https://youtu.be/M9AV-wrgW9w?t=3427
+Tags:, recipe, liver, https://youtu.be/M9AV-wrgW9w?t=3427
 --
-#recipe sardines
+Tags:, recipe, sardines
 Sardine Recipe #5: A Sardine Wrap. Make the wrap pictured above. If you're going gluten-free or low-carb, substitute the wrap with a big butter lettuce leaf, swiss chard, kale, or bok choy. Fill the wrap with spinach, tomatoes, mozzarella or feta cheese, and then dump the can of sardines on top so that the olive oil saturates the vegetables. For added calories, include a sliced avocado in the wrap.
 
 Sardine Recipe #4: Cold Sardine Salad. Chop up some red onion, a couple large handful of olives, and if you have some around, a bit of fennel. Add seasalt. Toss with sardines, and enjoy.
@@ -1324,7 +1326,7 @@ Sardine Recipe #1: Sardines. Ahem. Just eat the sardines straight out of the can
 
 https://bengreenfieldfitness.com/article/low-carb-ketogenic-diet-articles/5-mind-blowing-low-carb-ways-to-enjoy-sardines/
 --
-#recipe #ketoBread ~ben greenfield gs. For extra calories or carbs, you can serve with 1 baked or boiled sweet potato or yam.
+Tags:, recipe, ketoBread, ~ben, greenfield, gs., For, extra, calories, or, carbs,, you, can, serve, with, 1, baked, or, boiled, sweet, potato, or, yam.
 
 22. Sandwich
 
@@ -1341,7 +1343,7 @@ You can fill your sandwich with avocado, tomato, healthy meat of choice, an arti
 https://bengreenfieldfitness.com/article/lifestyle-articles/easy-meals-for-busy-athletes/x
 --
 
-#foodsList #food #lunch ~Ben Greenfield
+Tags:, foodsList, food, lunch, ~Ben, Greenfield
 -1:30pm: Lunch. Typically lunch is a mix of dark leafy greens, healthy fats, protein, and only a very small amount of carbohydrate. Below is a a photo example from yesterday's lunch log, which is fresh kale from out garden, sardines (read about why I like them here), sliced tomato with sea salt, homemade hummus, feta cheese, and rice crackers.
 
 -4:00pm. Afternoon snack. OK, OK – I know the photo below looks *fraggin' nasty*. But this snack actually tastes quite good, and is a typical appetite satiating snack for me. It is coconut milk, Living Protein, almond butter, cinnamon, and some cocochia flakes, all stirred into a bowl – and I have no clue why it looks “green”, but I'm blaming it on poor lighting.
@@ -1357,7 +1359,7 @@ For extra vitamin K/carbs, especially if this meal follows a morning workout, yo
 That sounded like a ton of work, but you can whip this together in 10 minutes flat and eat it even faster.
 
 *When I use words like “organic” and “pastured”, I mean it. If you're serious about wanting to look, feel and perform better by limiting the amount of hormones, antibiotics, toxins, molds and inflammatory omega-6 fatty acids that you consume, and you can't find or order clean versions of meat and clean versions of anything that originally came from an animal, you're better off choosing a non-meat based meal. In Chapter 16 I'll tell you more about why this matters and where you can go to find what you need locally or online.
-#foodlist
+Tags:, foodlist
 
 Lunch Options
 13. Caesar Salad
@@ -1382,7 +1384,7 @@ Into a large piece of kale (or swiss chard, bokchoy, or butter lettuce), wrap 4-
 
 To make mayo, simply blend 1 whole egg, 1 tablespoon lemon juice, salt and pepper while slowly adding 1 cup of olive oil, macadamia nut oil, or avocado oil (you'll see it thicken as you add oil).  If this is a pre-workout meal or higher volume day, you can also add sliced yam, sweet potato or white rice inside wrap. If you don't have time for this, just avoid vegetable oil based mayo and buy the olive oil mayo at the grocery store.
 --
-#recipe #smoothie Ben Greenfield smoothie
+Tags:, recipe, smoothie, Ben, Greenfield, smoothie
 ice/stevia/greens/bone broth kefir goats milk or coconut home yogurt
 ice/stevia/greens/bone broth kefir goats milk or coconut home yogurt/ greens/collagen/ lemon vitamin c/, half avocado/, sprouts,/ spirulina, /coconut flakes / cacao nibs
 throughout the internet—like my “Wendy's Frosty” smoothie here and a green smoothie recipe here.
@@ -1449,33 +1451,33 @@ Set 3-4 tablespoon of chia seeds in a small bowl of water and place in the refri
 Suck down a 1/2-1 “tube” of organic, pastured pemmican from US Wellness Meats, a fantastic source of this grass-fed, hormone-free, traditional Native American beef and tallow source that gets frozen and sent straight to your front door. Alternatively, you make your own beef jerky, following my wife Jessa'a delicious beef jerky recipe in this video OR eat 200-300 calories of all-natural jerky from US Wellness Meats. I did a podcast interview with the owner of USWellnessMeats and the stuff is the real deal when it comes to “safe” meat.
 --
 https://uk.huel.com/blogs/recipes
-#recipe ~huel
-#mealreplacement https://howtohumanbeing.com/a-whole-lot-of-reasons-to-try-huel-meal-replacement/
+Tags:, recipe, ~huel
+Tags:, mealreplacement, https://howtohumanbeing.com/a-whole-lot-of-reasons-to-try-huel-meal-replacement/
 https://howtohumanbeing.com/10-ways-to-upgrade-your-huel-game/
 --
 https://share.getcloudapp.com/llu2nXWZ
-#bug #recipe not showing up
+Tags:, bug, recipe, not, showing, up
 
 --
 The only two ingredients are potato starch and psyllium. #vegan #recipe
 
 --
-#buy monkfruit sweetener, stevia? other things in ben greenfield's morning shake? #recipe
+Tags:, buy, monkfruit, sweetener,, stevia?, other, things, in, ben, greenfield's, morning, shake?, recipe
 --
-#vegan #recipe
+Tags:, vegan, recipe
 --
-#recipe https://www.eatthis.com/parsnip-waffles-recipe/ Whole30 Savory Parsnip WafflesThese delicious vegetable waffles are a great breakfast on paleo, keto, or whole30. #breakfast https://www.eatthis.com/breakfast-hack/
+Tags:, recipe, https://www.eatthis.com/parsnip-waffles-recipe/, Whole30, Savory, Parsnip, WafflesThese, delicious, vegetable, waffles, are, a, great, breakfast, on, paleo,, keto,, or, whole30., breakfast, https://www.eatthis.com/breakfast-hack/
 
 A Crunchy, Flavorful Red and Green Breakfast Salad Recipe https://www.eatthis.com/breakfast-salad-recipe/
-#recipe https://www.eatthis.com/paleo-casserole-recipe/
+Tags:, recipe, https://www.eatthis.com/paleo-casserole-recipe/
 
-#foodsList https://www.eatthis.com/whole-30-recipes/ #recipeSource
+Tags:, foodsList, https://www.eatthis.com/whole-30-recipes/, recipeSource
 https://mealplannerpro.com/member-recipes/Roasted-Kale-and-Salmon-Detox-Salad-765688 #salmon (link dead)
 --
-#buy? protein bar
+Tags:, buy?, protein, bar
 https://www.primalkitchen.com/collections/protein-bars/products/peanut-butter-protein-bars  (dead to link rot)
 https://goraw.com/products/protein-bar-dark-chocolate (dead to link rot)
-#recipe #mealreplacementBar I don't use Soylent for this, but we make nutrition bars with Huel, a non-soy meal replacement. I add some raw oats, some dried fruit and nuts and butter or coconut oil plus a little water to bring it all together. Then bake until done. My husband uses them instead of granola bars--lower sugar, plus the benefits of vitamins, flaxseed, etc.
+Tags:, recipe, mealreplacementBar, I, don't, use, Soylent, for, this,, but, we, make, nutrition, bars, with, Huel,, a, non-soy, meal, replacement., I, add, some, raw, oats,, some, dried, fruit, and, nuts, and, butter, or, coconut, oil, plus, a, little, water, to, bring, it, all, together., Then, bake, until, done., My, husband, uses, them, instead, of, granola, bars--lower, sugar,, plus, the, benefits, of, vitamins,, flaxseed,, etc.
 https://www.reddit.com/r/soylent/comments/8ggy50/keto_meal_replacement_bars_aka_solid_soylent/
 [https://www.ketochow.xyz/2016/08/keto-chow-barsbrownies/](http://web.archive.org/web/20200812205630/https://www.ketochow.xyz/2016/08/keto-chow-barsbrownies/)
 --
@@ -1490,7 +1492,7 @@ https://www.reddit.com/r/soylent/comments/5a2hsu/meal_replacement_for_extensive_
 https://superbodyfuel.com/wp-content/uploads/super_fuel_vanilla_label.png
 https://superbodyfuel.com/shop/super-fuel/
 
-#recipe
+Tags:, recipe
 PrimalKind DIY Recipe
 [#mealreplacement https://eatcomplete.co/review/primalkind-him/](https://eatcomplete.co/review/primalkind-him/)
 As a massive thank you to all the amazing people that have helped support PrimalKind over the years & supported me through my treatment, please find below a DIY recipe for PrimalKind.
@@ -1555,10 +1557,10 @@ Sprinkle with two tablespoons of good olive oil
 Pour two tablespoons of water on the bottom of the dish
 Seal with film or plastic and microwave for 7-7.5 minutes at average power
 Let stand for a couple of minutes before opening
-#recipe
+Tags:, recipe
 https://canyoumicrowaveit.com/olive-oil/
 --
-#recipe zucchini bread
+Tags:, recipe, zucchini, bread
 https://www.allrecipes.com/recipe/6698/moms-zucchini-bread/
 https://www.theharvestskillet.com/microwave-zucchini-bread-paleo-low-carb/  90 sec
 Ingredients
@@ -1574,22 +1576,22 @@ Mix in coconut flour and egg, and stir until well-combined.\
 Add in shredded zucchini, sweetener of choice (I used one packet of pyure stevia), and cinnamon. Stir once more to combine.
 Microwave for 90 seconds or until cooked through. Allow to cool for several minutes before digging in.
 --
-#cookingTrick #cookingPrinciple
+Tags:, cookingTrick, cookingPrinciple
 baking with yogurt
 [Because of its acidity, yogurt reacts with https://www.thekitchn.com/pantry-basics-whats-the-differ-40514](https://www.thekitchn.com/pantry-basics-whats-the-differ-40514) to encourage leavening. It also adds nice, tangy flavor that hardly overpowers, but instead keeps everything in balance.
 https://thestayathomechef.com/greek-yogurt-waffles/
-#recipe
+Tags:, recipe
 --
 
 [#recipe https://gimmedelicious.com/low-carb-zucchini-fritters/](https://gimmedelicious.com/low-carb-zucchini-fritters/)
 --
 
 onion garlic (prechopped) @foodsList
-#recipe #staple tofu mushroom broccolli sesame oil
+Tags:, recipe, staple, tofu, mushroom, broccolli, sesame, oil
 --
 [Salmon & Veggies In Coconut Curry #recipe https://fitmencook.com/coconut-curry-salmon/](https://fitmencook.com/coconut-curry-salmon/)
 --
-#grocery bok choy
+Tags:, grocery, bok, choy
 https://fitmencook.com/low-carb-sesame-cod/ #recipe #fish
 --
 [#recipe https://fitmencook.com/protein-waffles/](https://fitmencook.com/protein-waffles/) #waffles
@@ -1606,8 +1608,8 @@ https://meatfreeketo.com/vegan-low-carb-creamy-broccoli-soup/
 [https://www.culturedfoodlife.com/low-carb-cultured-foods/ #kefir https://www.culturedfoodlife.com/second-ferment-your-kefir/](https://www.culturedfoodlife.com/second-ferment-your-kefir/)
 Low-Carb Cultured Foods #keto
 
-#recipe
-#fermentedVegetables
+Tags:, recipe
+Tags:, fermentedVegetables
 Low Carb - Milk Kefir
 https://www.diynatural.com/fermented-vegetables/
 carrots
@@ -1623,11 +1625,11 @@ Fermenting tools
 --
 https://www.culturedfoodlife.com/store/product-category/yogurt-and-other-cultures/
 
-#recipe #fermentation
+Tags:, recipe, fermentation
 --
 [#mealreplacement homemade mealsquares https://www.ketochow.xyz/2016/08/keto-chow-barsbrownies/](https://www.ketochow.xyz/2016/08/keto-chow-barsbrownies/)#recipe
 [https://github.com/lagrassa/freedomsquares/blob/master/recipe.txt https://github.com/lagrassa/freedomsquares](https://github.com/lagrassa/freedomsquares)
-#recipe
+Tags:, recipe
 I suspect this frustration is widespread among people who do work that requires a lot of focus.  Leaving flow because your body needs maintenance is annoying.  So I'm sharing a strategy that has helped me.
 https://www.lesswrong.com/posts/X6APQeHhXH9mbredM/soylent-orange-whole-food-open-source-soylent
 Edit: Kefir is expensive but highly recommended for lactose intolerant individuals. It is also delicious.
@@ -1647,24 +1649,24 @@ low, 150 °C/ 300 °F (fan assisted), or 170 °C/ 340 °F (conventional).
 --
 https://meatfreeketo.com/super-easy-low-carb-vegan-cauliflower-pizza-crust-nut-free-soy-free-coconut-free/
 https://meatfreeketo.com/vegan-keto-spinach-artichoke-pizza/
-#recipe #veganKeto
+Tags:, recipe, veganKeto
 --
-#recipe #memory
+Tags:, recipe, memory
 TUNA TARRAGON SALAD (SWEET TOMATOES
 
 Made this for my niece who just had surgery and a not great diagnosis. She requested it specifically and it’s never been my thing at Sweet Tomatoes. I followed the directions except fur only using 1 cup of pickle juice. This recipe made a huge amount, I gave my niece half and kept the rest for my husband and I. It is delicious and we cannot stop eating it. I didn’t even think I liked this dish and typically cannot stand dressing with mayo, but I love the flavors in this and the different textures with the pastas- although I’ll probably leave out the fettuccine next time. Thank you so much for posting this recipe, you made my niece super happy and we all appreciate it!
 --
 
-#try air fryer zucchini crisp #q does zucchini lose nutritional value if crisped?
+Tags:, try, air, fryer, zucchini, crisp, q, does, zucchini, lose, nutritional, value, if, crisped?
 
 [#good "cheese" dip / sauce with hemp / yeast / zucchini garlic powder #good #recipe  https://meatfreeketo.com/low-carb-vegan-mac-cheese/](https://meatfreeketo.com/low-carb-vegan-mac-cheese/)
-#try add edamame?
+Tags:, try, add, edamame?
 1 cup hulled hemp seeds
 --
-#buy tapioca flour, dried mustard
+Tags:, buy, tapioca, flour,, dried, mustard
 shiritaki noodles
 
-#recipe Vegan Cheese Sauce {Paleo, Whole30, & Low-Carb}
+Tags:, recipe, Vegan, Cheese, Sauce, {Paleo,, Whole30,, &, Low-Carb}
 
 For the Cheese Sauce https://meatfreeketo.com/low-carb-vegan-mac-cheese/ #veganKetoCheese
 LOW CARB VEGAN MAC AND CHEESE
@@ -1691,15 +1693,15 @@ https://www.foodnetwork.com/recipes/articles/50-simple-salads
 https://www.loveandlemons.com/salad-recipes/
 https://www.google.com/search?q=great+easy+salad+recipes&sxsrf=ALeKk01dzXIxtwRh9fx2Z7p8s7i-iXzFTQ:1598660031003&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiyq47akL_rAhWzHjQIHcxGA2cQ_AUoAnoECA4QBA&biw=1152&bih=604
 --
-#recipe
-#salad
+Tags:, recipe
+Tags:, salad
 https://www.youtube.com/watch?v=nRIfgPDdTSY Satisfying Salads That Don't Suck #salad *
 
 --
 
 [#recipe #vegan https://www.youtube.com/watch?v=P_wD2zydD_g](https://www.youtube.com/watch?v=P_wD2zydD_g) HIGH PROTEIN VEGAN MEAL PREP | @avantgardevegan by Gaz Oakley
 --
-#breakfast
+Tags:, breakfast
 https://www.manmadediy.com/4553-healthy-breakfast-made-easy-5-flavorful-fitness-friendly-smoothie-recipes-to-make-in-the-mornings #smoothie #recipe
 https://www.manmadediy.com/3825-this-is-the-breakfast-i-eat-every-morning-you-should-too <>Tim Ferriss
 --
@@ -1718,7 +1720,7 @@ Juice of 3 limes
 ½ cup frozen peas
 Lime wedges, for serving
 --
-#recipe 1 cup cooked quinoa or brown rice
+Tags:, recipe, 1, cup, cooked, quinoa, or, brown, rice
 3 asparagus spears, shaved
 ½ cup grated carrot
 ½ small watermelon radish, thinly sliced with a mandoline
@@ -1763,11 +1765,11 @@ https://cooking.ito.com/
 
 ## General Salads List
 
-#FoodOrder #MealDelivery urban remedy organic macro bowl
+Tags:, FoodOrder, MealDelivery, urban, remedy, organic, macro, bowl
 Hardy thiel Beach soong Beach potato pumpkin seeds cumin chickpea and quinoa with tahini dressing #FoodPairing #Salad
 @Peg
 
-#Salad
+Tags:, Salad
 quinoa, black beans, chickpeas, greens mix, ribbon cucumbers, chicken breast sunflower seeds, par boiled eggs mozzarella chunks or shredded cheese or cottage cheese
 Grape tomatoes
 Olive oil olive oil lemon juice balsamic vinaigrette #Dressing
@@ -1788,13 +1790,13 @@ Smoked tofu sticks #Salad #Recipe
 
 Watercress avocado salt pepper paprika cashews #Salad #Recipe ~Arya
 
-#salad sunflower  strawberry foggy morning or Brie cheese lettuce balsamic olive oil #food
+Tags:, salad, sunflower, strawberry, foggy, morning, or, Brie, cheese, lettuce, balsamic, olive, oil, food
 
-#Salad kale pecans olive oil cranberries apple cider vinegar
+Tags:, Salad, kale, pecans, olive, oil, cranberries, apple, cider, vinegar
 
 Oranges ginger honey almonds balsamic vinaigrette cumin #Salad #Food
 Carrots
-#pairing carrots with orange — Morocco. Cumin honey  
+Tags:, pairing, carrots, with, orange, —, Morocco., Cumin, honey
 
  #salad sun-dried tomatoes #Food
 

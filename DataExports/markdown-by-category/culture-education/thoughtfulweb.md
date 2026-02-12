@@ -1,13 +1,15 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > ThoughtfulWeb.jacobcole.net](http://thoughtfulweb.jacobcole.net)
-#connectordoc #curatedList
+# Thoughtfulweb
+
+[systematicawesome.jacobcole.net > ThoughtfulWeb.jacobcole.net](http://thoughtfulweb.jacobcole.net)
+Tags:, connectordoc, curatedList
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
 
 ThoughtfulWeb
 Places on the web where you can find thoughtful, artful, and mindful content. An oasis of good taste for the soul. Content you want to be influenced by.
-[[[[Related Potential name TastefulWeb, CuratedWeb, ArtfulWeb. Related idea: CuratedWorld
-See Also:  commentaries.jacobcole.net](http://commentaries.jacobcole.net/)• products.jacobcole.net](http://products.jacobcole.net) • foodslist.jacobcole.net](http://foodslist.jacobcole.net/) • pureland.jacobcole.net](http://pureland.jacobcole.net)
+[Related Potential name TastefulWeb, CuratedWeb, ArtfulWeb. Related idea: CuratedWorld
+See Also:  commentaries.jacobcole.net • products.jacobcole.net • foodslist.jacobcole.net • pureland.jacobcole.net](http://pureland.jacobcole.net)
 
 [“Canon”: Curated Reading/ Watching Lists        2](#h.22g4wbltwz0a)
 [Longer Term Sources        3](#h.kypvrfm1g3p7)
@@ -43,12 +45,12 @@ Things that you think everyone, or many people, would benefit from reading
 
 [Jack Jay's Reading List](https://jacksonjesionowski.com/BookShelf-My-Favorite-Reads-2e8cc15ddf654b9bbcc52445a0e5372f)
 - [Jack’s Favorite Media list Section of jacksonjesionowski.com](https://jacksonjesionowski.com/)
-- [[[[Movies/TV](https://jacksonjesionowski.com/Favorite-Movies-TV-Shows-6384bb5199e84ee7b118adda4bbbe395?pvs=25) • Books](https://jacksonjesionowski.com/BookShelf-My-Favorite-Reads-2e8cc15ddf654b9bbcc52445a0e5372f) • YouTube Gems](https://jacksonjesionowski.com/Youtube-Gems-4bad17b6fb4b438d9e7dce5cedf4eb6e?pvs=25) • Articles](https://jacksonjesionowski.com/My-Favorite-Articles-d6740598de3740e4b7a72f7e12d72a83?pvs=25)
+- [Movies/TV • Books • YouTube Gems • Articles](https://jacksonjesionowski.com/My-Favorite-Articles-d6740598de3740e4b7a72f7e12d72a83?pvs=25)
 
 Jacob’s Canon
-- [[The Revolution Will Not Be Psychologized - The Emerald | Podcast on Spotify —](https://spotify.link/LWqzJ52RaDb)https://spotify.link/LWqzJ52RaDb](https://spotify.link/LWqzJ52RaDb) #podcast #vibe #ref #curate @thoughtfulweb #theupdate
+- [The Revolution Will Not Be Psychologized - The Emerald | Podcast on Spotify — https://spotify.link/LWqzJ52RaDb](https://spotify.link/LWqzJ52RaDb) #podcast #vibe #ref #curate @thoughtfulweb #theupdate
 - [http://bookslist.jacobcole.net/http://quotes.jacobcole.net/](http://quotes.jacobcole.net/)
-- [[6 Min: Giraffe Language and Jackal Language | Nonviolent Communication explained by Marshall Rosenberg - YouTube —](https://m.youtube.com/watch?v=Xov5z_GJ9Zs)https://m.youtube.com/watch?v=Xov5z_GJ9Zs](https://m.youtube.com/watch?v=Xov5z_GJ9Zs) #nvc
+- [6 Min: Giraffe Language and Jackal Language | Nonviolent Communication explained by Marshall Rosenberg - YouTube — https://m.youtube.com/watch?v=Xov5z_GJ9Zs](https://m.youtube.com/watch?v=Xov5z_GJ9Zs) #nvc
 
 - [Nonviolent Communication #Book](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X)
 
@@ -77,7 +79,7 @@ Short Stories
 [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html) by Andy Weir
 
 ### News
-[[WorldPost https://www.huffpost.com/author/the-worldpost](https://www.huffpost.com/author/the-worldpost)https://www.washingtonpost.com/news/theworldpost/wp/2018/01/?arc404=true](https://www.washingtonpost.com/news/theworldpost/wp/2018/01/?arc404=true) – Anything by Nicolas Berggruen
+[WorldPost https://www.huffpost.com/author/the-worldpost https://www.washingtonpost.com/news/theworldpost/wp/2018/01/?arc404=true](https://www.washingtonpost.com/news/theworldpost/wp/2018/01/?arc404=true) – Anything by Nicolas Berggruen
 
 [Sciencedaily.com](http://sciencedaily.com)
 http://phys.org/
@@ -274,14 +276,14 @@ Rationalist Fiction with tremendous energy
 Unsong
 
 ### Existential crisis reading materials
-#todo Start existential crisis Wiki/support group? Share mit talk?
+Tags:, todo, Start, existential, crisis, Wiki/support, group?, Share, mit, talk?
 [the concept of the highly sensitive person](https://www.psychologytoday.com/us/basics/highly-sensitive-person)
 [Positive disintegration](https://en.wikipedia.org/wiki/Positive_disintegration#:~:text=The%20theory%20of%20positive%20disintegration,anxiety%20as%20necessary%20for%20growth.) / dabrowski
 [Desikachar – Religiousness in yoga](http://yoga.jacobcole.net/) First six pages
 [Heidegger concepts easy intro](http://heidegger.jacobcole.net)
 
 [The Value of Existential Crises talk slides](https://docs.google.com/presentation/d/1-2zNMtQUY58zSxFvBJG823uw_RVuXKP3Mp4qWe3gmeg/edit?usp=sharing)
-[[ideaflowbackground.jacobcole.net](http://ideaflowbackground.jacobcole.net) - Esp. Doug Engelbart Guiding Philosophy](https://en.wikipedia.org/wiki/Douglas_Engelbart#Guiding_philosophy)
+[ideaflowbackground.jacobcole.net - Esp. Doug Engelbart Guiding Philosophy](https://en.wikipedia.org/wiki/Douglas_Engelbart#Guiding_philosophy)
 Maimonides’ The Guide for the Perplexed
 
 ### Audio Content

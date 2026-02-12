@@ -1,6 +1,8 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  Hiringlist.jacobcole.net](http://hiringlist.jacobcole.net)   #connectordoc
+# Hiringlist
+
+[systematicawesome.jacobcole.net >  Hiringlist.jacobcole.net](http://hiringlist.jacobcole.net)   #connectordoc
 [started by SystematicAwesome@gmail.com](mailto:systematicawesome@gmail.com):
-[[jacob@ideaflow.io](mailto:jacob@ideaflow.io), trattner@alum.mit.edu](mailto:trattner@alum.mit.edu)
+[jacob@ideaflow.io , trattner@alum.mit.edu](mailto:trattner@alum.mit.edu)
 
 Contribute to the list at top!                        
 
@@ -8,26 +10,26 @@ HiringList
 Companies recommended by trusted friends that are hiring, and awesome people that are looking!
 Add your job opportunity at the top, or yourself to Seeking Employment (or, confidentially on: http://talentnet.network)
 
-[[Inbox (Scratch Workspace)](#h.t06571eddkit)1](#h.t06571eddkit)
-[[Opportunities](#h.nh7lxo9k9lim)1](#h.nh7lxo9k9lim)
-[[Non-Startups](#h.wiri68mfnwx6)1](#h.wiri68mfnwx6)
-[[Startups](#h.z3ngbtvkoc4p)1](#h.z3ngbtvkoc4p)
-[[Siteline - jobs@siteline.com (goes to founders)](#h.h2q2g6u13j1e)2](#h.h2q2g6u13j1e)
-[[Cobalt Robotics](#h.fq1982b1y9ft)3](#h.fq1982b1y9ft)
-[[EDO](#h.ynu2hnsi56fr)3](#h.ynu2hnsi56fr)
-[[Mobius](#h.67wx549zokmt)3](#h.67wx549zokmt)
-[[SVI](#h.6nabxd87pvba)3](#h.6nabxd87pvba)
-[[Instabase](#h.r8ja57j1miih)3](#h.r8ja57j1miih)
-[[Zinc](#h.yosud5rrs4tw)4](#h.yosud5rrs4tw)
-[[ArchSystems](#h.78f3kb7hdk7e)4](#h.78f3kb7hdk7e)
-[[Namebase](#h.poq2bg1s9lyn)5](#h.poq2bg1s9lyn)
-[[Smartcar API](#h.4r6lfgwukcad)5](#h.4r6lfgwukcad)
-[[SourceCred](#h.yx1ewmrno3qg)5](#h.yx1ewmrno3qg)
-[[Academic Places](#h.3r87tkx6g8za)5](#h.3r87tkx6g8za)
-[[Big co’s](#h.n0nsdygjyccl)6](#h.n0nsdygjyccl)
-[[Nonprofit - Founders Pledge](#h.8s41ksxnu2y7)6](#h.8s41ksxnu2y7)
-[[Hacksphere early-stage startups that are hiring people for a critical role](#h.mt4vs92wsufg)6](#h.mt4vs92wsufg)
-[[Seeking Employment](#h.4728r1ta52oo)7](#h.4728r1ta52oo)
+- [Inbox (Scratch Workspace)](#inbox-scratch-workspace)
+- [Opportunities](#opportunities)
+- [Non-Startups](#non-startups)
+- [Startups](#startups)
+- [Siteline - jobs@siteline.com (goes to founders)](#siteline-jobssitelinecom-goes-to-founders)
+- [Cobalt Robotics](#cobalt-robotics)
+- [EDO](#edo)
+- [Mobius](#mobius)
+- [SVI](#svi)
+- [Instabase](#instabase)
+- [Zinc](#zinc)
+- [ArchSystems](#archsystems)
+- [Namebase](#namebase)
+- [Smartcar API](#smartcar-api)
+- [SourceCred](#sourcecred)
+- [Academic Places](#academic-places)
+- [Big co’s](#big-cos)
+- [Nonprofit - Founders Pledge](#nonprofit-founders-pledge)
+- [Hacksphere early-stage startups that are hiring people for a critical role](#hacksphere-early-stage-startups-that-are-hiring-people-for-a-critical-role)
+- [Seeking Employment](#seeking-employment)
 
 #
 
@@ -139,13 +141,13 @@ We’re looking for blockchain (Flow or Ethereum) and/or full-stack developers/h
 
 .
 
-## [[Siteline](https://www.siteline.com/) - jobs@siteline.com](mailto:jobs@siteline.com) (goes to founders)
+## [Siteline - jobs@siteline.com](mailto:jobs@siteline.com) (goes to founders)
 - Hiring a senior frontend engineer who can own architecture, build elegant and user-friendly products
 - Getting paid on construction projects is slow and complex. In fact, the construction industry is the slowest in the country between finishing work and getting paid for it. Siteline is building a fast and foolproof experience enabling millions of people to pay and get paid with ease.
 - Company is led by experienced founders and venture-backed by top VCs
 - https://jobs.lever.co/siteline/e97a73bc-7235-4613-a9ed-a17c2cffbaf0 for full job description and application link
 
-[[Qurious](https://www.qurious.io) - sabrina@qurious.io](mailto:sabrina@qurious.io)
+[Qurious - sabrina@qurious.io](mailto:sabrina@qurious.io)
 Qurious builds conversational AI, including real-time speech recognition, emotion detection, and natural language processing. We are looking for an ASR speech recognition scientist who will continue improving our proprietary online speech system, including improving the word error rate (WER) and expanding to multiple accents. Experience with Kaldi is a big plus. Also, this role is fully remote (although most of our team is in the SF Bay Area). As a Senior Speech Recognition Scientist, your work will directly impact our core product offering and customer base.
 
 [nLine (Berkeley/Remote)](http://nline.io/jobs) - josh@nline.io
@@ -153,12 +155,12 @@ Looking for a lead embedded engineer and UX-focused front-end developer
 
 nLine deploys simple infrastructure monitoring sensors in developing regions, and reports the performance of this infrastructure to utilities, investors, government agencies, and the public. In developing regions rapid population and economic growth leads to infrastructure that grows organically and performs poorly. We expect similar unplanned infrastructure construction to arise in response to the mass migrations associated with climate change. We believe that cheap, and flexible monitoring of infrastructure can both improve the performance and accountability of existing systems and better guide the design of new construction. We value scientific integrity, transparency, and impact.
 
-[[Harbor (San Francisco)](https://angel.co/harbor-6/jobs) - nicholas@harborplan.com](mailto:nicholas@harborplan.com)
+[Harbor (San Francisco) - nicholas@harborplan.com](mailto:nicholas@harborplan.com)
 Looking for Head of Engineering: Ruby, Rails, ML, Scrappy, Leadership
 
 Harbor is creating the first intelligent Sales Assistant for busy service professionals (advisors, agents, lawyers).. Like a human assistant, it tracks who the potential clients are, when to contact them, and what to say. Then it delivers messages automatically via e-mail, text, and voice. Our vision is to create a virtual sales assistant that can completely take over the entire sales funnel (except for live sales meetings) in >90% of cases, freeing our clients to do more with their business.
 
-[[Karuna Health (San Francisco)](https://jobs.lever.co/meetkaruna) -yasyf@meetkaruna.com](mailto:yasyf@meetkaruna.com)
+[Karuna Health (San Francisco) -yasyf@meetkaruna.com](mailto:yasyf@meetkaruna.com)
 
 Our mission is to give every patient a guide in the healthcare system.
 
@@ -204,7 +206,7 @@ We combine elite engineering and data science with deep industry expertise to he
 ### Mobius
 
 - http://mobius.network/
-- [[Description: Connecting the world to the blockchain economy. See Roadmap](https://medium.com/mobius-network/mobius-roadmap-update-may-2018-198bb8e08637). First product is DApp Store](https://medium.com/mobius-network/mobius-dapp-store-2-0-demo-d5d1bd574057).
+- [Description: Connecting the world to the blockchain economy. See Roadmap . First product is DApp Store](https://medium.com/mobius-network/mobius-dapp-store-2-0-demo-d5d1bd574057).
 
 - Sold $39M in tokens and raised $3M in investment capital.
 
@@ -243,7 +245,7 @@ We combine elite engineering and data science with deep industry expertise to he
 
 - Company & Products
 
-- [[TrustToken](https://www.trusttoken.com/) is a platform to create asset-backed tokens that you can easily buy and sell around the world. For example, gold to gold tokens or dollar to dollar tokens. Our first asset token is TrueUSD, a stablecoin that you can redeem 1-for-1 for US dollars. TrueUSD](https://www.trusttoken.com/trueusd) is listed on Bittrex, the largest exchange in the US, and Upbit, one of the largest exchanges in the world.
+- [TrustToken is a platform to create asset-backed tokens that you can easily buy and sell around the world. For example, gold to gold tokens or dollar to dollar tokens. Our first asset token is TrueUSD, a stablecoin that you can redeem 1-for-1 for US dollars. TrueUSD](https://www.trusttoken.com/trueusd) is listed on Bittrex, the largest exchange in the US, and Upbit, one of the largest exchanges in the world.
 
 - What you can expect from us
 
@@ -364,7 +366,7 @@ Client Success
 
 - SourceCred is an open-source tool for measuring, rewarding, and incentivizing value creation in open projects
 - We’re initially focusing on enabling DAOs/crypto projects to flow their native tokens to contributors.
-- [[We’ve dogfooded sending ~1M worth of tokens to our own contributors](http://cred.sourcecred.io) and are being used in a pilot by MakerDAO](https://forum.makerdao.com/t/sourcecred-pilot-extension/3892)
+- [We’ve dogfooded sending ~1M worth of tokens to our own contributors and are being used in a pilot by MakerDAO](https://forum.makerdao.com/t/sourcecred-pilot-extension/3892)
 - [As an open source project it’s super easy to get involved--a good place to start is our community calls at 11am PT every Tuesday (calendar](https://sourcecred.io/calendar))
 
 ## Academic Places
@@ -404,7 +406,7 @@ SF
 - [Pagedraw <pagedraw.io> - First they built a Sketch clone in the browser that writes React/Angular/ERB/PHP/etc code so you don’t have to. Next, they plan to take over the world if I know Jared Pochtar. They’re finishing up senior year at Harvard, just raised a seed round, and are looking for people with any and all of the following skills: compilers, performance engineering, distributed systems, or webdev. jpochtar@gmail.com](mailto:jpochtar@gmail.com)
 (today - May 2017) Boston, (July 2017 - future) SF
 
-- [[[IdeaFlow <home.ideapad.io (just the toenail of the elephant)> - My life’s all-consuming passion for the past three years elegantly (if I do say so myself) crystalized into a vision for a product that will strike at the root of the biggest problems I see present in the world today (ask me!). We’ve built a small piece of that vision so far: a human-AI hybrid Web platform for teams to collaboratively create and visualize large knowledge graphs, which is currently used by companies including Silicon Valley Bank and Bainbridge Capital. This is the first step in a larger project to realize Vannevar Bush’s original vision for the Memex](https://en.wikipedia.org/wiki/Memex) and my research advisor Tim Berners-Lee’s original vision for the Web](https://en.wikipedia.org/wiki/Giant_Global_Graph): to create “shared brains for organizations” linked to a personal notes/knowledge base platform.  We’ve raised $1.8M and are looking for a great full stack web developer who wants to become our lead engineer, feel like another co-founder, and amplify human intelligence forever. Sending a larger discussion soon. Also hiring a mobile engineer. jacob@ideapad.io](mailto:jacob@ideapad.io) Palo Alto area and SF
+- [IdeaFlow <home.ideapad.io (just the toenail of the elephant)> - My life’s all-consuming passion for the past three years elegantly (if I do say so myself) crystalized into a vision for a product that will strike at the root of the biggest problems I see present in the world today (ask me!). We’ve built a small piece of that vision so far: a human-AI hybrid Web platform for teams to collaboratively create and visualize large knowledge graphs, which is currently used by companies including Silicon Valley Bank and Bainbridge Capital. This is the first step in a larger project to realize Vannevar Bush’s original vision for the Memex and my research advisor Tim Berners-Lee’s original vision for the Web : to create “shared brains for organizations” linked to a personal notes/knowledge base platform.  We’ve raised $1.8M and are looking for a great full stack web developer who wants to become our lead engineer, feel like another co-founder, and amplify human intelligence forever. Sending a larger discussion soon. Also hiring a mobile engineer. jacob@ideapad.io](mailto:jacob@ideapad.io) Palo Alto area and SF
 
 - [Cobalt Robotics <still kind of in stealth mode>. We build indoor security guard robots! We use a semi-autonomous model to have the robot do the boring 99% of a security job, and then pull in a human operator to help make decisions in really tricky situations. We believe security is the first step to general purpose mobile robots deployed in buildings all across the country. Hiring a Perception or Full-Stack-Robotics engineer! Erik@CobaltRobotics.com](mailto:Erik@CobaltRobotics.com) Palo Alto area (Mountain View)
 
@@ -424,7 +426,7 @@ Let me know if you’d like an intro to anyone on this list, or if any others of
 - Suki Yang
 
 Berkeley Master’s
-#lookingfor Data sci heavy prod role
+Tags:, lookingfor, Data, sci, heavy, prod, role
 
 - Alex Sherman:
 
@@ -461,7 +463,7 @@ Berkeley Master’s
 
 # Inbox (Scratch Workspace)
 November 2021
-- [[[[Roadflex.com –– looking for passionate people to join the team. We are hiring for Chief of Staff](https://docs.google.com/document/d/160hTcAXynrB3wE6R-jhg6qsYQCMD4zEn/edit?usp=sharing&ouid=108373758216544147702&rtpof=true&sd=true), Risk Lead](https://docs.google.com/document/d/1QpjJJixSEvXX0AzxebxgBlNy8DmKSKmX/edit?usp=sharing&ouid=108373758216544147702&rtpof=true&sd=true) and Full-Stack Engineer](https://docs.google.com/document/d/1ukBHmBw-ZgafXHdJ1bausot4MpeMN0bL/edit?usp=sharing&ouid=108373758216544147702&rtpof=true&sd=true). RoadFlex is at the unique intersection between the logistics and fintech industries. We have raised a massive Seed round and are growing super fast! Reach out to dennis@roadflex.com](mailto:dennis@roadflex.com) if interested.
+- [Roadflex.com –– looking for passionate people to join the team. We are hiring for Chief of Staff , Risk Lead and Full-Stack Engineer . RoadFlex is at the unique intersection between the logistics and fintech industries. We have raised a massive Seed round and are growing super fast! Reach out to dennis@roadflex.com](mailto:dennis@roadflex.com) if interested.
 
 October 2021
 - [Cresta.com –– looking for passionate front-end product engineers to join the team. Cresta is at the unique intersection of cutting-edge natural language understanding and human interactions that drive business impact. We’re growing fast! Spun out of the Stanford AI lab and chaired by Google-X founder Sebastian Thrun, Cresta launched in 2020. Since then, we’ve grown revenue and our team by 300%! Reach out to tim@cresta.ai](mailto:tim@cresta.ai) if interested.
@@ -474,7 +476,7 @@ June-July 2021
 -
 - [Ideaflow.io – A brilliant designer with tons of energy who could fall in love with personal information management tools and be a super user. Potentially, a highly creative polymath, superconnector, community builder 🙂. More: http://ideaflow.io/careers](http://ideaflow.io/careers)  Email jacob@ideaflow.io
 -
-- [[Pesto.tech](http://pesto.tech) – content marketing (technical) Email jacob@ideaflow.io](mailto:jacob@ideaflow.io) for Ayush Jaiswal
+- [Pesto.tech – content marketing (technical) Email jacob@ideaflow.io](mailto:jacob@ideaflow.io) for Ayush Jaiswal
 
 March 2021
 

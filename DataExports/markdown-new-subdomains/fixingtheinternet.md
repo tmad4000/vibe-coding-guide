@@ -1,3 +1,5 @@
+# Fixingtheinternet
+
 [fixingtheinternet.jacobcole.net](http://fixingtheinternet.jacobcole.net)
 [Part of  systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/)
 
@@ -29,11 +31,11 @@ Main
 
 - Swappable Best-In-Class Modules to Perform any programmatic task like OCR
 
-- [[Related projects: https://stdlib.com](https://stdlib.com/), https://clay.run](https://clay.run/)?
+- [Related projects: https://stdlib.com , https://clay.run](https://clay.run/)?
 
 - Easy way for curators to curate and share lists
 
-- [[[Examples bodymasters.jacobcole.net](http://bodymasters.jacobcole.net/), goodlawyers.jacobcole.net](http://goodlawyers.jacobcole.net/) (generally #curatedList on systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/))
+- [Examples bodymasters.jacobcole.net , goodlawyers.jacobcole.net (generally #curatedList on systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/))
 - Curated Lists of Best in Class Tools for Given Purposes
 
 - https://twitter.com/leashless/status/1178484745841328129?s=20
@@ -69,7 +71,7 @@ Main
 - Collective Web Annotation Layer
 
 - [#ProjectPage: Augment Chrome Extension http://augment.jacobcole.net/](http://augment.jacobcole.net/)
-- [[[Related: http://factcheck.jacobcole.net/](http://factcheck.jacobcole.net/),  http://hypothes.is/](http://hypothes.is/) , http://genius.com/](http://genius.com/)
+- [Related: http://factcheck.jacobcole.net/ ,  http://hypothes.is/ , http://genius.com/](http://genius.com/)
 
 - “Issue Tracker for Society” / “Suggestion Boards” for organizations / “Suggestions layer” for the World
 
@@ -112,7 +114,7 @@ Main
 
 - [My Feed Control: The ability to control how, what, and when you see anything. Filter and prioritizes all emails, texts, calls, RSS feeds, Subscriptions, social media. An open library of rules and algorithms for sorting my personal feeds. -Bentley Davis](https://bentleydavis.com)
 
-#precursorProject
+Tags:, precursorProject
         UseNet
         Well -- whole earth electronic library
 
@@ -131,6 +133,6 @@ Users: farzin
 
 Discouraging media from disabling wise thought
 
-#idea Tools for tracking what sound bites were reported on subsequently using audio fingerprinting. Understand propagation of ideas
+Tags:, idea, Tools, for, tracking, what, sound, bites, were, reported, on, subsequently, using, audio, fingerprinting., Understand, propagation, of, ideas
 
 What would make better debates/better formats?

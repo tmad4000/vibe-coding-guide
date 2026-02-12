@@ -1,3 +1,5 @@
+# Linus Jacob Blurb
+
 Ethos team mission vs co and market
 
 Ideaflow is hiring engineers to research and build AI-infused thinking tools for everyone.

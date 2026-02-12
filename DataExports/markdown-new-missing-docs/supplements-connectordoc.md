@@ -1,18 +1,20 @@
-[[[`     systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) | worldgestalts.connectr.site](http://worldgestalts.connectr.site) > openproblems.connectr.site](http://openproblems.connectr.site)
+# Supplements Connectordoc
+
+[`     systematicawesome.jacobcole.net | worldgestalts.connectr.site > openproblems.connectr.site](http://openproblems.connectr.site)
 [#connectordoc | started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 World Open Problem Repository
 Hub listing out the problems / ideas the world is (or should be) working on – and the beginning of a place to pool resources around them. #OpenProblem
 
-[[[[[[[[[Related: IssueTracker.world](http://issuetracker.world) •openresearch.connectr.site](http://openresearch.connectr.site) • favorverse.jacobcole.net/](http://favorverse.jacobcole.net/) •  worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com/) • http://hackathonprojects.jacobcole.net/](http://hackathonprojects.jacobcole.net/) • http://startupideas.jacobcole.net/](http://startupideas.jacobcole.net/) • http://infrastructure.jacobcole.net/](http://infrastructure.jacobcole.net/) • #internal openproblems.jacobcole.net](http://openproblems.jacobcole.net) • jacobgestalts.jacobcole.net](http://jacobgestalts.jacobcole.net)
+[Related: IssueTracker.world •openresearch.connectr.site • favorverse.jacobcole.net/ •  worldquestguild.connectordocs.com • http://hackathonprojects.jacobcole.net/ • http://startupideas.jacobcole.net/ • http://infrastructure.jacobcole.net/ • #internal openproblems.jacobcole.net • jacobgestalts.jacobcole.net](http://jacobgestalts.jacobcole.net)
 
 Table of Contents
-[[Main Raw List](#h.uov5opekp1ot)1](#h.uov5opekp1ot)
-[[Imported From openresearch.connectr.site](#h.kridctnls5xv)2](#h.kridctnls5xv)
-[[(Top Down) Grand Challenges / Problems](#h.tf0tr9ywe8jh)2](#h.tf0tr9ywe8jh)
-[[(Bottom up) Ideas / Neat Observations](#h.v9k7fny868j9)5](#h.v9k7fny868j9)
-[[Low Hanging Fruit Medical Technologies Not Adequately Funded, Studied or Distributed](#h.jl2a5u6szcwk)5](#h.jl2a5u6szcwk)
-[[Scratch Notes Dump](#h.aoftxmywca90)6](#h.aoftxmywca90)
+- [Main Raw List](#main-raw-list)
+- [Imported From openresearch.connectr.site](#imported-from-openresearchconnectrsite)
+- [(Top Down) Grand Challenges / Problems](#top-down-grand-challenges-problems)
+- [(Bottom up) Ideas / Neat Observations](#bottom-up-ideas-neat-observations)
+- [Low Hanging Fruit Medical Technologies Not Adequately Funded, Studied or Distributed](#low-hanging-fruit-medical-technologies-not-adequately-funded-studied-or-distributed)
+- [Scratch Notes Dump](#scratch-notes-dump)
 
 # Main Raw List
 - Homelessness in SF
@@ -186,7 +188,7 @@ More people to create minimalist homepages
 ## (Bottom up) Ideas / Neat Observations
 [“Holy Grail” Metallic Hydrogen Is Going to Change Everything https://getpocket.com/explore/item/holy-grail-metallic-hydrogen-is-going-to-change-everything?utm_source=pocket-newtab](https://getpocket.com/explore/item/holy-grail-metallic-hydrogen-is-going-to-change-everything?utm_source=pocket-newtab)
 
-#historical Possible to build a laser
+Tags:, historical, Possible, to, build, a, laser
 
 [?Parkinson's disease is not one, but two diseases](https://www.sciencedaily.com/releases/2020/09/200922092156.htm)
 

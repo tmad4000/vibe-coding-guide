@@ -1,9 +1,11 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > philosophy.jacobcole.net](http://philosophy.jacobcole.net)> heidegger.jacobcole.net](http://heidegger.jacobcole.net/)
+# Heidegger
+
+[systematicawesome.jacobcole.net > philosophy.jacobcole.net > heidegger.jacobcole.net](http://heidegger.jacobcole.net/)
 [Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Heidegger
 Resources on Heidegger
 
-[[[See Also: Excellent Books (Jacob + Friends Curated)](https://drive.google.com/open?id=1cy36gZz74NwjE9C1UOJ1OUPIIm4v5vSHpuhKcNetfcs) • Jacob’s Raw Books List](https://docs.google.com/document/d/10hCB_gzJZ-Ns5JUkxpPR0DLKXSsCGRUYmsFvrCsairc)• lifechangingthings.jacobcole.net/](http://lifechangingthings.jacobcole.net/)
+[See Also: Excellent Books (Jacob + Friends Curated) • Jacob’s Raw Books List • lifechangingthings.jacobcole.net/](http://lifechangingthings.jacobcole.net/)
 
 Misc
 

@@ -1,10 +1,12 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > qiresearch.jacobcole.net](http://qiresearch.jacobcole.net)
+# Qiresearch
+
+[systematicawesome.jacobcole.net > qiresearch.jacobcole.net](http://qiresearch.jacobcole.net)
 [Started by jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Qi Research Shared Doc #curatedlist #connectordoc #groupChat
 Resources on Research into Energy, Qi, Bioelectric and Psi Phenomena
 [Facebook Chat: Qi Research #groupchat](https://www.facebook.com/messages/t/4012135718915972/)
 
-[[[[See Also:  qigongcrew.jacobcole.net/](http://qigongcrew.jacobcole.net/) •qigong.connectordocs.com/](http://qigong.connectordocs.com/) • meditation.jacobcole.net/](http://meditation.jacobcole.net/) • https://qigresearch.jacobcole.net/](https://qigresearch.jacobcole.net/)
+[See Also:  qigongcrew.jacobcole.net/ •qigong.connectordocs.com/ • meditation.jacobcole.net/ • https://qigresearch.jacobcole.net/](https://qigresearch.jacobcole.net/)
 
 Table of Contents:
 - [Things to remember to not get too excited #grounding](#h.t3hyahnuqb4n)
@@ -157,7 +159,7 @@ Table of Contents:
 
 - https://www.theforceinyou.com/en/
 
-- [[Thomas Braun wrote this interesting book https://thomaspbraun.com/](https://thomaspbraun.com/) https://www.academia.edu/38852103](https://www.academia.edu/38852103)Discourses on the Immaterial | Book I | The Bridge ON THE NATURE OF IMMATERIAL OBJECTS A novel exploration of the non-physical of the highest abstractness. I investigate the nature of nonlocal entities and how perception takes place in a fundamentally nonlocal domain space. Download (270 pages)
+- [Thomas Braun wrote this interesting book https://thomaspbraun.com/ https://www.academia.edu/38852103](https://www.academia.edu/38852103)Discourses on the Immaterial | Book I | The Bridge ON THE NATURE OF IMMATERIAL OBJECTS A novel exploration of the non-physical of the highest abstractness. I investigate the nature of nonlocal entities and how perception takes place in a fundamentally nonlocal domain space. Download (270 pages)
 - Great #book  that covers just about everything relevant in a scholarly way except for research into Qi!
 
 - [Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work Hardcover – February 21, 2017](https://www.amazon.com/Stealing-Fire-Maverick-Scientists-Revolutionizing/dp/0062429655)

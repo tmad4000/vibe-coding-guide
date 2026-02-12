@@ -1,30 +1,32 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > autodidacts.jacobcole.net](http://autodidacts.jacobcole.net)
-#connectordoc
+# Autodidacts
+
+[systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > autodidacts.jacobcole.net](http://autodidacts.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Inspired Autodidacts Clubhouse #Salon Notes
 
-[[[See also: systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) • salon.jacobcole.net](http://salon.jacobcole.net) • bookslist.jacobcole.net](http://bookslist.jacobcole.net/)
+[See also: systematicawesome.jacobcole.net • salon.jacobcole.net • bookslist.jacobcole.net](http://bookslist.jacobcole.net/)
 [thoughtfulweb.jacobcole.net](http://thoughtfulweb.jacobcole.net/)
-[[volunteerforce.jacobcole.net](http://volunteerforce.jacobcole.net/) • infrastructure.jacobcole.net](http://infrastructure.jacobcole.net/)
+[volunteerforce.jacobcole.net • infrastructure.jacobcole.net](http://infrastructure.jacobcole.net/)
 
-[[🧠 Inspired Autodidacts is a Facebook group and community of researchers, founders, technologists, venture investors, and more who come together to share our learning goals, systems, and resources. This document reflects a series of salon conversations hosted by Jeremy Nixon](https://twitter.com/JvNixon), Minn Kim](http://twitter.com/minney_cat), and other members of the community along with our notes and links for listeners and other autodidacts to explore.
+[🧠 Inspired Autodidacts is a Facebook group and community of researchers, founders, technologists, venture investors, and more who come together to share our learning goals, systems, and resources. This document reflects a series of salon conversations hosted by Jeremy Nixon , Minn Kim](http://twitter.com/minney_cat), and other members of the community along with our notes and links for listeners and other autodidacts to explore.
 
 Table of Contents
-[[Inbox](#h.nvpfuxha6ryg)1](#h.nvpfuxha6ryg)
+- [Inbox](#inbox)
 [[Future potential episodes [add your recommendations ⬇️]](#h.waczs7yeyps8)2](#h.waczs7yeyps8)
-[[Salon #1: Reading Habits](#h.nt3cuun240gx)2](#h.nt3cuun240gx)
-[[Recommended resources:](#h.y3cmr8m2qc47)2](#h.y3cmr8m2qc47)
-[[Recommended books:](#h.7n0etaru6hyv)3](#h.7n0etaru6hyv)
-[[Recommended reads:](#h.hxzr06sb7cp4)3](#h.hxzr06sb7cp4)
-[[Grab-bag of ideas:](#h.vl51yk26hf9q)3](#h.vl51yk26hf9q)
-[[Salon #2: Techniques for Learning](#h.6b632zsdgm9b)4](#h.6b632zsdgm9b)
-[[Recommended resources:](#h.rj0l8c7bukgd)4](#h.rj0l8c7bukgd)
-[[Raw Notes](#h.myq0y28u1x2x)4](#h.myq0y28u1x2x)
-[[Salon #3: Techniques for Epiphanies](#h.gr4387m2gzb)5](#h.gr4387m2gzb)
-[[Raw Notes](#h.npvcsz1ycufu)5](#h.npvcsz1ycufu)
-[[Enlightened AI Discussion](#h.ms227691obue)6](#h.ms227691obue)
-[[Compassionate AI](#h.xyfas1n94fun)7](#h.xyfas1n94fun)
+- [Salon #1: Reading Habits](#salon-1-reading-habits)
+- [Recommended resources:](#recommended-resources)
+- [Recommended books:](#recommended-books)
+- [Recommended reads:](#recommended-reads)
+- [Grab-bag of ideas:](#grab-bag-of-ideas)
+- [Salon #2: Techniques for Learning](#salon-2-techniques-for-learning)
+- [Recommended resources:](#recommended-resources)
+- [Raw Notes](#raw-notes)
+- [Salon #3: Techniques for Epiphanies](#salon-3-techniques-for-epiphanies)
+- [Raw Notes](#raw-notes)
+- [Enlightened AI Discussion](#enlightened-ai-discussion)
+- [Compassionate AI](#compassionate-ai)
 
 ##
 
@@ -85,7 +87,7 @@ m
 
 - Highly experimental extremely low friction web annotation extension
 
-[[Ping jacob@ideaflow.io](mailto:jacob@ideaflow.io)https://drive.google.com/file/d/115vr-sp8jdT0yIbqMpHcJUBXgrU2k-QE/view?usp=sharing](https://drive.google.com/file/d/115vr-sp8jdT0yIbqMpHcJUBXgrU2k-QE/view?usp=sharing)
+[Ping jacob@ideaflow.io https://drive.google.com/file/d/115vr-sp8jdT0yIbqMpHcJUBXgrU2k-QE/view?usp=sharing](https://drive.google.com/file/d/115vr-sp8jdT0yIbqMpHcJUBXgrU2k-QE/view?usp=sharing)
 
 #### Grab-bag of ideas:
 - Religiousness in Yoga
@@ -205,7 +207,7 @@ m
 - Visualizations super helpful in musical instrument training
 
 # Enlightened AI Discussion
-#notes
+Tags:, notes
 
 People: Lily V, Jesse Parent, Mingzhu, Jacob
 
@@ -246,7 +248,7 @@ Notes here!
 Being a good ancestor for what is to come after us
 [#book on Ecstatic Experience: Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work https://www.amazon.com/dp/0062429663/ref=cm_sw_r_cp_api_glt_fabc_EN4E2S9MWZQFEZYN7C4H](https://www.amazon.com/dp/0062429663/ref=cm_sw_r_cp_api_glt_fabc_EN4E2S9MWZQFEZYN7C4H)
 
-#book on pack minds: A Fire Upon the Deep by Vernor Vinge Fire Upon the Deep [ FIRE UPON THE DEEP REV/E][Mass Market Paperback] https://www.amazon.com/dp/B00QORSRPS/ref=cm_sw_r_cp_api_glt_fabc_7XRH5WQV4XKDHR6T3088
+Tags:, book, on, pack, minds:, A, Fire, Upon, the, Deep, by, Vernor, Vinge, Fire, Upon, the, Deep, [, FIRE, UPON, THE, DEEP, REV/E][Mass, Market, Paperback], https://www.amazon.com/dp/B00QORSRPS/ref=cm_sw_r_cp_api_glt_fabc_7XRH5WQV4XKDHR6T3088
 
 Wants our legacy to be carried on – not our species
 Legacy as identity?

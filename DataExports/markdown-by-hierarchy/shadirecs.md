@@ -1,5 +1,7 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > shadirecs.jacobcole.net](http://shadirecs.jacobcole.net)
-#connectordoc #curatedList
+# Shadirecs
+
+[systematicawesome.jacobcole.net > shadirecs.jacobcole.net](http://shadirecs.jacobcole.net)
+Tags:, connectordoc, curatedList
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
@@ -7,10 +9,10 @@ Contribute to the list at top!                        
 Shadi-Jacob Recs
 Recommendations shared by Shadi and Jacob!
 
-[[From Shadi](#h.n30yvgmsgh2r)2](#h.n30yvgmsgh2r)
-[[From Jacob](#h.hcz7a55ocm6z)2](#h.hcz7a55ocm6z)
+- [From Shadi](#from-shadi)
+- [From Jacob](#from-jacob)
 
-[[[[Related: http://quoteslist.jacobcole.net/](http://quoteslist.jacobcole.net/) • http://bookslist.jacobcole.net/](http://bookslist.jacobcole.net/) • http://lifechangingthings.jacobcole.net/](http://lifechangingthings.jacobcole.net/) • http://thoughtfulweb.jacobcole.net/](http://thoughtfulweb.jacobcole.net/)
+[Related: http://quoteslist.jacobcole.net/ • http://bookslist.jacobcole.net/ • http://lifechangingthings.jacobcole.net/ • http://thoughtfulweb.jacobcole.net/](http://thoughtfulweb.jacobcole.net/)
 
 # From Shadi
 - http://gen.lib.rus.ec/ for downloading free books #hugelyUseful
@@ -21,7 +23,7 @@ Recommendations shared by Shadi and Jacob!
 
 # From Jacob
 
-[[Also:](https://youtu.be/HX-TpHlx1As)https://youtu.be/HX-TpHlx1As](https://youtu.be/HX-TpHlx1As) 2:07
+[Also: https://youtu.be/HX-TpHlx1As](https://youtu.be/HX-TpHlx1As) 2:07
 “Everything is Brahma, everything is spirit, everything is light.
 Even as the man who was engrossed in crying in watching the tragedy in the motion picture when he suddenly looks at the beam and sees the beam has created everything he says: ‘Everything is shadow and light! How could I feel sorry about the tragedy picture?’
 So is the perception of God.”

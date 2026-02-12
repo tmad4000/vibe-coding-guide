@@ -1,3 +1,5 @@
+# Housinglist
+
 [housinglist.jacobcole.net](http://housinglist.jacobcole.net) #connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io),
 
@@ -36,7 +38,7 @@ Aethenium
 ?Hackerhouse YC lived in
 ?HubHaus
 Magic
-#summer Vedant house
+Tags:, summer, Vedant, house
 
 Tennyson house (Logan Hellman, Cody)
 
@@ -54,9 +56,9 @@ Tim Shi [Blurb] The AGI house (https://www.zillow.com/homes/1868-Floribunda-Ave-
 Other Cool People Around
         Tomcat, dylan, ted, papper
 
-#Shutdown OmegaPoint
-#Shutdown? SUVilla  Joel dietz former house which had sound healing in San Mateo.
-#Shutdown?  Ridhi’s old house
+Tags:, Shutdown, OmegaPoint
+Tags:, Shutdown?, SUVilla, Joel, dietz, former, house, which, had, sound, healing, in, San, Mateo.
+Tags:, Shutdown?, Ridhi’s, old, house
 
 ## SF Community Houses (Latest, Jun 2023)
 Xander R <xander.rudelis@gmail.com>
@@ -99,7 +101,7 @@ Eucalyptus/ Fell House
 Deger House
 Crest, Loophole and Dore as houses where I've met beautiful people and warm vibes.
 
-[[Haight St Commons —](http://haight-st-commons.org/)http://haight-st-commons.org/](http://haight-st-commons.org/)
+[Haight St Commons — http://haight-st-commons.org/](http://haight-st-commons.org/)
 - The Embassy
 - Chaortica
 - The Convent
@@ -112,7 +114,7 @@ Crest, Loophole and Dore as houses where I've met beautiful people and warm vibe
 - Agape
 
 –
-#shutDown
+Tags:, shutDown
 The Red Vic #shutDown?
 Shell House (tom currier) #shutDown?
 Oak (gwen brinsmead) #shutDown?
@@ -165,10 +167,10 @@ Update May 6 2021
 
 - #communityhouse omegapoint
 - Joscha, Joon, AKC, Snigdha, Jeremy, Sonia, myself, and other meaningful entities
-- [[#communityhouse](https://www.messenger.com/t/5191901334215554)https://www.messenger.com/t/5191901334215554](https://www.messenger.com/t/5191901334215554)
+- [#communityhouse https://www.messenger.com/t/5191901334215554](https://www.messenger.com/t/5191901334215554)
 - new atherton/woodside house
 - yc, feross, chris morris
-- [[#communityhouse #ea](https://www.notion.so/abb4c0df4a394a89bf8bf82ea84c6194)https://www.notion.so/abb4c0df4a394a89bf8bf82ea84c6194](https://www.notion.so/abb4c0df4a394a89bf8bf82ea84c6194)
+- [#communityhouse #ea https://www.notion.so/abb4c0df4a394a89bf8bf82ea84c6194](https://www.notion.so/abb4c0df4a394a89bf8bf82ea84c6194)
 
 People forming houses
 - Chase lambert (possibly nyc)
@@ -210,7 +212,7 @@ How we spend our time
 Who we're looking for
 We're looking to live with supportive, invested, and respectful community members.  We don't care about what you do or how you do it, but we are looking for someone who actively contributes to the community in their own unique way, keeps shared spaces neat, practices good communication, and is as stoked to hang out with us as we are with you! We love makers, creativity, easy-going-ness, and a willingness to do. If you're enthusiastic, kind, and love to be around humans who are the same, this is the place for you! (:
 
-#CommunityHouse I'm starting a co-living experiment Omega Point 🚀  for six months from March - August in the heart of Menlo Park for technical founders and scientists to collaborate, build companies, and understand the laws of reality more deeply. So far we have an insanely gorgeous house, a deal with our landlord for $1200/month for a room, and roommates from Tesla and Neuralink. DM me if interested 😊  or if you know of anyone interested, pass this along!
+Tags:, CommunityHouse, I'm, starting, a, co-living, experiment, Omega, Point, 🚀, for, six, months, from, March, -, August, in, the, heart, of, Menlo, Park, for, technical, founders, and, scientists, to, collaborate,, build, companies,, and, understand, the, laws, of, reality, more, deeply., So, far, we, have, an, insanely, gorgeous, house,, a, deal, with, our, landlord, for, $1200/month, for, a, room,, and, roommates, from, Tesla, and, Neuralink., DM, me, if, interested, 😊, or, if, you, know, of, anyone, interested,, pass, this, along!
 https://omegapoint.house/
 
 More info:
@@ -245,7 +247,7 @@ https://forms.gle/QUKBAnrACbUgrg5X8
 
 Start date is October 1st, with some flexibility. Price will be $1300 or less, with one shared room for much less.
 
-#CommunityHouse My room in Agape, our intentional community in the heart of the Mission District, is available for sublet for the month of July (start and end dates flexible, with preference towards longer stays). I'm planning to go spend some time with my family :)
+Tags:, CommunityHouse, My, room, in, Agape,, our, intentional, community, in, the, heart, of, the, Mission, District,, is, available, for, sublet, for, the, month, of, July, (start, and, end, dates, flexible,, with, preference, towards, longer, stays)., I'm, planning, to, go, spend, some, time, with, my, family, :)
 
 Cost for the full month is $1965 and includes communal food and utilities. The room gets great natural light, overlooks our garden, comes with a bed, desk and large closet space. Plenty of floor space if you're a mover/dancer - I have two huge mirrors and roll up the shag rug to practice.
 
@@ -454,19 +456,19 @@ Genesis to an estate in Hillsborough on Feb. 1st. Karp We intend to run an incre
 
 ## Old
 
-#seekinghousing Raymond Zhong in SF.  If you know anyone with a dog who is looking to live in a group house of 4-6 people, some friends have been looking around.
+Tags:, seekinghousing, Raymond, Zhong, in, SF., If, you, know, anyone, with, a, dog, who, is, looking, to, live, in, a, group, house, of, 4-6, people,, some, friends, have, been, looking, around.
 
 [#seekinghousing Max Chehab](https://twitter.com/maxchehab) in SF, asap, open-minded rock climber
 
 [#seekinghousing Rachel Lim](https://www.facebook.com/rachelim) -- SF; preference for proximity to google shuttles, curious people, book readers, preferably close to N-Judah muni line for ease of getting to circus center
 
-#sfhousing
+Tags:, sfhousing
 1br 2600 25th st & valencia, going to be listed soon, text charles @ 408.726.5012
 
 [#looking for 1 roommate for 3 BR at jaspersf.com starting 1/26, $2200/mo for perfect location with gym + 39th floor views - Tommy](http://www.facebook.com/ledgecos)
 
-#looking for 1 roommate for Incepto SF @ Bernal Heights (https://incepto.houuvyse/)  -  Karen Yang
-#looking for 2 roommates for 5 bedroom house! - Eric Ruleman
+Tags:, looking, for, 1, roommate, for, Incepto, SF, @, Bernal, Heights, (https://incepto.houuvyse/), -, Karen, Yang
+Tags:, looking, for, 2, roommates, for, 5, bedroom, house!, -, Eric, Ruleman
 
 [#seekinghousing Delara Chizari](https://www.facebook.com/delara.chizari) in SF or Marin, starting March 2019 (flexible); small budget. Willing to share or stay in a “makeshift room/nook”; interested in living with curious and kind folks. Allergic to cats & dogs.
 
@@ -476,13 +478,13 @@ Genesis to an estate in Hillsborough on Feb. 1st. Karp We intend to run an incre
 [#seekinghousing viirj kan](https://www.facebook.com/profile.php?id=632350066) San Francisco, flexible dates but as soon as possible -10/16
 
 [#seekinghousing Jonathan Dubin](https://workflowy.com/s/H4gt.vnhitmYwkK)
-#seekinghousing sophia kivelson
-#seekinghousing ridhi
+Tags:, seekinghousing, sophia, kivelson
+Tags:, seekinghousing, ridhi
 [#seekinghousing Sam Trabucco](https://www.facebook.com/sammyt628) within walking distance to bart station in sf, starting late oct or nov
 
-#seekinghousing jack boffa, late sept to late dec near stanford
+Tags:, seekinghousing, jack, boffa,, late, sept, to, late, dec, near, stanford
 
-#seekinghousing diego roque, middle september to may
+Tags:, seekinghousing, diego, roque,, middle, september, to, may
 
 Vivian ho
 
@@ -496,7 +498,7 @@ Brayden
 Misha Berger #seekinghousing
 
 Akshat
-#lookingfor Housing
+Tags:, lookingfor, Housing
 
  #hashousing #lookingfor Housing
 
@@ -513,23 +515,23 @@ Alex  
  #housing #offer Leon zhou  
 
  #opportunity
-#housing Michael Lai
+Tags:, housing, Michael, Lai
 
-#housing David Dothan looking for roommate
+Tags:, housing, David, Dothan, looking, for, roommate
 Fahim
 
 B.rakova@gmail.com
 Housing in MV, near NASA Ames :)
 
-#housing
+Tags:, housing
 
-#sfhousing Zeus living <>Mike gasieor
-
-Mike gasiorek <>#sfhousing Zeus living
+Tags:, sfhousing, Zeus, living, <>Mike, gasieor
 
 Mike gasiorek <>#sfhousing Zeus living
 
-#sfhousing Zeus living <>Mike gasiorek
+Mike gasiorek <>#sfhousing Zeus living
+
+Tags:, sfhousing, Zeus, living, <>Mike, gasiorek
 
 [#seekinghousing #lookingfor housing Eda Zhou](https://www.linkedin.com/in/edazhou/), Looking for housing around Mission Bay/SOMA/Dogpatch/Mission/Potrero Hill, starting 5/18 to 8/11, private bedroom preferred but ok sharing all other spaces, clean and friendly
 

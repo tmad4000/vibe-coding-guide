@@ -1,5 +1,7 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  systemicchange.jacobcole.net](http://systemicchange.jacobcole.net)
-[[[contact: systematicAwesome@gmail.com](mailto:systematicawesome@gmail.com), jacob@ideaflow.io](mailto:jacob@ideaflow.io), maxsong123@gmail.com](mailto:maxsong123@gmail.com)
+# Systemicchange
+
+[systematicawesome.jacobcole.net >  systemicchange.jacobcole.net](http://systemicchange.jacobcole.net)
+[contact: systematicAwesome@gmail.com , jacob@ideaflow.io , maxsong123@gmail.com](mailto:maxsong123@gmail.com)
 
 Contribute new items at the tops of lists!                        
 
@@ -14,28 +16,28 @@ Link:
 
 Table of Contents
 
-[[Scratch Meeting Notes](#h.c87heitro7fe)1](#h.c87heitro7fe)
-[[2021-02-12](#h.cdyx1ha45nxs)1](#h.cdyx1ha45nxs)
-[[2021-01-29](#h.nq9kotzmiwb)1](#h.nq9kotzmiwb)
-[[#meeting 2020-12-18](#h.d8t51bfded0b)2](#h.d8t51bfded0b)
-[[#meeting 2020-09-25](#h.3nqkymh9563r)4](#h.3nqkymh9563r)
-[[#meeting Systemic Change Bobby Fishkin 2020-09-11](#h.lcd8fvikkz96)5](#h.lcd8fvikkz96)
-[[#meeting Systemic Change Bobby Fishkin 2020-08-28](#h.fmuupjhzfsxs)7](#h.fmuupjhzfsxs)
-[[#meeting Systemic Change Bobby Fishkin 2020-08-14](#h.xqsvumg195pl)8](#h.xqsvumg195pl)
-[[#meeting Systemic Change Bobby Fishkin 2020-07-31](#h.c4lh1okpow17)10](#h.c4lh1okpow17)
-[[GChat Transcript](#h.kendd3hl3x2f)10](#h.kendd3hl3x2f)
-[[~Jacob Notes](#h.f6k3rlxg35hk)11](#h.f6k3rlxg35hk)
-[[Jacob <> Mark Moulton](#h.49l9pciixs96)13](#h.49l9pciixs96)
-[[Other Resources](#h.ru2ifq85lzx2)13](#h.ru2ifq85lzx2)
-[[Related People](#h.j9rxfxhhy7ji)13](#h.j9rxfxhhy7ji)
-[[Related People](#h.f2q4uahxvsx1)13](#h.f2q4uahxvsx1)
-[[Key Additional People to Involve](#h.62szetymk3l4)13](#h.62szetymk3l4)
-[[Reference](#h.cevuk3r1m3vo)13](#h.cevuk3r1m3vo)
-[[Action Items](#h.c4bhi8qjr8tf)13](#h.c4bhi8qjr8tf)
-[[Idea Bank / High Leverage Points to Change the World](#h.t4eou4h4htwr)14](#h.t4eou4h4htwr)
-[[Talent Pool – People / groups of people who might help](#h.ekw84kusc6tr)14](#h.ekw84kusc6tr)
+- [Scratch Meeting Notes](#scratch-meeting-notes)
+- [2021-02-12](#2021-02-12)
+- [2021-01-29](#2021-01-29)
+- [#meeting 2020-12-18](#meeting-2020-12-18)
+- [#meeting 2020-09-25](#meeting-2020-09-25)
+- [#meeting Systemic Change Bobby Fishkin 2020-09-11](#meeting-systemic-change-bobby-fishkin-2020-09-11)
+- [#meeting Systemic Change Bobby Fishkin 2020-08-28](#meeting-systemic-change-bobby-fishkin-2020-08-28)
+- [#meeting Systemic Change Bobby Fishkin 2020-08-14](#meeting-systemic-change-bobby-fishkin-2020-08-14)
+- [#meeting Systemic Change Bobby Fishkin 2020-07-31](#meeting-systemic-change-bobby-fishkin-2020-07-31)
+- [GChat Transcript](#gchat-transcript)
+- [~Jacob Notes](#jacob-notes)
+- [Jacob <> Mark Moulton](#jacob-mark-moulton)
+- [Other Resources](#other-resources)
+- [Related People](#related-people)
+- [Related People](#related-people)
+- [Key Additional People to Involve](#key-additional-people-to-involve)
+- [Reference](#reference)
+- [Action Items](#action-items)
+- [Idea Bank / High Leverage Points to Change the World](#idea-bank-high-leverage-points-to-change-the-world)
+- [Talent Pool – People / groups of people who might help](#talent-pool-people-groups-of-people-who-might-help)
 
-[[[Related Lists: climatechange.jacobcole.net](http://climatechange.jacobcole.net/) • thoughtfulweb.jacobcole.net](http://thoughtfulweb.jacobcole.net/) • systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/)
+[Related Lists: climatechange.jacobcole.net • thoughtfulweb.jacobcole.net • systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/)
 
 ##
 
@@ -86,7 +88,7 @@ I always thought the Robinson Crusoe / MacGyver ideal of "tinker better external
 ​
 
 [1:32 PM] Jacob Cole (Guest)
-#grandchallenge how do you, starting with western solipsism, lead up the bridge to "enlightenment" to the true nature of reality, which cannot be perceived with the eyes?
+Tags:, grandchallenge, how, do, you,, starting, with, western, solipsism,, lead, up, the, bridge, to, "enlightenment", to, the, true, nature, of, reality,, which, cannot, be, perceived, with, the, eyes?
 ​
 [1:33 PM] Jacob Cole (Guest)
 the quantum chaos of the unobserved
@@ -107,7 +109,7 @@ http://www.williamccchen.com/Feeling%20Yi.htm
 trusttour.org
 ​
 [12:37 PM] Jacob Cole (Guest)
-[[this guy:](https://www.linkedin.com/in/samvit/)https://www.linkedin.com/in/samvit/](https://www.linkedin.com/in/samvit/)
+[this guy: https://www.linkedin.com/in/samvit/](https://www.linkedin.com/in/samvit/)
 ​
 [12:38 PM] Jacob Cole (Guest)
 http://makeuswell.com/
@@ -133,14 +135,14 @@ Bohm - Implicate Order
 [1:01 PM] mark (Guest)
 Echart Tolle: The Power of Now
 
-[[The GameStop Reckoning Was a Long Time Coming](https://nyti.ms/39oB1kX)https://nyti.ms/39oB1kX](https://nyti.ms/39oB1kX)
+[The GameStop Reckoning Was a Long Time Coming https://nyti.ms/39oB1kX](https://nyti.ms/39oB1kX)
 
 ### #meeting 2020-12-18
 Participants: Colin Campbell; Mark Moulton; Mike Critelli; Jacob Cole; Steve Waddell; Bobby Fishkin; Yangbo Du, Bin please add your name here if I missed it!
 ​
 [Regenerativeagriculture.jacobcole.net](http://regenerativeagriculture.jacobcole.net)
 
-#crisis lack of role models
+Tags:, crisis, lack, of, role, models
         #rolemodel John Cowperthwaite – minister of hong kong. “Hold up clear glass”
         Vienna has much higher quality of living - even social housing “the vienna model”. Not just poorest of poor. If you’re under 120% of median of income you’re eligible. 60% of vienna lives in social housing #idea
 ~yangbo
@@ -165,7 +167,7 @@ Power through sharing as opposed to power through dominance
 Yangbo +1
 ​
 [12:42 PM] Yangbo Du (Guest)
-[[Mind over Chatter episode relevant to the fossil fuel question:](https://mind-over-chatter.captivate.fm/episode/what-are-we-as-a-global-community-doing-right-now)What are we (as a global community) doing right now? - Mind Over Chatter (captivate.fm)](https://mind-over-chatter.captivate.fm/episode/what-are-we-as-a-global-community-doing-right-now)
+[Mind over Chatter episode relevant to the fossil fuel question: What are we (as a global community) doing right now? - Mind Over Chatter (captivate.fm)](https://mind-over-chatter.captivate.fm/episode/what-are-we-as-a-global-community-doing-right-now)
 What are we (as a global community) doing right now? - Mind Over Chatter
 Last episode, we talked about how we got to where we are now with climate change, but do we even know what’s going on with climate change right now? I...
 mind-over-chatter.captivate.fm
@@ -180,7 +182,7 @@ Jane Jacobs shifts happen when everone sees their agency within it
 Everyone as a creator....the basis of Goonj social entrepreneur strategy
 
 [12:53 PM] Yangbo Du (Guest)
-[[Case for transition in bolstering local economies:](https://pedestrianobservations.com/2018/10/23/how-transit-and-green-tech-make-economic-geography-more-local/)How Transit and Green Tech Make Economic Geography More Local | Pedestrian Observations](https://pedestrianobservations.com/2018/10/23/how-transit-and-green-tech-make-economic-geography-more-local/)
+[Case for transition in bolstering local economies: How Transit and Green Tech Make Economic Geography More Local | Pedestrian Observations](https://pedestrianobservations.com/2018/10/23/how-transit-and-green-tech-make-economic-geography-more-local/)
 How Transit and Green Tech Make Economic Geography More Local
 The theme of winners and losers has been on my mind for the last few months, due to the politics of the Brooklyn bus redesign. In a rich country, practically every social or political decisions is …
 pedestrianobservations.com
@@ -269,7 +271,7 @@ Neuroscape #videogames adhd ~maria clair mesa <> ucsf
 
 through game develop selfawareness / noncognitive skills
 
-#idea offer 3-5 year insurance health insurance
+Tags:, idea, offer, 3-5, year, insurance, health, insurance
 
 Michael critelli
 Intervening upstream covid
@@ -282,7 +284,7 @@ Yangbo Du12:05 PM
 Mark Moulton's concept -- effectively limited-equity housing by splitting appreciation vaue from use value
 You12:05 PM
 what does that mean?
-[[Btw, If anyone wants to get really inspired, check out Jack Park's "Key Quotes" on here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fworldquestguild.connectordocs.com%2F)http://worldquestguild.connectordocs.com/](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fworldquestguild.connectordocs.com%2F) from this past week :)
+[Btw, If anyone wants to get really inspired, check out Jack Park's "Key Quotes" on here http://worldquestguild.connectordocs.com/](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fworldquestguild.connectordocs.com%2F) from this past week :)
 Mark Moulton12:08 PM
 Thanks, Jacob.
 Yangbo Du12:11 PM
@@ -452,12 +454,12 @@ Tax increment financing as a mechanism for financing benefits to the commons
 
 “Most people aspire to be cathedral builders”
 
-#word “solarpunk
+Tags:, word, “solarpunk
         Bioinspired art
         Indigenous wisdom
         @berggruen?
 
-[[Jacob, my full name is Colin Campbell,](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Funlockingpotential.io%2F)https://unlockingpotential.io](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Funlockingpotential.io%2F)
+[Jacob, my full name is Colin Campbell, https://unlockingpotential.io](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Funlockingpotential.io%2F)
 CJ1:02 PM
 Navigation of ambiguity is the lingua franca of the 21st century
 You1:02 PM
@@ -475,7 +477,7 @@ Bobby Fishkin12:26 PM
 CJ12:28 PM
 The world is not automagically safe
 You12:39 PM
-[[@Michael Critelli Roger Cole –](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.yogadelmar.com%2Fteacher%2Froger-cole-ph-d%2F)https://www.yogadelmar.com/teacher/roger-cole-ph-d/](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.yogadelmar.com%2Fteacher%2Froger-cole-ph-d%2F)
+[@Michael Critelli Roger Cole – https://www.yogadelmar.com/teacher/roger-cole-ph-d/](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.yogadelmar.com%2Fteacher%2Froger-cole-ph-d%2F)
 For context on my dad – Dr. Roger Cole studied with William Dement at Stanford in the 70’s and was one of the core developers of wrist actigraphy (the tech used in the Fitbit). He’s since carved out a niche for himself as an expert on the physiology of sleep onset, and designing practical interventions that induce states of deep relaxation and sleep.
 
 You12:41 PM
@@ -493,8 +495,8 @@ You12:53 PM
 (also, if anyone is interested in excellent iyengar-style zoom yoga classes, restorative yoga, and/or the science of yoga and sleep, my dad teaches weekly classes, and has some upcoming workshops)
 [http://rogercoleyoga.com/](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Frogercoleyoga.com%2F)
 You12:56 PM
-[[I've been taking notes here:](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fsystemicchange.jacobcole.net%2F)http://systemicchange.jacobcole.net/](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fsystemicchange.jacobcole.net%2F)
-[[Also, if you'd like, add yourself and your interests here](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fpeople.systemicchange.jacobcole.net%2F)http://people.systemicchange.jacobcole.net/](http://people.systemicchange.jacobcole.net/)
+[I've been taking notes here: http://systemicchange.jacobcole.net/](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fsystemicchange.jacobcole.net%2F)
+[Also, if you'd like, add yourself and your interests here http://people.systemicchange.jacobcole.net/](http://people.systemicchange.jacobcole.net/)
 
 ###
 
@@ -513,11 +515,11 @@ jim rutt
 
 Notes
 
-#idea Let’s brainstorm about utopian societies together. Maybe we’ll realize how limited our fantasies are, and look outward
+Tags:, idea, Let’s, brainstorm, about, utopian, societies, together., Maybe, we’ll, realize, how, limited, our, fantasies, are,, and, look, outward
 
 “Community work takes times”, even in family. ~fie
 
-#idea real world problems in simcity
+Tags:, idea, real, world, problems, in, simcity
         Bobby <> Will Wright simcity creator
 What if every kid got a simulation of their region as a kid?
 ~bobby
@@ -530,7 +532,7 @@ If pandemic hits hard enough than we can have national dialogue about changing h
 SeeClickFix
 Ivas? Petitions
 Stable development goals
-#issueTrackerForSociety
+Tags:, issueTrackerForSociety
 
         #lookingfor real estate ~wifried
 Mondragon in basque region
@@ -551,7 +553,7 @@ https://hieroglyph.asu.edu/
 
 ~karl how to achieve support for non commercially self sustaining endeavors
 
-#keyterm “living bridges”
+Tags:, keyterm, “living, bridges”
 
 Need “living bridges” across disciplines that need cohesiveness. Also across cultures
 
@@ -591,7 +593,7 @@ Green New Deal
 
 You12:02 PM
 climatechange.jacobcole.net
-#climateChange crew – sustainability alum from sustainability ; cambridge and oxford
+Tags:, climateChange, crew, –, sustainability, alum, from, sustainability, ;, cambridge, and, oxford
 Karl Sjogren12:04 PM
 Jacob, what is your email address?
 You12:04 PM
@@ -617,7 +619,7 @@ You12:21 PM
 RAJ12:21 PM
 GOOD QUESTION. BOB.. CAN IT HELP US LEARN FASTER=? SHARE FASTER =? COLLABORATE FASTER=?
 Mark Moulton12:22 PM
-[[Wow. Thank you Cole. Will take a look and look to engaging in conversation.](https://meet.google.com/linkredirect?authuser=0&dest=mailto%3Amarkmoulton12%40gmail.com)markmoulton12@gmail.com](https://meet.google.com/linkredirect?authuser=0&dest=mailto%3Amarkmoulton12%40gmail.com)
+[Wow. Thank you Cole. Will take a look and look to engaging in conversation. markmoulton12@gmail.com](https://meet.google.com/linkredirect?authuser=0&dest=mailto%3Amarkmoulton12%40gmail.com)
 You12:25 PM
 [jacob@ideaflow.io](https://meet.google.com/linkredirect?authuser=0&dest=mailto%3Ajacob%40ideaflow.io) is my email
 Mark Moulton12:25 PM
@@ -628,7 +630,7 @@ You12:30 PM
 paraphrase: "
 If I breakthrough happens in one field there’s no carrier pigeon who arrives and tells the other fields it impacts (12:29)"
 Karl Sjogren12:30 PM
-[[NPR report on John Cleese's new show, There Is No Hope."](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.npr.org%2F2020%2F07%2F31%2F897615446%2Ffunny-guy-john-cleese-riffs-on-why-there-is-no-hope-in-his-new-show)https://www.npr.org/2020/07/31/897615446/funny-guy-john-cleese-riffs-on-why-there-is-no-hope-in-his-new-show](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.npr.org%2F2020%2F07%2F31%2F897615446%2Ffunny-guy-john-cleese-riffs-on-why-there-is-no-hope-in-his-new-show)
+[NPR report on John Cleese's new show, There Is No Hope." https://www.npr.org/2020/07/31/897615446/funny-guy-john-cleese-riffs-on-why-there-is-no-hope-in-his-new-show](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.npr.org%2F2020%2F07%2F31%2F897615446%2Ffunny-guy-john-cleese-riffs-on-why-there-is-no-hope-in-his-new-show)
 You12:31 PM
 and yes! And as Transfer Learning between different disciplines
 Karl Sjogren12:31 PM
@@ -691,20 +693,20 @@ This is a culture shi
 
 Fix homepage
 
-#tt* nick chini
+Tags:, tt*, nick, chini
 
-#hire** [Nick Santos – Medium](https://medium.com/@nicksantos)
+Tags:, hire**, [Nick, Santos, –, Medium](https://medium.com/@nicksantos)
 https://twitter.com/fat
-#textEditor
+Tags:, textEditor
 
 Gov0 hk #shadowGovernment
 
-#tt write: it’s time to curate
+Tags:, tt, write:, it’s, time, to, curate
 
-#slogan
+Tags:, slogan
 If I breakthrough happens in one field there’s no carrier pigeon who arrives and tells the other fields it impacts (12:29)
 
-#tt* @maxsong @jiannan
+Tags:, tt*, @maxsong, @jiannan
 
 Saskia varies #notetaker
 
@@ -714,7 +716,7 @@ grant holton
 
 ~Bobby Fishkin gathering
 
-#tt* followup
+Tags:, tt*, followup
 Wow. Thank you Cole. Will take a look and look to engaging in conversation.  [markmoulton12@gmail.com](https://meet.google.com/linkredirect?authuser=0&dest=mailto%3Amarkmoulton12%40gmail.com)  
 
 Global probono club
@@ -761,7 +763,7 @@ A plan for the meta verse
 ## Related People
 
 ### Related People
-[[[[[[[[[[[[[[[[[[[[[[[["Alignment Without Agreement- Strategies for Systems Change hosted by CrowdDoing.world](http://crowddoing.world/)" with Jim Rutt](https://www.linkedin.com/in/jimrutt), Saskia Verraes](https://www.linkedin.com/in/saskiaverraes), Yangbo Du](https://www.linkedin.com/in/yangbodu), Dave Witzel](https://www.linkedin.com/in/dwitzel), David Sherman](https://www.linkedin.com/in/david-sherman-9751881), Karl Sjogren](https://www.linkedin.com/in/karlsjogren), Sanjay Rajan](https://www.linkedin.com/in/sanjayrajan), Jack Park](https://www.linkedin.com/in/jackpark), Colin Campbell](https://www.linkedin.com/in/unlocking-potential), Grant Holton](https://www.linkedin.com/in/grant-holton), Mark Moulton](https://www.linkedin.com/in/markbmoulton), Bobby Fishkin](https://www.linkedin.com/in/bobbyfishkin/). https://lnkd.in/ggQ_iV3](https://lnkd.in/ggQ_iV3)#systemschange](https://www.linkedin.com/feed/hashtag/?keywords=systemschange&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#socialinnovation](https://www.linkedin.com/feed/hashtag/?keywords=socialinnovation&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#socialchange](https://www.linkedin.com/feed/hashtag/?keywords=socialchange&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#socialentrepreneur](https://www.linkedin.com/feed/hashtag/?keywords=socialentrepreneur&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#collaboration](https://www.linkedin.com/feed/hashtag/?keywords=collaboration&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#solarpunk](https://www.linkedin.com/feed/hashtag/?keywords=solarpunk&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#systemic](https://www.linkedin.com/feed/hashtag/?keywords=systemic&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#socent](https://www.linkedin.com/feed/hashtag/?keywords=socent&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#socialimpact](https://www.linkedin.com/feed/hashtag/?keywords=socialimpact&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)#socialgood](https://www.linkedin.com/feed/hashtag/?keywords=socialgood&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)
+["Alignment Without Agreement- Strategies for Systems Change hosted by CrowdDoing.world " with Jim Rutt , Saskia Verraes , Yangbo Du , Dave Witzel , David Sherman , Karl Sjogren , Sanjay Rajan , Jack Park , Colin Campbell , Grant Holton , Mark Moulton , Bobby Fishkin . https://lnkd.in/ggQ_iV3 #systemschange #socialinnovation #socialchange #socialentrepreneur #collaboration #solarpunk #systemic #socent #socialimpact #socialgood](https://www.linkedin.com/feed/hashtag/?keywords=socialgood&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6662240294114865152)
 https://www.linkedin.com/posts/bobbyfishkin_home-activity-6662240294114865152-RNV6
 
 ### Key Additional People to Involve
@@ -785,7 +787,7 @@ Add more ideas and/or comments!
 
 [EasilySolvableWorldProblems.jacobcole.net](http://easilysolvableworldproblems.jacobcole.net/) – Database of World Problems that could be solved right now with proper collective action. Contribute!
 
-#idea Build “ThunderPledge”
+Tags:, idea, Build, “ThunderPledge”
 
 “ThunderPledge” – a website like Kickstarter for pledging to take collective actions when you reach a critical mass. For instance, there are a large number of people who would be who would consider becoming vegetarian for climate reasons but  feel like it's pointless unless millions of others do the same. Using ThunderPledge you could pledge to become vegetarian only when a million other people have also committed the same. At that point, not only would you know for certain that your change is part of making a difference, but you would have a ready-made support group of people all trying to do the same thing.
 
@@ -793,7 +795,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 
 [Looking for: designer, full stack engineering collaborator. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
-[[#idea Make a list of worthwhile “low hanging fruit”  projects in need of technical contributions and get talented engineering high school students  to build them. Unlike in the working world, high school students have a strong incentive alignment with non-profit initiatives – applying for college – and therefore have time to do so. Related resources/people: http://volunteerforce.jacobcole.net/](http://volunteerforce.jacobcole.net/), http://projectconnect.jacobcole.net/](http://projectconnect.jacobcole.net/) (Triple Oswald), HmmTank
+[#idea Make a list of worthwhile “low hanging fruit”  projects in need of technical contributions and get talented engineering high school students  to build them. Unlike in the working world, high school students have a strong incentive alignment with non-profit initiatives – applying for college – and therefore have time to do so. Related resources/people: http://volunteerforce.jacobcole.net/ , http://projectconnect.jacobcole.net/](http://projectconnect.jacobcole.net/) (Triple Oswald), HmmTank
 [Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 ## Talent Pool – People / groups of people who might help

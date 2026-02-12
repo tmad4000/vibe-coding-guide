@@ -1,27 +1,29 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > supplements.jacobcole.net](http://supplements.jacobcole.net)
+# Supplements
+
+[systematicawesome.jacobcole.net > supplements.jacobcole.net](http://supplements.jacobcole.net)
 [Started by jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 [Supplements #connectordoc](https://docs.google.com/document/d/1MqFMJAMx2mg5eJWlvgYaCTK-DrUmFBGZDhG09Q4rZ-w/edit#)
 List of people’s supplement and self-care routines – personal and more generally applicable.
 
-[[[See Also: http://foodslist.jacobcole.net/](http://foodslist.jacobcole.net/) - http://chronicpain.jacobcole.net/](http://chronicpain.jacobcole.net/)  • Supplements for Covid Prevention / Treatment](https://docs.google.com/document/d/1pXSyPHCx-pvkuWKWBSj0M7azLOmCMIk0kH0qd8bicik/edit#heading=h.g27674soql24)
+[See Also: http://foodslist.jacobcole.net/ - http://chronicpain.jacobcole.net/ • Supplements for Covid Prevention / Treatment](https://docs.google.com/document/d/1pXSyPHCx-pvkuWKWBSj0M7azLOmCMIk0kH0qd8bicik/edit#heading=h.g27674soql24)
 
-[[Perspective on Supplements](#h.x1glqq71u6jb)1](#h.x1glqq71u6jb)
-[[J Daily](#h.pt211dv4lw7v)1](#h.pt211dv4lw7v)
-[[J Former Supplement Regimen](#h.yru4f5oal971)2](#h.yru4f5oal971)
-[[Supplements](#h.ambkeosnqj8q)2](#h.ambkeosnqj8q)
-[[Chinese Herbs](#h.fdp9gufsfsq6)2](#h.fdp9gufsfsq6)
-[[Other Notes](#h.lhbj6clofaty)2](#h.lhbj6clofaty)
-[[Supplements to take as needed](#h.trwr9vwdzvpx)2](#h.trwr9vwdzvpx)
-[[#sleepDeprivation (Coffee Alternative?) #morningRoutine](#h.zbf35eedwclp)2](#h.zbf35eedwclp)
-[[from C](#h.fqstu9af2dan)2](#h.fqstu9af2dan)
-[[Other](#h.x9aq9teivhhj)2](#h.x9aq9teivhhj)
-[[#sleep](#h.1w1i7oq1jru1)3](#h.1w1i7oq1jru1)
-[[#sleep from O](#h.urij67to2ku5)3](#h.urij67to2ku5)
-[[Good Brands](#h.1zkf4xy645l)3](#h.1zkf4xy645l)
-[[Supplements where brands are more/less important](#h.sc5kqo4efs1k)3](#h.sc5kqo4efs1k)
+- [Perspective on Supplements](#perspective-on-supplements)
+- [J Daily](#j-daily)
+- [J Former Supplement Regimen](#j-former-supplement-regimen)
+- [Supplements](#supplements)
+- [Chinese Herbs](#chinese-herbs)
+- [Other Notes](#other-notes)
+- [Supplements to take as needed](#supplements-to-take-as-needed)
+- [#sleepDeprivation (Coffee Alternative?) #morningRoutine](#sleepdeprivation-coffee-alternative-morningroutine)
+- [from C](#from-c)
+- [Other](#other)
+- [#sleep](#sleep)
+- [#sleep from O](#sleep-from-o)
+- [Good Brands](#good-brands)
+- [Supplements where brands are more/less important](#supplements-where-brands-are-moreless-important)
 
 ## Perspective on Supplements
-#attitude #culture
+Tags:, attitude, culture
 [The Mora Nova](https://med-tronik.de/en/devices/mora-nova/) device, employed by Dr. Heiner Fruehauf evolved my perspective on supplements. After some setup, by touching an electrode to my skin at a particular acupoint, Dr. Fruehauf was able to use the machine a bit like a polygraph to consistently detect an immediate  “yum” or “yuck” signal from my body in relation to each herb, purportedly detecting if it was beneficial or something I was allergic to. This made me realize that taking supplements doesn't need to be a painful chore, or an activity I undertake numbly, but, if I can pay attention even to the feeling of the supplement in my mouth as I'm taking it, or the feeling in my body after, it can be incredibly vitalizing and delightful! More recently, I have learned that I could have achieved the same results by tasering myself in the balls.
 
 This plays into experiencing what was, for me a new type of activity: Supplement culture vs just meal culture – in the spirit of the classic idea of “have a tonic” in the afternoon – watch effect of supplement on body in immediate or short term way, not just taste sensation? And this can evolve my eating habits – I can look at meals the same way! Meals as a type of supplement! Also, experiencing qigong exercises as a type of supplement – the yumminess of doing something the body has affinity for can be a way to fully immerse myself in each experience.
@@ -136,7 +138,7 @@ BCAAs (Kion)? MCTs? – Not sure if good
 ###
 
 ##
-#sleepDeprivation (Coffee Alternative?) #morningRoutine
+Tags:, sleepDeprivation, (Coffee, Alternative?), morningRoutine
 
 ### from C
 Rhodiola rosea

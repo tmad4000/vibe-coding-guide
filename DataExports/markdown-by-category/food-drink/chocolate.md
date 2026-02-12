@@ -1,9 +1,11 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) >foodslist.jacobcole.net](http://foodslist.jacobcole.net/) >chocolate.jacobcole.net](http://chocolate.jacobcole.net)
+# Chocolate
+
+[systematicawesome.jacobcole.net >foodslist.jacobcole.net >chocolate.jacobcole.net](http://chocolate.jacobcole.net)
 [Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Chocolate
 List of great chocolates!
 
-[[[[See Also: foodslist.jacobcole.net](http://foodslist.jacobcole.net/) • cheese.jacobcole.net](http://cheese.jacobcole.net) • chocolate.jacobcole.net](http://chocolate.jacobcole.net/) • tea.jacobcole.net](http://tea.jacobcole.net)
+[See Also: foodslist.jacobcole.net • cheese.jacobcole.net • chocolate.jacobcole.net • tea.jacobcole.net](http://tea.jacobcole.net)
 
 [Misc](#h.pt211dv4lw7v)
 

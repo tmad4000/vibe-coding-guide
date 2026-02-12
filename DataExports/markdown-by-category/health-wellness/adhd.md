@@ -1,5 +1,7 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > adhd.jacobcole.net](http://adhd.jacobcole.net)
-#connectordoc #curatedList
+# Adhd
+
+[systematicawesome.jacobcole.net > adhd.jacobcole.net](http://adhd.jacobcole.net)
+Tags:, connectordoc, curatedList
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
@@ -7,12 +9,12 @@ Contribute to the list at top!                        
 ADHD
 Tricks, tools, and resources for working with ADHD
 
-[[Key Related Lists](#h.un1tmhe555sc)1](#h.un1tmhe555sc)
-[[People who have successfully managed severe ADHD and are open to chat](#h.pi38np9oajdj)1](#h.pi38np9oajdj)
-[[Comments / Discussion](#h.k2bruz3z28wo)1](#h.k2bruz3z28wo)
+- [Key Related Lists](#key-related-lists)
+- [People who have successfully managed severe ADHD and are open to chat](#people-who-have-successfully-managed-severe-adhd-and-are-open-to-chat)
+- [Comments / Discussion](#comments-discussion)
 
 ### Key Related Lists
-[[[See also: mentalstatehacks.jacobcole.net](http://mentalstatehacks.jacobcole.net/) • Chronicpain.jacobcole.net](http://chronicpain.jacobcole.net) • bodymasters.jacobcole.net](http://bodymasters.jacobcole.net/) (General great people for working with the body and mind)
+[See also: mentalstatehacks.jacobcole.net • Chronicpain.jacobcole.net • bodymasters.jacobcole.net](http://bodymasters.jacobcole.net/) (General great people for working with the body and mind)
 
 -----
 

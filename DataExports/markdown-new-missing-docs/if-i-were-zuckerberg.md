@@ -1,7 +1,9 @@
+# If I Were Zuckerberg
+
 http://qr.ae/IJCxF
 
 Jacob added an answer.
-[[[Facebook](http://www.quora.com/Facebook-1/What-features-do-you-wish-Facebook-had):](http://www.quora.com/Facebook-1/What-features-do-you-wish-Facebook-had) What features do you wish Facebook had?](http://www.quora.com/Facebook-1/What-features-do-you-wish-Facebook-had)
+[Facebook : What features do you wish Facebook had?](http://www.quora.com/Facebook-1/What-features-do-you-wish-Facebook-had)
 TL;DR: I think that "facebook for project sharing" is one of the most important "low-hanging fruit" projects yet to be done currently in existence.
 
 [Feature request: A way to share projects a la MinimalistHomepages.tk - Google Drive](http://minimalisthomepages.tk/)
@@ -38,7 +40,7 @@ Poke me if you have further questions as to how this could be done, at jcole@mit
 -
 - I totally agree with [a friend] that the look isn’t fundamentally different than HTML lists. My goal is to be able to enable people to make a homepage with absolutely 0 coding though, perhaps because the groups I'm most interested in having go through this workflow are people who are very much in need of turning their life around or gaining inspiration. I would love to have prisoners getting out (or going in?) or homeless people in a shelter apply this self-reflective workflow to themselves and, through it, come to see themselves clearly and become inspired and continually reminded to make a life change.
 -
-- [[What also is very interesting to me is that the vast majority of my super high-achieving friends lack even simple homepages. Sometimes they're of the "i'm going to make it super pretty or not make it at all" mentality. Sometimes they just don't feel it's that important. Giving people a way to respectably make a super minimal homepage empowers them to reap the benefits of having a homepage sooner. Creating a list of all homepages that lets them see that "all the cool kids are doing it" gives them pause and makes them think "I wonder why all these smart people are doing this?" which inspires them to follow suit. Finally, seeing the structure of categories on the template homepage](http://trezitorul.tk/)/other people's homepages invites people to see what's lacking in their lives and facilitates the project of educating them (or rather, of them educating themselves). Maybe by looking at my homepage](https://docs.google.com/document/d/1WL_sPn8rcMigt6ula7_mxmrgjO91u7PPPMO_dW-c8EY/pub), they'll realize they've never written a poem (or haven't written one since elementary school), which is something I feel sorry for anyone who hasn't done (lol is that grammatical?). They'll become aware of the previously unnamed gaping holes in their lives that are leading them to feel dissatisfaction.
+- [What also is very interesting to me is that the vast majority of my super high-achieving friends lack even simple homepages. Sometimes they're of the "i'm going to make it super pretty or not make it at all" mentality. Sometimes they just don't feel it's that important. Giving people a way to respectably make a super minimal homepage empowers them to reap the benefits of having a homepage sooner. Creating a list of all homepages that lets them see that "all the cool kids are doing it" gives them pause and makes them think "I wonder why all these smart people are doing this?" which inspires them to follow suit. Finally, seeing the structure of categories on the template homepage /other people's homepages invites people to see what's lacking in their lives and facilitates the project of educating them (or rather, of them educating themselves). Maybe by looking at my homepage](https://docs.google.com/document/d/1WL_sPn8rcMigt6ula7_mxmrgjO91u7PPPMO_dW-c8EY/pub), they'll realize they've never written a poem (or haven't written one since elementary school), which is something I feel sorry for anyone who hasn't done (lol is that grammatical?). They'll become aware of the previously unnamed gaping holes in their lives that are leading them to feel dissatisfaction.
 -
 - (It is as Heinlein writes: "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.")
 -
@@ -58,23 +60,23 @@ Poke me if you have further questions as to how this could be done, at jcole@mit
 - Learning the workflow of making a simple website with Google Docs gives me a new super quick programming-free way to prototype ideas for websites; it lowers the activation energy for my creativity!
 -
 
-- [[Minimalist Homepages - Google Drive](http://minimalisthomepages.tk/) direct link: <Minimalist Homepages - Google Drive](https://docs.google.com/document/d/1AAja2VvhYSuTUYB-aLbjoBvWvCFLk-hww32upwqysqk/edit)>
+- [Minimalist Homepages - Google Drive direct link: <Minimalist Homepages - Google Drive](https://docs.google.com/document/d/1AAja2VvhYSuTUYB-aLbjoBvWvCFLk-hww32upwqysqk/edit)>
 
 —----
 
 ## Comments
 
-[[Phil Jones (He / Him)](https://www.quora.com/profile/Phil-Jones-He-Him) · 10y](https://www.quora.com/What-features-do-you-wish-Facebook-had/answer/Jacob-Cole?comment_id=2579354&comment_type=2)
+[Phil Jones (He / Him) · 10y](https://www.quora.com/What-features-do-you-wish-Facebook-had/answer/Jacob-Cole?comment_id=2579354&comment_type=2)
 Yes!.
 I've basically diagnosed Facebook's lack of collaboration tools as conclusive proof that they don't see themselves in the "humanity augmentation" business but the "keep people dumb and watching adverts" business.
 That's why I closed my FB account this year.
 1
 Reply
 
-[[Ronnie Rendel](https://www.quora.com/profile/Ronnie-Rendel-1) · 8y](https://www.quora.com/What-features-do-you-wish-Facebook-had/answer/Jacob-Cole?comment_id=13511885&comment_type=2)
+[Ronnie Rendel · 8y](https://www.quora.com/What-features-do-you-wish-Facebook-had/answer/Jacob-Cole?comment_id=13511885&comment_type=2)
 In other words, Facebook's current focus is entertainment, not productivity. This will change (and Occulus might have a big part in changing that), and yes - this is where you want to be in terms of developing apps that are ahead of the curve.
 Reply
 
-[[Phil Jones (He / Him)](https://www.quora.com/profile/Phil-Jones-He-Him) · 8y](https://www.quora.com/What-features-do-you-wish-Facebook-had/answer/Jacob-Cole?comment_id=13517045&comment_type=2)
+[Phil Jones (He / Him) · 8y](https://www.quora.com/What-features-do-you-wish-Facebook-had/answer/Jacob-Cole?comment_id=13517045&comment_type=2)
 Well, I'll accept they changed their focus when they change their business model. As long as their money comes from adverts, rather than charging users for services, then they're in the "entertainment" business.
 Reply

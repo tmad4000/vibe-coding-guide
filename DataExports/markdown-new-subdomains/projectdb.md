@@ -1,25 +1,27 @@
-[[[`             systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldgestalts.connectr.site](http://worldgestalts.connectr.site)  > projectdb.connectr.site](http://projectdb.connectr.site)
-#connectordoc
+# Projectdb
+
+[`             systematicawesome.jacobcole.net > worldgestalts.connectr.site > projectdb.connectr.site](http://projectdb.connectr.site)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 World Project Database
 Database of all the projects going on in the world
 
-[[[See also: globalideabank.connectr.site](http://globalideabank.connectr.site) • worldquestguild.connectr.site](http://worldquestguild.connectr.site) • projectconnect.jacobcole.net/](http://projectconnect.jacobcole.net/) •
+[See also: globalideabank.connectr.site • worldquestguild.connectr.site • projectconnect.jacobcole.net/](http://projectconnect.jacobcole.net/) •
 
-[[Projects – by Organization Type](#h.xpnyp5272l3a)1](#h.xpnyp5272l3a)
-[[Open / Volunteer-Based Initiatives](#h.n5uql4lcgu4w)1](#h.n5uql4lcgu4w)
-[[In Industry](#h.jlgms9ddxfvb)2](#h.jlgms9ddxfvb)
-[[In Academia](#h.f4o5wx3k0hpu)2](#h.f4o5wx3k0hpu)
-[[Projects – by Geography](#h.31wpvrhz91d6)2](#h.31wpvrhz91d6)
-[[Projects – by Person (Homepages)](#h.r50hs53xqmhh)3](#h.r50hs53xqmhh)
-[[Projects – by Category](#h.df4bwswizf74)3](#h.df4bwswizf74)
-[[Projects – by Level of Development](#h.gmeb1rmtjvk)4](#h.gmeb1rmtjvk)
-[[Problem-Level](#h.x0sdfqgk27k0)4](#h.x0sdfqgk27k0)
-[[Idea-Level](#h.l9lb5x9k3jij)4](#h.l9lb5x9k3jij)
-[[Active Side Projects](#h.2ucrege453g4)4](#h.2ucrege453g4)
-[[Company/Established Project-Level](#h.uqhzmhdsvcib)4](#h.uqhzmhdsvcib)
-[[Past Projects](#h.40levrohuvud)4](#h.40levrohuvud)
+- [Projects – by Organization Type](#projects-by-organization-type)
+- [Open / Volunteer-Based Initiatives](#open-volunteer-based-initiatives)
+- [In Industry](#in-industry)
+- [In Academia](#in-academia)
+- [Projects – by Geography](#projects-by-geography)
+- [Projects – by Person (Homepages)](#projects-by-person-homepages)
+- [Projects – by Category](#projects-by-category)
+- [Projects – by Level of Development](#projects-by-level-of-development)
+- [Problem-Level](#problem-level)
+- [Idea-Level](#idea-level)
+- [Active Side Projects](#active-side-projects)
+- [Company/Established Project-Level](#companyestablished-project-level)
+- [Past Projects](#past-projects)
 
 # Projects – by Organization Type
 
@@ -64,7 +66,7 @@ Oxford
 Cambridge
 West Point
         Robotics Research Center at West Point
-[[? dgonzrobotics.com](https://dgonzrobotics.com/)∩ Robotics Research Center at West Point](https://www.westpoint.edu/centers-and-research/robotics-research-center)
+[? dgonzrobotics.com ∩ Robotics Research Center at West Point](https://www.westpoint.edu/centers-and-research/robotics-research-center)
 
 # Projects – by Geography
 USA
@@ -103,11 +105,11 @@ Asia
 [See also: http://minimalisthomepages.com/](http://minimalisthomepages.com/)
 
 # Projects – by Category
-#AI
+Tags:, AI
 
-#ML
+Tags:, ML
 
-#Blockchain
+Tags:, Blockchain
 [carbonbase.co](http://carbonbase.co/)
 
 # Projects – by Level of Development

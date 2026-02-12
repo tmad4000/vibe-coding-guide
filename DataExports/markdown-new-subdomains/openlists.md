@@ -1,12 +1,14 @@
-[[[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild](http://worldquestguild.connectordocs.com) > infrastructure.j](http://infrastructure.jacobcole.net) > openlists.j](http://openlists.jacobcole.net) | knowledgebase.world](http://knowledgebase.world)
-#connectordoc
+# Openlists
+
+[systematicawesome.jacobcole.net > worldquestguild > infrastructure.j > openlists.j | knowledgebase.world](http://knowledgebase.world)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 KnowledgeBase.world
-[[A dashboard for the open lists movement. A part of the Humanity Basic Infrastructure Project infrastructure.jacobcole.net](http://infrastructure.jacobcole.net/) and systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/)
+[A dashboard for the open lists movement. A part of the Humanity Basic Infrastructure Project infrastructure.jacobcole.net and systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/)
 
 See also:
-[[[Ideabank.global](http://ideabank.global/) •projectdb.jacobcole.net](http://projectdb.jacobcole.net/) • superconnectr.ai](http://superconnectr.ai)
+[Ideabank.global •projectdb.jacobcole.net • superconnectr.ai](http://superconnectr.ai)
 -
 ## Contribute to Existing Useful Resource Lists
 
@@ -31,7 +33,7 @@ See also:
 - [Yoga.jacobcole.net](http://yoga.jacobcole.net/)
 - [How to Get into Meditation/Meditative Practices meditation.jacobcole.net](http://meditation.jacobcole.net)
 
-- [[See also: UbiquitizingMeditativePractices.connectordocs.com](http://ubiquitizingmeditativepractices.connectordocs.com)(http://meditation.connectordocs.com/](http://meditation.connectordocs.com/))
+- [See also: UbiquitizingMeditativePractices.connectordocs.com (http://meditation.connectordocs.com/](http://meditation.connectordocs.com/))
 - Qigong.connectordocs.com
 - Taichinotes.connectordocs.com
 - Thetawaves.jacobcole.net
@@ -46,7 +48,7 @@ See also:
 -                 Qigong & Tai chi classes- Santa Cruz + the Bay Area
 -
 
-- [[thingsyoudidntknow.in](http://thingsyoudidntknow.in/) (thingsyoudidntknowexisted.jacobcole.net/](http://thingsyoudidntknowexisted.jacobcole.net/))
+- [thingsyoudidntknow.in (thingsyoudidntknowexisted.jacobcole.net/](http://thingsyoudidntknowexisted.jacobcole.net/))
 
 - [Thingsyoudidntknowexistedatmit.jacobcole.net](http://thingsyoudidntknowexistedatmit.jacobcole.net)
 - [Thingsyoudidntknowexistedinsf.jacobcole.net](http://thingsyoudidntknowexistedinsf.jacobcole.net/)
@@ -54,7 +56,7 @@ See also:
 
 - [Kidactivities.jacobcole.net](http://kidactivities.jacobcole.net/) – List of Kids Games and Activities
 
-- [[Admitsphere.org](http://admitsphere.org/)– Wiki of College Essays and Advice <admitsphere.jacobcole.net](http://admitsphere.jacobcole.net/)>
+- [Admitsphere.org – Wiki of College Essays and Advice <admitsphere.jacobcole.net](http://admitsphere.jacobcole.net/)>
 - [Internshipexperiences.knowledgebase.world](http://internshipexperiences.knowledgebase.world) – doc where people describe their experiences with various internships
 
 - [Wiki of why all the things in the world that are awesome are awesome whyisitawesome.jacobcole.net](http://whyisitawesome.jacobcole.net/)

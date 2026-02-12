@@ -1,4 +1,6 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >   culturaltechnology.jacobcole.net](http://culturaltechnology.jacobcole.net)   #connectordoc
+# Culturaltechnology
+
+[systematicawesome.jacobcole.net >   culturaltechnology.jacobcole.net](http://culturaltechnology.jacobcole.net)   #connectordoc
 [started by  jacob@ideaflow.io](mailto:jacob@ideaflow.io),  Michael Nielsen
 
 Contribute to the list at top!                        

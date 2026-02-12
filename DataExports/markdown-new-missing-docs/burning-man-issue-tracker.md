@@ -1,17 +1,19 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  gestalts.world](http://gestalts.world) >
-[[IssueTracker.world](http://issuetracker.world)  • started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+# Burning Man Issue Tracker
+
+[systematicawesome.jacobcole.net >  gestalts.world](http://gestalts.world) >
+[IssueTracker.world • started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
         `                     #connectordoc
 
 World Issue Tracker (issuetracker.world)
-[[IssueTracker.world](http://issuetracker.world)  See also: openproblems.connectr.site](http://openproblems.connectr.site)
+[IssueTracker.world See also: openproblems.connectr.site](http://openproblems.connectr.site)
 We think the biggest reason people don’t work on impactful things is that they are simply not aware how many low hanging fruit they could be working on today. If they knew about those things they would be getting up and working on them.
 Important neglected problems. Issues we would like to see more brainpower, talent, or contribution being poured into in locales we are familiar with. Also: vetted, meaningful, high-impact initiatives contributing toward these goals.
 
  What are the things that need to get done? Make a list! Knock them out and complete them? How few people could do it? #inspiring #lifegoal
 
 # General Issue Feed (Add Here)
-#worldSuggestion Wellness classes in prisons #Suggestion #Lifeproject #worldsuggestion #lowhangingfruit #prisonReform <> would improve diet in prisons indirectly <> guy from thekrake class who was being fed food he's allergic to? <> theory around prison as punishment vs growth? how do different parts of society think about this? foucault? what would satisfy both camps? hardcore training/teaching, shaolin monk like? <>  goenka vipassana meditation in prisons
-[[#worldproblem mass penguin die off Mass die-off strikes endangered emperor penguin chicks across 4 of 5 West Antarctica colonies | Live Science —](https://www.livescience.com/animals/penguins/mass-die-off-strikes-endangered-emperor-penguin-chicks-across-4-of-5-west-antarctica-colonies#:~:text=A%20massive%20die%2Doff%20has,year%2C%20a%20new%20study%20finds.)https://www.livescience.com/animals/penguins/mass-die-off-strikes-endangered-emperor-penguin-chicks-across-4-of-5-west-antarctica-colonies#:~:text=A%20massive%20die%2Doff%20has,year%2C%20a%20new%20study%20finds.](https://www.livescience.com/animals/penguins/mass-die-off-strikes-endangered-emperor-penguin-chicks-across-4-of-5-west-antarctica-colonies#:~:text=A%20massive%20die%2Doff%20has,year%2C%20a%20new%20study%20finds.)
+Tags:, worldSuggestion, Wellness, classes, in, prisons, Suggestion, Lifeproject, worldsuggestion, lowhangingfruit, prisonReform, <>, would, improve, diet, in, prisons, indirectly, <>, guy, from, thekrake, class, who, was, being, fed, food, he's, allergic, to?, <>, theory, around, prison, as, punishment, vs, growth?, how, do, different, parts, of, society, think, about, this?, foucault?, what, would, satisfy, both, camps?, hardcore, training/teaching,, shaolin, monk, like?, <>, goenka, vipassana, meditation, in, prisons
+[#worldproblem mass penguin die off Mass die-off strikes endangered emperor penguin chicks across 4 of 5 West Antarctica colonies | Live Science — https://www.livescience.com/animals/penguins/mass-die-off-strikes-endangered-emperor-penguin-chicks-across-4-of-5-west-antarctica-colonies#:~:text=A%20massive%20die%2Doff%20has,year%2C%20a%20new%20study%20finds.](https://www.livescience.com/animals/penguins/mass-die-off-strikes-endangered-emperor-penguin-chicks-across-4-of-5-west-antarctica-colonies#:~:text=A%20massive%20die%2Doff%20has,year%2C%20a%20new%20study%20finds.)
 
 By Country
 
@@ -354,7 +356,7 @@ WIP
 
 ### Good Initiatives
 - [Building and measuring resilience https://concernusa.org/news/what-we-mean-by-resilience/](https://concernusa.org/news/what-we-mean-by-resilience/)
-- [[[Possibly: Kiva.org](http://kiva.org) Microfinance – Review](https://www.technologyreview.com/2023/08/14/1077351/microfinance-money-making/),2nd Review](https://www.cgdev.org/blog/kiva-not-quite-what-it-seems)
+- [Possibly: Kiva.org Microfinance – Review ,2nd Review](https://www.cgdev.org/blog/kiva-not-quite-what-it-seems)
 
 ### Issues
 See ideapad link ^
@@ -401,7 +403,7 @@ Issues
 -
 
 # See Also
-[[[[Quests.world](http://quests.world) (http://worldquestguild.connectr.site/](http://worldquestguild.connectr.site/)) • http://volunteerforce.jacobcole.net/](http://volunteerforce.jacobcole.net/) • http://favorverse.jacobcole.net/](http://favorverse.jacobcole.net/)
+[Quests.world (http://worldquestguild.connectr.site/ ) • http://volunteerforce.jacobcole.net/ • http://favorverse.jacobcole.net/](http://favorverse.jacobcole.net/)
 
 [Burning Man Theme-Camps of the Year 2029: From Replicator to Rainbow God (1/2)](https://qualiacomputing.com/2019/02/24/burning-man-theme-camps-of-the-year-2029-from-replicator-to-rainbow-god-1-2/)
 - [Part 2/2](https://qualiacomputing.com/2019/04/08/burning-man-theme-camps-of-the-year-2029-from-replicator-to-rainbow-god-2-2/)

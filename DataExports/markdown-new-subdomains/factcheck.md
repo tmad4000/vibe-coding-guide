@@ -1,5 +1,7 @@
-[[[`                     systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > factcheck.jacobcole.net](http://factcheck.jacobcole.net)
-#project #connectordoc
+# Factcheck
+
+[`                     systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > factcheck.jacobcole.net](http://factcheck.jacobcole.net)
+Tags:, project, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Fact Check Chrome Extension (Augment) #project #connectordoc

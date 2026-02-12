@@ -1,15 +1,17 @@
+# Hackathon Projects V1
+
 [∂Started by jcole@mit.edu](mailto:jcole@mit.edu)
-[[Hackathon Projects 1.0 (old doc) -- hackathonprojects.tk](http://hackathonprojects.tk/)(https://docs.google.com/document/d/1yl0AAQKVmJoCQXOW9agcmIzta5GahcmMNnus94TwlYU/edit](#null))
+[Hackathon Projects 1.0 (old doc) -- hackathonprojects.tk (https://docs.google.com/document/d/1yl0AAQKVmJoCQXOW9agcmIzta5GahcmMNnus94TwlYU/edit](#null))
 Write URL on a whiteboard/share list at Hackathons and in class!
 
 [Go to current version of doc: Hackathon Projects 1.5](https://docs.google.com/document/d/1qlmthSsRGf8_1N22Wo3MoyGPG4MAHl9hYSGZTbEQCWM/edit#)
 
 [(old doc) Skip to Project Ideas](#kix.iqgn474vlreh) or Favorite/Active Projects
-[When you see something that interests you, tag it with ~yourEmail, and maybe add to Favorite/Active Projects](#id.xmp3ydnxslff)
-[more >>](#id.xmp3ydnxslff)
+[When you see something that interests you, tag it with ~yourEmail, and maybe add to Favorite/Active Projects]
+[more >>]
 
-[[Rules: Take any projects and add to the list at the beginning ! I, at least, would love it if you would email/msg/txt/call me/or note your name in projects underway” box below if you are using one of my ideas (I think most of them are mine) because I have more details to add to many. I’d be so honored if you actually implemented one of them! ~Jacob Cole, tmad4000@gmail.com](mailto:tmad4000@gmal.com), jcole@mit.edu](mailto:jcole@mit.edu), 858-740-6970
-[[See also: IdeaOverflow.tk](http://ideaoverflow.tk/)VisionCharter](http://instadefine.com/IdeaOverflow/ATTHackathon/git/IdeaOverflow/index_copygraph.php): a very prelim. graph visualization of this list and its interconnections
+[Rules: Take any projects and add to the list at the beginning ! I, at least, would love it if you would email/msg/txt/call me/or note your name in projects underway” box below if you are using one of my ideas (I think most of them are mine) because I have more details to add to many. I’d be so honored if you actually implemented one of them! ~Jacob Cole, tmad4000@gmail.com , jcole@mit.edu](mailto:jcole@mit.edu), 858-740-6970
+[See also: IdeaOverflow.tk VisionCharter](http://instadefine.com/IdeaOverflow/ATTHackathon/git/IdeaOverflow/index_copygraph.php): a very prelim. graph visualization of this list and its interconnections
 
 # Favorite/Active Projects (join teams below or add your top interests to the list!)
 ~jcole@mit.edu
@@ -18,18 +20,18 @@ PhotoQuote -- app that lets you photograph a quote in a book, then searches onli
 site that autocompletes quotes like instadefine.com  and it basically ends up letting you create a database  of quotes you're interested in
 and this is deep because quotes are your thoughts stated more clearly than you can state them yourselfand if you make a db of all the quotes people think of  you get a huge window into their lives  it #relates to the power of status message logging. example:  is  send myself  email  of quotes I like  for instance  "and it scared me, having a wrong thought, because it meant my mind wasn't working properly"  from the curious incident of the dog in the night-time  i just was rereading today and i realized that was brilliant  because it relates to a concept  of avidya  in eastern philosophy the idea that there are some thoughts that we have that aren't true, but instead  things that shouldn't bother us bother us  and when we think carefully and relax we can learn to only be bothered by the right things  (relatedly, there's a lot to be done with etymology) #autocomplete #intentiondb
 
-[[I have a very well thought out nexus of projects](https://docs.google.com/document/d/1fCzZyi2Yzu_If0KHBpJxfEgoS7VkbvQvQWVlM5Eg9JQ/edit) that I think might interest some of you, incl. the following: ~Jacob jcole@mit.edu](mailto:jcole@mit.edu)
+[I have a very well thought out nexus of projects that I think might interest some of you, incl. the following: ~Jacob jcole@mit.edu](mailto:jcole@mit.edu)
 [I'm think of working on upgrading http://hackathonprojects.tk/](http://hackathonprojects.tk/) today at MIT "Hackathon 2.0" from an ordinary Google Doc to an enhanced, idea-sharing-online collaboration system! However, this will take attempting to basically re-create Etherpad-like functionality (etherpad lite is open source, can be extended, and runs on Node.js --cj). If anybody knows the NowJS guys perhaps they would be relevant to talk to? Specifically, I want to retain as much of the current editing functionality of the Google Doc is possible but I want to:  
 -Create a search box that allows me to filter ideas by tags → (cont on next pg)
 -create an auto fill when I start typing a hash tag to mark an idea with the tag.
 -Create a really cool special "#relates-to earlierIdeaNameHere" tag that allows you to link ideas to each other naturally. Once linked, by clicking on the relates to tag, you will be able to see a pop-up or expanded div with the related ideas content. This way, threads of ideas can naturally evolve. #autocomplete #intentiondb
 
-[[[[[IdeaOverflow.tk](http://ideaoverflow.tk)  <http://instadefine.com/IdeaOverflow/ATTHackathon/git/IdeaOverflow/index.php](http://instadefine.com/IdeaOverflow/ATTHackathon/git/IdeaOverflow/index.php)> ~Jacob (jcole@mit.edu](mailto:jcole@mit.edu)) (https://github.com/jinpan/IdeaOverflow](https://github.com/jinpan/IdeaOverflow)) See also http://atthackathon.tk/](http://atthackathon.tk/)
+[IdeaOverflow.tk <http://instadefine.com/IdeaOverflow/ATTHackathon/git/IdeaOverflow/index.php > ~Jacob (jcole@mit.edu ) (https://github.com/jinpan/IdeaOverflow ) See also http://atthackathon.tk/](http://atthackathon.tk/)
 IdeaOverflow-- A place people can share good ideas that they don't necessarily have time to implement themselves online. I want to make a map, a connected graph, of all of peoples' ideas (and implemented engineering projects) that shows the relationship of these projects to one another. At the borders of this graph would lie the ideas that are yet to be implemented -- investigating them more deeply would be analogous to exploring undiscovered terrain on a map. This tool would help people to come up with awesome ideas for hackathons, class projects, startups, and fun, and it also allow people to see  the trends/relationships in exciting ideas that are surging at a given point in time. Most of all, it's inspiring to think that through this system, you could bring vitality to the education industry by reducing every class project to, at worst, implementing an idea that someone, somewhere would be really excited to build if they had the time to. #intentiondb
 
 [Jacob: I randomly came across http://wikiwall.com/](http://wikiwall.com) after we discussed the infinite whiteboard concept. I definitely like the concept of expanding the ideaoverflow app though. I go through all my ideas once or twice a month just for that purpose of finding connections and remembering important but forgotten thoughts. However with the connections, making sure their human-tagged versus auto-related is important. -Colin Winter #intentiondb
 
-[[Gmail statusmessagelogger -- It will log your status and those of all of your friends. Doing this is of utmost sociological importance I my intuition tells me. Could do sentiment analysis and correlate w location, school, friends etc. Are we indeed the combo of our 5 closest friends? ~ja](mailto:james.wu.jimmy@gmail.com)mes.wu.jimmy@gmail.com](mailto:james.wu.jimmy@gmail.com) #socio
+[Gmail statusmessagelogger -- It will log your status and those of all of your friends. Doing this is of utmost sociological importance I my intuition tells me. Could do sentiment analysis and correlate w location, school, friends etc. Are we indeed the combo of our 5 closest friends? ~ja mes.wu.jimmy@gmail.com](mailto:james.wu.jimmy@gmail.com) #socio
 Current progress of the project:
 -really it’s just a node js XMPP server which logs changes in status into a text file
 -at the hackathon I’ll be
@@ -39,7 +41,7 @@ Current progress of the project:
 then when I’m done I’ll come meet people!
 
 Projects underway at Stanford/Berkeley Big Hack
-[[Sphero app (except virtual: make angry angry templar from SCII (http://us.battle.net/sc2/en/blog/7435938/Arcade_Highlight_%E2%80%9CAngry_Angry_Templar%E2%80%9D-9_28_2012](http://us.battle.net/sc2/en/blog/7435938/Arcade_Highlight_%E2%80%9CAngry_Angry_Templar%E2%80%9D-9_28_2012)) -- a sphero chases whoever is holding a sphero. Would use WifiSlam? ~ericsliu@gmail.com](mailto:ericsliu@gmail.com) #game
+[Sphero app (except virtual: make angry angry templar from SCII (http://us.battle.net/sc2/en/blog/7435938/Arcade_Highlight_%E2%80%9CAngry_Angry_Templar%E2%80%9D-9_28_2012 ) -- a sphero chases whoever is holding a sphero. Would use WifiSlam? ~ericsliu@gmail.com](mailto:ericsliu@gmail.com) #game
 
 Projects underway at GreyLock! (doesn’t mean you can’t join them/work on something related):
 Projects underway otherwise (doesn’t mean you can’t join them/work on something related)
@@ -56,7 +58,7 @@ Sentiment analysis-based 3rd party FB search -- Samvit
 
 Build eyetracking heatmap from laptop webcam -- useful for evaluating how you read different websites, self-tracking/optimizing, and evaluating websites you build #cv
 
-[[[Google docs optimized for instant web publishing #idea #good #lowhangingfruit ~jcole@mit.edu](mailto:jcole@mit.edu). An important facet is to combine with easy-to-remember domains like .tk. I was reinspired in the direction of this project after a resounding success building a collaborative doc, http://6034bonus.tk](http://6034bonus.tk/), for my AI class final notes yesterday; Google docs are great because they're such a fast way to prototype so many web ideas. I wish they just created pages that were a bit more... web 2.0-y that were a pleasure to view as well as edit. Also, I wish you could do align left and align right on the right and left-hand sides of the same line. This is, I feel, the basis for an entirely new creative outlet. Is anybody who is good with node.js want to experiment with sharejs maybe? <http://sharejs.org/](http://sharejs.org/)>? Note: doing so would be the stepping stone into a whole, tightly connected bunch of projects to which I've given much thought and with which I am completely willing to help.
+[Google docs optimized for instant web publishing #idea #good #lowhangingfruit ~jcole@mit.edu . An important facet is to combine with easy-to-remember domains like .tk. I was reinspired in the direction of this project after a resounding success building a collaborative doc, http://6034bonus.tk , for my AI class final notes yesterday; Google docs are great because they're such a fast way to prototype so many web ideas. I wish they just created pages that were a bit more... web 2.0-y that were a pleasure to view as well as edit. Also, I wish you could do align left and align right on the right and left-hand sides of the same line. This is, I feel, the basis for an entirely new creative outlet. Is anybody who is good with node.js want to experiment with sharejs maybe? <http://sharejs.org/](http://sharejs.org/)>? Note: doing so would be the stepping stone into a whole, tightly connected bunch of projects to which I've given much thought and with which I am completely willing to help.
 
 Emergency Pizza Button app -- One click pizza ordering, modeled after the MIT east campus pizza button.  I actually want to do this at the next hackathon I’m at, and I think it could make a lot of money. Relatedly, I want to make “Push a button, get a cookie” app for Insomnia Cookies. ~jcole@mit.edu
 
@@ -98,7 +100,7 @@ Above all, I want to make a database of thoughtful people and politicians' dream
 
 [playlistforlife.com](http://playlistforlife.com/) -- looks at what you're doing on pc and other devices and gives you the music for it! Or just compiles people’s coding playlists, jogging playlists, etc and lets you look them up, mix and match, etc. Could use stereotyping after learning to predict tastes #music
 
-[[Real-time politifact analysis of political ads you’re watching -- could be an app that listens to tv commercials that comes on and identifies them. could use http://www.politifact.com/truth-o-meter/article/2011/jun/24/politifact-app-now-available-iphone-and-other-devi/](http://www.politifact.com/truth-o-meter/article/2011/jun/24/politifact-app-now-available-iphone-and-other-devi/). #done WHOAH IT”S ALREADY BEEN DONE http://www.superpacapp.org/](http://www.superpacapp.org/). #politicalscience
+[Real-time politifact analysis of political ads you’re watching -- could be an app that listens to tv commercials that comes on and identifies them. could use http://www.politifact.com/truth-o-meter/article/2011/jun/24/politifact-app-now-available-iphone-and-other-devi/ . #done WHOAH IT”S ALREADY BEEN DONE http://www.superpacapp.org/](http://www.superpacapp.org/). #politicalscience
 
 Mechanical Turk problems as reCaptcha -- service that lets you embed box that has ppl do specific types of mturk tasks AS the captcha challenges. have them do 2: one is super verified. the other less so.  Apparently, When you fill out some Google capchas it helps in Google street view For reading house numbers #hack
 
@@ -114,9 +116,9 @@ now the trick is to get people to do it. Like recording good conversations, it j
 
 This has the secondary effect of scaling exponentially and putting ordinary programmers into the shoes of inspiring leaders. I want my Mouse Army from Diamond Age. #edu #lowhanging #culturalengineering
 
-[[Create graph of all hackathon project ideas/startups to visualize connections/trends: at the borders are less connected ideas that need be explored-- just started here](http://instadefine.com/IdeaOverflow/IdeaGrapher%20FishEye/loadideas.php)and here’s](http://instadefine.com/IdeaOverflow/IdeaGrapher%20FishEye/loadideas.php)the loader (takes a list like this one ~Jacob #visualization #intentiondb
+[Create graph of all hackathon project ideas/startups to visualize connections/trends: at the borders are less connected ideas that need be explored-- just started here and here’s](http://instadefine.com/IdeaOverflow/IdeaGrapher%20FishEye/loadideas.php)the loader (takes a list like this one ~Jacob #visualization #intentiondb
 
-[[[newsdiffs.org](http://newsdiffs.org) — tracking changes in online news articles overtime. Github respository. https://github.com/ecprice/newsdiffs](https://github.com/ecprice/newsdiffs/) and articles in the New York Times:   #visualization #intentiondb https://www.nytimes.com/2012/07/01/opinion/sunday/article-changes-are-shown-in-a-tool-created-by-outsiders.html?_r=1&pagewanted=all](https://www.nytimes.com/2012/07/01/opinion/sunday/article-changes-are-shown-in-a-tool-created-by-outsiders.html?_r=1&pagewanted=all)
+[newsdiffs.org — tracking changes in online news articles overtime. Github respository. https://github.com/ecprice/newsdiffs and articles in the New York Times:   #visualization #intentiondb https://www.nytimes.com/2012/07/01/opinion/sunday/article-changes-are-shown-in-a-tool-created-by-outsiders.html?_r=1&pagewanted=all](https://www.nytimes.com/2012/07/01/opinion/sunday/article-changes-are-shown-in-a-tool-created-by-outsiders.html?_r=1&pagewanted=all)
 
 Browser-based distributed computing API ~SETI@home with Chrome NaCl -- Mark Vismonte started on a JS version of this... #lowhanging
 

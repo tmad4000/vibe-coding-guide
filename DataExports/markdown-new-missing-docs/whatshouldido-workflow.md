@@ -1,4 +1,6 @@
-[[What Should I Do?<<](http://mitdocs.tk)http://whatshouldido.tk](http://whatshouldido.tk)
+# Whatshouldido Workflow
+
+[What Should I Do?<< http://whatshouldido.tk](http://whatshouldido.tk)
 The question is, what do you want to create?                                                                                                                                        started by jcole@mit.edu
 This doc is the beginning of an app that will suggest what you should do...it is a meta database of dreams and ideas, threads of inspiration, humanintentions.
 
@@ -8,8 +10,8 @@ This doc is the beginning of an app that will suggest what you should do...it is
 [MITHomepages.tk](https://docs.google.com/document/d/1-tC1IaJ13iBSLA5CRyMocPqjUFSu9Km9KX2ItIKvKtE/edit) -- check out people’s past/live projects
 - [HackathonProjects.tk](http://hackathonprojects.tk/)-- collaborative Google doc with really good hackathon project ideas.
 - [IdeaOverflow IDE](http://ideaoverflowideplan.tk/) (Idea Development Environment) and Dashboards for Government.
-- [[IfIWentTo.tk / IfIWereAnMITStudent.tk](http://ifiwereanmitstudent.tk/) (proto](https://docs.google.com/document/d/1BeVilW8FDU-4jkQE5eg7w3lxi8MJzBGHN1mHhaqhO6k/edit)) Any moment I spend at college not totally inspired I start to think about the thousands of kids who would love to have my spot. What if we could tap into the ideas they, and wise older people looking back wishing they could be in college now have? We get awesome inspiration/creativity piped into us 24/7, and they could have their dreams achieved even if they can’t be here themselves. Maybe they can even help us! So Neal and I started this. ~jcole
-- [[IdeaOverflow.tk](http://ideaoverflow.tk/) -- database of people’s skills, interests, and emails, and soon to be much more. -jcole@mit.edu, jinpan@mit.edu](mailto:jinpan@mit.edu)
+- [IfIWentTo.tk / IfIWereAnMITStudent.tk (proto](https://docs.google.com/document/d/1BeVilW8FDU-4jkQE5eg7w3lxi8MJzBGHN1mHhaqhO6k/edit)) Any moment I spend at college not totally inspired I start to think about the thousands of kids who would love to have my spot. What if we could tap into the ideas they, and wise older people looking back wishing they could be in college now have? We get awesome inspiration/creativity piped into us 24/7, and they could have their dreams achieved even if they can’t be here themselves. Maybe they can even help us! So Neal and I started this. ~jcole
+- [IdeaOverflow.tk -- database of people’s skills, interests, and emails, and soon to be much more. -jcole@mit.edu, jinpan@mit.edu](mailto:jinpan@mit.edu)
 
 “Tell us what activities you are presently or hope to become involved with at MIT.”
 Breakdancing, cross-country ski, martial arts, rock climbing, surfing*, snowboarding, hiking, yoga, debate, acting, SIPB, high-tech entrepreneurship/Web development business, juggling/yoyoing, Rubik's cubing, blogging**, gaming, MIT hacking, playing RPG's, reading science fiction and fantasy and classic literature, cooking my way to the gustatory frontier of the universe, having late-night philosophical discussions, lucid dreaming, meeting incredible people at and around MIT, eating lunch each weekend with friends going to college elsewhere in Boston, living with my best friend of 12 years as a roommate, coding late on Saturday nights with my high school programming buddy and others I'm sure to meet, forging within the smithy of my soul the uncreated conscience of my species (sorry James Joyce), and most importantly, sleeping enough on top of this. Lucid dreaming hopefully will help with this latter goal.  For the rest I'll have to rely on Pareto's law (the idea that statistically speaking, 20% of your resources produced 80% of the yield in real economic systems).
@@ -18,11 +20,11 @@ Breakdancing, cross-country ski, martial arts, rock climbing, surfing*, snowboar
 
 # Stuff to Get Into:
 [WhyIsItAwesome.tk](http://whyisitawesome.tk/) - why are people into the things they are into?
-- [[Get Into Programming: robowiki.net/](http://robowiki.net/) + TPP Robocode Tutorials](http://programmers.tpclubs.com/robocode/)- Awesome game that teaches programming and math from ground up through creation of AI for battling virtual tanks. Will make you fall in love with programming. Detailed Introductory Robocode/Java/Trig tutorials and sample robots)
-- [[How to Get Into Web Development](http://jacobsstuff.com/howtolearnwebdevelopment.php),, PHP Handout](http://jacobsstuff.com/files/PHP_Handout_1.pdf) (dated)
+- [Get Into Programming: robowiki.net/ + TPP Robocode Tutorials](http://programmers.tpclubs.com/robocode/)- Awesome game that teaches programming and math from ground up through creation of AI for battling virtual tanks. Will make you fall in love with programming. Detailed Introductory Robocode/Java/Trig tutorials and sample robots)
+- [How to Get Into Web Development ,, PHP Handout](http://jacobsstuff.com/files/PHP_Handout_1.pdf) (dated)
 - [Get Into Rubik’s Cubing](http://whyisitawesome.wikispaces.com/Rubik%27s+Cubing)
 - [Get Into Meditation and Tai Chi](http://whyisitawesome.wikispaces.com/Meditation%2C+Yoga%2C+Tai+Chi%2C+Qigong)
 - [Get Into Thoughtstreaming/Keeping Lists](http://whyisitawesome.wikispaces.com/Keeping+Lists+of+Things) (just a spark of inspiration)
-- [[Get Into Literature](http://whyisitawesome.wikispaces.com/Literature) and Writing](http://whyisitawesome.wikispaces.com/Writing) (just a spark of inspiration)
+- [Get Into Literature and Writing](http://whyisitawesome.wikispaces.com/Writing) (just a spark of inspiration)
 - [Get Into Yoyo-ing](http://whyisitawesome.wikispaces.com/YoYoing) (just a spark of inspiration)
 - To build: CuriosityThread, a site that shows the chain of questions/interests a person asked/followed to gain the knowledge they have. Perhaps to partially populate this site, Wikipedia could track threads of browsing, and scrolling. Subsequently, tutorials (even a textbook!) customized to the curiosity profiles of different people could be made of it? (Relatedly, creating a web database of the series of questions bright students ask could be extremely powerful. I would love, for instance, to have documentation of the series of questions one of my friends asked over the course of his life to ultimately gain the knowledge to get gold at the International Chemistry Olympiad. Maybe you could get data from everybody and look specifically at how the ultrasuccessful differ?)

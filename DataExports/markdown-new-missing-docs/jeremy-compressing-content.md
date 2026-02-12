@@ -1,3 +1,5 @@
+# Jeremy Compressing Content
+
 [[[[There are two major categories of relevant information.[a]](#cmnt1)[b]](#cmnt2)[c]](#cmnt3)[d]](#cmnt4)
 
 [[[[One are techniques - particular techniques or behaviors that improve the quality and speed of learning.[e]](#cmnt5)[f]](#cmnt6)[g]](#cmnt7)[h]](#cmnt8)

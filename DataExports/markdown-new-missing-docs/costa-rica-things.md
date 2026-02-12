@@ -29,7 +29,7 @@ linktr.ee/tourdesoul
 - rec by yali yoga
 - Dave Bravelove
 - recd by David Hu, Ronald Nikel
-- [['alpha rising menswork'](https://alpha-rising.com/)alpha-rising.com](https://alpha-rising.com/)
+- ['alpha rising menswork' alpha-rising.com](https://alpha-rising.com/)
 - does conscious leadership, and breathwork
 - led us through breathwork, making eye contact, being vulnerable
 - Jayne Gottlieb w Aspen Shakti
@@ -42,17 +42,17 @@ linktr.ee/tourdesoul
 - recd by Barefoot and Free Yoga
 - Monique haan
 - recd by courtney moore
-- [[moniquehaan@gmail.com, (415) 297-6621,](https://moniquehaan.com/)moniquehaan.com](https://moniquehaan.com/)
+- [moniquehaan@gmail.com, (415) 297-6621, moniquehaan.com](https://moniquehaan.com/)
 - holistic psychotherapy, EMDR, yin yoga, breathwork, somatic psychotherapy
 - Brooke Yantzi
 
         Activate Your Conference, Festival or Retreat with Dance Alchemy
 
-- [[—](https://www.brookeyantzi.com/events)https://www.brookeyantzi.com/events](https://www.brookeyantzi.com/events)
+- [— https://www.brookeyantzi.com/events](https://www.brookeyantzi.com/events)
 - recd by Courtney Moore
 - Ashley Carver
 - recd by Courtney Moore
-- [[What Is Somatic Embodiment? — Ashley Carver | Somatic Intimacy + Relationship Healing —](https://www.ashleycarver.com/what-is-somatic-embodiment)https://www.ashleycarver.com/what-is-somatic-embodiment](https://www.ashleycarver.com/what-is-somatic-embodiment)
+- [What Is Somatic Embodiment? — Ashley Carver | Somatic Intimacy + Relationship Healing — https://www.ashleycarver.com/what-is-somatic-embodiment](https://www.ashleycarver.com/what-is-somatic-embodiment)
 - Marypaz
 - marypaz Munay <abundia.costarica@gmail.com> facilitate cacao ceremonies along with her partner
 - recd by Jane at Nosara Wellness

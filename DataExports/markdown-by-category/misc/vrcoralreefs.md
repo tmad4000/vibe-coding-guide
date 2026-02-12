@@ -1,15 +1,17 @@
-[[[`                     systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > vrcoralreefs.jacobcole.net](http://vrcoralreefs.jacobcole.net)
-#project #connectordoc
+# Vrcoralreefs
+
+[`                     systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > vrcoralreefs.jacobcole.net](http://vrcoralreefs.jacobcole.net)
+Tags:, project, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 VR Coral Reefs #project #connectordoc
 
 Make Climate Change "In Your Face" / Transform Education via the Metaverse
 
-[[Related: http://climatechange.jacobcole.net/](http://climatechange.jacobcole.net/) • worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com)
+[Related: http://climatechange.jacobcole.net/ • worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com)
 
 # About
-#actionable #specific Game where you can explore an awesome, beautiful digital simulation coral reef – The closest thing to going scuba diving without going scuba diving. And even better. You can follow a fish and comprehend complex ecosystems. I'd like to see something similar with a rain forest, and a VR version of this.
+Tags:, actionable, specific, Game, where, you, can, explore, an, awesome,, beautiful, digital, simulation, coral, reef, –, The, closest, thing, to, going, scuba, diving, without, going, scuba, diving., And, even, better., You, can, follow, a, fish, and, comprehend, complex, ecosystems., I'd, like, to, see, something, similar, with, a, rain, forest,, and, a, VR, version, of, this.
 Other ideas
 -  Perhaps even make interactive components where you can play the life of a fish in the game!  
 - Or “Sim Coral Reef”, like Sim City
@@ -45,7 +47,7 @@ Looking for: people who think this is a great idea to brainstorm with about how 
 # More Below
 
 ## Mocks
-#todo
+Tags:, todo
 
 ## See Also
 http://infrastructure.jacobcole.net/

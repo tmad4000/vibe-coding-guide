@@ -1,4 +1,6 @@
-[[Things You Didn’t Know Existed in New York/NYC                                                   thingsyoudidntknowexisted.jacobcole.net](http://thingsyoudidntknowexisted.jacobcole.net) >thingsyoudidntknowexistedinnyc.jacobcole.net](http://thingsyoudidntknowexistedinnyc.jacobcole.net)
+# Thingsyoudidntknowexistedinnyc
+
+[Things You Didn’t Know Existed in New York/NYC                                                   thingsyoudidntknowexisted.jacobcole.net >thingsyoudidntknowexistedinnyc.jacobcole.net](http://thingsyoudidntknowexistedinnyc.jacobcole.net)
 Contribute to the list at top!                                                                                                                                             started by jacob@ideaflow.io
 
 [Notice: does anyone want to help me make a web app for this? I want to make the site: thingsyoudidntknowexisted.in, which transcends and includes thingsyoudidntknowexistedatmit](http://thingsyoudidntknowexistedatmit.jacobcole.net), this page, and more. (Maybe thingsyoudidntknowexistedthatarerelevanttoyou.tk. If so, email me at jacob@ideaflow.io)
@@ -34,7 +36,7 @@ Table of Contents
 ## Misc:
 
 ## Athletics/Outdoor/Physical:
-[[Qi —](https://www.qi.live/)https://www.qi.live/](https://www.qi.live/) #nyc
+[Qi — https://www.qi.live/](https://www.qi.live/) #nyc
 
 Aerial yoga studios
 

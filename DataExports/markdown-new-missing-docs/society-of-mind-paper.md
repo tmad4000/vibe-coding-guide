@@ -1,3 +1,5 @@
+# Society Of Mind Paper
+
 Cole, Lee
 Prof. Marvin Minsky
 6.868 Society of Mind
@@ -22,7 +24,7 @@ Jacob Cole, Holden Lee
 [Works Cited](#h.pmyvp5vx43ok)
 [Appendix: Source Code](#h.5k7kc3w1t26p)
 
-[[[[[A MindMap of this paper is available at http://app.wisemapping.com/c/maps/124943/public](http://app.wisemapping.com/c/maps/124943/public). The matching algorithm is available at https://github.com/tmad4000/IdeaOverflow_som](https://github.com/tmad4000/IdeaOverflow_som) and the web platform source code is available at https://github.com/tmad4000/ideaoverflow-hackny](https://github.com/tmad4000/ideaoverflow-hackny). A demo of the web app is available at http://pacific-tundra-3629.herokuapp.com/](http://pacific-tundra-3629.herokuapp.com/) or (old) http://agile-ocean-3244.herokuapp.com/](http://agile-ocean-3244.herokuapp.com/).
+[A MindMap of this paper is available at http://app.wisemapping.com/c/maps/124943/public . The matching algorithm is available at https://github.com/tmad4000/IdeaOverflow_som and the web platform source code is available at https://github.com/tmad4000/ideaoverflow-hackny . A demo of the web app is available at http://pacific-tundra-3629.herokuapp.com/ or (old) http://agile-ocean-3244.herokuapp.com/](http://agile-ocean-3244.herokuapp.com/).
 
 # Abstract
 
@@ -224,11 +226,11 @@ self.problem=""
 self.solution=""
 self.technology=""
 self.tags=tags
-#extract concepts from idea and store them
+Tags:, extract, concepts, from, idea, and, store, them
 self.extract()
-#print "concepts: ",self.concepts
+Tags:, print, "concepts:, ",self.concepts
 self.related_ideas=[]
-#maybe add an idea ID number
+Tags:, maybe, add, an, idea, ID, number
 self.populated=False
 self.ID=0
 defsetID(self, i):
@@ -255,15 +257,15 @@ if s=="\n":
 returnNone
 whileTrue:
 if s=="\n":
-#print "updating ",prev_field," with ",cur_string
+Tags:, print, "updating, ",prev_field,", with, ",cur_string
 globals().update([[prev_field,cur_string]])
 break
                 new_field=which_field(s)
-#print "New:", new_field
-#print "String:",cur_string
+Tags:, print, "New:",, new_field
+Tags:, print, "String:",cur_string
 if new_field!=None:
 if prev_field!=None:
-#print "updating ",prev_field," with ",cur_string
+Tags:, print, "updating, ",prev_field,", with, ",cur_string
 globals().update([[prev_field,cur_string]])
                         cur_string=s[len(new_field)+1:]
                         new_field=new_field[:-1].lower()
@@ -271,7 +273,7 @@ globals().update([[prev_field,cur_string]])
 else:
                         cur_string=cur_string+s
                 s=f.readline()
-#there should be an easier way to do this
+Tags:, there, should, be, an, easier, way, to, do, this
         i.title=title[:-1]
         i.description=description
         i.more=more
@@ -295,7 +297,7 @@ self.ideas_list=[]
 self.related_ideas_dict={}
 self.f=None
 self.read_from_file(db)
-#create a sparse matrix from ideas.
+Tags:, create, a, sparse, matrix, from, ideas.
 if mat_string==None:
 self.idea_matrix=divisi2.SparseMatrix.square_from_named_entries([(0,0,0)])
 else:
@@ -326,20 +328,20 @@ while i!=None:
 self.add(i)
                                 i.extract()
                                 i=read_next_idea(self.f)
-#i,j are indices to ideas
+Tags:, i,j, are, indices, to, ideas
 defconnect_ideas(self,i,j):
                 mat=divisi2.SparseMatrix.square_from_named_entries([(1,i,j),(1,j,i)])
 self.idea_matrix=self.idea_matrix+mat
 deffind_ideas_with_common_friends(self,i,num_friends=5):
-#normalize each row
+Tags:, normalize, each, row
 try:
                         normalized=self.idea_matrix.squish().normalize_rows()
 except:
 return
-#find the row
+Tags:, find, the, row
                 row=normalized[i]
                 a=normalized.dot(row)
-#nbs=row.dot(normalized.transpose())
+Tags:, nbs=row.dot(normalized.transpose())
                 maxV=0
                 maxI=0
                 b=sorted(a.entries(),reverse=True)                      
@@ -347,8 +349,8 @@ for i inxrange(min(5,len(b))):
                         idea=self[b[i][1]]#print the idea
 print idea.ID, " ", idea.title, ", ", b[i][0]
 defadd(self,i,add_to_file=False):
-#related_ideas=self.get_related_ideas(i)
-#i.extend_related_ideas(related_ideas)
+Tags:, related_ideas=self.get_related_ideas(i)
+Tags:, i.extend_related_ideas(related_ideas)
 self.d[i.title]=i
 self.ideas_list.append(i.title)
                 i.ID=len(self.ideas_list)-1
@@ -370,21 +372,21 @@ for i inself.d.values():
 def__getitem__(self,i):
 iftype(i)==str:
 returnself.d[i]
-#index by id too? Maybe this is not necessary.
+Tags:, index, by, id, too?, Maybe, this, is, not, necessary.
 eliftype(i)==int:
 returnself.d[self.ideas_list[i]]
 return
 defhow_related_are_ideas(self,idea1,idea2):
 return how_related_are_concept_lists(idea1.concepts, idea2.concepts)
-#how do we compute this?
+Tags:, how, do, we, compute, this?
 defget_related_ideas(self,qidea,allow_repeat=True):
-#idea already has extracted concepts stored
+Tags:, idea, already, has, extracted, concepts, stored
                 relatedness = []
 for i inself.d.values():
 if (allow_repeat or i!=qidea):
                                 relatedness.append((i, self.how_related_are_ideas(qidea,i)))
 returnsorted(relatedness, reverse=True)
-#list truncated to top 5
+Tags:, list, truncated, to, top, 5
 def__str__(self):
                 s=""
 for (i,title) inenumerate(self.ideas_list):
@@ -395,8 +397,8 @@ pass
 
 defextract_concepts(idea):
         a=d4d.en_nl.extract_concepts(idea, check_conceptnet=True)
-#print "Extracting from ",idea
-#print "Concepts extracted: ",a
+Tags:, print, "Extracting, from, ",idea
+Tags:, print, "Concepts, extracted:, ",a
 return a# max_words=2, check_conceptnet=True)
 
 defsignum(a):
@@ -409,29 +411,29 @@ return0
 calculates how related two concepts are
 '''
 defhow_related_are(concept1, concept2):
-#print concept1, concept2
+Tags:, print, concept1,, concept2
 try:
 return d4d.d4d.c4.how_related_are(concept1, concept2)
 exceptKeyError: # key does not exist
-#print "key error ",concept1," ",concept2
+Tags:, print, "key, error, ",concept1,", ",concept2
 return0
 
 '''
 calculates how similar two concepts are
 '''
 defhow_similar_are(concept1, concept2):
-#print concept1, concept2
+Tags:, print, concept1,, concept2
 try:
 return d4d.d4d.c4.how_similar_are(concept1, concept2)
 exceptKeyError: # key does not exist
-#print "key error ",concept1," ",concept2
+Tags:, print, "key, error, ",concept1,", ",concept2
 return0
 
 defhow_related_are_concept_lists(concept_list1, concept_list2, metric_num=2):
         s="how_related_are_concept_lists"+str(metric_num)
 returnglobals()[s](concept_list1, concept_list2)
 
-#first implementation: take top 5 relationships
+Tags:, first, implementation:, take, top, 5, relationships
 defhow_related_are_concept_lists1(concept_list1, concept_list2):
 """returns numerical relationship level 0 and up"""
         maxVs=[0,0,0,0,0]
@@ -442,33 +444,33 @@ for c2 in concept_list2:
                         r=how_related_are(c1, c2)
 if r>maxVs[0]:
                                 maxVs[0] = r
-#maxVs.insert(0,r)
-#maxCs.insert(0,(c1,c2))
-#maxVs.pop()
-#maxCs.pop()
+Tags:, maxVs.insert(0,r)
+Tags:, maxCs.insert(0,(c1,c2))
+Tags:, maxVs.pop()
+Tags:, maxCs.pop()
                                 maxVs.sort()
 
-#print maxCs
+Tags:, print, maxCs
 returnsum(maxVs)
 
-#second implementation: take top relationships with each concept in the first list,
-#and normalize
+Tags:, second, implementation:, take, top, relationships, with, each, concept, in, the, first, list,
+Tags:, and, normalize
 defhow_related_are_concept_lists2(concept_list1, concept_list2):
-#print "lists: ",concept_list1,concept_list2
+Tags:, print, "lists:, ",concept_list1,concept_list2
         maxVs=[]#0,0,0,0,0]
         maxCs=[]#('',''),('',''),('',''),('',''),('','')]
 for c1 in concept_list1:
                 maxV=0
                 maxC=('','')
 for c2 in concept_list2:
-#print (c1,c2)
+Tags:, print, (c1,c2)
                         r=how_related_are(c1, c2)
 if r>maxV:
                                 maxV = r
                                 maxC=(c1,c2)
                 maxVs.append(maxV)
                 maxCs.append(maxC)
-#print maxCs
+Tags:, print, maxCs
         total=sum(maxVs)/len(concept_list1)
         maxes=zip(maxVs,maxCs)
         maxes.sort(reverse=True)
@@ -478,23 +480,23 @@ print"-------------"
 print"Total: ",total
 return total
 
-#using similarity
+Tags:, using, similarity
 defhow_related_are_concept_lists3(concept_list1, concept_list2):
-#print "lists: ",concept_list1,concept_list2
+Tags:, print, "lists:, ",concept_list1,concept_list2
         maxVs=[]#0,0,0,0,0]
         maxCs=[]#('',''),('',''),('',''),('',''),('','')]
 for c1 in concept_list1:
                 maxV=0
                 maxC=('','')
 for c2 in concept_list2:
-#print (c1,c2)
+Tags:, print, (c1,c2)
                         r=how_similar_are(c1, c2)
 if r>maxV:
                                 maxV = r
                                 maxC=(c1,c2)
                 maxVs.append(maxV)
                 maxCs.append(maxC)
-#print maxCs
+Tags:, print, maxCs
         total=sum(maxVs)/len(concept_list1)
         maxes=zip(maxVs,maxCs)
         maxes.sort(reverse=True)
@@ -504,23 +506,23 @@ print"-------------"
 print"Total: ",total
 return total
 
-#using hypernyms
+Tags:, using, hypernyms
 defhow_related_are_concept_lists4(concept_list1, concept_list2):
-#print "lists: ",concept_list1,concept_list2
+Tags:, print, "lists:, ",concept_list1,concept_list2
         maxVs=[]#0,0,0,0,0]
         maxCs=[]#('',''),('',''),('',''),('',''),('','')]
 for c1 in concept_list1:
                 maxV=0
                 maxC=('','')
 for c2 in concept_list2:
-#print (c1,c2)
+Tags:, print, (c1,c2)
                         r=how_related_are(c1, c2)
 if r>maxV:
                                 maxV = r
                                 maxC=(c1,c2)
                 maxVs.append(maxV)
                 maxCs.append(maxC)
-#print maxCs
+Tags:, print, maxCs
         total=sum(maxVs)/len(concept_list1)
         maxes=zip(maxVs,maxCs)
         maxes.sort(reverse=True)
@@ -530,8 +532,8 @@ print"-------------"
 print"Total: ",total
 return total
 
-#third implementation: multiply idea vector by AA^T by idea vector 2, where
-#A is concepts*features matrix.
+Tags:, third, implementation:, multiply, idea, vector, by, AA^T, by, idea, vector, 2,, where
+Tags:, A, is, concepts*features, matrix.
 ##def how_related_are_concept_lists3(concept_list1, concept_list2):
 ##        #remove duplicates
 ##        concept_list1 = list(set(concept_list1))
@@ -574,7 +576,7 @@ defadd_new(db):
         db.add(new_idea,True)
         idea_id=len(db.ideas_list)-1
         db.populate_related_ideas(idea_id)
-#print "Concepts in idea: ",str(new_idea.concepts)
+Tags:, print, "Concepts, in, idea:, ",str(new_idea.concepts)
 print"Related ideas: ",new_idea.print_related_ideas()
 whileTrue:
                 l=read_list("Make relations with: ")
@@ -609,7 +611,7 @@ print"Related ideas (commonsense): "
 print db[i].print_related_ideas()
 print"Related ideas (common relations): "
                 db.find_ideas_with_common_friends(s)
-#def find_friend_idea(db):
+Tags:, def, find_friend_idea(db):
 #        s=int(raw_input("Idea ID:"))
 #        db.find_ideas_with_common_friends(s)
 defadd_category(db):
@@ -645,7 +647,7 @@ logic={0:"List ideas ",1:"Add new ",2: "Establish connection",\
 3:"Find related ideas",\
 # 4:"Find related ideas using mutual connections",\
 4:"Add category", 5:"View and modify categories", 6: "Find related categories",\
-#eventually categories should be treated more like ideas
+Tags:, eventually, categories, should, be, treated, more, like, ideas
 7: "Save", 8:"Load",\
 9:"Display relationships",10:"Quit"}
 logic2={0:list_ideas, 1:add_new, 2:connect,\

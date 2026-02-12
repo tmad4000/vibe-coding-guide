@@ -1,5 +1,7 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > StartupTricksWiki.jacobcole.net](http://startuptrickswiki.jacobcole.net)
-#connectordoc #curatedList
+# Startuptrickswiki
+
+[systematicawesome.jacobcole.net > StartupTricksWiki.jacobcole.net](http://startuptrickswiki.jacobcole.net)
+Tags:, connectordoc, curatedList
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 [See also:toolstacks.jacobcole.net](http://toolstacks.jacobcole.net/)
@@ -9,34 +11,34 @@ Contribute to the list in the Inbox section!                 
 Startup Tricks Wiki
 Tricks, tools, and resources learned while founding and operating startups
 
-[[[Inbox](#h.ox96erasxh5)Misc Uncategorized #toFile](#h.ox96erasxh5)2](#h.ox96erasxh5)
-[[Tools](#h.3yzi5dctwtan)3](#h.3yzi5dctwtan)
-[[Real Startups’ Toolstacks](#h.gkqpt664ydx)3](#h.gkqpt664ydx)
-[[Tools by Category](#h.a2gjc0c676uz)5](#h.a2gjc0c676uz)
-[[Cap Table Management](#h.4tgk0u73qcid)5](#h.4tgk0u73qcid)
-[[Collaboration](#h.d9366p6tim4k)6](#h.d9366p6tim4k)
-[[Recruiting](#h.sqptpubvrsb6)6](#h.sqptpubvrsb6)
-[[Good Retained Recruiting Services](#h.1grvfcuitz6t)6](#h.1grvfcuitz6t)
-[[Making Homepages](#h.t2zyajg1rt9m)7](#h.t2zyajg1rt9m)
-[[Making Pitch Decks](#h.y2naidq1bhe5)7](#h.y2naidq1bhe5)
-[[Design](#h.vm2ffxazt9od)7](#h.vm2ffxazt9od)
-[[Development](#h.7fjk1l1ie05r)7](#h.7fjk1l1ie05r)
-[[Debugging](#h.gsdhy76gg2dn)7](#h.gsdhy76gg2dn)
-[[Ergonomics](#h.m0fo5sjbddsq)7](#h.m0fo5sjbddsq)
-[[Other Electronic Hardware](#h.vi38cy57zdtb)8](#h.vi38cy57zdtb)
-[[Tricks and Advice](#h.m22fbqrd4yf4)8](#h.m22fbqrd4yf4)
-[[Resources/Advice For Startup Beginners](#h.5rr0ownei4i1)8](#h.5rr0ownei4i1)
-[[Hiring](#h.fwx9vmvxtf27)8](#h.fwx9vmvxtf27)
-[[Accounting](#h.23v7wlragg10)8](#h.23v7wlragg10)
-[[Fundraising](#h.wqvmy71gawp)9](#h.wqvmy71gawp)
-[[Investor Updates](#h.p39mxilo8a51)9](#h.p39mxilo8a51)
-[[Interviewing](#h.i3y9i58zmzvt)9](#h.i3y9i58zmzvt)
-[[Interviewing Assistants/Ops/Chief of Staff Candidates](#h.adsyhqew0sp0)9](#h.adsyhqew0sp0)
-[[Interviewing](#h.60qkoaozwxw5)10](#h.60qkoaozwxw5)
-[[Management Tips/Concepts](#h.aa9h61rooib1)11](#h.aa9h61rooib1)
-[[Misc (#Good)](#h.kbnzmjeqob0p)13](#h.kbnzmjeqob0p)
+[Inbox Misc Uncategorized #toFile 2](#h.ox96erasxh5)
+- [Tools](#tools)
+- [Real Startups’ Toolstacks](#real-startups-toolstacks)
+- [Tools by Category](#tools-by-category)
+- [Cap Table Management](#cap-table-management)
+- [Collaboration](#collaboration)
+- [Recruiting](#recruiting)
+- [Good Retained Recruiting Services](#good-retained-recruiting-services)
+- [Making Homepages](#making-homepages)
+- [Making Pitch Decks](#making-pitch-decks)
+- [Design](#design)
+- [Development](#development)
+- [Debugging](#debugging)
+- [Ergonomics](#ergonomics)
+- [Other Electronic Hardware](#other-electronic-hardware)
+- [Tricks and Advice](#tricks-and-advice)
+- [Resources/Advice For Startup Beginners](#resourcesadvice-for-startup-beginners)
+- [Hiring](#hiring)
+- [Accounting](#accounting)
+- [Fundraising](#fundraising)
+- [Investor Updates](#investor-updates)
+- [Interviewing](#interviewing)
+- [Interviewing Assistants/Ops/Chief of Staff Candidates](#interviewing-assistantsopschief-of-staff-candidates)
+- [Interviewing](#interviewing)
+- [Management Tips/Concepts](#management-tipsconcepts)
+- [Misc (#Good)](#misc-good)
 
-[[[Related: toolstacks.jacobcole.net](http://toolstacks.jacobcole.net/) • startupideas.jacobcole.net](http://startupideas.jacobcole.net) • hackathonprojects.jacobcole.net](http://hackathonprojects.jacobcole.net)
+[Related: toolstacks.jacobcole.net • startupideas.jacobcole.net • hackathonprojects.jacobcole.net](http://hackathonprojects.jacobcole.net)
 
 -----
 
@@ -51,7 +53,7 @@ Capiche is a repository of information and discussions about the software we use
 
 [#book The Great CEO Within: The Tactical Guide to Company Building Kindle Edition](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC)
 
-#hire #services Hires & services that you should put extra effort towards in hiring/securing
+Tags:, hire, services, Hires, &, services, that, you, should, put, extra, effort, towards, in, hiring/securing
 Lawyer
 Bank account (Mercury recommended by AbstractOps (over Chase, SVB, First Republic, etc.)
 
@@ -59,14 +61,14 @@ Services that are more or less commoditized
 Bookkeeper, payroll, designer (Fiverr and Upwork offer great contracted design services)
 Landing page not super important early on
 
-#interviewing
+Tags:, interviewing
 Engr
 http://codingchallenge.jacobcole.net/
 [Interview Flow from Binc](https://docs.google.com/document/d/1pcLZgiqgzZsISc-ehwjD_R806U_Q1vmyUZTMUcxv8Rc/edit)
         Chief of Staff
 [#todo #private Interview Guide for Chief of Staff](https://docs.google.com/document/d/1UFB2PS4CujvGKT2qmYAX6xUwVWNx7-A_bIx6N7BnrW0/edit#heading=h.tcv7ugaapi1c)
 
-#chromeExtension
+Tags:, chromeExtension
 Tabs Outliner
         1Tab
 Quick Tabs (search/switch tabs)
@@ -77,7 +79,7 @@ When to make emails like hiring@ideapad.io users instead of groups on GSuite –
  Support
  Sales
  Info
-[[[It’s not necessary to make cos@ideapad.io](mailto:cos@ideapad.io) a user because if the chief of staff changes, you can just setup email forwarding or an auto-responder & be sure to cc cosarchive@ideapad.io](mailto:cosarchive@ideapad.io) on anything worth archiving which would forward to jacob+cosarchive@ideapad.io](mailto:jacob+archival@ideapad.io)
+[It’s not necessary to make cos@ideapad.io a user because if the chief of staff changes, you can just setup email forwarding or an auto-responder & be sure to cc cosarchive@ideapad.io on anything worth archiving which would forward to jacob+cosarchive@ideapad.io](mailto:jacob+archival@ideapad.io)
  Make notifications@ideapad.io a user not a group
 
 Preventing read receipts in Superhuman
@@ -210,8 +212,8 @@ Cloud App - Really quickly create and share quick gifs of what’s on your scree
 ### Ergonomics
 Buy 10+ reehut or other yoga blocks for ergonomics (can prop up laptop for video calls, prop up your elbows for using your phone and do many other things)
 Roost portable laptop stand
-#t extended monitor arm with VESA mounts
-#t Jacob’s reconfigurable iPad case, airpod keychain case
+Tags:, t, extended, monitor, arm, with, VESA, mounts
+Tags:, t, Jacob’s, reconfigurable, iPad, case,, airpod, keychain, case
 Ergodocs EZ split keyboard on mounted with rubberbands to metal vertical kinesis freestyle keyboard (tent) kit to make it vertical.
 [Rsiwiki.jacobcole.net](http://rsiwiki.jacobcole.net)
 
@@ -273,7 +275,7 @@ If we had to create a guide to bringing the best out of you what would you give 
 How do we bring the best about of you #good #interviewingAssistants
 High trust env
 
-#interviewingAssistants typing speed shortcuts
+Tags:, interviewingAssistants, typing, speed, shortcuts
 Ever  hired an assistant?
 
 When you hire someone you are buying a network #interviewingAssistants
@@ -281,7 +283,7 @@ When you hire someone you are buying a network #interviewingAssistants
 Special talents fish in water — research, pushing rounds through
 People and customers
 Can talk to - Talking with vps and above #interviewingAssistants
-#interview w Victoria
+Tags:, interview, w, Victoria
 Eval network
 
 @jm #interviewingAssistants anything that really offends you or anything that you won't do?
@@ -296,9 +298,9 @@ Book Marian
 Jarvis
 Wccc
 Sensei
-#interviewingAssistants
+Tags:, interviewingAssistants
 
-#interviewingAssistants stylistic writing / interviewing assistants #Criterion
+Tags:, interviewingAssistants, stylistic, writing, /, interviewing, assistants, Criterion
 
 @steph #interviewingAssistants Work on the quote graph  
 409A
@@ -310,15 +312,15 @@ Tap into these rich and connecting them
 ### Interviewing
 If we had to create a guide to bringing the best out of you what would you give to us? <>Write operating manuals...  #interviewingAssistants #interviewing #hiring #interviewQuestion
 
-#interviewing working in homepage together
+Tags:, interviewing, working, in, homepage, together
 
 Why leaving #interviewing
 
-#conversation with steph Wang shone bat #chiefofstaff #PotentialHire
+Tags:, conversation, with, steph, Wang, shone, bat, chiefofstaff, PotentialHire
 
-#interviewing dau's
+Tags:, interviewing, dau's
 
-#interviewing LinkedIn call
+Tags:, interviewing, LinkedIn, call
 Good school
 Left job within year don't take the call
 Do they like their job — good people are optimists
@@ -355,16 +357,16 @@ Something challenging you went thru
 If you went back to beginning and change how you went through #interviewing #StartUpTricksWiki
 
 ## Management Tips/Concepts
-#Management
+Tags:, Management
 "The next three days are going to be f—ing hard. We've seen quality in you. That's why you're sitting here. Because we believe you have what it takes" #BehaviorChange
 [#tightCommunity SaS  https://youtu.be/l68pkQjXw2Y](https://youtu.be/l68pkQjXw2Y)
 
-#Management first get meeting going with positive energy
+Tags:, Management, first, get, meeting, going, with, positive, energy
 Then ask if reviewed coding challenge / did work
 
 The skill of being nice
 Different people start with different aptitudes . But even if you don’t know it you can take to it like a fish to water
-#Management
+Tags:, Management
 
 Write operating manuals — for you – how people should communicate or work with you #StartUpTricksWiki #Management
 <>If we had to create a...
@@ -385,7 +387,7 @@ Seeing the potential in people
 I regret versus I’m sorry #nonviolentCommunications #Management #Pitching #communication
 
 After listening carefully about what people’s circumstances are, tell them what they should do. This is good leader ship #Management #Recruiting #Hiring #BehaviorChange
-#best an opinionated way tell them people a
+Tags:, best, an, opinionated, way, tell, them, people, a
 
 Give Albert an environment where he can try on a new identity, perhaps a summer camp, maybe many people need this #Management -.-
 
@@ -432,7 +434,7 @@ If you are willing to own it you get to make the call about how it’s built #Ma
 
 [#ats #hiring @startuptrickswiki [Gem - CRM](https://www.gem.com/crm](https://www.gem.com/crm))  <> mike’s friend
 
-#write Keeping a blurbs note in Simplenote #workflow #t
+Tags:, write, Keeping, a, blurbs, note, in, Simplenote, workflow, t
 
 Add Headings (Format > Paragraph styles) and they will appear in your table of contents.
 
@@ -445,40 +447,40 @@ https://share.getcloudapp.com/P8ue1qlO
 
 ProductBoard - roadmap #StartUpTricksWiki  @mike
 
-#StartUpTricksWiki how to run a drip campaign with the candidate — have a series of events and stuff to invite people to to have a low-key beneficial interactions that aren't as artificial as grabbing lunch where you are trying to convince them to join you
+Tags:, StartUpTricksWiki, how, to, run, a, drip, campaign, with, the, candidate, —, have, a, series, of, events, and, stuff, to, invite, people, to, to, have, a, low-key, beneficial, interactions, that, aren't, as, artificial, as, grabbing, lunch, where, you, are, trying, to, convince, them, to, join, you
 
 A huge part of my value add and ability to get things done especially as a connector is sort of that I have a reputation for being helpful and having good judgment on things and therefore a lot of people sort of owe me favors and are willing to help me with other staff and therefore I can make a lot of connections and the difference between like Hiring I think a chief of staff and Hiring like an assistant is it expects or there's lots of differences but one difference is that I expect the chief of staff to sort of have a strong network and leverage their network to do all kinds of stuff including like solve problems and that's where like a lot of my life efficiency comes from inside great to solve problems from scratch on your own but like it's not so much more efficient to have a good network
-#StartUpTricksWiki
+Tags:, StartUpTricksWiki
 
 https://www.linkedin.com/posts/ashrust_startups-fundraising-activity-6674411565300744192-1Vl_
-#dilution #StartUpTricksWiki
+Tags:, dilution, StartUpTricksWiki
 
 Make intros
 Team building Interest in each other as much as product #StartUpTricksWiki
 
-#StartUpTricksWiki don't share revenue when raising seed or A before launch
+Tags:, StartUpTricksWiki, don't, share, revenue, when, raising, seed, or, A, before, launch
 
-[[#StartUpTricksWiki](https://github.com/jlevy/og-equity-compensation)https://github.com/jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) #startupadvice
+[#StartUpTricksWiki https://github.com/jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) #startupadvice
 
 Volunteering, doing favors for people especially volunteering as a connector is a great way to build your network
 Good reason to be in touch with someone like sriir #StartUpTricksWiki
 Every time someone asks you for a favor that's an opportunity #Networking
 
-#StartUpTricksWiki #Phrasing By the way, want to sync this week or early next?
+Tags:, StartUpTricksWiki, Phrasing, By, the, way,, want, to, sync, this, week, or, early, next?
 We are finalizing our allocations for the round
 
 It's a sign of weakness to have trouble hiring — warning #StartUpTricksWiki
 
 Make angel investors prove themselves by referring potential hires #StartUpTricksWiki
 
-#StartUpTricksWiki why alpha not recurring
+Tags:, StartUpTricksWiki, why, alpha, not, recurring
 Intentionally
 Time boxed so we don’t have to be supporting everyone while doing dev
 
-#StartUpTricksWiki maintaining reputation is key
+Tags:, StartUpTricksWiki, maintaining, reputation, is, key
 Establish first impression with investors
 
-#StartUpTricksWiki establishing principles early as insurance for tough times in the future. It seems self serving if you make up your principles then
+Tags:, StartUpTricksWiki, establishing, principles, early, as, insurance, for, tough, times, in, the, future., It, seems, self, serving, if, you, make, up, your, principles, then
 
 Part of the reason certain Valley works is because it’s like a village it’s so incest US and all the people know each other that you never know if you’re going to end up sleeping on someone’s couch or living with someone or working with someone on your next company for having them in Gastonia so there’s incentive for everyone to be civil to each other
 Like a village
@@ -486,7 +488,7 @@ It was hilarious – two of people we’ve tried to hire later on became VCs we 
 
  #StartUpTricksWiki The key thing is getting people to respond, so having a whole mix of things for them for you to ping them about not just the business thing is kind of essential. It’s a holistic relationship that has value separate from the immediate business thing and they don’t want to hurt their relationship by failing to respond on the business point
 
-#StartUpTricksWiki  budget but not too early
+Tags:, StartUpTricksWiki, budget, but, not, too, early
 
 Cofounders as partners for life #StartUpTricksWiki
 Doing social activities like going skiing best potentialh Court 10min because even one or two people who 10 really change the dynamic of a team newline doing occasional work related activities like checking out and analyzing how all the different machine learning start up‘s use machine learning for their competitive advantage
@@ -499,7 +501,7 @@ Write operating manuals — for you – how people should communicate or work wi
 
 A startup should be cool
 Like being part of a band #culture
-#StartUpTricksWiki
+Tags:, StartUpTricksWiki
 People complement each other’s skills and play off of each other
 You do it for fun, it’s not work- art
 It’s cool to be in a band
@@ -508,7 +510,7 @@ They don’t need to get that large to do great stuff
 The people are friends
 All have to be extremely talented – you can’t have mediocre members of a rock band
 have to all people have to understand the problem intimately and everyone has to do their part because if they don’t do it no one else will
-#FutureOfWork
+Tags:, FutureOfWork
 
  #StartUpTricksWiki #Management trying to not be defensive in anything really Dash always be just listening and incorporating feedback – this was the endorsement of Danny in the trust token video
 When you receive a piece of negative feedback it’s an opportunity to become more conscious of something is the graceful #Reframe
@@ -533,18 +535,18 @@ Email trick from startx
 host a party where are you incidentally invite the #PotentialHire and invite and see them hit it off independent of the narrowness of the potential work possibility #MontyHall
 
 Make self a good guy to know but nonthreatening
-#StartUpTricksWiki
+Tags:, StartUpTricksWiki
 
 Welcome to the camp of the dragon reborn
-#Attitude #good #attitude #Quote #StartUpTricksWiki
+Tags:, Attitude, good, attitude, Quote, StartUpTricksWiki
 
 Lead can waive pro rata for everybody else. At least the majority preferred
-#investorAdvisor
+Tags:, investorAdvisor
 And decrease to proportionally for everyone. Everyone should get a proportion
-#StartUpTricksWiki
+Tags:, StartUpTricksWiki
 Investors willing to do a preemptive round
 
-[[#StartUpTricksWiki](https://pilot.com/)https://pilot.com/](https://pilot.com/) #Accounting #Bookkeeping
+[#StartUpTricksWiki https://pilot.com/](https://pilot.com/) #Accounting #Bookkeeping
 
  #StartUpTricksWiki Also, it’s better to get investor intros from non-investors when possible, because otherwise the investors are beholden to whoever connected them to us
 
@@ -565,8 +567,8 @@ The sense that I have way more than enough right now. How to get that, how to cu
 I need to switch back in the mode of not taking actions out of fear. Even meditating #framework #best #Epiphany
 The lethani does not set its roots in fear
 I have $1.5M!! Thats a ton! Get in touch w feeling of abundance ! When will be enough
-#engrain
-#postqigong
+Tags:, engrain
+Tags:, postqigong
 I saw the notification out of the corner of my eye but I haven’t read it. Reading it’s not going to make anything better <>#Best remain in one place...
 
  #Management #StartUpTricksWiki
@@ -591,7 +593,7 @@ Stanford surplus  
 
 [Captable.io](http://captable.io)
 [Startuprunway.io](http://startuprunway.io)
-#StartUpTricksWiki
+Tags:, StartUpTricksWiki
 https://ltse.com/tools
 
  #StartUpTricksWiki get all the datasets you can get your hands on
@@ -615,7 +617,7 @@ Establish personal relationships  in person interactions. Business follow up qu
  #StartUpTricksWiki I wasn’t actually necessarily thinking of you as an investor but if you know anyone who would be a great investor for us that would be helpful. <>If you want advice ask for...
 
 What are your aspirations?
-#hiring #StartUpTricksWiki
+Tags:, hiring, StartUpTricksWiki
 
 Help people get what they need #Management #StartUpTricksWiki
 
@@ -638,7 +640,7 @@ Hire people you would invite to an intellectual salon  
  #StartUpTrickswiki <>#startupadvice
 
 A lot of the art of business, hiring, gaining investment, etc. is getting people to respond to you. The key is to
-[[Be helpful enough that they can’t just ignore you](http://housinglist.jacobcole.net/)http://housinglist.jacobcole.net/](http://housinglist.jacobcole.net/) #StartUpTrickswiki <>Building a relationship...
+[Be helpful enough that they can’t just ignore you http://housinglist.jacobcole.net/](http://housinglist.jacobcole.net/) #StartUpTrickswiki <>Building a relationship...
 
 If you want advice ask for money if you want money ask for advice #StartUpTrickswiki <>#StartUpTricksWiki I wasn’t...
 

@@ -1,4 +1,6 @@
-[[[Things You Didn’t Know Existed at MIT                                 mitdoc.jacobcole.net](https://docs.google.com/document/d/1bT_ncm0h-zrZZsAmmaNrieVM9LrhNQbBX5TZnGDPMBg/edit)>thingsyoudidntknowexisted.jacobcole.net](http://thingsyoudidntknowexisted.jacobcole.net) > thingsyoudidntknowexistedatmit.jacobcole.net](http://thingsyoudidntknowexistedatmit.jacobcole.net)
+# Thingsyoudidntknowexistedatmit
+
+[Things You Didn’t Know Existed at MIT                                 mitdoc.jacobcole.net >thingsyoudidntknowexisted.jacobcole.net > thingsyoudidntknowexistedatmit.jacobcole.net](http://thingsyoudidntknowexistedatmit.jacobcole.net)
 [http://systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/)
 Contribute to the list at top!                                                                                                                   #connectordoc              started by jcole@mit.edu
 
@@ -7,25 +9,25 @@ Contribute to the list at top!                         
 ###
 
 ### Table of Contents
-- [Misc](#id.72xu6dbwltty)
-- [Athletic/Outdoor/Physical](#id.jwvwtom2kewe)
+- [Misc]
+- [Athletic/Outdoor/Physical]
 
-- [Snow](#id.93kpcwt6tkfh)
+- [Snow]
 
-- [Professors](#id.86g60avk87mf)
-- [Classes](#id.trhn4hwrc2td)
-- [Restaurants](#id.iladxa7n3lm0)
+- [Professors]
+- [Classes]
+- [Restaurants]
 
-- [“Every Day”](#id.iladxa7n3lm0)
-- [“Special Occasion”](#id.9nbc8rwdv7ui)
+- [“Every Day”]
+- [“Special Occasion”]
 - [Bars](#kix.45cl8kxeptil)
 
 - [Arts](#kix.wrv7d9vexu11)* (3/27/13)
-- [Computer Science (CS)](#id.pzku9zo9xvrx)
-- [Funds for Cool Projects and Other Such Things](#id.i75t30h556lf)
-- [Events Calendars for MIT/Harvard/Cambridge/Boston etc.](#id.exxq2lxwuci0)
-- [People’s Tags/Homepages/Emails](#id.udv5wwkge5vj)
-- [Meta](#id.xa9wcivryy46)
+- [Computer Science (CS)]
+- [Funds for Cool Projects and Other Such Things]
+- [Events Calendars for MIT/Harvard/Cambridge/Boston etc.]
+- [People’s Tags/Homepages/Emails]
+- [Meta]
 
 - Contributors
 - Discussion Box
@@ -52,7 +54,7 @@ Boston Public Library is beautiful
 
 Free entry to Boston Museum of Science
 Free entry to Museum of Fine Arts (MFA)!!
-[[Majors: Comparative Media Studies](http://cms.mit.edu/) (CMS)/Media Arts and Sciences](http://web.mit.edu/catalog/degre.archi.media.html) (MAS; grad)
+[Majors: Comparative Media Studies (CMS)/Media Arts and Sciences](http://web.mit.edu/catalog/degre.archi.media.html) (MAS; grad)
 [Center for Collective Intelligence](http://cci.mit.edu/) - uses internet to organize people
 [W3C](http://www.csail.mit.edu/csailspotlights/feature6)(world wide web consortium) interdisciplinary group in CSAIL
 [MITDocs.tk](http://mitdocs.tk/) -- All the collaborative docs organizing the MIT community
@@ -71,14 +73,14 @@ Coffeehouse in Student Center 3rd Floor
 
         Mint tea + hot chocolate is really tasty
 
-[[[[[Really nice course plicker/planner apps: planner.mit.edu](http://planner.mit.edu/); courseroad.mit.edu](http://courseroad.mit.edu/). Regi, which has social functionality, <baguette.herokuapp.com](https://baguette.herokuapp.com/)> is currently glitchy. For cross-reg at Harvard, courses.cs50.net](http://courses.cs50.net/courses), coursecatalog.harvard.edu](http://coursecatalog.harvard.edu)
+[Really nice course plicker/planner apps: planner.mit.edu ; courseroad.mit.edu . Regi, which has social functionality, <baguette.herokuapp.com > is currently glitchy. For cross-reg at Harvard, courses.cs50.net , coursecatalog.harvard.edu](http://coursecatalog.harvard.edu)
 
 +1         Massage Chair in Burton Conner TV Lounge          
 [StartLabs](http://www.startlabs.org/)-- get-together to code (esp. web) and hardware hack on cool ideas every Wednesday 7-11:30pm. Free good food!
 [MITERS](http://miters.mit.edu/) - MIT Electronic Research Society! Offers build grants!
 
 [HackathonProjects.tk](http://hackathonprojects.tk/) -- collaborative Google doc with really good hackathon project ideas.
-[[IdeaOverflow.tk](http://ideaoverflow.tk/) -- database of people’s skills, interests, and emails, and soon to be much more. ~jcole@mit.edu](mailto:jcole@mit.edu), jinpan@MIT.EDU
+[IdeaOverflow.tk -- database of people’s skills, interests, and emails, and soon to be much more. ~jcole@mit.edu](mailto:jcole@mit.edu), jinpan@MIT.EDU
 
 [dot.tk](http://my.dot.tk/cgi-bin/index.taloha)-- .tk domains; completely free! - not directly mit-related :C
 
@@ -92,7 +94,7 @@ LEGO Lab in MIT Media Lab. If you ask nicely you can go play with LEGOs! Lego Mi
 
 [LEGO Robotics Competition/miniclass over IAP 6.270](http://scripts.mit.edu/~6.270/)
 
-[[Yo-Yo club! (not active right now... check back in 2013 fall) The former #3 Yoyoer in the nation](https://www.youtube.com/watch?v=rQkJ2H1_djA) (for 2010) is an undergrad here and runs it! Email johnchow@MIT.EDU. Also check out Boston Throwers](http://www.facebook.com/groups/106101266176048/)
+[Yo-Yo club! (not active right now... check back in 2013 fall) The former #3 Yoyoer in the nation (for 2010) is an undergrad here and runs it! Email johnchow@MIT.EDU. Also check out Boston Throwers](http://www.facebook.com/groups/106101266176048/)
 
 Dorms:
 Maseeh - Mostly freshmen. Mostly doubles. Also has triples and quads.
@@ -126,7 +128,7 @@ The Stata amphitheatre steps can be made into a giant sled track with enough sno
 Trick to building snow shelter: make big, packed mound of snow, stick sticks in 8in deep, then tunnel in and hollow it out from inside until you reach sticks
 Trick for warming hands: put arms by sides, straighten elbows, flex wrists, and move shoulders up and down. You will feel dramatic pumping sensation in hands
 
-[[Free tai chi/qigong classes at MIT! One class, run by I think the MIT Traditional Medicine Society, Ashdown Tai Chi Workshop is 3:30-5:00pm on Sundays during term in the Hulsizer Room in Ashdown. Email tms-exec@mit.edu](mailto:tms-exec@mit.edu) or cyx@mit.edu](mailto:cyx@mit.edu).
+[Free tai chi/qigong classes at MIT! One class, run by I think the MIT Traditional Medicine Society, Ashdown Tai Chi Workshop is 3:30-5:00pm on Sundays during term in the Hulsizer Room in Ashdown. Email tms-exec@mit.edu or cyx@mit.edu](mailto:cyx@mit.edu).
 
 Yoga
 World-class yoga nearby -- Some of the best-known Iyengar-style yoga teachers in the US, Patricia Walden and Jarvis Chen.
@@ -141,7 +143,7 @@ He's a jolly researcher at Harvard Medical School, and he's a really clever and 
 
 [Yoga24x7](http://www.yoga24x7.org/) - Club at MIT that offers free yoga classes + philosophy discussions (Spring 2013: Monday night 6:15pm-7:15 class, 7:15- philosophy at 66-168). Bring own mat.
 
-[[Rock Climbing Wall (bouldering) -- in 3rd Walker](http://whereis.mit.edu/?go=50); Hours](http://scripts.mit.edu/~mitoc/wall/)
+[Rock Climbing Wall (bouldering) -- in 3rd Walker ; Hours](http://scripts.mit.edu/~mitoc/wall/)
 
 Gymnastics Club in Z-Center Dupont 2nd floor. Open nights on Wednesdays 5-7.
 
@@ -151,11 +153,11 @@ Gymnastics Club in Z-Center Dupont 2nd floor. Open nights on Wednesdays 5-7.
 
 [MIT Pistol and Rifle club and range](http://web.mit.edu/mitprc/www/index.html) - practice and learn marksmanship and gun safety
 
-[[Surf Club Mailing List](http://mailman.mit.edu/mailman/listinfo/surfers), FB Group](http://www.facebook.com/groups/448330808545553/490760137635953/?notif_t=group_activity)
+[Surf Club Mailing List , FB Group](http://www.facebook.com/groups/448330808545553/490760137635953/?notif_t=group_activity)
 
 Open swing dance lessons (to public!) in Lobdell (in Student center 2nd floor) Wednesdays 8pm
 
-[[Ice Rink](http://web.mit.edu/athletics/www/skate.htm) (open winter quarters) -- schedule](http://web.mit.edu/athletics/www/skateschedule.pdf); rentals $5
+[Ice Rink (open winter quarters) -- schedule](http://web.mit.edu/athletics/www/skateschedule.pdf); rentals $5
 
 Exercise bikes hooked up to racing video game on second floor in Z-center. Could use improvement but really cool!
 
@@ -171,7 +173,7 @@ Prof. Walter Lewin - legendary teacher, occasionally still lectures
 Prof. John Harbison - most famous living American composer, winner of Pulitzer prize in music and McArthur Genius grant
 
 ### Classes:
-[[[See collaborative classes doc:](https://docs.google.com/document/d/1PwURbKznBHZy1bhwP3wjRi35uivD2KuiH9b0O5zBbTs/edit#)MITClasses.tk](https://docs.google.com/document/d/1PwURbKznBHZy1bhwP3wjRi35uivD2KuiH9b0O5zBbTs/edit#) <https://docs.google.com/document/d/1PwURbKznBHZy1bhwP3wjRi35uivD2KuiH9b0O5zBbTs/edit#](https://docs.google.com/document/d/1PwURbKznBHZy1bhwP3wjRi35uivD2KuiH9b0O5zBbTs/edit#)>
+[See collaborative classes doc: MITClasses.tk <https://docs.google.com/document/d/1PwURbKznBHZy1bhwP3wjRi35uivD2KuiH9b0O5zBbTs/edit#](https://docs.google.com/document/d/1PwURbKznBHZy1bhwP3wjRi35uivD2KuiH9b0O5zBbTs/edit#)>
 [ExperimentGuide.tk](http://experimentguide.tk/)The Experiment Guide to Harvard Courses  -- A selection of courses for the curious and passionate Engineers, Entrepreneurs and Designers in Cambridge, MA who want to build world-changing companies.
 t
 Restaurants
@@ -188,7 +190,7 @@ Fire and Ice -- a terrific Mongolian BBQ (Harvard Sq and Back Bay)
 O Sullivan’s -- AWESOME burgers. about $10 but definitely worth it. On beacon street.
 Beantown Taqueria -- a lot of very good Mexican food for reasonable prices on Mass Ave
 Technique
-[[The Breakfast Club](http://www.yelp.com/biz/the-breakfast-club-allston)](http://www.yelp.com/biz/the-breakfast-club-allston)-- Allston. Phenomenal, affordable breakfast and lunch not too far from Pika! Excellent non-bitter coffee!
+[The Breakfast Club](http://www.yelp.com/biz/the-breakfast-club-allston)-- Allston. Phenomenal, affordable breakfast and lunch not too far from Pika! Excellent non-bitter coffee!
 The Friendly Toast -- awesome breakfast-all-day restaurant in Tech square, best described as being similar to “a warm hug”
 Sebastians -- best salads/sandwiches/lunch crepes in Kendall
 [Brookline Lunch](http://www.yelp.com/biz/brookline-lunch-cambridge) (in Central Sq) - $6 steak and eggs. mound of awesome veggies and homefries

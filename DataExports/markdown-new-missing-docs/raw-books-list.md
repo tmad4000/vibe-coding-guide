@@ -1,3 +1,5 @@
+# Raw Books List
+
 Jacob’s Books List (raw)
 Includes books Jacob likes and but also he has been recommended and not yet read
 
@@ -165,7 +167,7 @@ Back strap
 
 The work of Art in the age of mechanically reproducible benjamin #essay
 The arcades project #book
-#NoteTaker #needsrelations <>zettelkasten
+Tags:, NoteTaker, needsrelations, <>zettelkasten
 
  #book
 
@@ -198,7 +200,7 @@ After you Marco Polo #Book
 Magic and loss
 About the Internet as art
 Jean yang
-#Book
+Tags:, Book
 
 Loneliness #book #psychology
 Biology of desire why addiction is not a disease
@@ -242,10 +244,10 @@ The heart of the shaman #Book
 The art of learning #WishList #book
 
 Hana rhee
-#book Ishmael
-#taichi
-#ligamentInjuries #ChronicPain
-#blockchain #socialGood
+Tags:, book, Ishmael
+Tags:, taichi
+Tags:, ligamentInjuries, ChronicPain
+Tags:, blockchain, socialGood
 
 “Far from scrabbling him this be in desperate need for food, hunter gatherers are among the best fit people on earth, and they manage this with only two or three hours a day of what you would call work – which makes them among the most we should people on earth as well. In his book on Stone Age economics Marshall sahlins described them as “the original affluent society“” page 220 #Book #Read
 
@@ -262,7 +264,7 @@ How emotions are made #book #ai
 Far from the tree #book #mentalhealth
 
 creon <>Robert Solomon <>dan girshovich
-#book conceptual structures ~John sowa
+Tags:, book, conceptual, structures, ~John, sowa
 NLP as graphs <>Digital globe
 
 Linked #Book <>Lazlo barabasi
@@ -270,7 +272,7 @@ Linked #Book <>Lazlo barabasi
 Lazlo barabasi <>Linked #Book
 
 Anatomy of the illness #book
-#Placebo
+Tags:, Placebo
 
 Homo deus #book
 
@@ -316,7 +318,7 @@ Ted breyer
 
  #met Liam <>Play water polo with Nikhil...
  #relatedproject #songwriter certain clusters of lyrics repel each other like magnets #Quote
-#book sum <>society of mind  <>The Wikipedia revolution...
+Tags:, book, sum, <>society, of, mind, <>The, Wikipedia, revolution...
 
  #book augmenting human cognition  <>Doug engelbart <>Grace
 
@@ -331,7 +333,7 @@ Airtable blocks
 Integrations marketplace for at sofn.
 
 Blood meridian #book #disturbing
-#WhyAwesome The judge is most memorable character of the last 20 years – Daniel Breyer
+Tags:, WhyAwesome, The, judge, is, most, memorable, character, of, the, last, 20, years, –, Daniel, Breyer
 
 Absolom, absolom #book
 
@@ -347,7 +349,7 @@ How to make a map of every thought you think #Book
 Michael Nielson
 
 Verner vinges #meet #person
-#book #sandiego
+Tags:, book, sandiego
 
 A pattern language #Book
 
@@ -365,8 +367,8 @@ isaac@isaac.cc #ideasharing
 — #hire?
 —Ephemerisle
 Tim mickel #hire javascript Jelle van den hoof
-#read daemon and freedom #book
-#lookingfor meet author of ^ Daniel saurez. Painted a pic of world he could get behind
+Tags:, read, daemon, and, freedom, book
+Tags:, lookingfor, meet, author, of, ^, Daniel, saurez., Painted, a, pic, of, world, he, could, get, behind
 
 Buy groceries together and cook veggies at ranch99 — make dumplings
 Birthday
@@ -387,19 +389,19 @@ Restorative yoga
 Go to barre class
 George Eliot — Daniel derronda #book — philosophy exudes from the fiction
 Legos
-#book mill on the floss #WhyAwesome George Eliot
+Tags:, book, mill, on, the, floss, WhyAwesome, George, Eliot
 Confessions by augustine #Book
 Read eastern and western philosophy
 
 Anyhow got recs for a book of Rainer Maria rilke’s work? @f
-#t make graph of all works that quote various authors #book healing the blues <>rilke #ideaflowdemo
+Tags:, t, make, graph, of, all, works, that, quote, various, authors, book, healing, the, blues, <>rilke, ideaflowdemo
 go into yourself and see how deep the place is from which your life flows #Quote ~rilke <>healing the blues #Book
 
  #book
 pour your heart into it - Starbucks
 Shoe dog Dash Nike
 The everything store - amazon
-#WhyAwesome
+Tags:, WhyAwesome
 
 A mathematician reads the newspaper #book #popmath
 
@@ -417,7 +419,7 @@ Karan
 Punning <>creativity #book the act... p104
 
 creativity
-#book the act of creation <>Punning
+Tags:, book, the, act, of, creation, <>Punning
 
 Opening the dragon gate #book #taichi #qi
 The spark in the machine  
@@ -433,7 +435,7 @@ Genius religion and awakening, Kundalini #book #bu
 
  #idea tool to extract all of my photos of quotes and put them in Thoughtstream and tag them #quote with the appropriate quote
 Photos of books could become #Book
-#ideaflowextension
+Tags:, ideaflowextension
 
  #Book on friendship ~alexander nehamas  
 
@@ -498,15 +500,15 @@ davidad <>Dynasty startup guy <>davidad... <>theory of freedom #Book
 The boys in the boat #book #reenchantingcollege
 Justine Burt
 Justineburt@alumni.tufts.edu
-#mindmapper
+Tags:, mindmapper
 Writing book on sustainability
-#user <>aunt susan
+Tags:, user, <>aunt, susan
 
 aunt susan <>The boys in the boat #book...
 
-#book the universal traveler
+Tags:, book, the, universal, traveler
 
-#notetaker david Greenspan #communitybuilder davidgreenspan@gmail.com
+Tags:, notetaker, david, Greenspan, communitybuilder, davidgreenspan@gmail.com
 Uses slack <>coda
  <>#book A Fire Upon the Deep...
 
@@ -519,7 +521,7 @@ The island
 Aldus Huxley #book
 
 The dance of life ~Edward hall
-#book
+Tags:, book
 
 Bonnie's book #book
 Learning react native
@@ -534,45 +536,45 @@ alex muscat <>mhang@cs.stanford.edu...
 
 Variable advantage #book #learningEnglish
 
-#book the slight edge <>mhang@cs.stanford.edu...
+Tags:, book, the, slight, edge, <>mhang@cs.stanford.edu...
 
-#book the flow state
+Tags:, book, the, flow, state
 Dan Yu
 
 The sympathizer #book #vietnam @shadi
 
 This is our app I wonder if I say #BookWhatHappens hey that looks nice it's just like Letterspace except we are in weird #ModeAndThenIGotRidOfMySpaceHere
 
-#book story of your life <>arrival #movie <>Ted Chiang
+Tags:, book, story, of, your, life, <>arrival, movie, <>Ted, Chiang
 
 arrival #movie <>#book story of your life <>Amanda song
 
-#book story of your life <>arrival #movie
+Tags:, book, story, of, your, life, <>arrival, movie
 
 arrival #movie <>#book story of your life
 
-#book shantaram
+Tags:, book, shantaram
 Andy rapista
 
-#book how to not give a fuck about things
+Tags:, book, how, to, not, give, a, fuck, about, things
 Wendy Liu
 Wendiliu17@gmail.Com
 
-#book america's communal utopias
+Tags:, book, america's, communal, utopias
 
-#book tribe ~Sebastian junger
+Tags:, book, tribe, ~Sebastian, junger
 
-#book communal utopias
+Tags:, book, communal, utopias
 
 Unsong #book  
 
-#book image and logic
+Tags:, book, image, and, logic
 Rec by jim O'Neill <>~jim
 
-#book a guide to better movement #pt
+Tags:, book, a, guide, to, better, movement, pt
 Ssri's treat chronic pain
 
-#book level up your life
+Tags:, book, level, up, your, life
 
  #book the dream machine <>what the dormouse said #book... <>computer lib/dream machines ~Ted Nelson  
 Dohan <>Brad hesseq
@@ -585,7 +587,7 @@ what the dormouse said #book <>#book the dream machine <>Doug engelbart
 
 Doug engelbart <>what the dormouse said #book... <>Drue kataoka #NoteTaker...
 
-#book the dream machine <>what the dormouse said #book...
+Tags:, book, the, dream, machine, <>what, the, dormouse, said, book...
 
 Doug engelbart <>what the dormouse said #book... <>5 button engelbart keyboard... <>5 button engelbart keyboard...
 

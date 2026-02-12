@@ -1,11 +1,13 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > burningman.jacobcole.net](http://burningman.jacobcole.net)
+# Burningman
+
+[systematicawesome.jacobcole.net > burningman.jacobcole.net](http://burningman.jacobcole.net)
 [Started by jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Burning Man Pack List and Advice
 BM Pack list
 
-#curatedlist #connectordoc
+Tags:, curatedlist, connectordoc
 
-[[See Also: foodslist.jacobcole.net](http://foodslist.jacobcole.net/) • products.jacobcole.net](http://products.jacobcole.net)
+[See Also: foodslist.jacobcole.net • products.jacobcole.net](http://products.jacobcole.net)
 [See Burning Man Issue Tracker](https://docs.google.com/document/d/1J2s35Fd2cpXPvs8VWIq6LFLMNVurCyXRk94uaCLbvoA/edit#heading=h.fmrpavgg0t70)
 
 Table of Contents:
@@ -482,7 +484,7 @@ https://burnermap.com/
 - Get bike add on
 - Get water Add on
 
-- [[Needs collapsible water containers (1x 5gal](https://www.amazon.com/WaterStorageCube-Collapsible-Container-Hurricane-Emergency/dp/B07FVJLYZ4/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.10e6d77b-0012-4a6b-b8f0-1618f27938ee%3Aamzn1.sym.10e6d77b-0012-4a6b-b8f0-1618f27938ee&cv_ct_cx=collapsible%2B5%2Bgallon%2Bwater%2Bjug&keywords=collapsible%2B5%2Bgallon%2Bwater%2Bjug&pd_rd_i=B07FVJLYZ4&pd_rd_r=57b2be28-1f8e-4acf-8abe-45977ae303d0&pd_rd_w=EW5Cy&pd_rd_wg=ys121&pf_rd_p=10e6d77b-0012-4a6b-b8f0-1618f27938ee&pf_rd_r=TN1DJ77EJ64JZZN83JTZ&qid=1692794901&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=collapsible%2B5%2B%2Caps%2C192&sr=1-2-2b34d040-5c83-4b7f-ba01-15975dfb8828-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&psc=1) or 5x 1 gal](https://www.amazon.com/TIFMI-Collapsible-Container-Emergency-Freezable/dp/B0B1MJX8MX/ref=sr_1_5?keywords=collapsible+5+gallon+water+jug&qid=1692794901&sprefix=collapsible+5+%2Caps%2C192&sr=8-5)?)
+- [Needs collapsible water containers (1x 5gal or 5x 1 gal](https://www.amazon.com/TIFMI-Collapsible-Container-Emergency-Freezable/dp/B0B1MJX8MX/ref=sr_1_5?keywords=collapsible+5+gallon+water+jug&qid=1692794901&sprefix=collapsible+5+%2Caps%2C192&sr=8-5)?)
 
 ## Awesome Camps
 Aquazone

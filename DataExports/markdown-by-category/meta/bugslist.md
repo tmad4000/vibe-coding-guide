@@ -1,27 +1,29 @@
-[[[`                     systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > productfeedback.jacobcole.net](http://productfeedback.jacobcole.net)
-#project #connectordoc
+# Bugslist
+
+[`                     systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > productfeedback.jacobcole.net](http://productfeedback.jacobcole.net)
+Tags:, project, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Ideaflow Bug Tracker #issueTracker #connectordoc
 Ideaflow.app
 
-[[Inbox (To Process)](#h.y0z0ofuz6kis)1](#h.y0z0ofuz6kis)
-[[#meeting Jacob <> Ben Williams 2020-12-15](#h.ic2oqecqsxth)1](#h.ic2oqecqsxth)
-[[P0](#h.6hsjtjiq88jm)1](#h.6hsjtjiq88jm)
-[[P1](#h.gmm4ppn3p4el)1](#h.gmm4ppn3p4el)
-[[P1.5](#h.s0xc3ryzdmn0)2](#h.s0xc3ryzdmn0)
-[[P3](#h.x9w8zrj43te4)3](#h.x9w8zrj43te4)
-[[#meeting Jacob <> Ben Williams 2020-12-01](#h.lp3ocrcas71)3](#h.lp3ocrcas71)
-[[Top Priorities for December Alpha Launch/Share to Investors. Also Touchstones #designPrinciple](#h.7ni2z4eh30a5)3](#h.7ni2z4eh30a5)
-[[Detail Breakout examples (more tweaks below)](#h.482w0lnxp3zd)4](#h.482w0lnxp3zd)
-[[Action items](#h.jd59caj1fhud)4](#h.jd59caj1fhud)
-[[#Bug](#h.mfjd3jci3mq0)4](#h.mfjd3jci3mq0)
-[[#Tweak](#h.fbfx2r9jx9pj)5](#h.fbfx2r9jx9pj)
-[[Feature Funnel 1](#h.86vvfcme8tzo)5](#h.86vvfcme8tzo)
-[[#Feature](#h.ijx9xj8l08e5)6](#h.ijx9xj8l08e5)
-[[User Interviews](#h.vo931mkz7wb8)6](#h.vo931mkz7wb8)
+- [Inbox (To Process)](#inbox-to-process)
+- [#meeting Jacob <> Ben Williams 2020-12-15](#meeting-jacob-ben-williams-2020-12-15)
+- [P0](#p0)
+- [P1](#p1)
+- [P1.5](#p15)
+- [P3](#p3)
+- [#meeting Jacob <> Ben Williams 2020-12-01](#meeting-jacob-ben-williams-2020-12-01)
+- [Top Priorities for December Alpha Launch/Share to Investors. Also Touchstones #designPrinciple](#top-priorities-for-december-alpha-launchshare-to-investors-also-touchstones-designprinciple)
+- [Detail Breakout examples (more tweaks below)](#detail-breakout-examples-more-tweaks-below)
+- [Action items](#action-items)
+- [#Bug](#bug)
+- [#Tweak](#tweak)
+- [Feature Funnel 1](#feature-funnel-1)
+- [#Feature](#feature)
+- [User Interviews](#user-interviews)
 
-[[[[[[See also: jmbugslist.jacobcole.net](http://jmbugslist.jacobcole.net) •  Linear.app](http://linear.app) • Notion Product Design Discussion Logged Insights](https://www.notion.so/Product-Design-Discussion-Logged-Insights-860b1c06c4f84728a31e0e5a9d9875c5) • Wendell’s List](https://docs.google.com/spreadsheets/d/1qwNhjyN9XQ9bDueGTKc4obdCS8A1rq_AVWwagSuHmV0/edit?usp=sharing) • alphausers.connectr.site](http://alphausers.connectr.site/) • Google Doc (JM): User Profiles and Feedback Doc](https://docs.google.com/document/d/1MXvmAOcMZg0Qo_w6SvcdxVina2LkZcgU19lU6HtTOok/edit)
+[See also: jmbugslist.jacobcole.net •  Linear.app • Notion Product Design Discussion Logged Insights • Wendell’s List • alphausers.connectr.site • Google Doc (JM): User Profiles and Feedback Doc](https://docs.google.com/document/d/1MXvmAOcMZg0Qo_w6SvcdxVina2LkZcgU19lU6HtTOok/edit)
 
 # Inbox (To Process)
 
@@ -31,7 +33,7 @@ Raw Thoughts from 2/23/21 posted to slack
 - #tweak typing speed even slow on brand new macbook (possibly a #bigdeal?)
 - can’t see date on filtered view – obscured by jump to. probably also should have date dividers on filtered view if they’re on
 - caps sensitivity on tags is still throwing me off (any objections to just moving fast and breaking things and making an executive decision on a fix here, like “capitalize the same tag closest to bottom of thoughtstream”?)
-[[- selecting halfway into a note to end of note shouldn’t automatically merge me with the next note (#tweak the following action should leave one extra linebreak, I think: https://share.getcloudapp.com/RBu4YR9K](https://share.getcloudapp.com/RBu4YR9K))](https://share.getcloudapp.com/RBu4YR9K))
+[- selecting halfway into a note to end of note shouldn’t automatically merge me with the next note (#tweak the following action should leave one extra linebreak, I think: https://share.getcloudapp.com/RBu4YR9K )](https://share.getcloudapp.com/RBu4YR9K))
 - Date dividers got automatically turned off with the update. I think this might confuse a few of the people I on boarded FYI. It would be great if we can persist this in the future (does anyone object to having them be on by default?)
 - Also this may have already been reported but it doesn’t seem that the auto sync via  checkpointing (without refresh) works fully on mobile. When I edit some thing on desktop and have  mobile open it doesn’t show up
 - Command shift down arrow select all notes which is a bit scary (as does cmd shift up)
@@ -48,7 +50,7 @@ More #polish I hope #quick
 
 Other
 
-#tweak
+Tags:, tweak
 When you click on an <> relation it should flash the matched item and scroll it Roughly the top of the page, instead of leaving it in the middle. Actually, on my fairly large 4K monitor the same seems to be not working so well on any "jump to" operation. Also need to have a multi step back button behavior after such jump operations
 Question -- If the app goes off-line does it warn me it’s not going to save my stuff somehow?
 cmd+up arrow (maybe twice? Maybe first jumps you to top of note?) should jump you to the top even if you have really large note database. So should create new note shortcut. The only way for me to do so right now is to click All Notes
@@ -69,7 +71,7 @@ Bulleted lists and subbullets  ~spencer #p1.5
 
 ### #meeting Jacob <> Ben Williams 2020-12-15
 
-#Legend
+Tags:, Legend
   Highlight  .Means transferred to Linear.app
 [Highlight   Means transferred to Notion Product Design Discussion Logged Insights](https://www.notion.so/Product-Design-Discussion-Logged-Insights-860b1c06c4f84728a31e0e5a9d9875c5)
 
@@ -86,26 +88,26 @@ we should normalize for case insensitive hashtags
 Type a note with a hashtag filter on, sometimes the new note does not appear at the top (tough to replicate)
 
 “When ‘eidetic memory deactivated’ error comes up say: ‘Don’t worry it’s already been reported.”
-[[#tweak cmd click on tags to open link (or hover over and click "open link" like current urls) . I think just clicking is fine. https://workflowy.com](https://workflowy.com/) and https://bear.app/](https://bear.app/) do that. (Maybe we could even make urls directly clickable? Not necessarily sure…)
-#design Larger click target for clearing search criteria somehow – maybe back btn like mobile? @designer
+[#tweak cmd click on tags to open link (or hover over and click "open link" like current urls) . I think just clicking is fine. https://workflowy.com and https://bear.app/](https://bear.app/) do that. (Maybe we could even make urls directly clickable? Not necessarily sure…)
+Tags:, design, Larger, click, target, for, clearing, search, criteria, somehow, –, maybe, back, btn, like, mobile?, @designer
 [When I try to type on my phone after the #gr, I can’t get the cursor to move there. I also can’t delete #gr. User error or bug in the app? https://share.getcloudapp.com/yAuZ8jJl](https://share.getcloudapp.com/yAuZ8jJl) ~jen tsau
  #small URLs get duplicated when you copy paste an entry with a URL
 Pasting URLs out, also doubles the URL in Google Docs
-#small? if it's ever not going to save if your work it should warn you
+Tags:, small?, if, it's, ever, not, going, to, save, if, your, work, it, should, warn, you
 -in big warning message in real time when your note isn’t going to be saved. In addition to saying “JWT web token expired”. Maybe “WARNING: [Your login has expired OR You are offline ], your note will not be saved. If you want to capture it you must copy paste it to another application. (Will be fixed in future versions.)”
 -On closing the page, a confirm dialog “Warning, if you close this page your changes will not be saved. Do you wish to proceed? Ok/cancel)
 -? also, have a “Saving…” notification somewhere ~Wendell
 [#small? Browser Back button should return you to search results after you’ve hit jump. (#future Any ideas how to make a back button evident when you’re in a standalone chrome app? Maybe top left like notion. https://share.getcloudapp.com/WnulkGNn](https://share.getcloudapp.com/WnulkGNn) ) #design
-#small? Scroll position on jump not working all the time ends you up before or after target which isn’t useful. Jumped item should be at the top of the page? Or maybe a little bit down is ok too.
+Tags:, small?, Scroll, position, on, jump, not, working, all, the, time, ends, you, up, before, or, after, target, which, isn’t, useful., Jumped, item, should, be, at, the, top, of, the, page?, Or, maybe, a, little, bit, down, is, ok, too.
         ?possibly highlight?)  jump not working all the time/targets the wrong one
-#small? Reinstate cmd/ctrl-f for normal find in page? Maybe we can take cmd+shift+f for our search?
-#mobile #small?  Way to see date dividers on filtered view on mobile (unable to recreate)
+Tags:, small?, Reinstate, cmd/ctrl-f, for, normal, find, in, page?, Maybe, we, can, take, cmd+shift+f, for, our, search?
+Tags:, mobile, small?, Way, to, see, date, dividers, on, filtered, view, on, mobile, (unable, to, recreate)
 Can’t click on the i button on mobile to see date
 Autocomplete should not match “@ [space]” or “~ [space ]” or “spaceship [space]’
 After a @ sign, if you close the autocomplete window, you cannot double click on the text that would match with the autocomplete
-[[if you close @ you can't double click on text autocomplete](https://share.getcloudapp.com/geuop26R)https://share.getcloudapp.com/geuop26R](https://share.getcloudapp.com/geuop26R)
+[if you close @ you can't double click on text autocomplete https://share.getcloudapp.com/geuop26R](https://share.getcloudapp.com/geuop26R)
 
-#small? UX Polish On #mobile Web:
+Tags:, small?, UX, Polish, On, mobile, Web:
 -Tapping in the margins doesn’t move cursor, like a text file does
 -Seemingly impossible to tap the cursor so it begins at start of doc
 -Select all selects everything whereas most of the time I wanted to just select a note. Moreover I can’t deselect
@@ -120,12 +122,12 @@ Fun Quickstart Guide: Ideaflow.app Draft 2020-12-15:
 
 When you hit “cancel” on text containing linebreaks to not split, it shouldn’t remove the linebreaks but leave them in the text
 
-#problem if you have multiple tabs it gets out of sync in confusing ways
+Tags:, problem, if, you, have, multiple, tabs, it, gets, out, of, sync, in, confusing, ways
 
 ----------LINE OF STARTING ONBOARDING NEW USERS-----
 
 #### P1.5
-[[#tweak remove duplicate "today" date dividers?](https://share.getcloudapp.com/kpuN4Yn0)https://share.getcloudapp.com/kpuN4Yn0https://share.getcloudapp.com/kpuN4Yn0](https://share.getcloudapp.com/kpuN4Yn0)
+[#tweak remove duplicate "today" date dividers? https://share.getcloudapp.com/kpuN4Yn0https://share.getcloudapp.com/kpuN4Yn0](https://share.getcloudapp.com/kpuN4Yn0)
 
  - when the notes are loading, I wish I could hit the plus button
  - when the notes are loading, I wish I could do search
@@ -135,22 +137,22 @@ iPad support
 Left hand margin is not clickable (mobile) ~jm
 Undo functionality (mobile) ~jm
 
-#Mobile #tweak every reload / app opening loses cursor position on mobile
+Tags:, Mobile, tweak, every, reload, /, app, opening, loses, cursor, position, on, mobile
 Add a way for users to give feedback on what they were doing when we throw an error on production ("eidetic memory deactivated”)
 
 X Lag on search field – debounce
 [#bug https://share.getcloudapp.com/OAuWGxkg](https://share.getcloudapp.com/OAuWGxkg) #tweak link click target is off ; also the "t" is included
 X #tweak shortcut for search. maybe cmd shift f?
 
-#tweak don't like lag time when i click on long tag - could say "loading". #designPrinciple instant response time
+Tags:, tweak, don't, like, lag, time, when, i, click, on, long, tag, -, could, say, "loading"., designPrinciple, instant, response, time
 
-#design need for cmd+enter equivalent on mobile? Esp when filter is on?
+Tags:, design, need, for, cmd+enter, equivalent, on, mobile?, Esp, when, filter, is, on?
 
 Should be a scrollbar on tags
 
-#small #tweak search option on tags/~’s/@’s. E.g. I want to be able to filter for word "principle" so I can find #taichiPrinciple
+Tags:, small, tweak, search, option, on, tags/~’s/@’s., E.g., I, want, to, be, able, to, filter, for, word, "principle", so, I, can, find, taichiPrinciple
 
-#small? #tweak “collapse note” button
+Tags:, small?, tweak, “collapse, note”, button
 
 Redesign the share / download notes button.
 e.g. make it copy
@@ -179,7 +181,7 @@ I’d like a fog over everything except the new note ~danish
 --------
 
 #### P2
-#possibly? #tweak cmd shift i pops up little separate window to capture thought without losing your place
+Tags:, possibly?, tweak, cmd, shift, i, pops, up, little, separate, window, to, capture, thought, without, losing, your, place
  P2 - if I edit the text of a relation, it does not reflect the current tex
 
  - when The hashtag you're creating is a new one, it shouldn’t occur in the dropdown (alternatively, the option in the drop-down should say “Create #me”)
@@ -189,7 +191,7 @@ Paste in images from shift cmd+4
 Paste in images from shift cmd+4
 
 “Untagged” tag option. Also blank #
-#design Try Whole page hashtags view on mobile vs overlay
+Tags:, design, Try, Whole, page, hashtags, view, on, mobile, vs, overlay
 
 It would be great if pressing the delete button at the start of a new note would delete the note ~jm
 
@@ -325,7 +327,7 @@ https://share.getcloudapp.com/NQuKRkgD
 [[ ] https://share.getcloudapp.com/rRu0qPJq](https://share.getcloudapp.com/rRu0qPJq) Bug on paste from web, text doesn't appear. cmd shift v works
 
 ## #Tweak
-[[https://share.getcloudapp.com/6quPGQmehttps://share.getcloudapp.com/6quPGQme](https://share.getcloudapp.com/6quPGQme) lag on typing vs simplenote.  lag on cmd enter and typing: https://share.getcloudapp.com/JruqjbnLhttps://share.getcloudapp.com/JruqjbnL](https://share.getcloudapp.com/JruqjbnL)
+[https://share.getcloudapp.com/6quPGQmehttps://share.getcloudapp.com/6quPGQme lag on typing vs simplenote.  lag on cmd enter and typing: https://share.getcloudapp.com/JruqjbnLhttps://share.getcloudapp.com/JruqjbnL](https://share.getcloudapp.com/JruqjbnL)
 
 Should be able to start search query instantly (even before page loads?)
 
@@ -339,44 +341,44 @@ x #small? “Position is undefined” error often on pasting https://share.getcl
 Way to scroll to end of notes in long thoughtstream (or by date) ~jacob
 
 Clicking link on lefthand bar jumps to top for a sec before scrolling
-#small URLs get duplicated when you copy paste an entry with a URL
-#small? Use hover intent or something similar to make it so "open link" button doesn't disappear while you are moving over to click a link https://github.com/briancherne/jquery-hoverIntent . Uses mouse acceleration
-#small? if it's ever not going to save if your work it should warn you
+Tags:, small, URLs, get, duplicated, when, you, copy, paste, an, entry, with, a, URL
+Tags:, small?, Use, hover, intent, or, something, similar, to, make, it, so, "open, link", button, doesn't, disappear, while, you, are, moving, over, to, click, a, link, https://github.com/briancherne/jquery-hoverIntent, ., Uses, mouse, acceleration
+Tags:, small?, if, it's, ever, not, going, to, save, if, your, work, it, should, warn, you
 -in big warning message in real time
 -on closing the page, a confirm dialog
 -also, have a “saving…” notification somewhere maybe?
-[[#tweak #roughEdge](https://share.getcloudapp.com/JruqkWNR)https://share.getcloudapp.com/JruqkWNR https://share.getcloudapp.com/JruqkWNR](https://share.getcloudapp.com/JruqkWNR) Maybe suggestion for newly created entities in this way should only go to the cursor by default? Or only go to the space? #thinkAbout @designer
+[#tweak #roughEdge https://share.getcloudapp.com/JruqkWNR https://share.getcloudapp.com/JruqkWNR](https://share.getcloudapp.com/JruqkWNR) Maybe suggestion for newly created entities in this way should only go to the cursor by default? Or only go to the space? #thinkAbout @designer
 
-#small? Back button should return you to search results after you’ve hit jump. (#future Any ideas how to make a back button evident when you’re in a standalone chrome app?) #design
+Tags:, small?, Back, button, should, return, you, to, search, results, after, you’ve, hit, jump., (future, Any, ideas, how, to, make, a, back, button, evident, when, you’re, in, a, standalone, chrome, app?), design
 No scrollbar on tags
-#small? Highlight on jump not working (happens /before/ jump, which isn’t useful)
+Tags:, small?, Highlight, on, jump, not, working, (happens, /before/, jump,, which, isn’t, useful)
 
-#small? Maybe Reinstate cmd/ctrl-f for normal find in page? Maybe we can take cmd+shift+f for our search?
+Tags:, small?, Maybe, Reinstate, cmd/ctrl-f, for, normal, find, in, page?, Maybe, we, can, take, cmd+shift+f, for, our, search?
 
-#small?  Way to see date / date dividers on filtered view on mobile
+Tags:, small?, Way, to, see, date, /, date, dividers, on, filtered, view, on, mobile
 
-#small? UX Polish On mobile Web:
+Tags:, small?, UX, Polish, On, mobile, Web:
 -Tapping in the margins doesn’t move cursor, like a text file does
 -Seemingly impossible to tap the cursor so it begins at start of doc
 -Select all selects everything whereas most of the time I wanted to just select a note
 
-#medium? Date dividers that act like actual dividers linebreaks
+Tags:, medium?, Date, dividers, that, act, like, actual, dividers, linebreaks
 
-#medium? #tweak  Button that allows you to report that a bug just happened and saves the state of the app and send it like log rocket
+Tags:, medium?, tweak, Button, that, allows, you, to, report, that, a, bug, just, happened, and, saves, the, state, of, the, app, and, send, it, like, log, rocket
 
 ?way to do cmd enter on mobile
-#small? #tweak “collapse note” button
+Tags:, small?, tweak, “collapse, note”, button
 
-#medium? maybe show all the way to matching portion of text in <> autocomplete? I can’t see what I’m selecting. Would require multiline autocomplete results #tweak
-#small #tweak search option on tags/~’s/@’s. E.g. I want to be able to filter for word "principle" so I can find #taichiPrinciple
+Tags:, medium?, maybe, show, all, the, way, to, matching, portion, of, text, in, <>, autocomplete?, I, can’t, see, what, I’m, selecting., Would, require, multiline, autocomplete, results, tweak
+Tags:, small, tweak, search, option, on, tags/~’s/@’s., E.g., I, want, to, be, able, to, filter, for, word, "principle", so, I, can, find, taichiPrinciple
 
 ---Line of nonurgency----
 ---Line of nonurgency----
 Paste in images from shift cmd+4
 
-#small sometimes urls don't highlight till you hit enter after?  @benWilliams
+Tags:, small, sometimes, urls, don't, highlight, till, you, hit, enter, after?, @benWilliams
 https://share.getcloudapp.com/P8umxlLY – is this intentional? Not necessarily a problem
-#aside Make SEPARATE app “Ideaflow Lite” a desktop text editor app with tabs like sublime text. Can open text files. Good to be separate app, can explain ~jacob
+Tags:, aside, Make, SEPARATE, app, “Ideaflow, Lite”, a, desktop, text, editor, app, with, tabs, like, sublime, text., Can, open, text, files., Good, to, be, separate, app,, can, explain, ~jacob
 
 Funnel 2 (Important-Nonimportant / Big-Small)
 

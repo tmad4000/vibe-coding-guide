@@ -1,20 +1,22 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > existentialcrisis.jacobcole.net](http://existentialcrisis.jacobcole.net)
+# Existentialcrisis
+
+[systematicawesome.jacobcole.net > existentialcrisis.jacobcole.net](http://existentialcrisis.jacobcole.net)
 [Started by jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Existential Crisis Resources
 Resources that have helped people move through existential crises and such that they become breakthroughs, not just breakdowns
 
-[[[See Also: meditation.jacobcole.net/](http://meditation.jacobcole.net/) • bodymasters.jacobcole.net/](http://bodymasters.jacobcole.net/) • mentalstatehacks.jacobcole.net](http://mentalstatehacks.jacobcole.net)
+[See Also: meditation.jacobcole.net/ • bodymasters.jacobcole.net/ • mentalstatehacks.jacobcole.net](http://mentalstatehacks.jacobcole.net)
 
 ## The “Stop, Drop, and Roll” Of Existential Crises (Quickstart Guide / General Principles)
 - Anchoring yourself in physical well-being is key*. It's easy to confuse emotional pain for physical. Ideally see skilled practitioners of acupuncture, osteopathy, or other healing arts, and also train in a “complete” wellness system like qigong or Iyengar yoga.
 
-- [[Try this 10 minute qigong routine](https://www.facebook.com/watch/?v=462497675429399) — followed by this other one](https://youtu.be/wGxDbHaDN-w) if you’re feeling more hardcore)
+- [Try this 10 minute qigong routine — followed by this other one](https://youtu.be/wGxDbHaDN-w) if you’re feeling more hardcore)
 
 *Though there are other ways
 
 - [Read about Positive Disintegration https://en.wikipedia.org/wiki/Positive_disintegration](https://en.wikipedia.org/wiki/Positive_disintegration)
 
-- [[Read an awesome philosophical/emotional/spiritual growth framework e.g. http://yoga.jacobcole.net/](http://yoga.jacobcole.net/) (maybe my favorite 6 pages of philosophy. From this book](https://www.amazon.com/Religiousness-Yoga-Lectures-Theory-Practice/dp/0819109673))
+- [Read an awesome philosophical/emotional/spiritual growth framework e.g. http://yoga.jacobcole.net/ (maybe my favorite 6 pages of philosophy. From this book](https://www.amazon.com/Religiousness-Yoga-Lectures-Theory-Practice/dp/0819109673))
 
 - Go do something deeply fun and/or help someone with something*!
 
@@ -106,8 +108,8 @@ Processing trauma feels so good! You become lighter and lighter until you become
 - Embodiment Practices —Existential Crisis is often a heady thing
 
 # Rough  Idea to Organize
-#todo #AlternateIndex How to Cope, for the Broke —Monetarily Free Paths
-#todo #AlternateIndex For Neuro Atypical Conditions
+Tags:, todo, AlternateIndex, How, to, Cope,, for, the, Broke, —Monetarily, Free, Paths
+Tags:, todo, AlternateIndex, For, Neuro, Atypical, Conditions
 
 ## #ToWrite Depression and Existentialness
 Also Existentialness and trauma
@@ -167,7 +169,7 @@ Sasha Chapin
 
 ### Awesome Mental State Hack
 [Max Strom ribs expanded breathing https://www.youtube.com/watch?v=4Lb5L-VEm34](https://www.youtube.com/watch?v=4Lb5L-VEm34) Minute 14
-#breathingExercise
+Tags:, breathingExercise
 
 ### Halp! I want to feel better and I can’t afford these things
 
@@ -202,7 +204,7 @@ Am I actually just feeling awful because I don’t have one of these needs met? 
 -
 - In 2012, psychologist Michael Mithoefer discovered that even a single dose of MDMA can reduce or cure post-traumatic stress disorder (PTSD) in survivors of child abuse, sexual abuse, and combat. He found that the benefits provided by one to three rounds of MDMA therapy lasts for years. These results outstrip conventional treatments so convincingly that, in May 2015, the federal government approved studies of MDMA as a treatment for depression and anxiety.”
 
-#Todo
+Tags:, Todo
 
 ### The “Who am I” Direction
 “You are not your next thought” ~Sam Harris …so who are you?
@@ -291,4 +293,4 @@ Shadi:
 
 ## Misc Ideas
 
-#idea Spirtual awakening log app
+Tags:, idea, Spirtual, awakening, log, app

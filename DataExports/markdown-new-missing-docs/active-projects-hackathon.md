@@ -1,10 +1,12 @@
-[[[lHackathon Projects 1.5                                                                                                                                <<](http://hackathonprojects.tk/)](http://hackathonprojects.tk/)hackathonprojects.tk](http://hackathonprojects.tk/)
+# Active Projects Hackathon
+
+[lHackathon Projects 1.5                                                                                                                                << hackathonprojects.tk](http://hackathonprojects.tk/)
 [Ideas](http://hackathonprojects.tk)
 
 [[People](http://ideaoverflow.tk)[a]](#cmnt1)
 Active Projects
 [Completed Projects](https://docs.google.com/document/d/1nLIGo7tUsMae3jQO2K2HHc-_bT8t8ihUl2dSWg8iQVw/edit)
-[✰ Add your own at the bottom](#id.ks09ec4n5jnw)! ✰ Open means you can join! ✰ Add tag #6.470 if you’re doing the contest!
+[✰ Add your own at the bottom]! ✰ Open means you can join! ✰ Add tag #6.470 if you’re doing the contest!
 
 +2
 PhotoQuote -- app that lets you photograph a quote in a book, then searches online to find the boundaries of the quote you're probably looking to note down, and adds the quote to your notebook. I find myself photographing quotes all the time. This is a big idea, and knowing the thread of quotes a person is interested in is a very powerful, and truly relevant advertising dataset. #relates to “site that autocompletes quotes”
@@ -16,19 +18,19 @@ and this is deep because quotes are your thoughts stated more clearly than you c
  jcole@mit.edu
 Open
 +2
-[[[IdeaOverflow IDE](https://docs.google.com/file/d/0B-pHhDIV_JyBRE9fSThIUEhwNkU/edit) (Idea Development Environment) and Political Progress Bar;](https://docs.google.com/document/d/1UFjkJyI_D3JvVSeMQwN0HixOgYuISGwhcuyFuxqwhsY/edit)Explanation](https://docs.google.com/document/d/1UFjkJyI_D3JvVSeMQwN0HixOgYuISGwhcuyFuxqwhsY/edit)
-[[I have](https://docs.google.com/document/d/1fCzZyi2Yzu_If0KHBpJxfEgoS7VkbvQvQWVlM5Eg9JQ/edit)a very well thought out nexus of projects](https://docs.google.com/document/d/1fCzZyi2Yzu_If0KHBpJxfEgoS7VkbvQvQWVlM5Eg9JQ/edit) that I think might interest some of you, incl. the following: ~Jacob jcole@mit.edu
-[[I'm think of working on upgrading](http://hackathonprojects.tk/)http://hackathonprojects.tk/](http://hackathonprojects.tk/) today at MIT "Hackathon 2.0" from an ordinary Google Doc to an enhanced, idea-sharing-online collaboration system! However, this will take attempting to basically re-create Etherpad-like functionality (etherpad lite is open source, can be extended, and runs on Node.js --cj). If anybody knows the NowJS guys perhaps they would be relevant to talk to? Specifically, I want to retain as much of the current editing functionality of the Google Doc is possible but I want to:  
+[IdeaOverflow IDE (Idea Development Environment) and Political Progress Bar; Explanation](https://docs.google.com/document/d/1UFjkJyI_D3JvVSeMQwN0HixOgYuISGwhcuyFuxqwhsY/edit)
+[I have a very well thought out nexus of projects](https://docs.google.com/document/d/1fCzZyi2Yzu_If0KHBpJxfEgoS7VkbvQvQWVlM5Eg9JQ/edit) that I think might interest some of you, incl. the following: ~Jacob jcole@mit.edu
+[I'm think of working on upgrading http://hackathonprojects.tk/](http://hackathonprojects.tk/) today at MIT "Hackathon 2.0" from an ordinary Google Doc to an enhanced, idea-sharing-online collaboration system! However, this will take attempting to basically re-create Etherpad-like functionality (etherpad lite is open source, can be extended, and runs on Node.js --cj). If anybody knows the NowJS guys perhaps they would be relevant to talk to? Specifically, I want to retain as much of the current editing functionality of the Google Doc is possible but I want to:  
 -Create a search box that allows me to filter ideas by tags → (cont on next pg)
 -create an auto fill when I start typing a hash tag to mark an idea with the tag.
 -Create a really cool special "#relates-to earlierIdeaNameHere" tag that allows you to link ideas to each other naturally. Once linked, by clicking on the relates to tag, you will be able to see a pop-up or expanded div with the related ideas content. This way, threads of ideas can naturally evolve. #autocomplete #intentiondb
 
-[[[[[[See related](http://ideaoverflow.tk/)IdeaOverflow.tk](http://ideaoverflow.tk/)  <http://instadefine.com/IdeaOverflow/ATTHackathon/git/IdeaOverflow/index.php](http://instadefine.com/IdeaOverflow/ATTHackathon/git/IdeaOverflow/index.php)> ~Jacob (jcole@mit.edu) (https://github.com/jinpan/IdeaOverflow](https://github.com/jinpan/IdeaOverflow)) See also](http://atthackathon.tk/)http://atthackathon.tk/](http://atthackathon.tk/)
+[See related IdeaOverflow.tk <http://instadefine.com/IdeaOverflow/ATTHackathon/git/IdeaOverflow/index.php > ~Jacob (jcole@mit.edu) (https://github.com/jinpan/IdeaOverflow ) See also http://atthackathon.tk/](http://atthackathon.tk/)
 IdeaOverflow -- A place people can share good ideas that they don't necessarily have time to implement themselves online. I want to make a map, a connected graph, of all of peoples' ideas (and implemented engineering projects) that shows the relationship of these projects to one another. At the borders of this graph would lie the ideas that are yet to be implemented -- investigating them more deeply would be analogous to exploring undiscovered terrain on a map. This tool would help people to come up with awesome ideas for hackathons, class projects, startups, and fun, and it also allow people to see  the trends/relationships in exciting ideas that are surging at a given point in time. Most of all, it's inspiring to think that through this system, you could bring vitality to the education industry by reducing every class project to, at worst, implementing an idea that someone, somewhere would be really excited to build if they had the time to. #intentiondb
 
 ~jcole@mit.edu
 Comments:
-[[Jacob: I randomly came across](http://wikiwall.com/)http://wikiwall.com/](http://wikiwall.com/) after we discussed the infinite whiteboard concept. I definitely like the concept of expanding the ideaoverflow app though. I go through all my ideas once or twice a month just for that purpose of finding connections and remembering important but forgotten thoughts. However with the connections, making sure their human-tagged versus auto-related is important. -Colin Winter #intentiondb
+[Jacob: I randomly came across http://wikiwall.com/](http://wikiwall.com/) after we discussed the infinite whiteboard concept. I definitely like the concept of expanding the ideaoverflow app though. I go through all my ideas once or twice a month just for that purpose of finding connections and remembering important but forgotten thoughts. However with the connections, making sure their human-tagged versus auto-related is important. -Colin Winter #intentiondb
 1/7/2013
 jcole@mit.edu
 Open
@@ -40,7 +42,7 @@ Comments:
 jcole@mit.edu
 Open
 +1
-[[“BigScreen” app](http://www.youtube.com/watch?v=KsWHk6UJLCI&feature=g-upl&context=G2eba5e4AUAAAAAAAAAA) (needs sound + video synch)/”Bigkeyboard app](http://intrepid-labs.com/blog/wp-content/flagallery/swyp-hackathon-februrary-2012/img.jpg)” -- Jacob Cole tmad4000@gmail.com #multidevice
+[“BigScreen” app (needs sound + video synch)/”Bigkeyboard app](http://intrepid-labs.com/blog/wp-content/flagallery/swyp-hackathon-februrary-2012/img.jpg)” -- Jacob Cole tmad4000@gmail.com #multidevice
 5/20/2012
 jcole@mit.edu
 jainp@mit.edu
@@ -108,7 +110,7 @@ Comments:
 neal@nealwu.com
 Maybe
 
-[[[[ProjectEvolution (For Truonex Hackathon with Hisham!)](http://jacobsstuff.tpclubs.com/webtesting/TruonexHackathon/timeline-portfolio/)http://jacobsstuff.tpclubs.com/webtesting/TruonexHackathon/timeline-portfolio/](http://jacobsstuff.tpclubs.com/webtesting/TruonexHackathon/timeline-portfolio/)](https://github.com/tmad4000/TruonexHackathon)https://github.com/tmad4000/TruonexHackathon](https://github.com/tmad4000/TruonexHackathon)
+[ProjectEvolution (For Truonex Hackathon with Hisham!) http://jacobsstuff.tpclubs.com/webtesting/TruonexHackathon/timeline-portfolio/ https://github.com/tmad4000/TruonexHackathon](https://github.com/tmad4000/TruonexHackathon)
 1/7/13
 [jcole@mit.edu](mailto:jcole@mit.edu)
 hbedri@mit.edu

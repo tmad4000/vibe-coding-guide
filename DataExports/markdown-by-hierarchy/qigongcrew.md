@@ -1,9 +1,11 @@
+# Qigongcrew
+
 [systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) >
 [Started by jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 QigongCrew Shared Doc #curatedlist #connectordoc
 Notes from crew of people who practice qigong
 
-[[[See Also: qigong.connectordocs.com](http://qigong.connectordocs.com/) • meditation.jacobcole.net](http://meditation.jacobcole.net/) • tea.jacobcole.net](http://tea.jacobcole.net/)
+[See Also: qigong.connectordocs.com • meditation.jacobcole.net • tea.jacobcole.net](http://tea.jacobcole.net/)
 [FB Chat:  Qigong Crew #groupChat](https://www.facebook.com/messages/t/3283331758434492/)
 
 Table of Contents:
@@ -27,7 +29,7 @@ Mini breakthrough: Mom did this 13 min Qi Gong set with me today after I told he
 https://youtu.be/mySWlSbGMhg #qigongRoutine
 Sharing this experience within this group, in case you wanna encourage your family to practice Qi Gong with you - it can be a nice bonding exercise!
 
-#depressionrelief #SADrelief
+Tags:, depressionrelief, SADrelief
 I have been feeling emotionally low lately (partially due to SAD), so I tried this Qigong set with my mom today.
 Impact:
 - We both felt warm sensations flowing through our body
@@ -70,14 +72,14 @@ Explanation of energetics inside “Embrace the Tree”  :)!
 
 [#paywall #qigongExercise https://www.maxwellreeder.com/fragrantqigonglevel1](https://www.maxwellreeder.com/fragrantqigonglevel1)  fragrant qigong Max Reeder
 
-[[#paywall https://digitallibrary.soundstrue.com/my-library/VT03943W](https://digitallibrary.soundstrue.com/my-library/VT03943W)Master Key Robert Peng](https://www.soundstrue.com/blogs/authors/robert-peng?utm_source=google&utm_medium=paid&utm_campaign=15761298840&utm_content=&utm_term=&gadid=&gclid=CjwKCAiAs8acBhA1EiwAgRFdw0USoVEWZRWdBTeEBYl75SuMeIREvsmUQaoWVWwUi7eN5EDWSiMnhRoCM2MQAvD_BwE)
+[#paywall https://digitallibrary.soundstrue.com/my-library/VT03943W Master Key Robert Peng](https://www.soundstrue.com/blogs/authors/robert-peng?utm_source=google&utm_medium=paid&utm_campaign=15761298840&utm_content=&utm_term=&gadid=&gclid=CjwKCAiAs8acBhA1EiwAgRFdw0USoVEWZRWdBTeEBYl75SuMeIREvsmUQaoWVWwUi7eN5EDWSiMnhRoCM2MQAvD_BwE)
 
 [Teacher Wei Zhineng Qigong Transmission](https://youtu.be/YMElB3I2J5o) — meditation and visualization; this one on the CNS (central nervous system)
 
 - Lookup qigong library youtube
 
 General
-[[[Peter Caughey Bali Qigong Facebook Videos](https://www.facebook.com/petercaugheyqigong/videos/?ref=page_internal) • Forest Rock School Site](http://forestrock.com/) • Zhan Zhuang Course](https://forestrock.com/courses/1070430/lectures/22805088)
+[Peter Caughey Bali Qigong Facebook Videos • Forest Rock School Site • Zhan Zhuang Course](https://forestrock.com/courses/1070430/lectures/22805088)
 
 ##
 
@@ -127,7 +129,7 @@ Zoom
 - https://www.daohearts.com/three-levels-of-entirety-practice-in-zhineng-qigong/ - 3 levels of awareness, Body, Qi, Consciousness
 - [Co-author of scientifically rigorous  Paranormal Abilities: The Techniques of Zhineng Qigong Science Paperback](https://www.amazon.com/Paranormal-Abilities-Techniques-Zhineng-Science/dp/0473358603)
 
-- [[Albert chen’s basic intro class https://www.youtube.com/watch?v=jmqb5ehMxDc&feature=youtu.be](https://www.youtube.com/watch?v=jmqb5ehMxDc&feature=youtu.be)  Bionic Energy Training Introduction bionic.energy](http://bionic.energy)
+- [Albert chen’s basic intro class https://www.youtube.com/watch?v=jmqb5ehMxDc&feature=youtu.be Bionic Energy Training Introduction bionic.energy](http://bionic.energy)
 
 - ~albert chen #qigongclass
 - Teacher external qi healing as well
@@ -163,7 +165,7 @@ Hawaii
 
 Questions
 
-#question @enlightenedPerson What's the meaning of wisdom?
+Tags:, question, @enlightenedPerson, What's, the, meaning, of, wisdom?
 
 —-
 

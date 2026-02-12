@@ -1,14 +1,16 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  hypnosis.jacobcole.net](http://hypnosis.jacobcole.net)
-#connectordoc
+# Hypnosis
+
+[systematicawesome.jacobcole.net >  hypnosis.jacobcole.net](http://hypnosis.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
 
 Hypnosis Discussion
 
-[[See Also:](#h.q0iikeug0rq4)1](#h.q0iikeug0rq4)
-[[Notes from Clubhouse discussion 10-30-20](#h.xqmum2soebpb)1](#h.xqmum2soebpb)
-[[Scratch](#h.8z5bigtwyrm)1](#h.8z5bigtwyrm)
+- [See Also:](#see-also)
+- [Notes from Clubhouse discussion 10-30-20](#notes-from-clubhouse-discussion-10-30-20)
+- [Scratch](#scratch)
 
 ## See Also:
 http://mentalstatehacks.jacobcole.net/
@@ -32,7 +34,7 @@ Philosophy background magritte, beethoven, stem cells
 
 Hypnosis
 
-#BasicSkill
+Tags:, BasicSkill
 There are some basic skills which make life much better for me. E.g. memory palaces during meditation
 Napping daily
 
@@ -47,7 +49,7 @@ Functional coordination between parts of brain whats that upstream
 Reverie hypnosis app alexa
 David Spiegel
 
-#learn  
+Tags:, learn
 Reveri health
 https://www.amazon.com/gp/product/B07PJ32P8X?ie=UTF8&path=%2Fgp%2Fproduct%2FB07PJ32P8X&ref_=nodl_&useRedirectOnSuccess=1 Alexa App #behaviorchange
 [Reverihealth.com](http://reverihealth.com)
@@ -55,7 +57,7 @@ https://www.amazon.com/gp/product/B07PJ32P8X?ie=UTF8&path=%2Fgp%2Fproduct%2FB07P
 ~clubhouse
 Helen Blau/Helen stem – creating plump tissue #aging <>Rainbow's End
 
-#question
+Tags:, question
 Theta waves / delta waves
         Left frontal theta -- high hypnotizability vs alpha
 
@@ -67,7 +69,7 @@ expressing self "as a piece of god"
 Rinpoche Shyalpa
 Buddhafield.usbuddhafield.us
 wenchenggongzhu.orgwenchenggongzhu.org  <> things happen "as m ...
-#meditation
+Tags:, meditation
 
 Gino Yu
 Prof. in HK

@@ -1,4 +1,6 @@
-[[ThingsYouDidntKnowExisted                                                                                                                    mitdoc.jacobcole.net](http://mitdoc.jacobcole.net) > thingsyoudidntknowexisted.jacobcole.net](http://thingsyoudidntknowexisted.jacobcole.net)
+# Thingsyoudidntknowexisted
+
+[ThingsYouDidntKnowExisted                                                                                                                    mitdoc.jacobcole.net > thingsyoudidntknowexisted.jacobcole.net](http://thingsyoudidntknowexisted.jacobcole.net)
 (also thingsyoudidntknowexisted.connectr.site)
                                           started by jcole@mit.edu
 
@@ -12,7 +14,7 @@ All the collaborative ThingsYouDidntKnowExisted docs organizing the world.   
 - [Thingsyoudidntknowexistedatstanford.connectr.site](http://thingsyoudidntknowexistedatstanford.connectr.site)
 
 -
-- [[t](http://thingsyoudidntknowexistedinhawaii.connectr.site)hingsyoudidntknowexistedinhawaii.connectr.site](http://thingsyoudidntknowexistedinhawaii.connectr.site) (.jacobcole.net also works)
+- [t hingsyoudidntknowexistedinhawaii.connectr.site](http://thingsyoudidntknowexistedinhawaii.connectr.site) (.jacobcole.net also works)
 - [ThingsyoudidntknowexistedinNyc.jacobcole.net](http://thingsyoudidntknowexistedinnyc.jacobcole.net)
 - [ThingsyoudidntknowexistedinSanDiego.jacobcole.net](http://thingsyoudidntknowexistedinsandiego.jacobcole.net)
 - [ThingsyoudidntknowexistedinSantacruz.jacobcole.net](http://thingsyoudidntknowexistedinsantacruz.jacobcole.net/)
@@ -42,7 +44,7 @@ All the collaborative ThingsYouDidntKnowExisted docs organizing the world.   
 [How to make a site like thingsyoudidntknowexistedatmit.tk](http://thingsyoudidntknowexistedatmit.tk/) in 5 min.
 [1. Copy thingsyoudidntknowexistedatmit.tk](http://thingsyoudidntknowexistedatmit.tk/) by going to File > Make a Copy. Edit it/customize for yourself, including title.
 [2. Get a free domain (extension .tk is free) for your homepage by going to dot.tk](http://my.dot.tk/cgi-bin/login01.taloha) > sign in with Google > Domain Panel > Add Domain. Paste in the URL of the doc. Register for 12 months.
-[[3. A](http://my.dot.tk/cgi-bin/login01.taloha)dd homepage to the list thingsyoudidntknowexisted.tk](http://minimalisthomepages.tk/)
+[3. A dd homepage to the list thingsyoudidntknowexisted.tk](http://minimalisthomepages.tk/)
 
 Comments:
 [Notice: does anyone want to help me make a web app for this? I want to make the site: thingsyoudidntknowexisted.in, which transcends and includes thingsyoudidntknowexistedatmit.tk, this page, and more. (Maybe thingsyoudidntknowexistedthatarerelevanttoyou.tk. If so, email me at jcole@mit.edu](mailto:jcole@mit.edu)

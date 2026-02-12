@@ -1,3 +1,5 @@
+# Tedx Mit Outline
+
 TedX MIT Talk Proposal Draft
 
 [Bio](#h.c3dmyxn5s6c)
@@ -252,7 +254,7 @@ I have given numerous talks at intellectual salons, and at the #Outliers startup
 If you've given a speech before, please provide a link to a video or transcript.
 
 https://www.youtube.com/watch?v=CVKttPfm-BA
-#Outliers startup accelerator and con. Here’s one of our reels!
+Tags:, Outliers, startup, accelerator, and, con., Here’s, one, of, our, reels!
 Let me know if you’d like other speaking footage.
 
 Here’s a technical + pitch + vision for future of the Web talk I gave at a demo day for a startup accelerator I was in. I have given others that are more “speech-y” I can likely find videos of if you’re interested, such as the #Outliers conference!
@@ -264,7 +266,7 @@ Next
 Clear form
 
 —--
-#draft https://otter.ai/u/zhV4DEE-6SI8iarKPAvDzfrvSOc?f=home&tab=summary
+Tags:, draft, https://otter.ai/u/zhV4DEE-6SI8iarKPAvDzfrvSOc?f=home&tab=summary
 
 ### Draft 1
 Oh, I like it. Okay, everybody clap as you can hear me. Everybody clap twice if you can hear me. Everyone clap three times if you can hear me. Sweet. Now we're gonna say someone's name and Max say your name and we're gonna add to it. Back. That's awesome. We've succeeded. And the way I started doing salons, as you guys are all aware is usually forget. Everyone go around the circle, say their name. Everyone echoes it back, and people share one thing you can ask them about one thing you can do it in the next week.

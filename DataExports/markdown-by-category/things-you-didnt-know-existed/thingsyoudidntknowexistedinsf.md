@@ -1,4 +1,6 @@
-[[Things You Didn’t Know Existed in the Bay Area                                                               thingsyoudidntknowexisted.jacobcole.net](http://thingsyoudidntknowexisted.jacobcole.net) >thingsyoudidntknowexistedinsf.jacobcole.net](http://thingsyoudidntknowexistedinsf.jacobcole.net)
+# Thingsyoudidntknowexistedinsf
+
+[Things You Didn’t Know Existed in the Bay Area                                                               thingsyoudidntknowexisted.jacobcole.net >thingsyoudidntknowexistedinsf.jacobcole.net](http://thingsyoudidntknowexistedinsf.jacobcole.net)
 Contribute to the list at top!                                                                                                                                             started by jacob@ideaflow.io
 
 Notice: does anyone want to help me make a web app for this? I want to make the site: thingsyoudidntknowexisted.in, which transcends and includes thingsyoudidntknowexistedatmit, this page, and more. (Maybe thingsyoudidntknowexistedthatarerelevanttoyou.tk. If so, email me at jcole@mit.edu)
@@ -51,7 +53,7 @@ Saigon Seafood Harbor 1135 Lawrence Expy., Sunnyvale; 3150 Pierce St., Richmond.
 Yank Sing 101 Spear St. and 49 Stevenson St., San Francisco. yanksing.com
 
 ### Dessert
-[[Smitten](https://www.facebook.com/chocolatelabsf?ref=stream&viewer_id=602720022) (SF, in SOMA) --](https://www.facebook.com/chocolatelabsf?ref=stream&viewer_id=602720022)Liquid Nitrogen Ice Cream made to Order
+[Smitten (SF, in SOMA) --](https://www.facebook.com/chocolatelabsf?ref=stream&viewer_id=602720022)Liquid Nitrogen Ice Cream made to Order
 [Honey Berry](http://www.yelp.com/biz/honey-berry-san-mateo-2)(in San Mateo at least) -- Best green tea ice cream ever; “added a new taste to my flavor vocabulary”
 [Chocolate Lab](https://www.facebook.com/chocolatelabsf?ref=stream&viewer_id=602720022)
 

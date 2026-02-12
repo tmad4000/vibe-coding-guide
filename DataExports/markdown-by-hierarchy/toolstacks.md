@@ -1,12 +1,14 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > toolstacks.jacobcole.net](http://toolstacks.jacobcole.net)
-#connectordoc #curatedList | startuptrickswiki.jacobcole.net
+# Toolstacks
+
+[systematicawesome.jacobcole.net > toolstacks.jacobcole.net](http://toolstacks.jacobcole.net)
+Tags:, connectordoc, curatedList, |, startuptrickswiki.jacobcole.net
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
-[[[See also: startuptrickswiki.jacobcole.net](http://startuptrickswiki.jacobcole.net/) • startupideas.jacobcole.net](http://startupideas.jacobcole.net) • hackathonprojects.jacobcole.net](http://hackathonprojects.jacobcole.net)
+[See also: startuptrickswiki.jacobcole.net • startupideas.jacobcole.net • hackathonprojects.jacobcole.net](http://hackathonprojects.jacobcole.net)
 
 Tool Stacks of Highly Effective Startups and People
 [Includes software and non-software tools](#h.2dof38rdf1pp), e.g. workflows, management frameworks. #connectordoc #curatedlist .
 
-[[Contribute at the top of “Inbox](#h.2b1c0h3dwoee)” section or Real Startups’ Toolstacks section](#h.gkqpt664ydx)!
+[Contribute at the top of “Inbox ” section or Real Startups’ Toolstacks section](#h.gkqpt664ydx)!
 
 [Inbox Misc Uncategorized #toFile        2](#h.2b1c0h3dwoee)
 [Info source        3](#h.9fbqm3seu2fs)
@@ -79,7 +81,7 @@ Capiche is a repository of information and discussions about the software we use
 
 [#book The Great CEO Within: The Tactical Guide to Company Building Kindle Edition](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC)
 
-#hire #services Hires & services that you should put extra effort towards in hiring/securing
+Tags:, hire, services, Hires, &, services, that, you, should, put, extra, effort, towards, in, hiring/securing
 Lawyer
 Bank account (Mercury recommended by AbstractOps (over Chase, SVB, First Republic, etc.)
 
@@ -87,14 +89,14 @@ Services that are more or less commoditized
 Bookkeeper, payroll, designer (Fiverr and Upwork offer great contracted design services)
 Landing page not super important early on
 
-#interviewing
+Tags:, interviewing
 Engr
 http://codingchallenge.jacobcole.net/
 [Interview Flow from Binc](https://docs.google.com/document/d/1pcLZgiqgzZsISc-ehwjD_R806U_Q1vmyUZTMUcxv8Rc/edit)
         Chief of Staff
 [#todo #private Interview Guide for Chief of Staff](https://docs.google.com/document/d/1UFB2PS4CujvGKT2qmYAX6xUwVWNx7-A_bIx6N7BnrW0/edit#heading=h.tcv7ugaapi1c)
 
-#chromeExtension
+Tags:, chromeExtension
 Tabs Outliner
         1Tab
 Quick Tabs (search/switch tabs)
@@ -105,7 +107,7 @@ When to make emails like hiring@ideapad.io users instead of groups on GSuite –
  Support
  Sales
  Info
-[[[It’s not necessary to make cos@ideapad.io](mailto:cos@ideapad.io) a user because if the chief of staff changes, you can just setup email forwarding or an auto-responder & be sure to cc cosarchive@ideapad.io](mailto:cosarchive@ideapad.io) on anything worth archiving which would forward to jacob+cosarchive@ideapad.io](mailto:jacob+archival@ideapad.io)
+[It’s not necessary to make cos@ideapad.io a user because if the chief of staff changes, you can just setup email forwarding or an auto-responder & be sure to cc cosarchive@ideapad.io on anything worth archiving which would forward to jacob+cosarchive@ideapad.io](mailto:jacob+archival@ideapad.io)
  Make notifications@ideapad.io a user not a group
 
 Preventing read receipts in Superhuman
@@ -264,8 +266,8 @@ Cloud App - Really quickly create and share quick gifs of what’s on your scree
 ### Ergonomics
 Buy 10+ reehut or other yoga blocks for ergonomics (can prop up laptop for video calls, prop up your elbows for using your phone and do many other things)
 Roost portable laptop stand
-#t extended monitor arm with VESA mounts
-#t Jacob’s reconfigurable iPad case, airpod keychain case
+Tags:, t, extended, monitor, arm, with, VESA, mounts
+Tags:, t, Jacob’s, reconfigurable, iPad, case,, airpod, keychain, case
 Ergodocs EZ split keyboard on mounted with rubberbands to metal vertical kinesis freestyle keyboard (tent) kit to make it vertical.
 [Rsiwiki.jacobcole.net](http://rsiwiki.jacobcole.net)
 

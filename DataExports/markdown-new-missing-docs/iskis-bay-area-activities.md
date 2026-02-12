@@ -1,49 +1,51 @@
-[[[tiny.cc/sftd SAN](https://localwiki.org/sf/)FRANCISCO](https://en.wikivoyage.org/wiki/San_Francisco)Best Current Event Tracker](https://linktr.ee/decenteredarts)
+# Iskis Bay Area Activities
+
+[tiny.cc/sftd SAN FRANCISCO Best Current Event Tracker](https://linktr.ee/decenteredarts)
 One Day Guide
 Stuff to do anytime:
 - [SKILLSHARE:  The Nook](https://thesfnook.com/) a new down to earth  space on Market (Feb’25) open to events of any kind, reach out!
 - [SIP: Tea at The Center SF](http://www.thecentersf.com/) Tea House with a warm community of never-strangers. Hosts lots of Musical and Spiritual Cultural Events and Capoeira every week.
-- [[[[B](http://www.sfbike.org/download/map.pdf)IKE](http://www.sfbike.org/download/map.pdf):](http://www.sfbike.org/download/map.pdf) it’s always a delightful journey in SF if you stop a lot and talk to strangers. Midnight Mystery](https://www.facebook.com/MidnightMysteryRide/) (3rd Sat.)
-- [[HIKE:  AllTrails](https://www.alltrails.com/lists/best-hikes-in-sf-bay-area), BA Hiker](http://bahiker.com) &
-- [[[[DANCE: Social (partner) Dance Melter's Mega Bay Area Dance Calendar](https://calendar.google.com/calendar/u/0/embed?src=1q2v1golel0hvuq4qo0a7l4p1k@group.calendar.google.com)Soundarya's,](https://soundarya.notion.site/Partner-Dancing-Bay-Area-154f1f2723e44ea4915ed9fd1908545b)Dance Maven](http://www.dancemaven.com/events/) & Soul Sanctuary](http://www.soulsanctuarydance.com/bay-area-dance-calendar.html) Event Calendars
+- [B IKE : it’s always a delightful journey in SF if you stop a lot and talk to strangers. Midnight Mystery](https://www.facebook.com/MidnightMysteryRide/) (3rd Sat.)
+- [HIKE:  AllTrails , BA Hiker](http://bahiker.com) &
+- [DANCE: Social (partner) Dance Melter's Mega Bay Area Dance Calendar Soundarya's, Dance Maven & Soul Sanctuary](http://www.soulsanctuarydance.com/bay-area-dance-calendar.html) Event Calendars
 
-- [[[Studio/Street Dance: City Dance Studios](https://www.citydancesf.com/) & OberlinDanceCollective](https://www.odc.dance/) (classes](https://clients.mindbodyonline.com/classic/mainclass?studioid=2717&tg=&vt=&lvl=&stype=&view=&trn=0&page=&catid=&prodid=&date=4%2f12%2f2018&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&justloggedin=&nLgIn=&pMode=0&loc=1)) (Modern, Afro, Hiphop etc)
-- [[CONTACT Improv:Local Jams & Map](http://www.contactimprov.com/california.html) & Some Weds The Center SF](https://www.google.com/maps/place/The+Center+SF/data=!4m2!3m1!19sChIJOak3a6SAhYARp0odgM0Y5XA)
+- [Studio/Street Dance: City Dance Studios & OberlinDanceCollective (classes](https://clients.mindbodyonline.com/classic/mainclass?studioid=2717&tg=&vt=&lvl=&stype=&view=&trn=0&page=&catid=&prodid=&date=4%2f12%2f2018&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&justloggedin=&nLgIn=&pMode=0&loc=1)) (Modern, Afro, Hiphop etc)
+- [CONTACT Improv:Local Jams & Map & Some Weds The Center SF](https://www.google.com/maps/place/The+Center+SF/data=!4m2!3m1!19sChIJOak3a6SAhYARp0odgM0Y5XA)
 
 - [ACRO yoga:National Mapping of Acro Yoga Events](http://acromaps.com/@37.7700164,-122.391338,13z?id=985)
 - [FLOW Jam: Dolores](https://www.facebook.com/groups/847914001916585/):Sundays 1-5 Justin Hermann: 1st Thurs. Tarpits
-- [[[FORAGE: Falling Fruit](https://fallingfruit.org/?z=13&y=37.77064&x=-122.43082&m=true&t=roadmap&l=false&locale=en&c=forager,freegan) Urban Foraging Mapped & TrashWiki](http://trashwiki.org/en/San_Francisco) Where to Dumpster (about](https://www.berkeleyside.org/2012/05/24/berkeley-as-edible-city-a-new-guide-to-urban-foraging) urban foraging)
+- [FORAGE: Falling Fruit Urban Foraging Mapped & TrashWiki Where to Dumpster (about](https://www.berkeleyside.org/2012/05/24/berkeley-as-edible-city-a-new-guide-to-urban-foraging) urban foraging)
 - REUSE: Buy Nothing
 
 - [Scrap](http://scrap-sf.org) - Big Warehouse of DIY Classes, Building, Thrifting, Reusing, AWESOMEness.
 
-[[Recyclemyjunk.com](http://www.recyclemyjunk.com/) Junk collection from your home Request Sidewalk Cleaning](https://www.sf.gov/request-street-or-sidewalk-cleaning)
+[Recyclemyjunk.com Junk collection from your home Request Sidewalk Cleaning](https://www.sf.gov/request-street-or-sidewalk-cleaning)
 [SF Food Not Bombs](http://www.sffnb.org/) Feeding the Homeless with Found/Donated Foods
-- [[[[MAKE: NoiseBridge](https://www.noisebridge.net): a huge skillsharing space in the mission. Longtime my favorite spot in  SF. Read up and go check it out. It’s unique even among Hacker Spaces](http://hackerspaces.org). (video](http://laughingsquid.com/kqed-quest-tour-of-noisebridge-hackerspace-in-san-francisco/)) & Workshopsf.org](http://www.workshopsf.org/) - DIY Classes
-- [[KINK:Erobay Calendar](http://www.erobay.com/calendar/Calcium40.pl?Op=ShowIt&CalendarName=Community) & CHECK Yoself: STI Testing Resources](https://docs.google.com/document/d/1OcCjfn7xzQDTnStVxF3rPRZpMRpfM4OqtNAE7i2M7Mc/edit)
+- [MAKE: NoiseBridge : a huge skillsharing space in the mission. Longtime my favorite spot in  SF. Read up and go check it out. It’s unique even among Hacker Spaces . (video ) & Workshopsf.org](http://www.workshopsf.org/) - DIY Classes
+- [KINK:Erobay Calendar & CHECK Yoself: STI Testing Resources](https://docs.google.com/document/d/1OcCjfn7xzQDTnStVxF3rPRZpMRpfM4OqtNAE7i2M7Mc/edit)
 - [DEPRIVE yourself: inSensory Deprivation Tanks](https://www.yelp.com/search?find_desc=sensory+deprivation+tank&find_loc=San+Francisco%2C+CA)
-- [[[SING: (drop-in choir) with the Bay Area Sacred Harp](https://bayareafasola.wordpress.com/local-singings/). FB Groups Vocal Jamming in the Bay Area](https://www.facebook.com/groups/VocalJamming/) & SF Vocal Improv](https://www.facebook.com/groups/595732190606742/)
+- [SING: (drop-in choir) with the Bay Area Sacred Harp . FB Groups Vocal Jamming in the Bay Area & SF Vocal Improv](https://www.facebook.com/groups/595732190606742/)
 
 [Rent a Music Room/Collaborate at the SF Community Music Center](http://sfcmc.org/)
 - [DUEL: Society for Creative Anachronism](http://www.sca.org/) (Medieval Martial Arts)
 - [STITCH: SF Needlework & Design](http://www.sfneedleworkanddesign.org/visit-us-2/) (Stitch Skillsharing Space at Union Square)
 - [FIX: The Bike Kitchen](http://www.bikekitchen.org/)- Volunteer Bike Mechanics with spare part/digging rights bins beyond your wildest dreams. SF’s only real open garage bike co-op.
-- [[WANDER: Golden Gate Park - Botanical Garden](http://www.google.com/search?q=conservatory+of+flowers+golden+gate+park&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#sclient=psy&hl=en&client=firefox-a&hs=D1y&rls=org.mozilla:en-US%3Aofficial&q=botanical+garden+golden+gate+park&aq=f&aqi=g-c1g-o1&aql=&oq=&gs_rfai=&pbx=1&fp=fad0bccbc44b8016), Waterfall, Conservatory of Flowers](http://www.google.com/search?q=conservatory+of+flowers+golden+gate+park&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a) (free 1st Tues.), Japanese Tea Garden, & (sadly) a Bison Paddock+Free Festivals all year long, etc.
-- [[Parkour](http://www.sfparkour.com/) / Freerun](http://www.baparkour.com/)It's the most fun you can have doing a full body workout.
-- [[[CLIMB: Indoor Rock Climbing at Planet Granite](http://planetgranite.com/locations/sanfrancisco/sf_faq.php),Mission Cliffs](https://touchstoneclimbing.com/mission-cliffs/)or Dogpatch Boulders](https://touchstoneclimbing.com/dogpatch-boulders/)
+- [WANDER: Golden Gate Park - Botanical Garden , Waterfall, Conservatory of Flowers](http://www.google.com/search?q=conservatory+of+flowers+golden+gate+park&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a) (free 1st Tues.), Japanese Tea Garden, & (sadly) a Bison Paddock+Free Festivals all year long, etc.
+- [Parkour / Freerun](http://www.baparkour.com/)It's the most fun you can have doing a full body workout.
+- [CLIMB: Indoor Rock Climbing at Planet Granite ,Mission Cliffs or Dogpatch Boulders](https://touchstoneclimbing.com/dogpatch-boulders/)
 
-- [[BATHE: at SF’s clothing optional Baker Beach](http://www.yelp.com/biz/baker-beach-san-francisco) or The Banya in Bayview](http://www.banyasf.com/)
+- [BATHE: at SF’s clothing optional Baker Beach or The Banya in Bayview](http://www.banyasf.com/)
 - [The Seward Slides](http://www.yelp.com/biz/seward-street-slides-san-francisco) - a beautiful urban-mountain walk to Polished Concrete Slides
-- [[[APPRECIATE: Stroll down the mural filledClarion](http://www.meganwilson.com/related/clarion.php) Alley,Balmy](http://www.google.com/search?q=balmy+alley&hl=en&client=firefox-a&hs=Mjy&rls=org.mozilla:en-US:official&prmd=ivns&tbm=isch&tbo=u&source=univ&sa=X&ei=q1S7Tb6MO4X6sAPC8LnYBQ&ved=0CC4QsAQ&biw=1680&bih=938) Alley & Precita Eyes](http://precitaeyes.org)
+- [APPRECIATE: Stroll down the mural filledClarion Alley,Balmy Alley & Precita Eyes](http://precitaeyes.org)
 - [OISHI: Nijiya](http://www.yelp.com/biz/nijiya-market-san-francisco) - Biggest Best Japanese Supermarket in town.
 
 - [Manila Oriental Market](http://www.yelp.com/biz/manila-oriental-market-san-francisco-2)Cheaper than Nijiya. HUGE. Imports from all South/East Asia.
 
-- [[[[MEDITATE: there are the San Francisco Zen Center](http://sfzc.org) (Lower Haight), SF Yoga Society](http://yogasocietysanfrancisco.com/)  & Buddhist Meditation Societ](http://www.againstthestream.org/)y & Integral Yoga Institute](http://integralyogasf.org/) (The Mission)
+- [MEDITATE: there are the San Francisco Zen Center (Lower Haight), SF Yoga Society & Buddhist Meditation Societ y & Integral Yoga Institute](http://integralyogasf.org/) (The Mission)
 - [READ: in the Many Beautiful SF Public Libraries](http://sfpl.org/)
 -
-- [[[Scavenger Hunt the POPOS](https://sfpopos.com/) Publicly owned, privately operated spaces. (Interactiv Map](https://sf.curbed.com/maps/sf-parks-private-popos-public-owned)) Pdf](https://www.spur.org/sites/default/files/migrated/anchors/popos-guide.pdf)
-- [[The Columbarium](http://www.atlasobscura.com/places/san-francisco-columbarium) and its Caretaker Emmitt](http://www.sfgate.com/entertainment/article/S-F-Columbarium-in-good-hands-with-Emmitt-Watson-2372258.php)
+- [Scavenger Hunt the POPOS Publicly owned, privately operated spaces. (Interactiv Map ) Pdf](https://www.spur.org/sites/default/files/migrated/anchors/popos-guide.pdf)
+- [The Columbarium and its Caretaker Emmitt](http://www.sfgate.com/entertainment/article/S-F-Columbarium-in-good-hands-with-Emmitt-Watson-2372258.php)
 - The Internet Archive gives tours every Friday
 - Parks & Rec offers Free Gyms, Pools, Dance Classes
 - [Bookbinders Museum](https://bookbindersmuseum.org/)
@@ -51,13 +53,13 @@ Stuff to do anytime:
 - [House of Air](https://www.houseofair.com/) Indoor Trampoline Park
 - [Audium](http://www.audium.org/) Not so impressive (i’m told) audio exhibit sitting in a room with 300 speakers.
 - [Dodge/Kickball with Outloud Sports](https://outloudsports.com/sanfrancisco)
-- [[Help Cleanup https://refuserefusesf.org/cleanups](https://refuserefusesf.org/cleanups) & https://togethersf.org/](https://togethersf.org/)
+- [Help Cleanup https://refuserefusesf.org/cleanups & https://togethersf.org/](https://togethersf.org/)
 - ClassPass
 
 Science, Seminars, Discussions, Future
 - [DorkBot](http://dorkbotsf.org/) Electronics & Tech Presentations Once a Month Rotating Location
 - [Mycological Society of San Francisco](http://mssf.org) - Hunting Forays and Meetups at a museum atop SF
-- [[The Long Now Foundation](http://longnow.org/seminars/) & The Interval](http://theinterval.org/events/) Futurism
+- [The Long Now Foundation & The Interval](http://theinterval.org/events/) Futurism
 - [Shaping SF](http://www.shapingsf.org/public-talks/index.html) Free Wednesday Talks on Culture
 - [Basic Income](http://www.meetup.com/San-Francisco-Bay-Area-Basic-Income-Meetup/) Discussion Group Wanting to Bring About Universal Income
 - [Wonderfest](http://wonderfest.org/#events) Science Talks & Events
@@ -79,7 +81,7 @@ Additional Resources:
 - [Fun Cheap](http://sf.funcheap.com/) DAILY updated free/cheap things to do.
 - [Brokeassstuart](http://sf-events.brokeassstuart.com/)
 - [Meetup.com](http://meetup.com) All kinds of social events.
-- [[[Museums](https://en.wikipedia.org/wiki/List_of_museums_in_the_San_Francisco_Bay_Area)in the bay](https://en.wikipedia.org/wiki/List_of_museums_in_the_San_Francisco_Bay_Area) and which days](http://freemuseumday.org/sf.html) they are free.
+- [Museums in the bay and which days](http://freemuseumday.org/sf.html) they are free.
 - [Atlas Obscura - SF](http://atlasobscura.com/globe/north-america/united-states/california/san-francisco)
 
 - [SFSecrets.com](http://sfsecrets.com) - AWESOME list of Stuff to See
@@ -92,23 +94,23 @@ Additional Resources:
 
 [>>> Weekly Calendar](https://calendar.google.com/calendar/embed?src=7r2jrib8bu9irclmd87b3a1i24%40group.calendar.google.com&ctz=America/Los_Angeles) <<<
 Monday
-- [[8pm Shades](https://www.facebook.com/shades.dance/)The Polish Club Inc.](https://www.google.com/maps/place/The+Polish+Club+Inc./data=!4m2!3m1!19sChIJp4BWWTh-j4ARw4EWMsMgnic) in The Mission
+- [8pm Shades The Polish Club Inc.](https://www.google.com/maps/place/The+Polish+Club+Inc./data=!4m2!3m1!19sChIJp4BWWTh-j4ARw4EWMsMgnic) in The Mission
 - [9:30-11:30 Open Jam for Street Dance @ City Ballet](https://www.cityballetsf.org/) (Event is by City Dance Studios)
-- [[Motown Mondays](https://madroneartbar.com/calendar/)Madrone Art Bar](https://www.google.com/maps/place/Madrone+Art+Bar/data=!4m2!3m1!19sChIJpVZ7r6-AhYARKukA_jhcpxs)
+- [Motown Mondays Madrone Art Bar](https://www.google.com/maps/place/Madrone+Art+Bar/data=!4m2!3m1!19sChIJpVZ7r6-AhYARKukA_jhcpxs)
 
 Tuesday
-- [[Contact Jam](https://www.facebook.com/groups/230776477604086)The Finnish Hall](https://www.google.com/maps/place/The+Finnish+Hall/data=!4m2!3m1!19sChIJN9y5CMB-hYARg4w1tAd3-C8)
-- [[East Bay F](https://www.facebook.com/groups/1200317343400926)usion Omni Commons](https://www.google.com/maps/place/Omni+Commons/data=!4m2!3m1!19sChIJJwYM6-F9hYARznHa8mfmfIo) @east bay community space
+- [Contact Jam The Finnish Hall](https://www.google.com/maps/place/The+Finnish+Hall/data=!4m2!3m1!19sChIJN9y5CMB-hYARg4w1tAd3-C8)
+- [East Bay F usion Omni Commons](https://www.google.com/maps/place/Omni+Commons/data=!4m2!3m1!19sChIJJwYM6-F9hYARznHa8mfmfIo) @east bay community space
 - Young Urban Zen www.yuz-sf.org
 
 Wednesday
-- [[7pm-9pm (3rd Wed.) Circlesing](http://www.circlesing.org/)First Congregational Church of Berkeley](https://www.google.com/maps/place/First+Congregational+Church+of+Berkeley/data=!4m2!3m1!19sChIJsS2xkyh8hYAR60j-TbaNc3o)
-- [[7pm-10pm Ecstatic Dance](http://ecstaticdance.org/w/)Sweets Ballroom](https://www.google.com/maps/place/Sweets+Ballroom/data=!4m2!3m1!19sChIJ_0CWcLKAj4ARXRqQTg7iO8E)in Oakland
+- [7pm-9pm (3rd Wed.) Circlesing First Congregational Church of Berkeley](https://www.google.com/maps/place/First+Congregational+Church+of+Berkeley/data=!4m2!3m1!19sChIJsS2xkyh8hYAR60j-TbaNc3o)
+- [7pm-10pm Ecstatic Dance Sweets Ballroom](https://www.google.com/maps/place/Sweets+Ballroom/data=!4m2!3m1!19sChIJ_0CWcLKAj4ARXRqQTg7iO8E)in Oakland
 - 9:30-11:30 Open Jam for Street Dance @ City Ballet (Event is by City Dance Studios)
 
 Thursday
 - [8pm Thursday Contact Jam](https://www.facebook.com/groups/188845517810407)
-- [[10pm: Open Mic at 16th St. Station](https://www.facebook.com/groups/103422546416088) (Mission & 16th) A bunch of us brown bagging, sharing, and entertaining](http://missionlocal.org/2009/08/poetry-takes-over-16th-st-bart-sation/) each other. One of my favorite gatherings of people/culture in SF.
+- [10pm: Open Mic at 16th St. Station (Mission & 16th) A bunch of us brown bagging, sharing, and entertaining](http://missionlocal.org/2009/08/poetry-takes-over-16th-st-bart-sation/) each other. One of my favorite gatherings of people/culture in SF.
 
 Friday
 - Salsa
@@ -149,10 +151,10 @@ Sunday
 [Folsom Street Fair](http://www.folsomstreetevents.org/folsomstreetfair/) Street Exibition of BDSM and Kink
 [Renegadecraft.com](http://www.renegadecraft.com/) Craft Fair (November & July)
 [Saint Stupid's Day](http://www.saintstupid.com/event.html)(April 1st)
-- [[PLAY: Annual Urban Street Games withSFZero](http://sf0.org/) like Journey](https://www.facebook.com/Journey-to-the-End-of-the-Night-164293923590751/)
+- [PLAY: Annual Urban Street Games withSFZero like Journey](https://www.facebook.com/Journey-to-the-End-of-the-Night-164293923590751/)
 
 Best views in SF/Marin in order:
-- [[Mt. Tamalpais](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Mount+Tamalpais,+CA&sll=37.754632,-122.429737&sspn=0.080076,0.181789&ie=UTF8&hq=&hnear=Mt+Tamalpais,+Mill+Valley,+Marin,+California+94941&ll=37.918472,-122.587852&spn=0.159797,0.363579&z=12) on a clear day is unparalleled.](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Mount+Tamalpais,+CA&sll=37.754632,-122.429737&sspn=0.080076,0.181789&ie=UTF8&hq=&hnear=Mt+Tamalpais,+Mill+Valley,+Marin,+California+94941&ll=37.918472,-122.587852&spn=0.159797,0.363579&z=12)
+- [Mt. Tamalpais on a clear day is unparalleled.](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Mount+Tamalpais,+CA&sll=37.754632,-122.429737&sspn=0.080076,0.181789&ie=UTF8&hq=&hnear=Mt+Tamalpais,+Mill+Valley,+Marin,+California+94941&ll=37.918472,-122.587852&spn=0.159797,0.363579&z=12)
 - Bernal Heights Park
 - Grand View Park
 - McKinley Park (and the community garden near it)
@@ -194,25 +196,25 @@ Kizomba & Tarraxo
 Swing & Blues
 https://danzhaus.tripod.com/
 
-[[[(calendar)](https://www.google.com/calendar/embed?src=ncaftrdpgft4mck0km8h7f4foo%40group.calendar.google.com&ctz=America/Los_Angeles)EAST BAY(map)](http://maps.google.com/maps/ms?msid=204920098963671773111.00045835b95a44f4673ab&msa=0&ll=37.836632,-122.263069&spn=0.177328,0.363579)(Berkeley)](https://localwiki.org/berkeley/)
+[(calendar) EAST BAY(map) (Berkeley)](https://localwiki.org/berkeley/)
 Stuff to Do:
 - [The Omni Commons](https://omnicommons.org/) 13 Collectives in one community space
 
-[[(inc. HackerSpace Sudo Room](https://sudoroom.org/) and Biohacking Counter Culture Labs](http://www.counterculturelabs.org/))
-- [[[Crash (Audit) Classes](https://guide.berkeley.edu/courses/) at UC-Berkeley, totally open to Public. try Intro Astronomy? Medical Ethnobotany? They’re better in person, but you can also listen/watch online](http://webcast.berkeley.edu)! Here’s my list of the best teachers](https://docs.google.com/document/d/1rcXmMbQj1BDHiqo5uoZuB_UrJoA7zWf2OK0--9eSSF4/edit) to blow your mind.
-- [[Thai Temple](http://www.yelp.com/biz/wat-mongkolratanaram-berkeley) (sunday 10am) Sit on the lawn eating super good thai food](https://www.instagram.com/wat.mongkolratanaram/?hl=en) at a buddhist temple.
+[(inc. HackerSpace Sudo Room and Biohacking Counter Culture Labs](http://www.counterculturelabs.org/))
+- [Crash (Audit) Classes at UC-Berkeley, totally open to Public. try Intro Astronomy? Medical Ethnobotany? They’re better in person, but you can also listen/watch online ! Here’s my list of the best teachers](https://docs.google.com/document/d/1rcXmMbQj1BDHiqo5uoZuB_UrJoA7zWf2OK0--9eSSF4/edit) to blow your mind.
+- [Thai Temple (sunday 10am) Sit on the lawn eating super good thai food](https://www.instagram.com/wat.mongkolratanaram/?hl=en) at a buddhist temple.
 - Cheeseboard/Slice
 - [Vik's Chaat](http://vikschaat.com/) - Indian Street food unlike the rest of the bay’s restaurants.
 - [Ecstatic Dance](http://www.ecstaticdanceeastbay.com/)Tune in drop out and have yourself an (sunday morn/wed night)
-- [[[[Contact Improv](https://www.youtube.com/watch?v=q4wUEiHowSU)Tuesday](https://www.facebook.com/groups/230776477604086) & Thursday](https://www.facebook.com/groups/thursdayjam/) jams at Finnish Hall](http://www.finnishhall.org/regular-classes/), Hippie freeform partner dancing.
-- [[[[C](http://oakland.chapelofthechimes.com/)hapel of the Chimes](http://oakland.chapelofthechimes.com/) Endless Columbarium /w Unique Julia Morgan Architecture @ the Beautiful  Mountain View Cemetery](http://www.mountainviewcemetery.org/) Once a year comes The Garden of Memory](http://www.gardenofmemory.com/) during solstice.
+- [Contact Improv Tuesday & Thursday jams at Finnish Hall](http://www.finnishhall.org/regular-classes/), Hippie freeform partner dancing.
+- [C hapel of the Chimes Endless Columbarium /w Unique Julia Morgan Architecture @ the Beautiful  Mountain View Cemetery Once a year comes The Garden of Memory](http://www.gardenofmemory.com/) during solstice.
 - [East Bay Vivarium](http://eastbayvivarium.com/) Lizard Arcology in West Berkeley
 - [Starry Plough Poetry Slams](https://www.thestarryplough.com/) (wed night) Irish Music Jam & Dancing (Sunday & Monday)
 - [CircleSing](http://www.circlesing.net/events.html)(3rd Wednesdays eve) Improv Vocal Harmony & Polyphony inspired by Bobby Mcferrin. Free
 
 - [Oakland Art Murmur](http://www.oaklandartmurmur.com) (1st Fridays Friday)
-- [[[Berkeley](http://www.meetup.com/berkeleyboardgamers)Board Gam](http://www.meetup.com/berkeleyboardgamers)ers](http://www.meetup.com/berkeleyboardgamers) (Mon/Thursday)
-- [[East Bay Bicycle Coalition](http://ebbc.org/) & East Bay Bike Party](http://eastbaybikeparty.wordpress.com/) (biking & dancing on 2nd Fridays)
+- [Berkeley Board Gam ers](http://www.meetup.com/berkeleyboardgamers) (Mon/Thursday)
+- [East Bay Bicycle Coalition & East Bay Bike Party](http://eastbaybikeparty.wordpress.com/) (biking & dancing on 2nd Fridays)
 - [Berkeley](https://www.couchsurfing.com/nearby?utf8=%E2%9C%93&search_type=discussion&search_query=Berkeley%2C+CA%2C+USA&latitude=37.8715926&longitude=-122.272747&country=&region=) & Oakland CouchSurfing Forum
 - [Cal Parkour](http://www.facebook.com/groups.php?ref=sb#/group.php?gid=2208600816)(this is the East Bay group,  it’s very fun, you can learn the basics in a day)
 
@@ -269,9 +271,9 @@ Lectures:
 - http://www.askascientistsf.com/links.html
 
 Outside the Bay:
-- [[Go on a Vipassana](https://www.dhamma.org/) Retreat - (ten day meditation retreat](http://en.wikipedia.org/wiki/Vipassana); minus any dogma; (only borderline mysticism); practices straight from Gautama himself) Highly recommend. It has helped me and my friends with all kinds of thing and keeps me reminding myself to be happy.
+- [Go on a Vipassana Retreat - (ten day meditation retreat](http://en.wikipedia.org/wiki/Vipassana); minus any dogma; (only borderline mysticism); practices straight from Gautama himself) Highly recommend. It has helped me and my friends with all kinds of thing and keeps me reminding myself to be happy.
 
-- [[[Camping/Exploring The Lost Coast](http://maps.google.com/?ie=UTF8&hq=&hnear=Central,+San+Francisco,+California&ll=40.327702,-123.884583&spn=1.235378,2.90863&z=9), Big Sur](http://maps.google.com/?ie=UTF8&hq=&hnear=Central,+San+Francisco,+California&ll=36.168923,-121.552734&spn=1.308171,2.90863&z=9),Angel Island](http://maps.google.com/?ie=UTF8&hq=&hnear=Central,+San+Francisco,+California&ll=37.856965,-122.40881&spn=0.079965,0.181789&z=13)
+- [Camping/Exploring The Lost Coast , Big Sur ,Angel Island](http://maps.google.com/?ie=UTF8&hq=&hnear=Central,+San+Francisco,+California&ll=37.856965,-122.40881&spn=0.079965,0.181789&z=13)
 - [Take the skibus](http://www.bayareaskibus.com/) to Tahoe! or have a friend drive you! 
 - Visit Bay Area Residential co-ops! 
 
@@ -302,8 +304,8 @@ DEFUNCT / LEGACY
 - [Karma Kitchen](http://www.karmakitchen.org/) (last Sundays) Pay-it-forward Donation Brunches Seated with friendly Strangers
 - [Yoga to the People](http://www.yogatothepeople.com/berkeley/) donation based, all day every day
 - [Tues 7pm OneSalon](http://www.onesalon.org/) Different Topic Every Week @ SF Make School
-- [[7pm-12am: SF (Board) Gamers](http://www.sfgames.org/)  (Mission & 24th) fbp](https://www.facebook.com/p/SF-Games-100057312977258)
-- [[[ManyLabs](https://www.manylabs.org/)  &  Artists Television Access](http://www.atasite.org/) &  Against the Stream](http://www.againstthestream.org/)
+- [7pm-12am: SF (Board) Gamers (Mission & 24th) fbp](https://www.facebook.com/p/SF-Games-100057312977258)
+- [ManyLabs &  Artists Television Access &  Against the Stream](http://www.againstthestream.org/)
 
 [(old map)](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=102811590280352046058.00045953af4eef3c71ea7&z=12)
 Iupdate this as the city updates, check back each year!

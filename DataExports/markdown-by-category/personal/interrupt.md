@@ -1,18 +1,20 @@
-[[`             systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > interrupt.jacobcole.net](http://interrupt.jacobcole.net)
-#connectordoc
+# Interrupt
+
+[`             systematicawesome.jacobcole.net > interrupt.jacobcole.net](http://interrupt.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
-#Interrupt #connectordoc
+Tags:, Interrupt, connectordoc
 To break train of thought and elevate to higher state
 [Direct Link](https://docs.google.com/document/d/1uR7BeRciuZWOjdcKso2Fi1Y0yOMisKudtphfw6ECRV0/edit#)
 [See also: wall.jacobcole.net](http://wall.jacobcole.net)
 
-[[#interrupt](#h.qo9e0op2pebb)1](#h.qo9e0op2pebb)
-[[#pain](#h.e3rmzuuecjwn)1](#h.e3rmzuuecjwn)
-[[#interrupt Full Imported List 4/4/21](#h.wedbsauot0zj)2](#h.wedbsauot0zj)
-[[From Ideaflow.app](#h.3ki2yqluv5vd)2](#h.3ki2yqluv5vd)
-[[From Phone](#h.bkx0iqcjjck1)13](#h.bkx0iqcjjck1)
-[[Goggins](#h.a7ejlohb9x28)113](#h.a7ejlohb9x28)
+- [#interrupt](#interrupt)
+- [#pain](#pain)
+- [#interrupt Full Imported List 4/4/21](#interrupt-full-imported-list-4421)
+- [From Ideaflow.app](#from-ideaflowapp)
+- [From Phone](#from-phone)
+- [Goggins](#goggins)
 
 ## @stress
 3 clearings
@@ -37,18 +39,18 @@ The Egg, imagining person I’m arguing with is a reincarnation of me
 Curated with love at https://ideaflow.app
 --
 maybe it’s not about me and getting to bed it’s about helping people?
-#interrupt
+Tags:, interrupt
 --
-#ideal German efficiency #interrupt -.-
+Tags:, ideal, German, efficiency, interrupt, -.-
 summer #interrupt
 --
 getting organized #best im getting organized #organization #interrupt
 --
-#keyterm atlas collection of charts
+Tags:, keyterm, atlas, collection, of, charts
 Covers real world
 Psych is just guessing how the world really exists having an intuitive map of the field
 Gamma wave state actions as aiming for brain state
-#Interrupt I have psychic powers can lift my finger, I can recall things – what are the limits of this? Curiosity leads help you discover what you are #Curiosity
+Tags:, Interrupt, I, have, psychic, powers, can, lift, my, finger,, I, can, recall, things, –, what, are, the, limits, of, this?, Curiosity, leads, help, you, discover, what, you, are, Curiosity
 What if the math lead to something magical like  telekinesis
 Learn this esoteric math and you have power to impact real world
 That's also magic
@@ -57,7 +59,7 @@ That's also magic
 --
 Do you sometimes find the fear of what could happen is making nothing happened in your life? @fear #quote #interrupt  
 --
-#constantawareness @mom @me you’re more skilled than this ;
+Tags:, constantawareness, @mom, @me, you’re, more, skilled, than, this, ;
 no need to stay up late
 or fall to pieces at stressor
 have all these skills now
@@ -65,46 +67,46 @@ like Jarvis #interrupt @eating
 it would violate the Tao to go supernormal for ordinary things #psych the Tao is more important. How else could i learn the Tao anyhow?
 it’s all a grand cosmic ballet
 --
-#interrupt #eating feel all chakras and ask what they'd say
-#sleep
+Tags:, interrupt, eating, feel, all, chakras, and, ask, what, they'd, say
+Tags:, sleep
 not just mind
 --
 IIDEA OF MAKING A WISH #best #interrupt @depression
 --
 Maybe my ministry can be in the form of blog posts?
-#concept #lifegoal ministry vs career?
-#ideal -.-
-#word #ministry
-#interrupt #thinkabout #o #t
-#write #generosity @mom
+Tags:, concept, lifegoal, ministry, vs, career?
+Tags:, ideal, -.-
+Tags:, word, ministry
+Tags:, interrupt, thinkabout, o, t
+Tags:, write, generosity, @mom
 --
 A powerful cultivation path and leading question is: do whatever you want to do
-#Taoism #LeadingQuestion #interrupt
+Tags:, Taoism, LeadingQuestion, interrupt
 --
-#quote  you are swimming in god #interrupt <>swimming in qi
+Tags:, quote, you, are, swimming, in, god, interrupt, <>swimming, in, qi
 --
 Don’t be a spiritual mugwump #journal #insight #interrupt
 --
-#line #quote the qi never stops -- follow the qi #taichitrick #wuwei <>always moving forward #parkour principle
+Tags:, line, quote, the, qi, never, stops, --, follow, the, qi, taichitrick, wuwei, <>always, moving, forward, parkour, principle
 <>to act in a particular way with all attention focused on the action – as lecturing goes on attention increases
-#inducescreaking
+Tags:, inducescreaking
 drop weight into ffoot and floor one after the other
-#best #taichitrick
+Tags:, best, taichitrick
 crossed wrists position #inducesqi aligned w tfcc
 shift to heels pulls hands back hands do nothing in bow , also before push
 chestbone does the orm arms follow
 drop onto arch push with toe implies forward back weight shift
-#best #interrupt #taichitrick
+Tags:, best, interrupt, taichitrick
 
 balance is the essence of happiness – eat some amount of food? move. #best #profound
-#interrupt
+Tags:, interrupt
 --
 nam myoho teleports me to a buddhist monastery #interrupt #mentalstatehack . not just a song
 --
-#startuptrickswiki #quote do something today the world may speak of hereafter
-#interrupt
+Tags:, startuptrickswiki, quote, do, something, today, the, world, may, speak, of, hereafter
+Tags:, interrupt
 --
-#buy thicker sticky mat
+Tags:, buy, thicker, sticky, mat
 
 spread fingers palm to demonstrate arch on floor
 wed 11:17am
@@ -132,11 +134,11 @@ legs and qi push
 qi and feelings different but similar
 feelings animate qi Alsoo
 --
-#interrupt clearing your mind
+Tags:, interrupt, clearing, your, mind
 <> omar diab happiness technique
 --
-#music #mentalstatehack Relaxing Sleep Music • Deep Sleeping Music, Relaxing Music, Stress Relief, Meditation Music (Flying)
-#sleep #interrupt
+Tags:, music, mentalstatehack, Relaxing, Sleep, Music, •, Deep, Sleeping, Music,, Relaxing, Music,, Stress, Relief,, Meditation, Music, (Flying)
+Tags:, sleep, interrupt
 
 keeping a thoughtstream doesn't make sense unless you also keep a bunch of public lists? #explainingIdeaflow  shared tags?
 and have a suggestion box platform @team #tt
@@ -144,25 +146,25 @@ and have a suggestion box platform @team #tt
 no fighting self needed all forces are towards good #ease #best #interrupt
 --
 or at least the quantum wildness of the unobserved #quote
-#quote #blurb #interrupt
+Tags:, quote, blurb, interrupt
 I always thought the Robinson Crusoe / MacGyver ideal of "tinker better external tools to make life more comfortable and live longer" was the only way to go. I then got into tinkering with "internal mechanisms" and philosophies to make it easier to thrive in the face of cold, pain, and other challenges - in part by changing my identification of my self less towards my body or mind but with a sort of cosmic observer. Then things really flipped when I realized  and "I can just think and things move" helped me realize that in order to take any physical action, I first move an intention – something immaterial. Partly per my friend's physics book I came to appreciate that immaterial things are valid pieces of reality, not to be given second class citizen status. Primary perceptions are more real than atoms! The immaterial thing is more the "real" me than anything classically physical!
 Then I realized that immaterial thing is more the "real" me. #transcendence
 ​
 [1:32 PM] Jacob Cole (Guest)
-#grandchallenge how do you, starting with western solipsism, lead up the bridge to "enlightment" to the true nature of reality, which cannot be perceived withyhe eyes?
+Tags:, grandchallenge, how, do, you,, starting, with, western, solipsism,, lead, up, the, bridge, to, "enlightment", to, the, true, nature, of, reality,, which, cannot, be, perceived, withyhe, eyes?
 ​
 
-#grandChallenge Induce sense of qi in 5 min
+Tags:, grandChallenge, Induce, sense, of, qi, in, 5, min
 Induce spirit world shift in 5 min
 
 ~systemicChange
 
 --
-#interrupt I always thought the Robinson Crusoe / MacGyver ideal of "tinker better external tools to make life more comfortable and live longer" was the only way to go. I then got into tinkering with "internal mechanisms" and philosophies to make it easier to thrive in the face of cold, pain, and other challenges. Then things really flipped when I realized  and "I can just think and things move" helped me realize that in order to take any physical action, I first move an intention – something immaterial. Per my friend's physics book I came to appreciate that immaterial things are valid pieces of reality, not to be denied. Then I realized that immaterial thing is more the "real" me. #transcendence
+Tags:, interrupt, I, always, thought, the, Robinson, Crusoe, /, MacGyver, ideal, of, "tinker, better, external, tools, to, make, life, more, comfortable, and, live, longer", was, the, only, way, to, go., I, then, got, into, tinkering, with, "internal, mechanisms", and, philosophies, to, make, it, easier, to, thrive, in, the, face, of, cold,, pain,, and, other, challenges., Then, things, really, flipped, when, I, realized, and, "I, can, just, think, and, things, move", helped, me, realize, that, in, order, to, take, any, physical, action,, I, first, move, an, intention, –, something, immaterial., Per, my, friend's, physics, book, I, came, to, appreciate, that, immaterial, things, are, valid, pieces, of, reality,, not, to, be, denied., Then, I, realized, that, immaterial, thing, is, more, the, "real", me., transcendence
 --
-#interrupt "stay curious"
+Tags:, interrupt, "stay, curious"
 --
-#interrupt notice when energy off in work and step back
+Tags:, interrupt, notice, when, energy, off, in, work, and, step, back
 --
 do them for other people
 empathy for future and past self
@@ -170,58 +172,58 @@ So, this, this goes back a little bit, but this connects here. So, like one way 
 
 empathy for friends supporting each other
 2:07:57And like it, I like it.
-#panicinduce
-#interrupt  planning
+Tags:, panicinduce
+Tags:, interrupt, planning
 
 Planning don't let your life just happen to you plan ahead and seek out and seize the different classes you want
 --
 noticing i'm no good to send message to dk
-#interrupt #tiredness
+Tags:, interrupt, tiredness
 --
 brought back totally in the zone of high school forced to be perfectly nice to chase
 he assumes the best of me
-#interrupt don't want to let him down or any of the people who hold backup copies of me through high expectations
+Tags:, interrupt, don't, want, to, let, him, down, or, any, of, the, people, who, hold, backup, copies, of, me, through, high, expectations
 @ missing entity 148  
 --
-#consciousness that's why energy passingwr meridian tracing should work over zoom
+Tags:, consciousness, that's, why, energy, passingwr, meridian, tracing, should, work, over, zoom
 spirit is in there
 @samvit energy feeling
 marie callen warm water neofins. nicest wetsuit learning best in the gentlest way. similarly for si connect?
 also now i have this masculine boldness;nd energy[
 but needs some rebuilding?
 most feminine env invokes the masculine
-#yinAndYang
+Tags:, yinAndYang
 breathing all the way out evokes the involuntary in breath " you have no choice " ~wccc #engrain #interrupt
 --
-#mem feeling so good #postqigong that nothing bothered me and i just did my thing #engrain #thinkabout #interrupt
+Tags:, mem, feeling, so, good, postqigong, that, nothing, bothered, me, and, i, just, did, my, thing, engrain, thinkabout, interrupt
 --
 The idea that the actual thing that is seeing things is the pain Eli and everything else is just inputs maybe this realization allows you to see more than what is currently materially present even in the most difficult times #selfrealization
 ?
-#meditationTrick? have good philosophy? can that help me have imperturbable calm and produce theta waves?
+Tags:, meditationTrick?, have, good, philosophy?, can, that, help, me, have, imperturbable, calm, and, produce, theta, waves?
 like realizing i'm a god-inflated thing seeing thru a pinhole?
 what leads to that calm and coherence?
-#pain #interrupt #engrain #thinkabout
+Tags:, pain, interrupt, engrain, thinkabout
 --
-#interrupt Do you realize how good our lives could be Note_20200723_2118_otter.ai.txt
+Tags:, interrupt, Do, you, realize, how, good, our, lives, could, be, Note_20200723_2118_otter.ai.txt
 --
-#fun #interrupt the key to doing accents is to talk about the kind of thing you talk about in that context, not just change the phonemes
-#identy #behaviorChange
+Tags:, fun, interrupt, the, key, to, doing, accents, is, to, talk, about, the, kind, of, thing, you, talk, about, in, that, context,, not, just, change, the, phonemes
+Tags:, identy, behaviorChange
 --
-#goodvibes #interrupt adam towers
+Tags:, goodvibes, interrupt, adam, towers
 --
 notice the ripple effect of each bite! #interrupt #meditation
 --
 not dropping not rising but floating 15:03 ~wccc
 meditation session is I have 20 minutes to get myself moving with the right quality of movement this is the towel, I can use standing on the melt roller or William cc chens voice , or tai chi form
 How can I expect to do anything right or well without the right quality of movement
-#TheArtOfAscention
-#interrupt
+Tags:, TheArtOfAscention
+Tags:, interrupt
 like dr woodrow
-#best
+Tags:, best
 --
-#energytest jeanette Practice getting hitFight punch stomachKnows how to absorb 11:49 Punch stomach expand w qiHitself w bamboo How far can I get with effortlessness? #q Knockout punch without clench11:44#review Peter caughey arm outer edge ex Never deliver directory open ribcage then toe connect to fingers #energynotmyown The automatic windupsNoticing auto motion sof body#Gestalt wccc as sorcerer -.-Body arts as sorcery #trance so paraspirit can take over #interrupt When you use balance etc to move in tai chi universe spirit takes over and moves things not you, just like in breathing  #spiritualtechnology abundant source of #energynotmyown Restorative yoga as secret family art to learn  #motivation #WhyAwesome scarcityEvery real world interaction a metaphysical one tooSpirit war going on Just being enacted through bodiesSpirit doing martial arts in calm situation or in trialOr forces in side you fighting martial arts #DialecticResolution if they must fight have it be a dance?If there must ifPinky finger help index little lift of pinky "awareness finger" no index#Engrain beach ball cue11:20 am elblownstaycfloat body stay downArch staydown?I'm stay in the floor/  earth /Pilates as sorcery to erect barrier against instability mmErect emotional barrier mom #Gestalt <>alternative operating... alternative operating system ~Joe deishar <>Pilates as sorcery to... <>every moment using magic to move ~Dr Strange every moment using magic to move ~Dr Strange <>alternative operating... Wrist pairing Move wrist in punch on forger click top of wrist reaches outMove index knuckle @wccc soft carpet
+Tags:, energytest, jeanette, Practice, getting, hitFight, punch, stomachKnows, how, to, absorb, 11:49, Punch, stomach, expand, w, qiHitself, w, bamboo, How, far, can, I, get, with, effortlessness?, q, Knockout, punch, without, clench11:44review, Peter, caughey, arm, outer, edge, ex, Never, deliver, directory, open, ribcage, then, toe, connect, to, fingers, energynotmyown, The, automatic, windupsNoticing, auto, motion, sof, bodyGestalt, wccc, as, sorcerer, -.-Body, arts, as, sorcery, trance, so, paraspirit, can, take, over, interrupt, When, you, use, balance, etc, to, move, in, tai, chi, universe, spirit, takes, over, and, moves, things, not, you,, just, like, in, breathing, spiritualtechnology, abundant, source, of, energynotmyown, Restorative, yoga, as, secret, family, art, to, learn, motivation, WhyAwesome, scarcityEvery, real, world, interaction, a, metaphysical, one, tooSpirit, war, going, on, Just, being, enacted, through, bodiesSpirit, doing, martial, arts, in, calm, situation, or, in, trialOr, forces, in, side, you, fighting, martial, arts, DialecticResolution, if, they, must, fight, have, it, be, a, dance?If, there, must, ifPinky, finger, help, index, little, lift, of, pinky, "awareness, finger", no, indexEngrain, beach, ball, cue11:20, am, elblownstaycfloat, body, stay, downArch, staydown?I'm, stay, in, the, floor/, earth, /Pilates, as, sorcery, to, erect, barrier, against, instability, mmErect, emotional, barrier, mom, Gestalt, <>alternative, operating..., alternative, operating, system, ~Joe, deishar, <>Pilates, as, sorcery, to..., <>every, moment, using, magic, to, move, ~Dr, Strange, every, moment, using, magic, to, move, ~Dr, Strange, <>alternative, operating..., Wrist, pairing, Move, wrist, in, punch, on, forger, click, top, of, wrist, reaches, outMove, index, knuckle, @wccc, soft, carpet
 --
-#interrupt don't waste these years of good stamina / healing potential
+Tags:, interrupt, don't, waste, these, years, of, good, stamina, /, healing, potential
 --
 have rituals i can do to transform my energy and integration – that's the path out of holes? #interrupt  -.- #interrupt #getgoodat
 become sorcerer
@@ -232,7 +234,7 @@ once mind cracks open you can start to see its mechanics
 energy is about psychological energy energy in yourwn mind . that's what you'vre moving, channeling gathering. motivational energy. whetehr it could be perceived externally is irrelevant. that's what these rituals are for. working with the energy of a shattered mind, which, per God's debris #commentary that's what this whole universe is
 that's what peter caughey is working with, like sorcery #storyidea
 --
-#projectIdea tangram-like construction.
+Tags:, projectIdea, tangram-like, construction.
 fewest pieces to cover over a certain amt?
 blocksworld
 chemistry, baking, runescape crafting or minecraft crafting and legos  -- operations and compositions and output
@@ -253,14 +255,14 @@ Feng Shui not as a statement about energies that are flowing in the world, but p
 --
 got to take care and be nice to ea other and self; covid don't want each other to die #interrupt
 --
-#interrupt #pttrick #sideplank activating and becoming really centered in core / neutral spine
+Tags:, interrupt, pttrick, sideplank, activating, and, becoming, really, centered, in, core, /, neutral, spine
 --
 Sense of stimulating the muscle just the minimum amount with a brand band springy band #Best #Interrupt #buoyantfitness #motivation*  #liminalStrengthening
 --
 properly bracing self #lifeinsight #insight #engrain
-#interrupt  <> change of basis
+Tags:, interrupt, <>, change, of, basis
 --
-#read cory doctorow walk away
+Tags:, read, cory, doctorow, walk, away
 imagine society gets nuked
 what tools do we need to build to start coordinating ourselves
 
@@ -278,19 +280,19 @@ From Me to Everyone: (8:48 PM)
 From Jerry Michalski to Everyone: (9:03 PM)
  Guilds: MapWhisperers and StoryThreaders. So now Curators
 
-#conversation with @ missing entity ILAPouA4-  
+Tags:, conversation, with, @, missing, entity, ILAPouA4-
 
-#network oregon angel fund grit
+Tags:, network, oregon, angel, fund, grit
 
 @ missing entity ILAPouA4-  #tt make list of jerry's projects
 eld3rs.net
 
-#interrupt #pain navy seal box breathing <> breathe past thoughts #satiety
+Tags:, interrupt, pain, navy, seal, box, breathing, <>, breathe, past, thoughts, satiety
 
 https://www.amazon.com/Gods-Debris-Experiment-Scott-Adams/dp/0740747878
 
 soil health Klaus mager
-#external Charles Massy
+Tags:, external, Charles, Massy
 
 josh whiton
 # dave witzel . joel soliton polyphase farms
@@ -308,11 +310,11 @@ become aware of tension systems in mind body and world around #interrupt
 
 --
 get long in #sideplank - extend thru infinite #cue
-#interrupt pilates creating length and space
+Tags:, interrupt, pilates, creating, length, and, space
 @wall get springy. quality of movement. Pilates: create length. Extend into infinite
 train tunnel cue for #sideplank #pttrick
 realizing #pilatesTrick #best #pttrick trying to open conduit of body and stabilize it as such. make self as long as possible in plank/dying bug. That's why it's great to get perfect alignment using springy tools
-#recall #review trick of some sort with exhale for #dyingbug . maybe get hollow chest wccc or gymnastics style?
+Tags:, recall, review, trick, of, some, sort, with, exhale, for, dyingbug, ., maybe, get, hollow, chest, wccc, or, gymnastics, style?
 
 dima #tt #thank
 
@@ -323,7 +325,7 @@ pilates and yoga creating length and space in the body #interrupt #whyawesome pi
 --
 
 be conscious of th
-#best #taichiprinciple tai chi and life as a series of stepping stones #write @blog <> ... <>seeing the chain of consequences, the ripples of each action like paul atreides in ~dune
+Tags:, best, taichiprinciple, tai, chi, and, life, as, a, series, of, stepping, stones, write, @blog, <>, ..., <>seeing, the, chain, of, consequences,, the, ripples, of, each, action, like, paul, atreides, in, ~dune
 in tai chi stillness isn't stasis, but a journey forward; the shortest path, the fastest way for internal processes to complete ; this is aliveness
 Similarly, repetition isn't repetition; each move brings you closer toward a goal, like steps up a mountain. Each one might be more challenging to do. Imagine if you wanted to climb a mountain and insisted on going backward every other step because it was "too repetitious"! You'd never get beyond basecamp. And that would actually be what gets repetitious indeed. We need to have sustained, repeated practice to get out of the mental equivalent of basecamp
 <> the tai chi form is a series of stepping stones, one movement leads to another <> one thing leads to another from college essay @litany
@@ -332,17 +334,17 @@ Similarly, repetition isn't repetition; each move brings you closer toward a goa
 
 On each repetition, pulsation, breath, internal counters are ticking forward. Or external counters. cycles are not cycles but spirals
 It's like choices down the ski slope. We are always lower down the mountain of time <>parinam-vada ~religiousness in yoga
-#motivation #exercise
-#whyawesome weight training
-#whyawesome swimming <>swimming is journey, meditation is journey, weight lifting is journey
+Tags:, motivation, exercise
+Tags:, whyawesome, weight, training
+Tags:, whyawesome, swimming, <>swimming, is, journey,, meditation, is, journey,, weight, lifting, is, journey
 Realizing that things are always changing , always different helps me be present now #interrupt #presence. "nothing is ever the same" . the choices you make now matter! <>experiencing now for the first time buddhist quote from MIT 5 year reunion talk ~minh tue
 This can help if you're stuck in a rut #profound
 <>sword is alive
 "Each action leads to next like the next note in a song, word in a poem, step in a dance" #engrain @wall
  – the medium is alive and has "preferences". Like the body <>"I want a sandwich" is no different than a bubble "wants" to get to the top of a glass. Both have "preferences"
 ?#flow
-#best*
-#microcosm #containsWholeWorld
+Tags:, best*
+Tags:, microcosm, containsWholeWorld
 Everything is a
 Dance
 videogames
@@ -360,12 +362,12 @@ each decision i make makes other future choices slightly easier or slightly hard
 
 --
 https://www.healthline.com/health/box-breathing#hold-your-breath
-#breathing #pranayama box breathing 4-4-4-4
-#interrupt
+Tags:, breathing, pranayama, box, breathing, 4-4-4-4
+Tags:, interrupt
 navy seal technique
-#satiety sleep 4-7-8-0
+Tags:, satiety, sleep, 4-7-8-0
 --
-#interrupt imagine self doing qigong after meal
+Tags:, interrupt, imagine, self, doing, qigong, after, meal
 w food
 feel fullness of belly #eating
 --
@@ -415,7 +417,7 @@ The remarkable stuff you can do with just someone who does their homework
 My homework is to go to sleep on time and to get exercise and to do these other things #BehaviorChange #Interrupt
 I need to remember how I did organization in high school with agenda
 
-#Interrupt #ideal
+Tags:, Interrupt, ideal
 
 going back to china after harvard and being a superstar
 being regarded in that way
@@ -427,7 +429,7 @@ Super skilled at mental states
 We're living the happily ever after
 Not quick <>bonus round of life
 Coming back as the guy who made it  
-#write life after harvard
+Tags:, write, life, after, harvard
 Life in the Elysian Fields
 After enlightenment
 Vzhuang keep that time alive?
@@ -450,7 +452,7 @@ Rectifying Fa as I go, penetrating all layers of the cosmos
 All choosing to oppose the rectification were eliminated
 When Heaven wishes for change, who’d dare obstruct?
 The cosmos, now rebuilt, will never again turn bad
-#falu
+Tags:, falu
 —
 Can I change my stars? Is that what western activities and structures are? Changing your stars? #Interrupt #Profound
 Changing structure so you can ride downhill in relaxation?
@@ -465,7 +467,7 @@ Inner order, why have you forsaken me
 My God my God why have you forsaken me didn't Jesus already know
 https://youtu.be/x6DajaVz1YE
 
-#men make good choices #Interrupt  
+Tags:, men, make, good, choices, Interrupt
 Others? #tt
 
 I'm feeling good about this path, even though it's unusual
@@ -473,20 +475,20 @@ Just like it's the way, maybe
 Felix felicitus
 Even if it doesn't make sense
 The thing that feels good is the path to get the rhythm together
-#Interrupt
+Tags:, Interrupt
 What does the way feel like? <>The difference between...
 
 A day should be a continuous sequence of things that you have done that you can look back on and are proud of #selfefficacy #Interrupt
 
 Oh you who turn the wheel and look to windward remember phlebus who was once as handsome and tall as you #line
 <>but I also do not see... #poem
-#selfimage #Interrupt #poem #quote ~ts eliot
+Tags:, selfimage, Interrupt, poem, quote, ~ts, eliot
 You are beauty you are the image of god
 
 Combine meditative practice and eating and life and work
 Go a little slower #Interrupt
 
-#DistractionTactic
+Tags:, DistractionTactic
 Drinking water #Interrupt
 
 Listen
@@ -496,10 +498,10 @@ Do as people do here #grounding
 
 Hygiene
 Pt as hygiene
-#Interrupt
+Tags:, Interrupt
 Organization and fitness as hygiene
 
-#Interrupt wccc voice and pace is #sanctuary
+Tags:, Interrupt, wccc, voice, and, pace, is, sanctuary
  <>rich inner garden ~dada... <>fully resourced state... <>alpha theta crossover... #theState #best
 Taichi book as a psychedelic cookbook or directions to heaven
 Would be willing to walk through walls for that as psychedelic four road to have him directions to happen I guess 750 a week training manual for a different type of heaven
@@ -514,13 +516,13 @@ Can music be paradise
 The ocean or a band
 Maybe the fundamental human tendency you in the fundamental tendency of consciousness is to construct paradise is where ever it is where ever we are planning to be in inner paradise or an outer one
 
-#Interrupt psych
+Tags:, Interrupt, psych
 Spirit not born of parents
 
-#mem n #feeling standing  like a mountain with Dima #engrain #chairpose #PTTrick #EnergeticPT #Interrupt #TaiChiTrick
+Tags:, mem, n, feeling, standing, like, a, mountain, with, Dima, engrain, chairpose, PTTrick, EnergeticPT, Interrupt, TaiChiTrick
 
 No time for moving there's more than one lifetime's worth of stuff to do! Creatively etc
-#Interrupt #curate this list of inspiring things
+Tags:, Interrupt, curate, this, list, of, inspiring, things
 
 Buddhist monks must be having fun it must be so fun to be a Buddhist monk
 An ai must have a body? How about an actuator just a solenoid with touch feedback?
@@ -541,25 +543,25 @@ See yourself in it = see god in it?
 
 Be able to operate from half asleep realm #PTTrick #Organization #Interrupt
 
-#keyterm atlas collection of charts
+Tags:, keyterm, atlas, collection, of, charts
 Covers real world
 Psych is just guessing how the world really exists having an intuitive map of the field
 Gamma wave state actions as aiming for brain state
-#Interrupt I have psychic powers can lift my finger, I can recall things – what are the limits of this? Curiosity leads help you discover what you are #Curiosity
+Tags:, Interrupt, I, have, psychic, powers, can, lift, my, finger,, I, can, recall, things, –, what, are, the, limits, of, this?, Curiosity, leads, help, you, discover, what, you, are, Curiosity
 What if the math lead to something magical like  telekinesis
 Learn this esoteric math and you have power to impact real world
 That's also magic
 
-#Interrupt homeostasis
+Tags:, Interrupt, homeostasis
 
-#Interrupt ~david goggins it's not mind over matter
+Tags:, Interrupt, ~david, goggins, it's, not, mind, over, matter
 It's just asking yourself call you are you call
 Getting beyond a person born tiparents and being a spirit existing this world #Fearlessness  
 It's pathetic if you are call down by other peoples expectations review/once possible. Embody the qualities of the universe so that they no longer hold you back let your spirit fly free
 People really don't quite see #Confidence or they'd be doing this
 <>#OpenProblem #best...
 
-#OpenProblem #best #fixesEverything
+Tags:, OpenProblem, best, fixesEverything
 My sleep
 My eating
 My aging
@@ -578,7 +580,7 @@ Qigong is about being ahead of the curve instead of behind the curve of the futu
 <>Being in top of things
 <>Annealing the cosmic...
 
-#journal postmortem Norton on the eating
+Tags:, journal, postmortem, Norton, on, the, eating
 I woke up I did the systems change the song and I was doing my single leg stretches which was fine at the time and then had a call with Albert and I ate some trail mix and then kept eating other things and I was thinking of going for a walk but grab the iPad to the cord and was a little bit concerned about carrying it maybe I need a better portable voice recorder my back was hurting
 Kept distracting reading TV was in pain eating
 I could as long unless if you're ready I could have walked up and down the stairs carrying a time maybe
@@ -616,15 +618,15 @@ Cocontraction
 Follow the way
 Gentle pulsing like spencer like ocean waves
 Of healing ripples
-#Interrupt
+Tags:, Interrupt
 Foot massage, apollo
 Apollo neuro
 Sitting with pad under left buttock
 @eating #masterlist
 
 So OK the recipe for grounding fearful emotions
-#Interrupt
-#Interrupt
+Tags:, Interrupt
+Tags:, Interrupt
 So sink down into the earth connecting proprioceptive with the matter on the opposite side of the earth that is pushing up on your feet right now syncing the Chi from the head to the heart to the chest it to the belly to the earth and then to the other side of the earth after reading that fully feel the opposite side of the earth pushing back up on you and the arm and the button pushing up under the crown of the head
 The sacrum is heavy like 1000 pounds are pulling down on it and the crown of the head pushes up against heaven and it pushes up against heaven with the four The force of the opposite side of the earth no the tip of the finger the inner ocean moves to the tip of the finger with this upward force and the breath comes in and then naturally the breath receives and goes in the words sinks back down to the earth the opposite side of the earth and the right of the breath is like the laughing of the ocean rocking quality of the ocean in the arms lift up as effortlessly as the fingertips left a clear conduits of the upward force of the earth as easily as the plants turgid leaves lift up with no muscles
 So there is the paste
@@ -656,18 +658,18 @@ What if I had to operate within certain parameters? How would I manage to make i
 Sites blocked
 Eating times
 Pt
-#Interrupt
+Tags:, Interrupt
 Vacation
 Work what is wise #structure
 -.-
 
 Notice the rhythms of the world and surf them Eg sleep #best
 Eg circadian
-#Interrupt #sleep
+Tags:, Interrupt, sleep
 Unreasonable man changes world to self
-#Balance these changes
+Tags:, Balance, these, changes
 
-#Interrupt #halo <>your holiness #phrase
+Tags:, Interrupt, halo, <>your, holiness, phrase
 It's not about the the body being open to the sky but open in all directions open to change open to The messages from that which is within
 Halo image
 https://history.stackexchange.com/questions/56053/how-when-did-the-halo-shift-from-being-a-solid-disk-behind-the-head-to-being-a-f
@@ -685,7 +687,7 @@ In 2016,
 I think the key to fixing the PR problem is actually getting great people to be part of the organization as the core?
 <>Growing up in a bubble...
 
-#Forbearance is the charger #Interrupt
+Tags:, Forbearance, is, the, charger, Interrupt
 Maybe use non-action for #EspTrainer
 Cancel the intent for Esp trimmer like Nuro feedback as a way to train my meditation and cultivation skill
 And as a meditation
@@ -694,10 +696,10 @@ Listen to the reverb
 Workout
 Music
 Eating
-#Interrupt #eating
+Tags:, Interrupt, eating
 <>zero empathy for present self
 
-#Interrupt charge resonator
+Tags:, Interrupt, charge, resonator
 
 OK so retrospective on the situation I was snacking constantly during my morning meetings from I'll just sit in Williams one and it's probably two meals worth of food and I need a better nervous habit to do when I'm not feeling great maybe standing up and down on my suitcase is OK but I don't wanna break my suitcase I suppose some thing like I was doing all that working out I was doing during the clubhouse call with Anthony was great having those weights I need to find some thing here #Intention
 I could put some books and suitcases it's pretty good how can I dig my way out of this because I'm going to have to to metabolize all this
@@ -722,11 +724,11 @@ Indo board
 Dafa is powering us even no our deepest nature bubbles up #Interrupt*
 Conditioning
 
-#Interrupt* I am a spirit bot born of parents
+Tags:, Interrupt*, I, am, a, spirit, bot, born, of, parents
 
 Being of integrity is a supernatural incantation
 Being impeccable with your word #Interrupt
-#Integrity #Profound
+Tags:, Integrity, Profound
  Can ward off evil
 
 —- #falu it's like a magical incantation like magic words. Please etc really are magic words #reenchantment
@@ -743,7 +745,7 @@ Feeling hopeful, I began reciting the phrases daily whenever I had time and the 
 
 My parents later learned of my condition from a relative and asked me to go home. I went home in December last year. Our entire family has been reciting “Falun Dafa is good, Truthfulness-Compassion-Forbearance is good” daily since then. We are deeply grateful for Master's saving grace.
 
-#healing
+Tags:, healing
 d.' If you sincerely recite this, it will work, because Falun Dafa is a Buddha Fa and has extraordinary power!”
 
 He listened and replied “alright.” He sat down on a mat nearby. He sat there and recited the auspicious phrases quietly. After a few minutes, he stood up near Ms. Zhang and had a big smile on his face: “Oh, I just want to thank you all. I am better now. I need to catch up with my group now.” Everyone at the site was happy for him.
@@ -757,13 +759,13 @@ Although Yicheng decided to take the right path, it was not easy. Without a degr
 
 Having gone from someone who originally wanted to make an ill-gotten fortune overnight and ended up in prison, to someone who was able to endure hardships to support himself, Yicheng underwent huge changes.
 
-#cold
+Tags:, cold
 Who is feeling the cold
 It's just a ripple on the surface of my self as god
 
 Holding gong
 Holding that in math too — truthfulness?
-#Interrupt
+Tags:, Interrupt
 Tool up
 Tool yo your lenses your instruments #internaltechnology #SpiritualTechnology
 Is math a lens?
@@ -789,15 +791,15 @@ The ultimate interrupt the mysterious question is who is feeling tired who is se
 You can always get infinitely curious that way
 Can learning the math part of assimilating to the structure of the cosmic order? Truthfulness?
 
-#Interrupt Being a practitioner is supernormal, so as a.
+Tags:, Interrupt, Being, a, practitioner, is, supernormal,, so, as, a.
 supernormal person, you must conduct yourself with.
 supernormal principles instead of measuring yourself.
 with those of everyday people.
 
-#Interrupt need gentle exercises like walking on beach and climbing stairs #eating
+Tags:, Interrupt, need, gentle, exercises, like, walking, on, beach, and, climbing, stairs, eating
 
-#KeyConcept this stuff isn't theoretical or abstract but you can actually feel it as energy . And you realize that the biggest thing do you want is this energy at all times! #ConstantAwareness . Hence alignment with the universe is qualities #cue #Interrupt . I suppose it's orthogonal to physical body health? Or how does it relate dash gives you a ridiculous energy boost? This is the essence of what it means to be a cultivator! #LifeGoal #ExplainingQigong bike in the wedding gown of stuff you get an instant gong boost #engrain what I really want is gong #LifeGoal #Intention
-#ValueFunction changes @teasing trick is perceiving energy / gong #QigongTrick
+Tags:, KeyConcept, this, stuff, isn't, theoretical, or, abstract, but, you, can, actually, feel, it, as, energy, ., And, you, realize, that, the, biggest, thing, do, you, want, is, this, energy, at, all, times!, ConstantAwareness, ., Hence, alignment, with, the, universe, is, qualities, cue, Interrupt, ., I, suppose, it's, orthogonal, to, physical, body, health?, Or, how, does, it, relate, dash, gives, you, a, ridiculous, energy, boost?, This, is, the, essence, of, what, it, means, to, be, a, cultivator!, LifeGoal, ExplainingQigong, bike, in, the, wedding, gown, of, stuff, you, get, an, instant, gong, boost, engrain, what, I, really, want, is, gong, LifeGoal, Intention
+Tags:, ValueFunction, changes, @teasing, trick, is, perceiving, energy, /, gong, QigongTrick
 lose. When others see this very foolish person, they will.
 all verbally abuse him, “You’re such a fool.” With this.
 verbal abuse, a piece of de will be thrown over there. By.
@@ -807,8 +809,8 @@ him, “You’re such a big idiot,” well, a big chunk of de will.
 again be tossed to him. When someone bullies or kicks.
 him, he will only smile, “Bring it on. You’re giving me.
 de all the same, and I’m not going to reject a bit of it
-#falu
-#principle in our universe, there.
+Tags:, falu
+Tags:, principle, in, our, universe,, there.
 is this principle: no loss, no gain. To gain, one must.
 lose. When others see this very foolish person, they will.
 —
@@ -867,13 +869,13 @@ isn’t this person a great enlightened person or a person.
 enlightened through cultivation? When translated into.
 ancient Indian language, he is a Buddha.
 
-#EnergyMedicine as is evidenced by the om meditation, it's definitely possible to
+Tags:, EnergyMedicine, as, is, evidenced, by, the, om, meditation,, it's, definitely, possible, to
 Achieve some good results just die acknowledging different things
 Part of the value of these aura and chakra practices perhaps is that they acknowledge the different parts of yourself and unstick the attention
 —
-#Meditation #Interrupt
+Tags:, Meditation, Interrupt
 
-#BodyPhysics #falu #Interrupt #eating #pt — is it aligned qualities of universe? Release attachments so you can assimilate to characterix of universe —> feels nature, true , balancing in food and out food
+Tags:, BodyPhysics, falu, Interrupt, eating, pt, —, is, it, aligned, qualities, of, universe?, Release, attachments, so, you, can, assimilate, to, characterix, of, universe, —>, feels, nature,, true, ,, balancing, in, food, and, out, food
 Why is this? It is.
 because one with good inborn quality has a lot of the.
 white substance that is assimilated to our universe and.
@@ -891,7 +893,7 @@ higher its density and thickness, and this will make one’s.
 enlightenment quality become worse. This is because.
 one is unable to receive the universe’s characteristic.
 
-#Interrupt Many people cannot achieve a tranquil mind during.
+Tags:, Interrupt, Many, people, cannot, achieve, a, tranquil, mind, during.
 practice, and they go everywhere to ask qigong masters,.
 “Teacher, I can’t attain tranquility no matter how I.
 practice. Once I settle down, I’ll think of everything,.
@@ -899,7 +901,7 @@ including odd thoughts and ideas.” It is like overturning.
 rivers and seas with everything surfacing, and one.
 cannot attain tranquility whatsoever. Why is one unable.
 —
-#highlight
+Tags:, highlight
 achieve tranquility in sitting meditation. The.
 ability to achieve tranquility is gong, and the depth of.
 ding indicates one’s level.
@@ -941,7 +943,7 @@ said, “When I come to this ordinary human society, it’s.
 just like checking into a hotel for a few days. Then I leave.
 in a hurry.” Some people are just obsessed with this place.
 and have forgotten their own homes.
-#cultivationGoal
+Tags:, cultivationGoal
 When you give up attachments, your level will ascend,.
 and your ability to concentrate will also improve. If you. #shivaVsShakti #shiva
 <>#falu personal gain....
@@ -955,20 +957,20 @@ This universe is made of magic
 Being able to have a copper hand engrain Habits
 Being able to break apart hard habits it's really just about being nice it's in those gaps that kindness enters #Interrupt
 
-#word #Interrupt unlikely
+Tags:, word, Interrupt, unlikely
  shark is unlikely to trouble you
 
-#meditation #Interrupt #eating wait and watch the energy to eat the thing in front of you come up and say: how beautiful! These attachments are our energy source? More "temptation" more energy? Don't resist but glory in that energy fountain!
+Tags:, meditation, Interrupt, eating, wait, and, watch, the, energy, to, eat, the, thing, in, front, of, you, come, up, and, say:, how, beautiful!, These, attachments, are, our, energy, source?, More, "temptation", more, energy?, Don't, resist, but, glory, in, that, energy, fountain!
 <>Gandhi sleeping nearg...
 <>the 3 ahas during travel... <>Quality of movement —... <>Keep getting sniped by...
-#charging #constantawareness #taoResonator
+Tags:, charging, constantawareness, taoResonator
 Maybe my psi is qi?
 Feeling what energies this moves in me! <>#Interrupt @internet...
 
-#meditation #Interrupt...
+Tags:, meditation, Interrupt...
 <>there is one purpose...
 
-#falu #actionYouCanFeel By this day, eighty to.
+Tags:, falu, actionYouCanFeel, By, this, day,, eighty, to.
 ninety percent of our cultivators have reached the state.
 where their bodies are very light and free of illness. At.
 the same time, we have said that in this class you are not.
@@ -1006,22 +1008,22 @@ as the whole universe is watching. #Attitude #Interrupt you are the star of the 
 It is not permitted.
 for one to deviate.
 
-#Interrupt* feel the law wheel circulation  
+Tags:, Interrupt*, feel, the, law, wheel, circulation
 
 Can talk to master li or talk to god or grandma or whoever from whatever time. Ask my spirit guides @grandma . Guardian Angel? Assistant soul? <>inner slytherin huffleouff etc #hpmor
 @giani mechanics of past detector
 Be super impressively disciplined foryg the more disciplined I am the more time I'll have to enjoy life can that motivate me? No I also see the breakthrough point to the top so it's also enlightenment . Could have done that sooner and not had all this trouble
 Manuel Rudyard Kipling movie <>In order to get to spiritual...
-#Interrupt ~plane ride #ToProcessZone
+Tags:, Interrupt, ~plane, ride, ToProcessZone
 
-#Interrupt bracelet  #resonator
+Tags:, Interrupt, bracelet, resonator
  Gather the qi charge the resonator then can use psych
 
 Wait three breaths —> gather qi #Interrupt
 
 When you forget something it really does disappear
  #Interrupt  gentle like to little g Youngg s sensitivity -.-
-#forgetting  
+Tags:, forgetting
 As if it were a dream
 
 Spirit is not a beautiful being held down by kids in the pool. Instead it is like a balloon being held onto by a child's hands — that's the karma / attachments holding you back #storyidea #write then your balloon comes to the surface it's always trying too hmm I think it's more clear in a pool #Interrupt* @memorypalace #engrain
@@ -1029,18 +1031,18 @@ Spirit is not a beautiful being held down by kids in the pool. Instead it is lik
 <>gong cultivates you... @DavidGreenspan
 
 Have this warmth inside sitting like sitting on a secret always? Like there is some thing amazing inside that I can't fully reveal but secretly powers me? -.- #Interrupt
-#psych are real but unreliable?
-#write The paranormal is stranger than it seems. More mysterious than it seems
+Tags:, psych, are, real, but, unreliable?
+Tags:, write, The, paranormal, is, stranger, than, it, seems., More, mysterious, than, it, seems
 At this point where a silly whimsical hat  a civil are you whimsical hat
 
-#Interrupt thanking about data usage and even texting usage on phone! Remembering the days when people said don't text me because they get charged
+Tags:, Interrupt, thanking, about, data, usage, and, even, texting, usage, on, phone!, Remembering, the, days, when, people, said, don't, text, me, because, they, get, charged
 
 The secret to effortless effort is just to keep letting go of doing the wrong stuff and because existence stuff is happening as long as you let that go you still need to be doing something with your time and sell things move #Nonattachment #wuwei #nonaction #Interrupt #cultivationPath #shiva #shivaVsShakti
 
-#constantawareness possible to achieve psychedelic blastoff even in this moment
+Tags:, constantawareness, possible, to, achieve, psychedelic, blastoff, even, in, this, moment
 Why would someone need a margarita to change mental state?
-#Interrupt qigong session at least as good as drinking margarita
-#ExplainingQigong want to get supercharged?  
+Tags:, Interrupt, qigong, session, at, least, as, good, as, drinking, margarita
+Tags:, ExplainingQigong, want, to, get, supercharged?
 <>Nourish jade yang can...
 
 How can I be upset? I have psychic power to lift my finger #awe #Interrupt
@@ -1050,11 +1052,11 @@ is that I have right now
 Let it go
 Get the message of the practice the faster I do that the easier
 
-#falu #engrain #Interrupt
+Tags:, falu, engrain, Interrupt
 <>there is one purpose...
 <>Can talk to master li...
 
-#postqigong ask master li
+Tags:, postqigong, ask, master, li
 How may I be a godly influence in peoples lives @poker #Attitude #Interrupt what can I reveal through poker? What can God reveal through poker?
 Stay still and let things be unless I feel called to do otherwise. Things are fine how they are #ObserverConsciousness #MentalState Let them behave according to their nature
 Really asking myself what I want really asking myself who I am realizing that reality indeed deserves dissolves when  I close my eyes and can be changed
@@ -1070,21 +1072,21 @@ When it gives out kinesiologists
 Energy never stops follow it, guide it to do what's needed
 Kids are pure energy
 Qi is childless
-#Interrupt
+Tags:, Interrupt
 
-#Identity came to his mind was, “I’m not an ordinary person. I’m
+Tags:, Identity, came, to, his, mind, was,, “I’m, not, an, ordinary, person., I’m
 a practitioner. You shouldn’t treat me this way, for I’m
 a Falu cultivator.” Once this thought emerged,
 everything suddenly disappeared since they were all
 transformed anyway. Then Buddha Amitabha and
 -.-
-#Interrupt #falu
+Tags:, Interrupt, falu
 
 How can I most efficiently burn out the bad karma in tai chi practice? #TaiChiTrick
 How about through PT?
-#Attitude #sleep #Interrupt #tapas #purify remove toxins @te
+Tags:, Attitude, sleep, Interrupt, tapas, purify, remove, toxins, @te
 
-#Interrupt @internetaddiction #sleep sink the qi
+Tags:, Interrupt, @internetaddiction, sleep, sink, the, qi
 Feel it as energy is moving in my body
 Different chakras saying different things #constantawareness
 Straight head and shoulders for no neuroses #WarriorMeditation
@@ -1100,13 +1102,13 @@ Notice breath soften belly open heart
 Think in magic think in rituals, leave artifacts like the marauders map behind
 Speak or perform incantations and change things by magic
 I want to learn to spell that will change my sleep schedule and make me feel better balance my diet-ium. Break my screen addictions
-#Interrupt
+Tags:, Interrupt
 ~Harry Potter
 
-#eating #constantawareness it's not that you have to catch up to wait to be full— all that makes it to the future is happening now
+Tags:, eating, constantawareness, it's, not, that, you, have, to, catch, up, to, wait, to, be, full—, all, that, makes, it, to, the, future, is, happening, now
  it's happening #Interrupt #engrain
 
-#engrain meditation as the balance, life as the dance, understanding both modes and their value #Interrupt
+Tags:, engrain, meditation, as, the, balance,, life, as, the, dance,, understanding, both, modes, and, their, value, Interrupt
 
 Rob
 W dad I have this buddy don't have to figure it out alone #best #Interrupt #dad #Friendship #VirtueFriendship
@@ -1117,7 +1119,7 @@ Efficiency do what i was going to try to do anyway
 Context that makes me willing and able to show off
 Lead with heart like Harry conflicting desires and ! Need to do better
 Chase graduating! Who can I be role model for? Jake?
-#Interrupt . Be sharp be early proud of self
+Tags:, Interrupt, ., Be, sharp, be, early, proud, of, self
 How good of a setup can I make for myself w pt etc
 Warrior through it all
 Pt doesn't  didn't take long attitude
@@ -1128,17 +1130,17 @@ Growth and development and change are happening whether or not you intended. You
 <>entrepreneurship is like... <>I have felt empty in... <>#engrain the qi never...
 
 Keep getting sniped by low-grade ecstasis, social media etc.
-#Interrupt
-#Curate recipes for ecstatic experience
+Tags:, Interrupt
+Tags:, Curate, recipes, for, ecstatic, experience
 Charge up #taoResonator by being still and not doing these things
 Connect to heaven and earth make your body bigger so that you can capture more of the zero point vibrations inside yourself
 Capture the zero point vibrations inside yourself
 Also don't just meditate assimilate to the structure of the cosmic order- making your mind soft so it can be aligned like iron filings by cosmic order
 Got to be ready to be changed
 Notice a thought and don't act on it keep your resonator charging up instead of spending your zap #annealing <>tennis player lining up
-#sleep #Napping #meditation
+Tags:, sleep, Napping, meditation
 It's all inside yourself, all the rhythms, including going other places like to karate class. Could go there psychically or in time. It is all dairy to be channeled. It is all part of my mind. Can access directly #psych
-#Identity as god . Can wander around from the first person perspective to get a closer look at how my mind is. Maybe I'm here doing therapy on the mind relates to the mitzvah fb post . Maybe that's what I'm here for?
+Tags:, Identity, as, god, ., Can, wander, around, from, the, first, person, perspective, to, get, a, closer, look, at, how, my, mind, is., Maybe, I'm, here, doing, therapy, on, the, mind, relates, to, the, mitzvah, fb, post, ., Maybe, that's, what, I'm, here, for?
 How does this relate to <>witness consciousness
 <>Gathering energy...
 <>Assimilate to the structure...
@@ -1152,19 +1154,19 @@ How are you feeling about that meeting today by the way? #management
 <>I have felt empty in...
 
 They have so much spiritual strength
-#tt aku
+Tags:, tt, aku
  Hanging out / watching baller people who have extreme disabilities is so inspiring #Inspiration @blog @wall #engrain
 Or live login from African life
 Or astronaut life #Interrupt*
 Like the Jamaican sprinter if you do not have more money or better trainers but they have more heart <>#wcccCue
 
-#Interrupt #eating doing tai chi all the timbecome a tai chi guy
+Tags:, Interrupt, eating, doing, tai, chi, all, the, timbecome, a, tai, chi, guy
 
 What is this reality? #Interrupt* #Curiosity* #Motivation #Profound #inducesCuriosity
-#ToPonder The laws of physics — what does the idea that we are all basically ripples in a single medium imply about physics?
-#KeepingTheQiUp
+Tags:, ToPonder, The, laws, of, physics, —, what, does, the, idea, that, we, are, all, basically, ripples, in, a, single, medium, imply, about, physics?
+Tags:, KeepingTheQiUp
 Recognizing that all these thoughts and musings in the morning our attempts to get the energy flowing Dash how does this relate to the ideals of growing up and waking up?
-#best*
+Tags:, best*
 <>#falu As soon as you...
 
 Learning and realizing life and games etc. are like getting the winds going. And if I see a path and trust in the past I can invest many many days to see what will happen #Trust #Curiosity #Interrupt #Motivation
@@ -1181,7 +1183,7 @@ How do we reframe everything as a game?
 If life were a video game, what would be changed in the playtesting?
 Is there a gentle way to teach everything? Including inner strength?
 Including self-realization?
-#write @akc
+Tags:, write, @akc
 Is play "enlightenment-complete"?
 Is this the time, with Covid, to finally reframe everything as a giant video game?
 Toys/games/series of fun challenges
@@ -1215,7 +1217,7 @@ Utopia
 Keep fan levels balanced even if you have to do PT. Do a challenge!
 Always keep playing games to stay sharp
 —
-#ProjectIdea build virtual missile turret shooter!
+Tags:, ProjectIdea, build, virtual, missile, turret, shooter!
 Games
 Math contest problems
 iPhone games
@@ -1249,7 +1251,7 @@ Sacral - games
 Solar
 Heart - love
 Throat - expression
-#basis third eye: vision
+Tags:, basis, third, eye:, vision
 How does this relate to concept of growing up ~Tom campbell l
 Or confusion/desire to Understand what's going on with this reality?
 Don't give people those experiences until they are ready?
@@ -1264,7 +1266,7 @@ Beyond the comprehensible
 
 Keep hiking only way out is through #Interrupt
 
-#Interrupt just be self interested and aware of that self interest -.-
+Tags:, Interrupt, just, be, self, interested, and, aware, of, that, self, interest, -.-
 Want qi
 
 Guy nudging me got g #mem
@@ -1276,35 +1278,35 @@ Or like rockstar bask in glory #cue #beet
 
 Ability to skip over a thought and say it's not relevant now
 - dismiss the messenger clear mind
-#Interrupt
+Tags:, Interrupt
 
 Each time do it better
 Each morning get another shot to do it better <>groundhog day #movie
 Each morning each wakeup each day
 Reflect on day as a whole #t
-#Interrupt
+Tags:, Interrupt
 The there's a limit to short term beauty Dash a limit to how good you can get if you stay only within the confines of the moment for an hour he can't make a larger art piece of a day or a snowboard turn if you just pay attention to the first second of the turn Dash this is the key to #DialecticResolutionAnd #Transcendence
 
-#Interrupt #engrain* psych being
+Tags:, Interrupt, engrain*, psych, being
 
-#Interrupt you can only be feeling one thing at a time #Transcendence #engrain*
+Tags:, Interrupt, you, can, only, be, feeling, one, thing, at, a, time, Transcendence, engrain*
 There is no conflict. You can try some thing and see how it feels
 Including your conscious hesitation about the future
 If you elevate it the propria it level everything it's just information #Transcendence
 
-#Interrupt fa in heart — listen to what I really want #engrain*
+Tags:, Interrupt, fa, in, heart, —, listen, to, what, I, really, want, engrain*
 
 Noticing  where there is congested energy is it moving off the arms
 Is it moving up all the chakras #Interrupt
 Fix it if not #EnergyMedicine #aura
 Anything that's going to happen you can already detect in advance in the aura?
 
-#eating is it universe speaking or conditioning  speaking? #Interrupt*
+Tags:, eating, is, it, universe, speaking, or, conditioning, speaking?, Interrupt*
 Warrior meditation
 Do nothing and find self moved #nonaction —> #wuwei
 Confused about what to do with mediation do nothing ~shinzen young
  https://youtu.be/cZ6cdIaUZCA
-#MemoryPalace airbnb place on via Borgia
+Tags:, MemoryPalace, airbnb, place, on, via, Borgia
 The painting on the wall of Torrey Pines beach cliffs half covered with conditioner – is it conditioning speaking or the nature of the universe speaking
 Unjudged awareness lifting up the coffee machine with a gavel
 Fridge stabbed by a warrior with a spear call leaking out into the room. – Warrior meditation
@@ -1320,15 +1322,15 @@ Lean into being super sensitive next?
 After I'm done being super strong? Or is it out of order? #o #Interrupt #cultivationPath <>ask what yourself what...
 
 It's all one dance all one workout
-#Interrupt #pain #Oneness
+Tags:, Interrupt, pain, Oneness
 
 Inquiring egos @internetaddiction @curiosity #Interrupt
 
 Cocontraction better to do it without fuss
 Cancel all my plans #pain
 Martial intent kiyai
-#Interrupt
-#MemoryPalace ~Dr Julie Mai osteopath office
+Tags:, Interrupt
+Tags:, MemoryPalace, ~Dr, Julie, Mai, osteopath, office
 
 ~Dr Julie Mai osteopath
 Nine years fell away I was a kid on the streets of tar been from name of the wind or Wiseman's fear getting to the car of his identity
@@ -1345,12 +1347,12 @@ Cocontraction better to do it without fuss
 Martial intent
 
 Hook #Interrupt*
-#hook Instagram clubhouse #trigger
+Tags:, hook, Instagram, clubhouse, trigger
 
-#t
-#Review Gettysburg address
+Tags:, t
+Tags:, Review, Gettysburg, address
 Idea of dying for your country – those who hear gave their lives that that nation my lives, because it's not it was worth sacrificing for this noble experiment and perhaps not worth living if we are to live as slaves without this freedom
-#Interrupt <>If you come to fear some...
+Tags:, Interrupt, <>If, you, come, to, fear, some...
 
 Always keep learning studying playing keeps a sharp yeah it's not even for any external end
 Is there a point at which you don't learn new stuff and just review/master old stuff? Maybe? Maybe it's a balance
@@ -1358,7 +1360,7 @@ Is there a point at which you don't learn new stuff and just review/master old s
 Keep learning keep studying to stay sharp always be a gamer
 See workout and PT exercises not as some thing to fix some thing that's wrong with you but as fun challenges you can do and should still be able to do as you gain levels
 Always start at your level and go up #Education
-#Interrupt #WorkoutTrick #PTTrick
+Tags:, Interrupt, WorkoutTrick, PTTrick
 
 Show up and really play poker
 Not that hard
@@ -1373,17 +1375,17 @@ Read slowly taking note of each thing
 Do tai chi with great detail in and precision
 Relates to Gandhi acting without violence as an end rather than a means and an end everyone can achieve going beyond suffering through even in each moment. That's why he valued it above utilitarian ends #gandhi that's what's essential to working off karma? other stuff like developing gong also relevant
 @michellejia #tt
-#Insight #Integrity <>todd picking up trash...
+Tags:, Insight, Integrity, <>todd, picking, up, trash...
 make each word choice artfully
 Relates to sensitivity relates to Victoria Zhuang
 Surround yourself with only beauty
-#taste
+Tags:, taste
 Each thing I do do it with integrity, do it with art #Interrupt #best
 
 Stuff bounces of off buff warrior chest
 Coming from the earth through me
 Things are ok I'm in San Diego
-#okness #Interrupt #best
+Tags:, okness, Interrupt, best
 The world is stable here
 
 Do you want to cultivate psychic powers? OK first you must understand the true nature of Reality and the south or the lack there of
@@ -1396,10 +1398,10 @@ Also the om meditation realizing you are the unchanging witness
 
 Punning #best #backToHumanity #Interrupt
 
-#Interrupt #grounding om aum #meditation
+Tags:, Interrupt, grounding, om, aum, meditation
 Cant be too worried about immaterial forces, got a company to run and things to attend to, responsibility
-#aging stay young till I'm done being young
-#taoism recognize and predict when things are going to happen and change to best channel them
+Tags:, aging, stay, young, till, I'm, done, being, young
+Tags:, taoism, recognize, and, predict, when, things, are, going, to, happen, and, change, to, best, channel, them
 Life is unexpected and a gift @fear @pain
 
 @wall  What would you build if told you were going to die? #Interrupt
@@ -1409,26 +1411,26 @@ At level of psyche
 Eg from Apolo Neuro, food, experiences, etc
 Don't mix and get 2 at a time
 <>Everything gets reflected... <>what I really want under...
-#Interrupt #eating
-#WhyAwesome Apollo neuro, subpac, music, etc #ecstasis <>why not do two things at once, reduces pleasure ~Chase Varga
+Tags:, Interrupt, eating
+Tags:, WhyAwesome, Apollo, neuro,, subpac,, music,, etc, ecstasis, <>why, not, do, two, things, at, once,, reduces, pleasure, ~Chase, Varga
 
 Non cognitive skills = spiritual power = psychic powers
-#WhyAwesome non cognitive skills
+Tags:, WhyAwesome, non, cognitive, skills
 ~david goggins
-#Interrupt
-#write book titled interrupt  
+Tags:, Interrupt
+Tags:, write, book, titled, interrupt
 
 Everything gets reflected into aura
 Chakras — face is a chakra
 Meridians
 Foot hands
 — perhaps every atom contains the universe <>Indra's net
-#Engrain #FormHabit #constantawareness
+Tags:, Engrain, FormHabit, constantawareness
 Craniosacral breathing —universe speaking
-#eating
+Tags:, eating
 Energy moves to energy is moving, do exercises with the energy
 Normal breathing
-#Interrupt #cue crystal ball or magnet #talisman
+Tags:, Interrupt, cue, crystal, ball, or, magnet, talisman
 All desires habits etc food are desires for energy
 All activities and desires to to things as originating on energy level
 <>Realizing what I really...
@@ -1444,37 +1446,37 @@ the spot where truth echoes #Inspiration
 I am the dance step of the paintbrush singing the sculpture of the song the slim breath of words yes I am the spirit that never dies I am the spirit keeping my people alive #Beautiful #quote #Interrupt
 <>the spot where truth...
 
-#mem Singing battle hymn #Interrupt while
+Tags:, mem, Singing, battle, hymn, Interrupt, while
 Korean marching #Resonator
 Singing harmonies #best
 <>navy seals singing while in the cold #ecstasis
-#Interrupt singing or dancing
+Tags:, Interrupt, singing, or, dancing
 
 The Chi never stops, the music never stops it's always there to dance to
 It's not listening to the sound of your breath that you do in Pilates but listen to the rhythm of your prm/qi
 Your qi is your beating sound of
 Engage psychic powers
 Extend the seat by opening the hip crease  warrior meditation
-#Interrupt #pain @pain
+Tags:, Interrupt, pain, @pain
 
-#Interrupt @pain say thoughts and unstick — warrior meditation
+Tags:, Interrupt, @pain, say, thoughts, and, unstick, —, warrior, meditation
 @sleep  
 
-#Interrupt god is omnipresent
+Tags:, Interrupt, god, is, omnipresent
 
 How ok'd are you? Ageless #Interrupt
 
-#concept #Interrupt wa
+Tags:, concept, Interrupt, wa
 
 Realizing that being willing to fall to pieces at ordinary circumstances it's not a way to live relates to David Goggins life is going to throw stuff at you you've got to not fall to pieces when it happens #Ideal #Interrupt
 
-#Interrupt #Attitude #ideal could be a movie star from this state of consciousness . Like guy became mr Austria — poster child #ideal. Poster child of mysticism? #Interrupt
+Tags:, Interrupt, Attitude, ideal, could, be, a, movie, star, from, this, state, of, consciousness, ., Like, guy, became, mr, Austria, —, poster, child, ideal., Poster, child, of, mysticism?, Interrupt
 Try to do anything real like build a bot and you'll find it immersive and challenging and cool
 -.-
 Of course realizing that movie stars are just children playing roles
 
 From the start I’ve been motivated by a sense of responsibility to all of my students as well as to the world more broadly, and this continues to be the case. The public’s response should be a good barometer of how we’ve done, so I won’t say more. I made this practice public so that, for one, more people could benefit from it, and secondly, so that those who are sincere about spiritual growth would have teachings to guide them. Along the way I’ve also spelled out what it takes to be a good person, and hope that after my instruction at the very least you can do that, if not become a practitioner—to the betterment of the world. You now have the tools in your hands to be a better person. And I am confident that after the class you will make good on it.
-#best #DrivingForce #Interrupt sense of responsibility <>Death is lighter than...
+Tags:, best, DrivingForce, Interrupt, sense, of, responsibility, <>Death, is, lighter, than...
 
 @DavidGreenspan @albert can you set a difficult deadline and stick to it? -.-
 You're Elite performers
@@ -1486,7 +1488,7 @@ Is that the attitude that got me into Mit or Oxford?
 Top student #mem
 Maybe just start with fitness
 Be so driven toward goal of balance  . Don't need to be prodded I am driven . I will make my own systems Start by getting organized
-#Interrupt but being willing to put in massive hustle
+Tags:, Interrupt, but, being, willing, to, put, in, massive, hustle
 How else will you get going? Get unstuck? Truth is you want to be moving
 And it feels good
 What's the last thing you really had to jam, that got your pulses moving
@@ -1510,15 +1512,15 @@ And about #Organization
 Doing tai chi as powerful energy ritual
 Clearing stuff out clearing mine out #good #Interrupt
 
-#mem let's man it up together roscoe
-#aging @fear —> #togetherness #best #Interrupt
+Tags:, mem, let's, man, it, up, together, roscoe
+Tags:, aging, @fear, —>, togetherness, best, Interrupt
 That's how to face all the things that we fear
 Can this unite us as a world? #ConveningPower #fearlessness <>shambhala
-#ThinkAbout  some profound relationship to meditation in togetherness
+Tags:, ThinkAbout, some, profound, relationship, to, meditation, in, togetherness
 Face sleep schedule challenge
 What problem can we not face if we face it together? <>north of tae kwon in...
 
-#word #SanDiego you rip! #ideal #surfing
+Tags:, word, SanDiego, you, rip!, ideal, surfing
 Can one rip in dance? Math? Pilates? Art? Meditation
 Startup land?
 Pt?
@@ -1530,25 +1532,25 @@ Social networking
 Emotional intel? Like mom #best
 8th grade sam hiraoka and patrick siri #mem sam I think I dropped in on at Del Mar , saying he rips
 8th trade Del Mar birthday barrel
-#buy fish board? Learn switchfoot? Settle back into surfer identity?
+Tags:, buy, fish, board?, Learn, switchfoot?, Settle, back, into, surfer, identity?
 What's the equivalent of ripping in tai chi? Zoning into rhythm? Or in meditation? Can it be expressive? I guess in a sense that being expressive is processing?
-#Interrupt #cue surfing the planet for tai chi
+Tags:, Interrupt, cue, surfing, the, planet, for, tai, chi
 I should skate board more  . Longboard?
-#ecstasis
-#ExplainingIdeaflow it's like building an intellectual surfboard — that's why flow is essential
-#Whyawesome surfing #best
-#Identity I am a talented guy I should be able to do everything pretty well , figure it out pretty easily things come easily #Lightness
+Tags:, ecstasis
+Tags:, ExplainingIdeaflow, it's, like, building, an, intellectual, surfboard, —, that's, why, flow, is, essential
+Tags:, Whyawesome, surfing, best
+Tags:, Identity, I, am, a, talented, guy, I, should, be, able, to, do, everything, pretty, well, ,, figure, it, out, pretty, easily, things, come, easily, Lightness
 Snowboarding
 Wagons <>#mem jumó the nose  story...
 sleds
-#mem sledding
-#epitaph he still rips #lol
+Tags:, mem, sledding
+Tags:, epitaph, he, still, rips, lol
 Can change behavior heal etc. so fast when engaged in this way
 Swimming is making love to the water surfing as making love to the waves physical therapy as to making love to muscles #ecstasis
 Swimming as warrior meditation
 — need both expressive and meditative sports/ activities
-#hiring people who rip
-#mom rips on organization
+Tags:, hiring, people, who, rip
+Tags:, mom, rips, on, organization
  #
 
 Ask Mimi about acupressure points and seeds
@@ -1556,7 +1558,7 @@ Press up underneath the crown of the head qi gong trick from Joe Deishar
 Who are people I really admire Donna Eden and I may be? Well I need to listen to start admiring #rolemodel  — can I be as joyful knowledgeable generous as her? Maybe not. Sensei? Who is a model student or person? Ethan s? Dandan? Not many at mit... Oxford? #collegedecisions  . Reyon yount , victoria Zhuang, the people almost too cool for me? Thomas Georgiou? But then holden! Felipe! What perfect people! Alex list? Be around people I admire? #hiring aaron iba? Loop in w the. Urgent harvard intellectual salons? Jacques van Rhyn? Nadia? Go where the energy is maybe means go around peopleI admire? <>Magical knowledge of...  prefrosh weekend? #energySpot - why to sign up for mit classes? Move back to cambridge even? Find role modes? Maybe there's even time this term, not add date. Sam galler, Nabeel ? It's not happening elsewhere it's happening here? Christian fohrby ? Chrisantha, krishanu, ballroom people shen people. Feeling connection between gut and heart #Interrupt  . Roelofs. Greg O'Connor sam lanning will honey. Charlie parkes Caitlin place . #ideal be a wizard a Taoist wizard show portrait conjuring energy in palms? Path in:!sahil friend
 I admired a lot of people in high school maybe there were a lot of people with the right energies or transforming in the right way
 Distinct from other attractiveness
-#tt Theresa
+Tags:, tt, Theresa
 It's not happening elsewhere it's happening here Mr. Harvey
 As a kid Max Smiley being able to look at someone and see all the pressure points like Artemis fowl Butler but it wasn't half wrong #Mem
  @Poseidon does you Chinese name mean sea of qi?
@@ -1580,11 +1582,11 @@ Co contraction #best #ThinkAbout #Interrupt #cold
 
 Need to go back and regret all mistakes to change
 Mom glaring <>Apologizing is an external... <>taking things lightly
-#BehaviorChange #Interrupt
+Tags:, BehaviorChange, Interrupt
 
-#Interrupt get into karate mode <>warrior attitude #rolemodel
+Tags:, Interrupt, get, into, karate, mode, <>warrior, attitude, rolemodel
 
-#tt* Wayne
+Tags:, tt*, Wayne
 
 Key is to accept that a lot of stuff is not going to get done #Interrupt @stress
 Then move gracefully <>do you work. Then step back
@@ -1602,19 +1604,19 @@ All true learning is discovering that you already know something, know it in dep
 
 The value of acting with martial intent is that it liberates  the awareness #Interrupt #eating
 
-#Interrupt spacing out— not necessarily healthy #DistractionTactic
+Tags:, Interrupt, spacing, out—, not, necessarily, healthy, DistractionTactic
 
-#Interrupt #identity rationalists being more rational
+Tags:, Interrupt, identity, rationalists, being, more, rational
 Elitism
 Harvard #transcendance
 Seeing things as information
 Recognize the common trap and falling into right now
 Attitude of my brain doesn't fall into traps
 
-#Interrupt back to that vacation in Costa Rica, included pilates
+Tags:, Interrupt, back, to, that, vacation, in, Costa, Rica,, included, pilates
 Had everything
 
-#Interrupt @disappointment or threat
+Tags:, Interrupt, @disappointment, or, threat
 Ground is carrying me
 I get to meditate / self realize / psych experience , explore how psychic real influences physical
 Different ways to slice reality  
@@ -1630,7 +1632,7 @@ Working with emotions #Interrupt disassociate with the emotions switch to observ
 Qigong or tai chi non physical stuff to cool down emotions in evening — not mental ; different consciousness
 Understanding Lego structure as fluid or vibration
 
-#Interrupt burn out bad karma <>Pain is weakness leaving...
+Tags:, Interrupt, burn, out, bad, karma, <>Pain, is, weakness, leaving...
 actually more like weakness leaving the mind?
 That's the feeling of avidya burning out
 Realizing I know more than wccc adults and others in some sense
@@ -1641,15 +1643,15 @@ Get rid of stress by giving up everything
 
 Are or pen or energy ritual for sleep or other  -.- #Interrupt
 Or to induce healing or focus or pt
-#PTTrick
+Tags:, PTTrick
 
-#mem being totally non expert non knowledgeable In a room #Interrupt #engrain
+Tags:, mem, being, totally, non, expert, non, knowledgeable, In, a, room, Interrupt, engrain
 
 My Always awake consciousness even when sleeping
 You are the universe waking up. Embody your weight full nature which exists in the energy realm your bodies in other dimensions? #otherdimensions
 Saying om puts you in harmony w your deepest nature
 Other dimensions are here right now, in a very physical way #Interrupt
-#EnergeticPT om meditation or "get it off me" meditation like in energy except in pt exercise. Push up like like pushing away
+Tags:, EnergeticPT, om, meditation, or, "get, it, off, me", meditation, like, in, energy, except, in, pt, exercise., Push, up, like, like, pushing, away
 Squat like in getting out of something #emotionalConnections #feelings
 
 Tools as lenses
@@ -1673,7 +1675,7 @@ Commendable for enduring suffering? Go ecstatic #Interrupt
 Not interested in x,  As much interest as I would have relw18 ~Tom alden -.- #Interrupt @lst
 Glike poet laureate or mindy
 
-#word wimp #concept #Interrupt <>#ToProcess  Beginners...
+Tags:, word, wimp, concept, Interrupt, <>ToProcess, Beginners...
 
 Thinking cosmic sort of pulls the rug out of my old fantasies
 Power etc seems very hollow when I see that everything is conditioning or the universe speaking #nihilism?
@@ -1681,7 +1683,7 @@ When I see that this isnt the true nature of reality, just something that these 
 But shadow and light  #Interrupt — energy, your energy was needed to create each qualia, zoom to that level
 That the spirit can expand way beyond the body if you release conditioning
 
-#Interrupt Release karma and attachment so it no longer holds you down and you can expand
+Tags:, Interrupt, Release, karma, and, attachment, so, it, no, longer, holds, you, down, and, you, can, expand
 
 Zoom to my #exitstrategy
 Doesn't need a ton of people  
@@ -1690,23 +1692,23 @@ What would I do in cambridge again for exercise etc?
 Good people to be around who are relaxing fun and not a headache
 Linus
 Spencer
-#focus
+Tags:, focus
 -.-  
-#ideal complete clean and sharp harvard student etc
+Tags:, ideal, complete, clean, and, sharp, harvard, student, etc
  The
 Competition activates me
 Don't work w people who give me headache
-#Interrupt need to defend self against competitor like you.com #presence
+Tags:, Interrupt, need, to, defend, self, against, competitor, like, you.com, presence
 Curate small number of high quality people to interact with  #todo #lifegoal
 Have daily interactions with great non-headachy People
 Waking experience is of direct perception vs ego
 
 Heating up hands
-#Interrupt #eating gathering qi
+Tags:, Interrupt, eating, gathering, qi
 
-#Interrupt put all #useOfTime on the wall so constantly aware #foundation
+Tags:, Interrupt, put, all, useOfTime, on, the, wall, so, constantly, aware, foundation
 
-#Interrupt #Awareness #TaiChiTrick any action you are taking comes from the dantien? Or ultimately the mind? #spiritual where does a thought come from? Ultimately god? #truth . Where does motion originate from? #meditation doing this allows us ultimately to wait around and noticed what's causing our actions, and then do them with more light wind up
+Tags:, Interrupt, Awareness, TaiChiTrick, any, action, you, are, taking, comes, from, the, dantien?, Or, ultimately, the, mind?, spiritual, where, does, a, thought, come, from?, Ultimately, god?, truth, ., Where, does, motion, originate, from?, meditation, doing, this, allows, us, ultimately, to, wait, around, and, noticed, what's, causing, our, actions,, and, then, do, them, with, more, light, wind, up
 The Dantian is everything. The lower abdomen is the central core for dancers and skaters. They are deeply involved with pressurizing and depressurizing in the core to help their toes dance and skate on the floor. Similar to ball players, who compress the Dantian to strike the ball, in sports such as tennis, golf and so on. Believe it or not, our voice comes from the Dantian and enables us to talk, yell, sing, and scream. It also helps us punch, kick and break things, which make us real human beings.
 
 If you ever need a dose of humility do some math contest problems #Interrupt
@@ -1719,16 +1721,16 @@ It is the universe witnessing as well as speaking
  just keep doing this until a path is so good that I don't really want to keep doing it and instead want to be absorbed in the fantasy ? #mem #Interrupt #best
 
 Realizing that you are the universe speaking doesn't exactly fit make you feel better but helps you but at least let you know you have the capacity for change
-#Interrupt #BehaviorChange
+Tags:, Interrupt, BehaviorChange
 Leads to rest background metaphysical pondering and allows me to be fully present again? Maybe also a path to constant observer consciousness
 I don't know how this mind/body feels about the absolute truth that I am God speaking...
 
 Interpret setbacks as a message from God that this way thing is not in my way . And this is true, because even if it was my way in the past for instance to do some thing that relied on heavy typing it is no longer#SelfAcceptance #Interrupt #best
 
-#Interrupt extended proprioception #buoyantfitnessPrinciple as a gateway to expanded consciousness #resonator?
-#oneToTwoMoment <>dad is my extended mind...
+Tags:, Interrupt, extended, proprioception, buoyantfitnessPrinciple, as, a, gateway, to, expanded, consciousness, resonator?
+Tags:, oneToTwoMoment, <>dad, is, my, extended, mind...
 
-#Interrupt ~Samvit #review ~texts  with Samvit January 28, 2021
+Tags:, Interrupt, ~Samvit, review, ~texts, with, Samvit, January, 28,, 2021
 Do you actually want 💣right now, or do you just remember wanting 🧨?
 
 Stop worrying and just enjoy the present moment. You are always worried about doing things wrong, missing out, and upsetting others/what they’ll think of you.
@@ -1764,7 +1766,7 @@ Me speaking now is the Universe speaking
 You speaking now is the universe speaking #Breakthrough #Bombshell #identity #mostprofound #Interrupt #eerie #chills #Profound #best <>what the universe says... #eerie
 You are the universe expressing itself
 You are the universe speaking — imagining it with the profound sound of the Bene Gesserit m voice from ~Dune
-#write enlightenment in a box. And... it's free!
+Tags:, write, enlightenment, in, a, box., And..., it's, free!
 This is the insight that people meditate all these years hoping to have pass through it's so simple! <>the secret all the Great... <>What language does the...
 <>Zooming in on the moment...
 <>If you liked the movie...
@@ -1778,7 +1780,7 @@ Buddhist ontology — Speaking truth shinzen meditation is building a resonator 
 Connection between Buddhist and Taoist ontologies #Ontology when you say feel or see etc. in the shinzen Meditation that is the universe speaking
 —
 Seems almost boring
-#infinitepower each truth has power to reshape entire neurology —  
+Tags:, infinitepower, each, truth, has, power, to, reshape, entire, neurology, —
 
 The universe is speaking through you right now #Interrupt** #mostprofound #best* #sacred
 You are an expression of the universal nature
@@ -1787,7 +1789,7 @@ Not our nature — not our nature
 When we speak we speak with voice of god <>#watch you are a receiver...
 <>Western ontology —Iike...
 <>movement is not something that you do movement is something that you are  #Profound #quote  <>you too are an element... <>Me speaking now is the...
-#sacred it's a powerful inside last time it was revealed people got killed. People have died for this insight
+Tags:, sacred, it's, a, powerful, inside, last, time, it, was, revealed, people, got, killed., People, have, died, for, this, insight
 I lost a lot of hair for this insight
 It's like taking the red pill  #RedPill <>just had red pill in... <>you might be this weird...
 <>Western ontology —Iike...
@@ -1797,8 +1799,8 @@ Generator of the Big Bang
 —
 All connected because we were once like particle — just like I was a part of mom
 —
-#connectedness
-#tt aum sound
+Tags:, connectedness
+Tags:, tt, aum, sound
 
 Somebody else's problem field #Interrupt #selfOtherBoundary
 <>what about embody the...
@@ -1811,21 +1813,21 @@ And I guess in some sense it's always collab #Interrupt @stress
 
 All these thoughts and ideas are part of the art of solving the bandaged Rubiks cube of the mind
 Which relates always always having something interesting or fun to do #mem
-#MentalStateHack
-#write This mental state hacks – or
+Tags:, MentalStateHack
+Tags:, write, This, mental, state, hacks, –, or
 Really just getting back out of your head and you towards doing the right thing calmly getting cognitively unstuck
 Cognitive overrides based on an assertion of an absolute truth have infinite power #Powerful and can take you to the moon psychologically #ecstasis , eg recalling you're going to die #Interrupt <>I am a spirit ! #Interrupt...
 Action through assertion of truth? #ThinkAbout
 Truth is power? <>satyagraha aha...  even more so in the mystic realm
 It's the equivalent of zero point energy?
-#write mystic physics— physics of the mind?
-#write the psychic and the psychological  
+Tags:, write, mystic, physics—, physics, of, the, mind?
+Tags:, write, the, psychic, and, the, psychological
 In the realm of the psychological there are infinites pitted against each other <>unstoppable forces against immovable objects the fae
 
 I am a spirit ! #Interrupt...  
 <>All these thoughts and...
 
-#death how would my attitude change if I knew I was going to die in five years anyway? @fear in someway I will die in five years in terms of fitness etc and opportunists of youth #Interrupt <>Kevin hinman  And the... #impermanence #PsychologicalForce  #ThoughtExperiment #philosophicalTool <>Nietzcsche eternal...
+Tags:, death, how, would, my, attitude, change, if, I, knew, I, was, going, to, die, in, five, years, anyway?, @fear, in, someway, I, will, die, in, five, years, in, terms, of, fitness, etc, and, opportunists, of, youth, Interrupt, <>Kevin, hinman, And, the..., impermanence, PsychologicalForce, ThoughtExperiment, philosophicalTool, <>Nietzcsche, eternal...
 — #philosophicalTools are endogenous access to psychedelic states? #endogenousPsychadelic #ecstasis
 
 Pushing at the rate of growth but not harder not suffering stimulating but don't be too picky it's all good training
@@ -1835,41 +1837,41 @@ Cultivation is about becoming not a barbarian
 You speak as a dog barks without sight
 
 Tongue tip at roof of mouth watching energy escaping
-#best* #Interrupt #ValueFunction
-#mem tom alden we all need to get some of what he's drinking or are going to age
+Tags:, best*, Interrupt, ValueFunction
+Tags:, mem, tom, alden, we, all, need, to, get, some, of, what, he's, drinking, or, are, going, to, age
 
-#Interrupt  
+Tags:, Interrupt
 <>~david goggins Cooke...
 
-#Interrupt #cold
+Tags:, Interrupt, cold
 Evil side of Goggins Dash going to be more comfortable in hell week then the officer is in their warm bed — can't hurt me idealogy #book #buy
 ~david goggins
 Not too late to to become a seal and do this #AlternativeLife — do it all on an injured SI etc — burn it all down I have only this life only this one body only this one chance #embracethetree
-#Whyawesome youth
+Tags:, Whyawesome, youth
 Can actually choose different lives and reinvent
-#Whyawesome mental calluses  — so you don't fall apart when life throws tough things at you #parenting? <>#quote Let me tell you... #hardcoreMotivation <>the beauty of the mind and human spirit not learned from man but from god ~david goggins
+Tags:, Whyawesome, mental, calluses, —, so, you, don't, fall, apart, when, life, throws, tough, things, at, you, parenting?, <>quote, Let, me, tell, you..., hardcoreMotivation, <>the, beauty, of, the, mind, and, human, spirit, not, learned, from, man, but, from, god, ~david, goggins
 <>Favorite thing to do...
 <>https://www.youtube....
 
 I am a spirit ! #Interrupt
 Psychic being
-#Whyawesome ultramarathons and extreme limit pushing — fun for the spirit to see how far it can go relates to who's fastest
+Tags:, Whyawesome, ultramarathons, and, extreme, limit, pushing, —, fun, for, the, spirit, to, see, how, far, it, can, go, relates, to, who's, fastest
 It's just you vs the road or the race
-#nonattachment be that intense about mediation or school or whatever
-#Whyawesome beigang hardcore show me what you can do #Attitude #PTTrick
-#Motivation #WorkoutTrick
+Tags:, nonattachment, be, that, intense, about, mediation, or, school, or, whatever
+Tags:, Whyawesome, beigang, hardcore, show, me, what, you, can, do, Attitude, PTTrick
+Tags:, Motivation, WorkoutTrick
 —
 He completed his ordeal/ mission in life; what does he do wi this next life?
-#Whyawesome memory sport <>become a god  #future... <>become the  potential...
+Tags:, Whyawesome, memory, sport, <>become, a, god, future..., <>become, the, potential...
 <>Alternative ontologies...
 
 become the  potential of my dreams. Also, dream bigger . Become the potential of your potential to dream
 <>I am a spirit ! #Interrupt...
-#identity mit badass -.-
+Tags:, identity, mit, badass, -.-
 Doesn't matter if you don't like it still do it running. Life is tough ~david goggins #pain
 Shows you what you can do if you wanted to / put your mind to it, shining ; #identity w the Vargas . What can I actually do? #LeadingQuestion <>#best  I’m thinking about...
 You can do it <>put your ass into it...
-#Interrupt #Motivation ~david goggins
+Tags:, Interrupt, Motivation, ~david, goggins
 Doesn't mean I need to be exclusively tough
  An  endurance sense but that intensity with my focus pleat in in tai chi or precision in Pilates #ideal
 Become happy with how I've taken this life from here  @DavidGreenspan #separatingyinfromyang
@@ -1878,13 +1880,13 @@ Don't know what future will bring but I'm healthy now and intend to remain that 
 What if I were to cultivate this body to be everything? And enlightened? And the lylmik?
 What if it were everything? Can I even see that?
 Can I even imagine I can't see the future anymore?
-#mentalstate  or mind reading #psych ; don't want to read ordinary persons mind most of the time?
+Tags:, mentalstate, or, mind, reading, psych, ;, don't, want, to, read, ordinary, persons, mind, most, of, the, time?
 Don't think about #death so much
-#Interrupt #mentalstate sanity via acknowledging all I know is what I perceive from the senses , see what that is, then recalibrate retrain and build up #existential
+Tags:, Interrupt, mentalstate, sanity, via, acknowledging, all, I, know, is, what, I, perceive, from, the, senses, ,, see, what, that, is,, then, recalibrate, retrain, and, build, up, existential
 The truth of perception and nature is always trying to get out
 
 Sinking qi to center of planet then rising up
-#Interrupt
+Tags:, Interrupt
 
 Build calluses on brain @wall #engrain – How about mental muscles instead of mental calluses, they don't need to be hard and unmoving moving but strong? #Interrupt
 —> like calluses in hands
@@ -1906,9 +1908,9 @@ Search soul search mind search abilities ; not not looking not going toxins
 Why am I on planet eart — why
 —
 I finished 2 hell weeks you are in a badass
-#Interrupt
+Tags:, Interrupt
 Harvard
-#selfefficacy
+Tags:, selfefficacy
 —
 Put it back in cookie jar
 Self talk viz
@@ -1941,15 +1943,15 @@ separating upward and downward forces
 The question is, what do you want to create? And are you making art? #Interrupt <>#Romanticism
 <>The only way to resolve... <>make good art #LifeGuiding
 
-#Interrupt getting organized as meditation #Organization
+Tags:, Interrupt, getting, organized, as, meditation, Organization
 <>Wherever I am the only...
 
 Do what we can with the time that is given us
-#lookup Gandalf quote #Interrupt
+Tags:, lookup, Gandalf, quote, Interrupt
 Start where you are use what you have do what you can #Interrupt
 <>Gently wake self up,...
 
-#foundation being in San Diego is good for me — health retreat , don't really have a base to be
+Tags:, foundation, being, in, San, Diego, is, good, for, me, —, health, retreat, ,, don't, really, have, a, base, to, be
 i would like to be around someone who's laughing in capable and knows these things and can be there at the right time to help. It's a tough ask
 How else am I going to show up and be a positive presence
 There is this limited time to do these important things together
@@ -1977,25 +1979,25 @@ Wherever I am the only thing to do is to start tinkering #Best #Interrupt #Buoya
 Very blind to things not close to reality
 Yan Mu here changes everything
 Anything could happen yan Mu could be on clubhouse
-#Interrupt
+Tags:, Interrupt
 
 Coming back to this world almost as a wizard or spiritual being #Interrupt
 
 Go fast, capitalize on this time don't waste the neurotransmitters! #focus #Motivation #Interrupt
 
-#Interrupt* regard context as meditation
+Tags:, Interrupt*, regard, context, as, meditation
 Self as practitioner
 Releasing attachments is how you get gong ; that's why to do reverse
-#falu <>Realizing viscerally...
+Tags:, falu, <>Realizing, viscerally...
 
 I am an aura spirit looking down at these beings with compassion
 I am the excitement the pain I am all these things for this is what it means to be god
 Compassionate god
 Be now in the future and at once
-#Interrupt #poem  
+Tags:, Interrupt, poem
 It's just oneness? This seems the deepest truth <>it's the most sane thing...
 
-#Interrupt @pain all this is shadow and light light cast by the beam of the creator I am an aura not a set of Atoms, a loving spirit
+Tags:, Interrupt, @pain, all, this, is, shadow, and, light, light, cast, by, the, beam, of, the, creator, I, am, an, aura, not, a, set, of, Atoms,, a, loving, spirit
 You are a fragment of God coming back together
 Jesus as a model of how to embody God
 
@@ -2031,29 +2033,29 @@ Or assist an expert
  realizing that most people really don't do much
 Why keep up the charade of work
 What is the work that really needs to get done? #Interrupt
-#backToHumanity #backtoself #volunteerism @victoriaLin
-#ExplainingIdeaflow hub / tools for the well intended
+Tags:, backToHumanity, backtoself, volunteerism, @victoriaLin
+Tags:, ExplainingIdeaflow, hub, /, tools, for, the, well, intended
 @alton
-#mem most people are highly ineffective
+Tags:, mem, most, people, are, highly, ineffective
 Really recognizing what is true
-#ecstasis vocational ecstasy <>Burning man turns the...
+Tags:, ecstasis, vocational, ecstasy, <>Burning, man, turns, the...
 now that I am oriented towards this joy and realizing that this is a way to embody the qualities of the universe
-#EmbodyTheQualitiesOfTheUniverse
+Tags:, EmbodyTheQualitiesOfTheUniverse
  Now I'm glad I put in the effort to become an expert at some thing build up the skills to make the difference
 
-#Interrupt #meditation ~dad close your eyes and mention what you see
+Tags:, Interrupt, meditation, ~dad, close, your, eyes, and, mention, what, you, see
 
 Health hair
 Limited time #foundation #Interrupt
 
-#Interrupt #eating Wayne cook
+Tags:, Interrupt, eating, Wayne, cook
 To face whatever is in front of my with grace — emotional clarity  
 
-#Interrupt breathe all the way out and wash myself automatically breathe in. Ride the breath <>The reason you follow...
+Tags:, Interrupt, breathe, all, the, way, out, and, wash, myself, automatically, breathe, in., Ride, the, breath, <>The, reason, you, follow...
 
-#mem #best #meditation #Interrupt the 3 ahead of travel ~dad
+Tags:, mem, best, meditation, Interrupt, the, 3, ahead, of, travel, ~dad
 
-#Interrupt
+Tags:, Interrupt
 Connected selves in other dimensions Only then can they go together to final destination — have to complete course of life
 Homeless souls and hungry ghosts
 @te what happens if cultivator is killed? Is it painful?
@@ -2062,12 +2064,12 @@ Own your past but the future is what you have to make. #Interrupt
 ~Nicolas berggruen
 Remember, if you are unhappy, it’s not the world that must change, but you.
 
-#Interrupt #Attitude it's a qigong workshop today
+Tags:, Interrupt, Attitude, it's, a, qigong, workshop, today
 
-#Interrupt washing face and brushing teeth
+Tags:, Interrupt, washing, face, and, brushing, teeth
 
 Yell
-#eating food is toxin
+Tags:, eating, food, is, toxin
 Screaming pillow chewing gum playing music calling friend
 Blow out
 Macro cosmic orbit
@@ -2076,7 +2078,7 @@ Mimi expansive Meditation
 Petting a pet <>#mindset fluffer... <>special snowflake
 small bites chew swallow  — notice chewing — expand sensation n
 Zooming into the quality of sensation as primary Eg aura energy
-#Interrupt
+Tags:, Interrupt
 Inhale lavender
 Acupoint L4
 Switch to observer mode — I don't have control of this <>Could Alcoholics Anonymous...
@@ -2092,7 +2094,7 @@ Go onto my own garden <>my own garden
 11:11 god is 1
 Oneness <>continuum — all continuous...
 Expand as sensation to be worked w as part of meditation
-#cold <>@jm reserve all judgment...
+Tags:, cold, <>@jm, reserve, all, judgment...
 cosmic order or karma
 @argument may you be filled with loving kindness
 Ask my angels to talk to others angels — turn it over to forces other than you, can #sleep easier
@@ -2111,29 +2113,29 @@ Y
 Charity —> take money lightly
 Tolerance forbearance grateful to person attacking you #Interrupt . It's opportunity to increase gong/ build energy by returning to center separating observer from observed @threat @fear
 Black master turned into de; 2 for one. Mind nature Xinxing up 3 for one. Where else can you get such a great deal #reframe 33:00 lec4
-#falu
+Tags:, falu
 Forbearance #Tolerance
 
 I am a field #Interrupt @argument @fear @threat - restraining force on cells. And those behind. Also they are part of me it's a part of me that hasn't integrates #trust
 The desire for water or the desire for food is desire for energy; can be met other ways
 Breathing in and out of acupoints, middle chest spleen 21 dantien
 
-#Interrupt bow into different space bow to thoughts
+Tags:, Interrupt, bow, into, different, space, bow, to, thoughts
 
 Nothing real danger to you awaken me into my body, but also remembering that I am in the bonus round of life
-#Interrupt
+Tags:, Interrupt
 
-#Interrupt on. Turns out, the best way to increase coherence, is to focus on your breath, start to think about something or someone you’re grateful for and tune into what you appreciate in your life. Science has found that grateful people wer #meditation
+Tags:, Interrupt, on., Turns, out,, the, best, way, to, increase, coherence,, is, to, focus, on, your, breath,, start, to, think, about, something, or, someone, you’re, grateful, for, and, tune, into, what, you, appreciate, in, your, life., Science, has, found, that, grateful, people, wer, meditation
 https://www.independent.co.uk/extras/indybest/us/best-meditation-devices-home-mindfulness-relaxation-a9021426.html?amp
 
-#Interrupt notice biofeedback hrv breathing Feedback
+Tags:, Interrupt, notice, biofeedback, hrv, breathing, Feedback
 
-#Interrupt become one with the cosmic order
+Tags:, Interrupt, become, one, with, the, cosmic, order
 <>divine order
 Surrender
 May I be one with god <>May I be an instrument...
 
-#Interrupt #chills explore the world as a spirit not a human #inducesqi
+Tags:, Interrupt, chills, explore, the, world, as, a, spirit, not, a, human, inducesqi
 
 Feeling into my belly I notice two balls of light spinning #Cold <>falun #falu #falu #Interrupt <>chakras when I do the macrocosmic orbit meditation #eating #Interrupt
 
@@ -2152,10 +2154,10 @@ It's about expanding yourself and being the energy and focusing it #rigorousMind
  the energy with the breath
 Unstick the attention
 Ask if it's the karma talking —> energy
-#inducesqi
+Tags:, inducesqi
 Zooming in like wccc watching the yi activate qi activate toe activate finger #presence
 
-#presence each conversation is a one time thing  #Interrupt <>ichigo ichi-e... ~grandma
+Tags:, presence, each, conversation, is, a, one, time, thing, Interrupt, <>ichigo, ichi-e..., ~grandma
 
 If I am to be a good ceo etc need to master relaxing under pressure. That's what being a good ceo or leader is. Always take time to relax
 Just remove bs and there's plenty of time
@@ -2169,7 +2171,7 @@ Swimming in the air #Swimming big hear
 This truth is always bubbling up
 Poetry come to senses study what feels nice <>all desperation has left system ~sadhguru
 The happiness and pain isn't me
-#Interrupt tai chi breathing #grounding #ecstasis
+Tags:, Interrupt, tai, chi, breathing, grounding, ecstasis
 
 Lightness #Interrupt #HigherSpirit
 
@@ -2181,22 +2183,22 @@ Relates to college roommate as #BehaviorChange
 Can I become a crazy athlete with this?
 Get in touch with raw reality not constrained by mental barriers. Clear
 Wccc breathing @sports #Interrupt
-#ThinkAbout
-#SelfUnderstanding I like Eastern European artsy sports like ice skating and rhythmic gymnastics
+Tags:, ThinkAbout
+Tags:, SelfUnderstanding, I, like, Eastern, European, artsy, sports, like, ice, skating, and, rhythmic, gymnastics
 Dt oly ath
 Imagine focus nhi441 training at least 4 hours a day 2 hrs morning 2 hrs evening like stanford athlete synchronized swimmer #ideal #Interrupt
 Tommy John as coming from that stock
 Wccc dropping ribcage #Interrupt #engrain
 
-#Interrupt #HigherSpirit #inducesHigherSpirit #nonaction #PTTrick do pt with the #meditation attitude of put myself in that position and wait around till something causes me to move
+Tags:, Interrupt, HigherSpirit, inducesHigherSpirit, nonaction, PTTrick, do, pt, with, the, meditation, attitude, of, put, myself, in, that, position, and, wait, around, till, something, causes, me, to, move
 Then return
 Athletics pushing limits is interesting #review not just psych?
 
 If I want that 1ocosx got to eat train and rest right
 Can start enjoying the fruits pretty quick
 Just got to put in the work and willget results
-#best
-#Interrupt @wall
+Tags:, best
+Tags:, Interrupt, @wall
 What shall I do today? <>#attitude what shall...
 
 How's your life going? ~Alton #Interrupt <>“taoists observed that... @albert @DavidGreenspan
@@ -2207,18 +2209,18 @@ If it's of the lethani then it's ok #okness
 
 We are little cuddly mammals if we open ourselves to it. In the warren of a house
 Like bunnies
-#humanNature #SelfUnderstanding
+Tags:, humanNature, SelfUnderstanding
 Can become adaptive to not having it and doing it for our self to. Both are healthy #education
 <>#Valuefunction hygge...
 <>#culturaltechnology The... cozy
 Warm food
-#Attitude I got the cuddles
-#Interrupt induce the cuddles
-#Trauma <>mdma therapy — MDMA induces...
+Tags:, Attitude, I, got, the, cuddles
+Tags:, Interrupt, induce, the, cuddles
+Tags:, Trauma, <>mdma, therapy, —, MDMA, induces...
 You can be a cactus but don't need to be one @mom . But mom isn't prickly she's spicy
 Initially it was taught that autism was caused by insufficiently warm mothers #Autism
 Inducing cuddly #stateofconsciousness as treatment for @autism
-#mem #phrase love bug
+Tags:, mem, phrase, love, bug
 
 Snake coils with tail in mouth or fox sleeps tail to nose ; circle w two ends meeting Grover her , tranquility  _—> circulation of heavenly circuit —> cultivation
 Inducing it to assimilate to structure of cosmic order #Interrupt @petercaughey #whyawesome stillness — that's what's happening #stillness #Interrupt . Stillness + openness — words have power <>When you name an emotion... #naming — wccc cues have power
@@ -2229,7 +2231,7 @@ Energy block above heart at neck —> drop ribs #Interrupt
 I’ve been thinking of things that can help you initiate the path of transcendence, help you climb the ladder, help you interrupt an ordinary mental state to go to a transcendent one. Thinking a further level on integrity, I wonder if starting with a tiny seed of truth, eg by repeating a truth — everything is shadow and light, cast by the beam of the Creator, you can plant the seed of integrity, the fire of integrity which will then spread to the rest of your system? If so I’m curious what truths you would start with #Interrupt #transcendance
 
 Pt w jacob
-#Attitude need to do well how for my adult patterning
+Tags:, Attitude, need, to, do, well, how, for, my, adult, patterning
 New childhood
 Discipline as self love
 Compassion or love flows from source? Ca
@@ -2244,7 +2246,7 @@ enjoy the exercise being encouraged to enjoy anything that you do because it can
 Being able to do enjoyable things can be helped by expanding the range of things that can be enjoyed – the greatest harmonies #presence #ecstasis
 
 What am I doing if I'm not getting multiple hours of Pilates and sleep and all these other good things per day and exercise? #Attitude #Best #Interrupt <>3 hours a day exercise #sanDiego
-#Message #Exercise
+Tags:, Message, Exercise
 Just being confused
 Qigong
 Etc
@@ -2254,14 +2256,14 @@ The crazy miracle of just being able to breathe #awe #Interrupt @boredom #gratit
 
 Practices with minimal wake up #Interrupt #QigongTrick I don't have to wake up
 
-#nonaction #preaction non action
-#Interrupt
+Tags:, nonaction, preaction, non, action
+Tags:, Interrupt
 Allow that pause —> #effortless
 
 listening to the wind
 <>The message from God... <>May I be an instrument... <>followingTheWay #Interrupt
 Doing it intuitively
-#TheWay
+Tags:, TheWay
 <>Discovering clues as...
 
 Be passionate to do my pt
@@ -2271,39 +2273,39 @@ Get into super gentle moving as the way #Activity @boredom , gentling stimulatin
 Completely focus on pt for a month and get better — vacation #separatingyinfromyang
 Reviewing each pt learning as part of my workflow teaching to someone
 —
-#wayofbeing getting really into everything as polymath vs just doing some things mechanically
-#Interrupt
+Tags:, wayofbeing, getting, really, into, everything, as, polymath, vs, just, doing, some, things, mechanically
+Tags:, Interrupt
 Seeing janet not out of habit but because we have more work together #Insight  — same with my own life #Motivation #ReasonToLive
 
-#interrupt #EnergyMedicine https://youtu.be/0kZKq-245V0
+Tags:, interrupt, EnergyMedicine, https://youtu.be/0kZKq-245V0
 https://youtu.be/gp_buPBfpWQ
 https://youtu.be/AHSpTcidcy4
 https://youtu.be/upugUY0myiw
-#EnergyMedicine
+Tags:, EnergyMedicine
 
 Four hours a day for two months like Shastri can do something #transformative #BehaviorChange #interrupt #mindset #Attitude #reframe
 
-#interrupt feeling 3rd eye #inducesqi
+Tags:, interrupt, feeling, 3rd, eye, inducesqi
 Centered hemsworth #ideal — I can do that
 Become Indestructible like Bill and Sensei
  crystal
-#postKarate
+Tags:, postKarate
 
 Use the discomfort as a meditation object, need to move and recenter #shinzenYoungMeditation
-#Interrupt Achieving liftoff #mentalstate #ecstasis
+Tags:, Interrupt, Achieving, liftoff, mentalstate, ecstasis
 <>#Interrupt can I access... @danielwindham #Memory
 
 Looking at the cats tail wiggle see the wave of energy pass through it #energy #grounding #Interrupt #worldview #lens
 @argument see everything as energy ripple shooting toward me through me etc <>Fear pass over me and... — fear is a ripple!
 Idea of a truth eye an eye through which you can see truth The organ that perceives truth, the feeling of truth? #Profound
 
-#Interrupt can I access ecstasis right now #ecstasis <>Use the discomfort as... <>Be passionate to do my... #PTTrick
+Tags:, Interrupt, can, I, access, ecstasis, right, now, ecstasis, <>Use, the, discomfort, as..., <>Be, passionate, to, do, my..., PTTrick
 
 Pull energy together into tight package #eating #Interrupt
 Like g on c5
 
 May I be an instrument of god's will #wuwei #Interrupt
-#job
+Tags:, job
 Thus it feels great to be part of an org you trust #bg <>#watch you are a receiver...
 god amplifier yi and qi
 
@@ -2311,10 +2313,10 @@ Very little about god is love in genesis creating
 <>listening to the wind...
 <>#Interrupt become one...
 
-#PushHands ~wccc  2021-17-01 29:30
-#pushHandsTrick
+Tags:, PushHands, ~wccc, 2021-17-01, 29:30
+Tags:, pushHandsTrick
 Thumbs in push hands
-#Interrupt 37 every time stress be cool
+Tags:, Interrupt, 37, every, time, stress, be, cool
 
 I'm so cool #posture #grounding #Interrupt
 <>Like windup before a...
@@ -2326,9 +2328,9 @@ It's an excuse, don't associate me with the stomach things
 Self defeating world view
 That was then this is now
 
-#Interrupt #posture #qigong ~Joe deishar January 10, 2018 ~photos #Interrupt #eating
+Tags:, Interrupt, posture, qigong, ~Joe, deishar, January, 10,, 2018, ~photos, Interrupt, eating
 
-#watch https://fb.watch/3gJ2aSbuD1/ #Interrupt
+Tags:, watch, https://fb.watch/3gJ2aSbuD1/, Interrupt
 
 Prokaryote #Interrupt
 Individual self
@@ -2344,7 +2346,7 @@ Buddhists — buddhahood
 Tao — becoming a true man
 People will sharpen their heads and make gain among ordinary
 Qigong is really cultivation practice
-#falu
+Tags:, falu
 Tien zhe stance 37:00 #qigongExercise arms over head bring cosmic qi into dantien
 — watch this well or not at all?
 Bring in top of head
@@ -2365,29 +2367,29 @@ What else is there for me to be doing #Interrupt
 How far can I get with just a swimming pool, with absolute truth, with just bounds, with just my body? #Attitude #Profound #Best #Interrupt
 The miracle that you experience anything at all, <>Because of the Chase...
 
-#Attitude warrior #motivation
+Tags:, Attitude, warrior, motivation
 Warrior poet
 My ancestors were warriors and voyagers?
 —
-#Interrupt self as warrior or practitioner?
+Tags:, Interrupt, self, as, warrior, or, practitioner?
 
-#Interrupt
+Tags:, Interrupt
 ~Chase Varga path to appreciating any thing as good — there's a bright side to everything ; or judging it and criticizing #Happiness
 Get out of need for cognitive override
 
 There is light if we are brave enough to be it #line
 <>#tt review Biden... #best #Interrupt <>#warriorship...
 
-#Interrupt finesse the situation, keep my meditation within the room including the computer!
+Tags:, Interrupt, finesse, the, situation,, keep, my, meditation, within, the, room, including, the, computer!
 The. I'm succeeding!
 
-#Interrupt in a sanctuary not building a sanctuary
+Tags:, Interrupt, in, a, sanctuary, not, building, a, sanctuary
 
 The taoist approach:
 “do whatever you want but check in with what you really want”
 <>be perfectly honest with... #taoism
  And do things to help you more deeply perceive what you really want
-#Interrupt need To embody both human and divine it seems to be cyclical as I go towards bedtime I end up in divine
+Tags:, Interrupt, need, To, embody, both, human, and, divine, it, seems, to, be, cyclical, as, I, go, towards, bedtime, I, end, up, in, divine
 
 The really nice server at the restaurant bringing me back to my humanity perfectly #backToHumanity #important #Interrupt #best
 <>Mining for god In the...
@@ -2413,7 +2415,7 @@ Then release attachment to doing nothing
 Let your beach ball mind float / fly
 And you transcend
 And you then achieve all those things from that trait
-#meditation
+Tags:, meditation
 Conditional idea of meditation seems pretty austere painfully removing attachments like extracting bullets with tweezers, that's the Buddhist method or perhaps the Christian one, the Dallas Nath it is more like unblocking acupuncture channels it's much more gentle, you just really do one exercise and it lasts open all the channels at the same time and then all the other attachments in life naturally fade away
 Both techniques get the job done
 <>Magical knowledge of...
@@ -2428,13 +2430,13 @@ it's the karma with intellgence speaking are you a person or karma with intellig
 Remember, I can see the futur more importantly I can see god
 And my goal is to notice any attachments anyway and cultivate for higher energy
 I can feel the wheel
-#Interrupt #DialecticResolution
+Tags:, Interrupt, DialecticResolution
 Key is to release no second thoughts
 Then I get energy like excitement of jm working together you'll be worth 20m by age 26
 
-#Interrupt #PTTrick transcending lower emotions it's the deepest expression of my nature
+Tags:, Interrupt, PTTrick, transcending, lower, emotions, it's, the, deepest, expression, of, my, nature
 
-#Interrupt quality of movement is what I want
+Tags:, Interrupt, quality, of, movement, is, what, I, want
 Accessible anywhere
 The tao
 
@@ -2446,7 +2448,7 @@ Calmly do pt
 Weight training
 Essence of clear life is stillness clarity is bliss clear karma ego shell experience god directly vs separation from god. This is what's wrong w junk food distracting drugs etc
 Sleep as rooting
-#profound #ThinkAbout
+Tags:, profound, ThinkAbout
 News food etc causes more scramble
 Phones! #o
 
@@ -2454,16 +2456,16 @@ Non-action #Interrupt
 Campus
 Vz
 
-#best* #Interrupt* @internetaddiction feel the wheel!!!!! That's what makes all this make sense!!
+Tags:, best*, Interrupt*, @internetaddiction, feel, the, wheel!!!!!, That's, what, makes, all, this, make, sense!!
 This is why Xinxing is important  you carry the energy all day of course you want want to have high xinxing etc and anything else would be inconsistent and/or squandering the energy
 This is what's important about circulation of the energy not just blasting it is it has the notion of containment?
 But I think just really feeling your flow out the fingertips probably will do it too, what disrupt the flow
 -.-
 
-#Interrupt float! <>Love more, fear less;...  #Nonattachment <>Hungry ghosts You’re...
+Tags:, Interrupt, float!, <>Love, more,, fear, less;..., Nonattachment, <>Hungry, ghosts, You’re...
 @mom hungry ghosts?
 
-#Interrupt @internetaddiction I observe energies moving versus I desire #TheArtOfAscension
+Tags:, Interrupt, @internetaddiction, I, observe, energies, moving, versus, I, desire, TheArtOfAscension
 Realizing that way I want inside each of these stimulate is energy
 Embody characteristic of universe
 Addiction is attachment
@@ -2475,11 +2477,11 @@ Nonattachment doesn't mean you can't do anything, it's that you have to remain o
 
 And the trick is meeting people where they are at in convincing them to do the breathing
 That's what the profound hole in the head interrupts can do is get you to be willing to do something like the breathing #FormHabit
-#breathing #pranayama
+Tags:, breathing, pranayama
 Breathing can almost instantly reset your holes are you function because you have to thread the entire needle of your life through that breath
-#forcingfunction
+Tags:, forcingfunction
 Noticing breathing gets fast @argument #Interrupt #eating the four seasons of the breath
-#LowHangingFruit
+Tags:, LowHangingFruit
 Spiritual enlightenment is at the edges of what's physically possible? Eg breath holding? #profound ? Because then spirit leaves body a bit? Like yoga stretching of heavy lifting ?
 Retaining bone stack posture and solid base #Interrupt @argument bouncing softly and returning to center #QualityOfMovement  meet w perfect softness? #Engrain
 See the beam that created each qualia #best
@@ -2492,27 +2494,27 @@ Half of a start at improving is mechanically not reacting negatively
 —
 I am in the sanctuary free of painful things and thoughts, how far can I get if I live a perfect life from this moment forward <>how far can I get with pranayama if I start today? Look at breath coach youtube
 
-#Interrupt if I really needed to get stuff done which techniques would I use with Iyus? Daily energy routine as part of it, all the techniques that work in emergency high-pressure situations like Calvin Beach Atoms acupuncture point on the knee it's a certain litmus test for their power #EnergyMedicine #ExtremesToUnderstandNotExtremes #explainingQigong
-#ExplainingIdeaflow as a tool in an apocalypse
+Tags:, Interrupt, if, I, really, needed, to, get, stuff, done, which, techniques, would, I, use, with, Iyus?, Daily, energy, routine, as, part, of, it,, all, the, techniques, that, work, in, emergency, high-pressure, situations, like, Calvin, Beach, Atoms, acupuncture, point, on, the, knee, it's, a, certain, litmus, test, for, their, power, EnergyMedicine, ExtremesToUnderstandNotExtremes, explainingQigong
+Tags:, ExplainingIdeaflow, as, a, tool, in, an, apocalypse
 
 Secret is to perceive what actually is possibly with #esptrainer in relation / what's a hard line #Interrupt
 It's so easy
 
 Being coherent in ordinary world Ways seems very simple now that I have done it in spiritual one @internetaddiction #Interrupt
 
-#Interrupt So this is one sense of the term “enlightened,” and it has to do with the realizations people come to during their spiritual development. Yet in China the term is now being used in secular ways, the opposite of how we use it. However, enlightenment in the truest sense goes further than I’ve described. It has to do with whether a person of faith can, when he meets with adversity, hold fast to the guidance of his teacher—be it in whatever practice or belief—and remember that his is a spiritual life, see the situation for what it is, and embrace it and handle it in the manner set forth by his way of practice. Some people can just never believe in such things, though, and think that there’s more to gain by being worldly. What makes it so hard for them to believe is that they aren’t willing to open their minds. For example, some people are only here for healing and get put off #falu #transcendance
+Tags:, Interrupt, So, this, is, one, sense, of, the, term, “enlightened,”, and, it, has, to, do, with, the, realizations, people, come, to, during, their, spiritual, development., Yet, in, China, the, term, is, now, being, used, in, secular, ways,, the, opposite, of, how, we, use, it., However,, enlightenment, in, the, truest, sense, goes, further, than, I’ve, described., It, has, to, do, with, whether, a, person, of, faith, can,, when, he, meets, with, adversity,, hold, fast, to, the, guidance, of, his, teacher—be, it, in, whatever, practice, or, belief—and, remember, that, his, is, a, spiritual, life,, see, the, situation, for, what, it, is,, and, embrace, it, and, handle, it, in, the, manner, set, forth, by, his, way, of, practice., Some, people, can, just, never, believe, in, such, things,, though,, and, think, that, there’s, more, to, gain, by, being, worldly., What, makes, it, so, hard, for, them, to, believe, is, that, they, aren’t, willing, to, open, their, minds., For, example,, some, people, are, only, here, for, healing, and, get, put, off, falu, transcendance
 
 Just as a cathexis drains your energy, and gives life to some thing, are you energized by a cathexis of god? <>let die instead of... . A god-tentacle?
 Graceful #Nonattachment is releasing (not severing) a cathexis and so you get the energy back
-#theology #Metaphysics
-#Interrupt all the energy of all these attachments can be mine if I can release them!
+Tags:, theology, Metaphysics
+Tags:, Interrupt, all, the, energy, of, all, these, attachments, can, be, mine, if, I, can, release, them!
 Is an aversion an attachment? I think so? Then maybe attachment is a synonym for avidya? #avidya
 This concept is so powerful because it reflects how  you mislead yourself from what you really want , separating you from the nature of the universe, like karma shell <>#falu Someone with a...
  , because what you want to be doing is embodying the qualities of the universe <>Creating  new resonators...
  the body of
 
-#Interrupt I am a practitioner
-#AlternativeLife Acupuncturist #job
+Tags:, Interrupt, I, am, a, practitioner
+Tags:, AlternativeLife, Acupuncturist, job
 Or craniosacral?
 
 Every acupoint / sweatpore is an eye
@@ -2525,20 +2527,20 @@ Become independent crash course fix my biggest things
 Time is so limited #Interrupt
 Focus
 
-#Interrupt go do some work
+Tags:, Interrupt, go, do, some, work
 ESP physical
 
-#Interrupt read or listen to spiritual text @shadi
+Tags:, Interrupt, read, or, listen, to, spiritual, text, @shadi
 
 Pain like I'm going to get prp as meditation as part of exercise, #eating, and life
 Sensation and intensity, pan can be re-interpreted as intensity #cold #WorkOutTrick
-#Interrupt
+Tags:, Interrupt
 
 Realizing that listening to the book is a way to achieve the masters meditative mind who wrote them, it's about the rhythms the waves, getting into the headspace of the guy who wrote them
 It's like an interrupting meditation from my inner thoughts #Meditation
-#falu
+Tags:, falu
 Any spiritual teaching that has been authentically transmitted will have been passed down from a distant age
-#Profound #Interrupt
+Tags:, Profound, Interrupt
 Innate body and angelic body
 Also hypnosis
 
@@ -2550,22 +2552,22 @@ Like that Indian guy white dashboard
 -.-
 Remembering great energy from flightat
 
-#best get excited it's going to be ridiculously good
-#BehaviorChange #Interrupt #attitude
+Tags:, best, get, excited, it's, going, to, be, ridiculously, good
+Tags:, BehaviorChange, Interrupt, attitude
 It's clearly something you do to yourself
 <>Yoga all about prep for...
 
-#Interrupt #PTTrick #eating honor my sensitivity
+Tags:, Interrupt, PTTrick, eating, honor, my, sensitivity
 Cultivates her sensitivity
 —
 I am making art with my life
 
 love my body itself as my own #Interrupt #PTTrick
 
-#interrupt laugh
-#eating
+Tags:, interrupt, laugh
+Tags:, eating
 
-#Interrupt #eating pursue non-doing
+Tags:, Interrupt, eating, pursue, non-doing
 
 Why are you telling me all this?
 So you can remember it in hard times
@@ -2617,7 +2619,7 @@ Survival of the fittest got you this far?
 War is just a thermodynamic property if it bothers you you can figure out a way to avoid it
 I thought you were an infinitely compassionate God!
 God: Well, we have some compassion for me? I'm just trying to manifest over here
-#meditation #Interrupt having compassion for God and what he's trying to do
+Tags:, meditation, Interrupt, having, compassion, for, God, and, what, he's, trying, to, do
 Could you give me a little help?
 Relates to the three chimpanzees story and shifting one's aspirations to the larger project
 Do you not see? Do you not think it's a bit cooler than what you were building on your own?
@@ -2685,55 +2687,55 @@ Trust in the simulated annealing process of the universe the annealing process o
 #4thLawOfThermodynamics <>things are deeply ok...
 God nature will manifest in universe despite these vicissitudes!
 This is part
-#trust #faith #write
+Tags:, trust, faith, write
 Faith in God reduces to do you have faith that in the long run good taste will win? In an individual? And in a society? After it's a dystopia for a long time it might take a really long dark age but will it get there? Sure. Or maybe we, the universe, only have this one cycle to cultivate and manifest god? But what of all the black holes? https://www.reddit.com/r/askscience/comments/440j4l/what_effect_would_the_heat_death_of_the_universe/ what will happen to the little universe is inside black holes?
 <>it is easier to find... #LookInto
 I don't know what these are natures are that don't align w this quality
 <>let it be <>Truth will out spiritual...
-#best #Interrupt #write
+Tags:, best, Interrupt, write
 Trust in the fourth law of thermodynamics!
-#write god as a thermodynamic principle
-#tt #Lookingup
+Tags:, write, god, as, a, thermodynamic, principle
+Tags:, tt, Lookingup
 But also look for statistical anomaly's and see if it takes better than raw chance for certain things to happen statistical mechanics, energy has intelligence idea
  All of progress and stuff is just about making this happen faster! We could screw it up but wine miss out
 <>There are two ways to...
 
-#Interrupt #emotions
+Tags:, Interrupt, emotions
 Notice how energy is stuck and turning not possible when in bad emotional state  
 <>Tai chi is all about...
 
-#best establishing a link with a wave or another person #Interrupt
+Tags:, best, establishing, a, link, with, a, wave, or, another, person, Interrupt
 
-#transformative being a surfer #cultivation #best #Interrupt <>being a buff Pilates or gyrotonics guy <>being a cultivator...
+Tags:, transformative, being, a, surfer, cultivation, best, Interrupt, <>being, a, buff, Pilates, or, gyrotonics, guy, <>being, a, cultivator...
 
 All of it winding up to a worthwhile and which is love hi makes all the difference some thing that could make it all better in one second like Julie
 You've been moping around when you could've been doing this
 -.- #Interrupt
 Forlyn
 
-#eating #Interrupt holding straight w superhuman precision
+Tags:, eating, Interrupt, holding, straight, w, superhuman, precision
 
 Creating  new resonators #faith
 Embodying the qualities of the universe so they no longer hold you back @dad #Interrupt #eating <>Beautiful. Like a dolphin...
-#falu
+Tags:, falu
 Falu Delivers it to whatever parts of body needed
 Energy sent out benefits those nearby
 <>Being a surfer is the...
 <>God The characteristic...
-#Interrupt
+Tags:, Interrupt
 <>~the best idge by Thomas...
 <>Just as a cathexis drains...
 <>Show up and really play...
 <>https://www.youtube....
 
-#Interrupt #eating
+Tags:, Interrupt, eating
 
 Look at what I want after practice
 No need for willpower then
  Vs psi? #postqigong #Profound
 Changing what people want is a thing
-#Interrupt #BehaviorChange
-#eating
+Tags:, Interrupt, BehaviorChange
+Tags:, eating
 Asking this from an integrated state
 "What do I want, sloughing off the parameters and constraints that are not me?
 Follow that path and cultivate. Even if impractical — fantasy
@@ -2741,22 +2743,22 @@ Follow that path and cultivate. Even if impractical — fantasy
 
 The answer to how I get myself to do pt is "do nothing". #Interrupt
 @te do shen yun do pt
-#falu
+Tags:, falu
 Idea: don't do pt just do the exercises and things will get better different way of thinking
  -.-
 "Can feel things happening in body energetically
 
 Body as sacred clarity #Interrupt #Exercise
 
-#ideal to become a little god
+Tags:, ideal, to, become, a, little, god
 -.-
 Is a master basically a demigod? Dalai? Li?
 We are all if we are children of God isn't a logical implication that we are all demigods?
  Children of God and Mother Earth?
-#Interrupt
+Tags:, Interrupt
 It's a matter of being with our God nature
 
-#Interrupt #eating ? #PTTrick ? Kung fu line drills?
+Tags:, Interrupt, eating, ?, PTTrick, ?, Kung, fu, line, drills?
 Esp coordinates block punch? Sun in pt ex? #Finesse
 Just sit there and find another way to deal
 As if eat were not avail
@@ -2770,7 +2772,7 @@ Even into #fasting or fitness #motivation <>get super curious ~Donna...
 
 Sensei attitude martial attitude on top of things good boundaries
 Hup hup hai no problem pt exercises dishes yes sir etc
-#best #attitude kiai #Interrupt
+Tags:, best, attitude, kiai, Interrupt
 Been using computer too much Sensei's gesture people coming in w mouse
         What a flourishing guy
 Or been eating too much
@@ -2779,65 +2781,65 @@ Disassociate and view it as a system
 Or zoom into the system and control it
 Use Esp to sense state of pelvis
 Move awareness strongly
-#Interrupt
+Tags:, Interrupt
 
 Act as I would act with people I am mentoring for
 21 days #Behavior #Mentorship #Interrupt
 
-#eating #Interrupt Am I assimilating the universe's quality?
+Tags:, eating, Interrupt, Am, I, assimilating, the, universe's, quality?
 
-#Cold #Interrupt #pain Marshall intent, story about the taekwondo Genesis in North Korean prison of people not dying alone in the dark but instead practicing martial arts together, just simple block punch in formation
+Tags:, Cold, Interrupt, pain, Marshall, intent,, story, about, the, taekwondo, Genesis, in, North, Korean, prison, of, people, not, dying, alone, in, the, dark, but, instead, practicing, martial, arts, together,, just, simple, block, punch, in, formation
  building up resonance?
 Exercising with the intent of building connections
 Even doing a plank with that intention that's what cultivating soreness is to some degree even?
 
-#Interrupt @upset what I really want is tao  
+Tags:, Interrupt, @upset, what, I, really, want, is, tao
 
 We are the equivalent of drunk without meditation #Interrupt
 
-#Interrupt karate break / martial arts break vs just qi break
-#CompanyCulture go outside and do/practice martial arts
+Tags:, Interrupt, karate, break, /, martial, arts, break, vs, just, qi, break
+Tags:, CompanyCulture, go, outside, and, do/practice, martial, arts
 
-#DistractionTactic sucking thumb
-#Interrupt getting bounced around like baby
+Tags:, DistractionTactic, sucking, thumb
+Tags:, Interrupt, getting, bounced, around, like, baby
 
 Tai chi form can unstick attention from fixation on Eg text #Interrupt <>Let the needle of your...
 Tai chi as primarily a mental exercise?
 
-#chills #asmr there are things in this world we do not understand ~dr Eek #LeadingQuestion #Interrupt
-#falu
+Tags:, chills, asmr, there, are, things, in, this, world, we, do, not, understand, ~dr, Eek, LeadingQuestion, Interrupt
+Tags:, falu
 Joe's teacher #SpiritGuide going to check in on student in Germany
 
-#DialecticResolution just be in a good state were you have a good energy and can do whatever without a problem and be on top of things so whatever you're doing is planning ahead
+Tags:, DialecticResolution, just, be, in, a, good, state, were, you, have, a, good, energy, and, can, do, whatever, without, a, problem, and, be, on, top, of, things, so, whatever, you're, doing, is, planning, ahead
 This is time to get way on top of things?#resolution #gettingOrganized <>#NotBeingDefensive  In... <>above the line/Below... <>better living through technology #ValueFunction #FutureVision #ValueFunction <>how can we build technology that helps us be more on top of things vs less on top of things? #ValueFunction #FutureVision #AbusiveDesign
 Being wealthy
-#Engrain
+Tags:, Engrain
 Being spiritually on top of things, being on top of things also at the level of the world is there anyone around here on top of things? Oxford people? Not the US government
-#Engrain #Interrupt . Making your bed is part of being on top of things
-#best
-#behaviorchange being on top of things
+Tags:, Engrain, Interrupt, ., Making, your, bed, is, part, of, being, on, top, of, things
+Tags:, best
+Tags:, behaviorchange, being, on, top, of, things
 Also involves establishing boundaries Kevin yourself off from the world
 Globally is anyone on top of things? Why is there so much desperation? Did we forget how to live after all these millennia? <>#InterviewingAssistants...
-#attitude #PTTrick <>Invest good energy in...
-#LeadingQuestion when were you last on top of things
+Tags:, attitude, PTTrick, <>Invest, good, energy, in...
+Tags:, LeadingQuestion, when, were, you, last, on, top, of, things
 Affinity for being around people who are on top of things
 <>#Breakthrough conquering...
 
-#pain deb meditation
+Tags:, pain, deb, meditation
 @pain
 All I want is to follow the way
  #Interrupt
-#mem disassociate w nikhil show #higherSpirit
+Tags:, mem, disassociate, w, nikhil, show, higherSpirit
 
-#Interrupt giving gifts to someone else is like equivalent to giving gift to your future self
+Tags:, Interrupt, giving, gifts, to, someone, else, is, like, equivalent, to, giving, gift, to, your, future, self
 Per the theory of the egg #commentary
 
 This thing you want so much you weren't attached to it when you were born
 Do you want to go backwards or forwards?
 You could forget it as if it were a dream
 And remember that earlier state
-#best
-#Engrain #Interrupt
+Tags:, best
+Tags:, Engrain, Interrupt
 I care about this project with my whole heart is because I care about you with my whole heart that I installed the structure
 Build community carefully of title advisers and investors?
 @advisor ask if group connection is a good idea?/Potential risks? But actually the power of building just a real community is very valuable which is what I do
@@ -2845,7 +2847,7 @@ Build community carefully of title advisers and investors?
 But also be stronger than when I was born
 
 May I do what I came here for and depart and no more @chaseVarga  #updateDayTwo don't associate I wish body etc but  #higherSpirit
-#DialecticResolution this can be true of the agents wanting the ice cream and the agents warning of the lactose intolerant. This is the proper attitude #Interrupt #nonattachment
+Tags:, DialecticResolution, this, can, be, true, of, the, agents, wanting, the, ice, cream, and, the, agents, warning, of, the, lactose, intolerant., This, is, the, proper, attitude, Interrupt, nonattachment
 Give the gift I came to give
 Not at all attached to developing these ESP outcomes maybe that is not my way but it may be an interesting observation
 
@@ -2855,11 +2857,11 @@ Don't fry nervous system #Interrupt #sleep ~Mimi Miller  
 
 Elevator games
 I may not have studied this year well but I can sure as heck finish it now
-#best #Interrupt I'll show you how to finish a year
+Tags:, best, Interrupt, I'll, show, you, how, to, finish, a, year
 
-#meditationtrick extension of foot in lotus
+Tags:, meditationtrick, extension, of, foot, in, lotus
 Who am I going to be? #Interrupt
-#read atomic habits  
+Tags:, read, atomic, habits
 One-second look at work I have to do #atomichabit
 
 Academic Charles Xavier posture #Interrupt #eating
@@ -2869,10 +2871,10 @@ Academic Charles Xavier posture #Interrupt #eating
 
 W esp comes wisdom as to what to do w it
 In terms of health and health here to do what I came here to do and go
-#esptrainer
-#Insight #Interrupt
+Tags:, esptrainer
+Tags:, Insight, Interrupt
 
-#Interrupt #eating apple cider vinegar and electrolyte drink  
+Tags:, Interrupt, eating, apple, cider, vinegar, and, electrolyte, drink
 
 Energy should go off of fingers instead of backing up into hand #EnergyMedicine
 Spindle cell #Interrupt #Rsi 18:04
@@ -2880,25 +2882,25 @@ Spindle cell #Interrupt #Rsi 18:04
 
 Every time you are tempted to react in the same all the way ask if you want to be a prisoner of the past or a pioneer of the future #Interrupt ~deepak chopra  #quote
 
-#interrupt getting gray -.-
+Tags:, interrupt, getting, gray, -.-
 
 Release all contractions keep all bridges long all bones into right place #QigongTrick #Interrupt
 
 Don't just notice breath, accentuate breath
-#Interrupt <>Notice breath soften... <>elbows forward butt back ~wccc #wcccCue #cur
+Tags:, Interrupt, <>Notice, breath, soften..., <>elbows, forward, butt, back, ~wccc, wcccCue, cur
 
 Notice breath soften belly open heart #Interrupt #EnergyMedicine
 <>Don't just notice breath,...
 
 Vitamins as a nudge
 Taking in vehement emotions with one arm directing them through the belly and out the other like lightning
-#Interrupt @argument
+Tags:, Interrupt, @argument
 
 How quickly all could change
 What Ami prepping for
 World and life could look really different think about shades children
 -.-
-#Interrupt
+Tags:, Interrupt
 https://www.scientificamerican.com/article/alien-hunters-discover-mysterious-signal-from-proxima-centauri/?fbclid=IwAR3J6_t0Wu6gAwdKKPMqE0KjrU_AePCUmvP3OePIuxf6mkqYDH02xOexxwc
 What am I going to be called for in my lifetime?
 Bring peeperish esa to the the universe #lifegoal
@@ -2907,14 +2909,14 @@ That was our last night before everything changed
 Last time to be peeperish
 Just a taste and then to go
 Likebg
-#LookInto stonehenge?
+Tags:, LookInto, stonehenge?
 The tao would be to seal 3rd eye just in time so as not to disturb things
 Like Esp trainer need to shut off or sense it will detail life away from mu
 
 Remember, there are tiny micro motions little little vibrations in our system at every frequency at all times
 All we need to do is make ourselves good resonating cavities and we will pick them up and they will make us resonate more and more!
  bigger and bigger
-#best #meditation #Interrupt
+Tags:, best, meditation, Interrupt
 clear out the
 And we're going to be at a fr
 @whale
@@ -2923,17 +2925,17 @@ Lean heavily into tech Eg blue blockers?
 Use tech knowledge techniques all the time #Interrupt
 When we lean into tech buoyed by universe
 
-#Extreme this is how this is a mechanic of how scarcity induces appreciation
+Tags:, Extreme, this, is, how, this, is, a, mechanic, of, how, scarcity, induces, appreciation
 Realizing that the magic in the fighting isn't what's amazing but it's the fighting itself the kung fu that's amazing #write @blog #SeeingThroughIllusion #theveil
 Not going to getanyg with si pain -.- #Keyinsight
 Or lack of social harmony/bring will regarded
-#Interrupt
+Tags:, Interrupt
 Bringingg Show relationship w housemate or mom
 
 Idea of getting an amulet with a sarira - their presence is felt
 Wild
 -.-
-#Interrupt
+Tags:, Interrupt
 Mezuzah
 
 Pinching feeling
@@ -2952,10 +2954,10 @@ Zosima, the experienced reader of souls, sees through to the anguish of Ivan’s
 ‘If it can’t be decided in the affirmative, it will never be decided in the negative. You know that in the peculiarity of your heart, and all its suffering is due to it. But thank the Creator who has given you a lofty heart capable of such suffering, ‘of thinking and seeking higher things, for our dwelling is in the heavens.’ God grant that your heart will attain the answer on earth, and may God bless your path.’
 
 Ivan now reverently kisses the elder’s hand.
-#read
+Tags:, read
  https://projectdblog.wordpress.com/2011/06/27/why-is-such-a-man-alive-no-tell-me-how-can-he-allowed-to-go-on-dishonoring-the-earth-with-himself/
 
-#Interrupt @internetaddiction
+Tags:, Interrupt, @internetaddiction
 Just being still and stop moving fingers
 Feel heaviness and goodness of stillness
 
@@ -2985,7 +2987,7 @@ Learning energy medicine w mom
 Sleeping paradisically
 Osteo
 Massage
-#tt*
+Tags:, tt*
 
 Realizing I don't have time to be an expert in everything Eg ee
 Make my decisions as game path
@@ -2994,7 +2996,7 @@ Skill tree
 Find aptitudes etc
 Vs programmer attitude of lots of time
 
-#eating #behaviorchange why not eat too much chocolate? It decreases pleasure! #best #Interrupt
+Tags:, eating, behaviorchange, why, not, eat, too, much, chocolate?, It, decreases, pleasure!, best, Interrupt
 
 Spread out the chest like a happy walkie cat blissful ~wccc
 l'm so happy
@@ -3002,7 +3004,7 @@ I feel so good
 Not called relax but cool
 Be cool posture
 10:44
-#Interrupt
+Tags:, Interrupt
 Elbow forward butt back
 
 feel all screwy when overeat #interrupt #eating
@@ -3014,13 +3016,13 @@ This is what people are seeking anyway. The destination is right here #Profound 
 <>You can walk the warrior...
 <>All stories of journeys...
 
-#Interrupt friend comes over
+Tags:, Interrupt, friend, comes, over
 
 Circling opposite middle finger against palm #good #Interrupt #EnergyMedicine <>There are chakras on...
 
 Be still in the right way
 Feel the force building up pressure inside you
-#TheForce  #meditation  
+Tags:, TheForce, meditation
 <>I was touched by a great... <>tao as resonating chamber...
 The Luxury of meditation time #luxury #engrain #tt #meditationtechnique #QigongTrick
 <>Realizing I have psychic... <>essence build ~michaelbernard
@@ -3033,19 +3035,19 @@ Telekinesis but it doesn't work at certain times of day #LeadingQuestion #medita
 Sports brings that thought out right . Telepathic contest. Try to heal self w mind. Reshape self do pt without doing exercises
 Remembering right person = finding right person in larger mind. Send right waves out?  #esptrainer
 Or sensing sleep mask location? Remember . Reach out to extended mind @zachlarson #catchup #engrain #meditation
-#LeadingQuestion meditate on the transformation of air to become part of your body like from light and pranayama,
+Tags:, LeadingQuestion, meditate, on, the, transformation, of, air, to, become, part, of, your, body, like, from, light, and, pranayama,
 Or on the moment of transformation of food
 This can change you #Interrupt
 Where does this art come from? Another realm <>Be still in the right...
 
-#Interrupt treat self as if sick because I am sick normal lie patterns is sick
+Tags:, Interrupt, treat, self, as, if, sick, because, I, am, sick, normal, lie, patterns, is, sick
 Cold turkey changes then?
 
-#curiosity these fields aren't interesting till you get a clue have a philosophy
+Tags:, curiosity, these, fields, aren't, interesting, till, you, get, a, clue, have, a, philosophy
 About how brain might work
 Sports not interesting until psychic powers realization #coolness #Interrupt #Engrain  #selfefficacy #buoyancy
 
-#Interrupt #eating release attachments
+Tags:, Interrupt, eating, release, attachments
 
 Existence of psych indicates what is possible
 Solace in the tao vs drink
@@ -3071,7 +3073,7 @@ Step out of the stream or be pulled through the wringer #interrupt
 
 "It's hard to do but it can be done it's hard to endure but it can be endured" #interrupt #falu
 
-#onramp #interrupt #TheArtOfAscension trigger points in arm
+Tags:, onramp, interrupt, TheArtOfAscension, trigger, points, in, arm
 
 The strangeness of things The Sethi gs are really weird #LeadingQuestion #interrupt things are not as they seem <>https://youtu.be/HX-TpHlx1As...
 <>Drawing back the veil...
@@ -3079,7 +3081,7 @@ The strangeness of things The Sethi gs are really weird #LeadingQuestion #interr
 Each attachment an  Opportunity to reach transcendent mental state
 Each attachment opportunity to reach transcendent #interrupt #engrain
 
-#eating #fasting @tired activate energy #interrupt ! <>Positive energy! #best...
+Tags:, eating, fasting, @tired, activate, energy, interrupt, !, <>Positive, energy!, best...
 
 Lateness as small
 As little unkindness #kindness #
@@ -3094,8 +3096,8 @@ If you your
 If you yourself slide down with it, you aren't a cultivator
 Aren't you the one cultivating?
 Aren't you the cultivator?
-#highlight look for claps #interrupt
-#syntax #interrupt as #koan
+Tags:, highlight, look, for, claps, interrupt
+Tags:, syntax, interrupt, as, koan
 
 Mom didn't like when I asked her this thing
 Make each action produce pleasure
@@ -3112,31 +3114,31 @@ We are all cybernetic systems and we can all be impacted by other ones #interrup
 
 Energetic arts versus mystic arts #EnergyScience #explainingQigong
 Why do you remain in prison when the doors are wide open, something to remember when it gets very intense in the meditation? Letting go of your whole identity #qigongclass #qigongsequence #Teaching
-#ValueFunction deciding whether I should let myself be eaten by the lien is about creating the greater art piece of the world. I am an artist
-#interrupt
+Tags:, ValueFunction, deciding, whether, I, should, let, myself, be, eaten, by, the, lien, is, about, creating, the, greater, art, piece, of, the, world., I, am, an, artist
+Tags:, interrupt
 Energetic arts our friend from three times when your mind feels vast and you feel small in the ability to move it versus being the ship
 Your consciousness has receded
 Ascend how to ascend from low integration
 First give yourself empathy give your body empathy with homolateral etc. it feels good feels gentle, then do the integrating stuff
 I guess there are lots of techniques and approaches for ascending, going on a backpacking trip, playing in a tournament, beating someone in sports
-#TheArtOfAscension
+Tags:, TheArtOfAscension
 The art of ascending from a distant degraded state to an integrated one without #Willpower
 Demonstrate: it sounds like it feels really powerless or disempowering to not have the willpower to get over that hump
 Empathy is homo lateral, integration is crossover #Empathy #HomoLateral
 What is the optimal time to spend on empathy/existing in-home lateral lateral versus trying to crossover integrate problem solve? #Balance #LeadingQuestion <>"Not too little not too... <>homolateral/empathy /emotion...
 valance will power building work versus using willpower set up versus spend
-#PTTrick #TheArtOfAscension The one second exercise, meditate for one second. Everyone has some willpower, that's what it proves to them, we can start with one second of willpower and build from there. Ultimately that's all it will take to get to enlightened state anyway?
+Tags:, PTTrick, TheArtOfAscension, The, one, second, exercise,, meditate, for, one, second., Everyone, has, some, willpower,, that's, what, it, proves, to, them,, we, can, start, with, one, second, of, willpower, and, build, from, there., Ultimately, that's, all, it, will, take, to, get, to, enlightened, state, anyway?
 
 Forever mix cut
 Dan if bright lights #song #trance #rsiBreak #danceBreak #video ~video  
-#interrupt dance breaks! #danceBreak
+Tags:, interrupt, dance, breaks!, danceBreak
 
 Wait there is this fast effortless way instantly accessible #interrupt
 Can buoy me up like the ocean
 No effort no pain
 Trick is to let go more
 
-#interrupt chris pallotta leaning back walking
+Tags:, interrupt, chris, pallotta, leaning, back, walking
 
 Staying up late ok as long as you prep and recover
 Only person who got into harvard in most rooms including Princeton ?
@@ -3146,18 +3148,18 @@ Lead pt / workout group? #interrupt ?
 
  @davidbieber
 David! Feeling a sudden flash of appreciation of your genuine intellectual spirit, your unhurried curiosity, and the natural way you return again and again to the questions and problems that lie at your center
-#interrupt
+Tags:, interrupt
 @daviddohan
 David! Feeling a sudden flash of appreciation for how you seem to dive into all sorts of life situations with a refined intellectual spirit, the way you are able to consider heavy thoughts lightly, and the artful / tasteful way of being you carry with you everywhere you go
 
 Hope all is well with you #thankyou #blurb
 
-#best #blurb  Rob! Feeling a sudden flash of appreciation of everything from your genuine intellectual spirit, quality taste, to your posture and approach to life.
+Tags:, best, blurb, Rob!, Feeling, a, sudden, flash, of, appreciation, of, everything, from, your, genuine, intellectual, spirit,, quality, taste,, to, your, posture, and, approach, to, life.
 Hoping all is well in lockdown
 Hey Jeremy, feeling a sudden blast of appreciation for your genuine intellectual spirit and body posture and way of approaching life #interrupt
-#WhyAwesome gratitude — expressing gratitude for someone more genuine appreciation of their way of being relates to what Kenneth Berger taught reinforces that spirit in yourself
+Tags:, WhyAwesome, gratitude, —, expressing, gratitude, for, someone, more, genuine, appreciation, of, their, way, of, being, relates, to, what, Kenneth, Berger, taught, reinforces, that, spirit, in, yourself
 
-#LifePrinciple making wide turns left on a snowboard, need wind up
+Tags:, LifePrinciple, making, wide, turns, left, on, a, snowboard,, need, wind, up
 Seeibg  the gestalt of the entire turn not just the local thing #DialecticResolution #interrupt all perception comes from gestalts anyway even the more base ones. High gestalts just a legitimate consciousness
 Elevates you to a higher level
 Relates to identity
@@ -3167,22 +3169,22 @@ What I higher art piece
 If I stop being morose there's still time tdr -.- #interrupt 28
 Got to regain attitude like the time is there to be seized
 This is it
-#lifewave Peter caughey qigong retreat
+Tags:, lifewave, Peter, caughey, qigong, retreat
 @DavidGreenspan don't want to miss this qigong retreat
 Or this nap! Seize the day!
 Idea about opportunity to have a great experience goes very closely oh and you don't want to miss it
 
-#interrupt appreciate all that my heart and breath are doing to keep me alive #Gratitude
+Tags:, interrupt, appreciate, all, that, my, heart, and, breath, are, doing, to, keep, me, alive, Gratitude
 
-#interrupt secret is fully oxygenated
+Tags:, interrupt, secret, is, fully, oxygenated
 
-#trance so paraspirit can take over #interrupt
+Tags:, trance, so, paraspirit, can, take, over, interrupt
 When you use balance etc to move in tai chi universe spirit takes over and moves things not you, just like in breathing  #spiritualtechnology abundant source of #energynotmyown
 
 Instead of stress eating stress purifying #purify #interrupt
 Or celebratory purifying vs celebratory eating
 
-#interrupt have rituals i can do to transform my energy and integration – that's the path out of holes? #interrupt  -.- #interrupt #getgoodat
+Tags:, interrupt, have, rituals, i, can, do, to, transform, my, energy, and, integration, –, that's, the, path, out, of, holes?, interrupt, -.-, interrupt, getgoodat
 become sorcerer
 could no longer move of own accord
 parkinsons
@@ -3190,23 +3192,23 @@ CFS
 once mind cracks open you can start to see its mechanics
 energy is about psychological energy energy in yourwn mind . that's what you'vre moving, channeling gathering. motivational energy. whetehr it could be perceived externally is irrelevant. that's what these rituals are for. working with the energy of a shattered mind, which, per God's debris #commentary that's what this whole universe is
 that's what peter caughey is working with, like sorcery #storyidea
-#concept consciousness engineering . Consciousness bending. Energy bending
+Tags:, concept, consciousness, engineering, ., Consciousness, bending., Energy, bending
 Feel small likes prisoner in my own mind body world. Its vast . How can I work with it? Requires epic sorcery symbiokinetics energy matching
-#LookUp impedance mismatch
-#thinkabout principle of least action
+Tags:, LookUp, impedance, mismatch
+Tags:, thinkabout, principle, of, least, action
 
 We are busy being upset with each other and in the meantime big important things are happening @mom #interrupt -.-
 
-#interrupt you don't have to wake up or stress self out in many cases that's the secret — stay asleep
+Tags:, interrupt, you, don't, have, to, wake, up, or, stress, self, out, in, many, cases, that's, the, secret, —, stay, asleep
 Not difficult to wake self up that's the obvious part
 But realizing it's not the right  thing to wake self- that's the way
 Then put on playlist Fred raf
-#EnergyMedicine #EnergyMedicinePrinciple #interrupt #interruptPrinciple — match where you're at instead of forcing @DavidGreenspan
+Tags:, EnergyMedicine, EnergyMedicinePrinciple, interrupt, interruptPrinciple, —, match, where, you're, at, instead, of, forcing, @DavidGreenspan
 
-#interrupt exercises that make me aware of belly
+Tags:, interrupt, exercises, that, make, me, aware, of, belly
 Eg Pilates ring breathing — breakwrk
 
-#interrupt being wakefulness to areas of body
+Tags:, interrupt, being, wakefulness, to, areas, of, body
 Eg w Pilates ring breathing
 Rest + breathwrk
 
@@ -3214,11 +3216,11 @@ Switching to being leader , leader for project earth
 Even if first person in world #interrupt
 Get spirit of . Factory workers returning goods. Model of xinxin
 Falu is land of purity
-#falu
+Tags:, falu
 Didn't check her body before saying ok you can go was ok
 One thought determines if outcome good or bad
 
-#interrupt breath past thoughts to physiological need
+Tags:, interrupt, breath, past, thoughts, to, physiological, need
 
 Sending
 When universe creates
@@ -3234,34 +3236,34 @@ Eye is in another dimension
 Onto film onto video tape onto mind
 Ni won palace pineal body
 Can see with hands or Belly every aperture is an eye acupoints are aperture
-#review https://en.wikipedia.org/wiki/Parietal_eye
+Tags:, review, https://en.wikipedia.org/wiki/Parietal_eye
 https://theconversation.com/amp/what-our-ancestors-third-eye-reveals-about-the-evolution-of-mammals-to-warm-blood-68454
 Anything one could start a cult on is probably pretty powerful
 Realizing that all perception is in the mind anyway so it's totally reasonable if you can see it through your normalize and construct an image then you could see through this vestigial third eye and construct an image, perceiving the sensation of energy filling in through the gap on the top of the skull not right before head a little bit to the front desk and going to the air realizing that I am here to purify myself here in San Diego and noticing myself it's gonna take a little while
 Also noticing the direction that moms energy is going to use towards purification, how can I P purify, how can I help purify dad and myself and mom's internal world to. But do help the energy in the direction it's going #Best #Engrain <>@mom #goal being in San... #purify
-#interrupt
+Tags:, interrupt
 
-#Interrupt you are doing tai chi right now
+Tags:, Interrupt, you, are, doing, tai, chi, right, now
 <>You're going to be...
 
 Destim #interrupt
 
 Prove power of epiphany and Brandt fitness to heal me after that September fast and to make me strong by demonstrating how fast I can become fit and well with just it #interrupt
-#buoyantfitnessPrinciple you do it longer because it's not so hard/miserable
+Tags:, buoyantfitnessPrinciple, you, do, it, longer, because, it's, not, so, hard/miserable
 
-#interrupt proud chest
+Tags:, interrupt, proud, chest
 
-#interrupt look at #tt
+Tags:, interrupt, look, at, tt
 
 Make now be like a buoyant fitness experimentation session except fort wh world massage for the worlds tensions makingl #Interrupt
 
-#Interrupt change the set up, get you on a different path, different stepping stones, different dance. Eg hooking in the bands to belts on bar
+Tags:, Interrupt, change, the, set, up,, get, you, on, a, different, path,, different, stepping, stones,, different, dance., Eg, hooking, in, the, bands, to, belts, on, bar
 Setting up stepping stones #planning #Interrupt
-#exerciseMotivation #motivation planning as setup of stepping stones, exercise as setup, climbing a hill so you can ride down attention on enjoyment of ride
+Tags:, exerciseMotivation, motivation, planning, as, setup, of, stepping, stones,, exercise, as, setup,, climbing, a, hill, so, you, can, ride, down, attention, on, enjoyment, of, ride
 
 Get up and start hunting demons now
 Buoyancy #BuoyantFitness buoyant
-#Interrupt
+Tags:, Interrupt
 Induce fully oxygenation
 Like playing music on the instrument of my mind and body #WhyAwesome dance, meditation
 —-
@@ -3271,35 +3273,35 @@ Transcribed by https://otter.ai
 <>Bust it out do everything...
 
 Skill of being / getting centered inducing theta waves
-#interrupt
+Tags:, interrupt
 It's a skill / challenge
 
-#interrupt going to get sick or hurt skin cells?
-#sleep
+Tags:, interrupt, going, to, get, sick, or, hurt, skin, cells?
+Tags:, sleep
 Switch back to housemate or tutor guru mentor mode
 Hook
 Need to have safe environment to learn to accept selr
 <>#interrupt remembering...
 
-#motivation #exercise #interrupt? Step back and admire work w exercise  
+Tags:, motivation, exercise, interrupt?, Step, back, and, admire, work, w, exercise
 
 Just up against world Health and time up against
 Look at what other person is doing in this summer so alive
 Missing good surf
 Imagineg arrived , jake
 Thin
-#interrupt
+Tags:, interrupt
 
 How do you expect others to do it without
 Wishing people would care about my needs
 I'm the leader
 Being self centered
-#interrupt
+Tags:, interrupt
 
-#interrupt I have left the world of write and wrong and do what keeps the love flowing
+Tags:, interrupt, I, have, left, the, world, of, write, and, wrong, and, do, what, keeps, the, love, flowing
 <>Snowflakes settle w yoga...
 
-#interrupt seize void
+Tags:, interrupt, seize, void
 Watch effect
 Energy filling top of head
 
@@ -3310,44 +3312,44 @@ Look if System is really stacked against me and if protest is the right time to 
 Or if it's actually stacked towards me and I shouldn't mess
 But the effort I put in getting Ortner to change shouldn't be wasted
 
-#interrupt accept that you're going to die
+Tags:, interrupt, accept, that, you're, going, to, die
 Make the best of the time that you have
 Die gracefully vs "on one's deathbed"
 Live well
 Don't panic
  #mementomori isn't the important part. It is the response of deciding to live gracefully and not make a fuss #death #separatingyinfromyang
 
-#Meditation #interrupt allocating time allocating the 20 minutes to soak up the sun and soak up the nature around you forest trading, bathing in your own consciousness
+Tags:, Meditation, interrupt, allocating, time, allocating, the, 20, minutes, to, soak, up, the, sun, and, soak, up, the, nature, around, you, forest, trading,, bathing, in, your, own, consciousness
 Send emails as part of my meditation
 For instance with the homo lateral crossover pattern it's silly to just do 12 to get started because you realize your actual goal what did you more or do you realize that the actual way to achieve the thing that you were trying to achieve by doing the 12 of them is better achieved by doing 16 of them so maybe as a way to track your conscious brain into behavior change it's useful do you have a bite sized starting point but we open to change #BehaviorChange #interrupt
 Also, kind of doing in being the thing that I project to Jake and Chase taking care of my energy in the morning to get super amped #BringsOutTheBestInMe #bringsoutbestinme right Christine starting assumption that you are a genius. I really like your style and how she speaks of how she used to work with Steven Spielberg
 
-#interrupt ~mom on my death bed ... ~otter
+Tags:, interrupt, ~mom, on, my, death, bed, ..., ~otter
 
-#interrupt remembering RSI, SI pain. enforcement to always maintain health if I'm going to be able to do anything/get anything done <>#interrupt going to get...
+Tags:, interrupt, remembering, RSI,, SI, pain., enforcement, to, always, maintain, health, if, I'm, going, to, be, able, to, do, anything/get, anything, done, <>interrupt, going, to, get...
 
-#interrupt #healthySustainableWaysToManageEnergy
+Tags:, interrupt, healthySustainableWaysToManageEnergy
 Resting  pose
  Working w pain meridian drainings
 
-#interrupt <>Everything people say...
+Tags:, interrupt, <>Everything, people, say...
 
-#interrupt head lower than heart
+Tags:, interrupt, head, lower, than, heart
 
-#interrupt foot position
+Tags:, interrupt, foot, position
 
 Extended proprioception #interrupt
 Whole muscle system rebalances to accommodate that
 
-#awakensQi #interrupt doing pen art piece
+Tags:, awakensQi, interrupt, doing, pen, art, piece
 Like brain laser art piece
-#explainingNKT
+Tags:, explainingNKT
 Christians get stronger looking at cross
 Looking at x looks like target vs landscape <>andrew huberman different brainstate
-#interrupt emdr unstick from rut
+Tags:, interrupt, emdr, unstick, from, rut
 Crossing themselves
 
-#interrupt bands soothing fundamental
+Tags:, interrupt, bands, soothing, fundamental
 
 You
 Are fragment of the mind of god playing your part
@@ -3356,41 +3358,41 @@ Whole thing is mind of god #interrupt <>satyagraha...
 Psychological submarine journey to get to root of desire
 Memory palace therapy #write #Interrupt
 
-#Interrupt #eating
+Tags:, Interrupt, eating
 It's right there I can have the whole thing.
 Watch effect though
 
 Noticing three sensations #Interrupt
-#esptrainer
+Tags:, esptrainer
 
 I am walking around my own mind. Ship may degrade
 I am talking to a reincarnation of myself  #Interrupt #engrain @wall @memorypalace
 <>"It's not all about you"...
 
-#Interrupt stop eating things start doing things
-#inducesqi doing my circling rocking sitting conjuring . Qi is conjured <>tom's pumping up and...
+Tags:, Interrupt, stop, eating, things, start, doing, things
+Tags:, inducesqi, doing, my, circling, rocking, sitting, conjuring, ., Qi, is, conjured, <>tom's, pumping, up, and...
 
-#Interrupt just start doing the right thing #best
+Tags:, Interrupt, just, start, doing, the, right, thing, best
 
-#Interrupt do your work then step back the only path to serenity
+Tags:, Interrupt, do, your, work, then, step, back, the, only, path, to, serenity
 <>Have a healthy amount...
 
-#Interrupt Wayne cook posture
+Tags:, Interrupt, Wayne, cook, posture
 - there are seasons
 
-#PTTrick #worktrick
+Tags:, PTTrick, worktrick
 Don't push into hard work back off and recenter #Interrupt
 In general push away and recenter
 
 6:21
 Every time you move arm dantien automatically
 Help. Do it consciously #TaiChiTrick #separatingyinfromyang #interrupt #Profound @wcccnotes <>noticing breath pranayama #pranayama #pranayama
-#write why tai chi is like a startup is like ideaflow
+Tags:, write, why, tai, chi, is, like, a, startup, is, like, ideaflow
 Look at what people are  already doing and do it in a way that doesn't suck
 
-#Interrupt bastrika
+Tags:, Interrupt, bastrika
 
-#Interrupt doing a math problem @gino
+Tags:, Interrupt, doing, a, math, problem, @gino
 Remembering what I had for lunch yesterday
 Reciting a memory palace or a hamlet line perhaps address mom resting pose what resting pose did you do
 
@@ -3400,14 +3402,14 @@ Posture #Interrupt #eating
 
 Knee circles she gong pushing down on knees with Pilates ring,
 Swinging arms like Joe Chi gong
-#break
-#Interrupt #ptroutine
+Tags:, break
+Tags:, Interrupt, ptroutine
 
-#Interrupt uttanasana. Head lower than heart in active way
+Tags:, Interrupt, uttanasana., Head, lower, than, heart, in, active, way
 Long inhale ~mom
 Then active, run in place, or squats, perhaps additionally with qigong arm swings
 
-#Interrupt #pain
+Tags:, Interrupt, pain
 Chanting
 Heating pad
 
@@ -3415,17 +3417,17 @@ If something is really good or needed you will want to pay full attention to it
 Like chocolate treat from Karen while reading yoga book, drew attention
 Separating #separatingyinfromyang
 If you aren't  feeling that way maybe it's not meeting a real need —> meditate / do nothing until real need arises and can give joy to satisfy?
-#Mindfulness #Awareness #good #Interrupt
+Tags:, Mindfulness, Awareness, good, Interrupt
 
-#QualityOfMovement the quality of movement we seek is a subtle line to walk, like a slackline
+Tags:, QualityOfMovement, the, quality, of, movement, we, seek, is, a, subtle, line, to, walk,, like, a, slackline
 Bands make it wider, like holding sides of a slackline
-#Interrupt noticing pace of breath
+Tags:, Interrupt, noticing, pace, of, breath
 
-#Interrupt Dash starting a Tai Chi while listening to audio book or video or whatever and then as my attention increases to Tai Chi stopping at
+Tags:, Interrupt, Dash, starting, a, Tai, Chi, while, listening, to, audio, book, or, video, or, whatever, and, then, as, my, attention, increases, to, Tai, Chi, stopping, at
 Tai Chi and she going as opportunity to energy heal - Energy healing equals "giving an area some love" also can release heart area/tight upper spine. This is why awesome chicken #inducesqi #InducesCreaking #QigongTrick <>Careful not to think... psychic powers applied to healing
  Kiel cell in Mesa round with that also Heart area Ruiz #TaiChiTrick
 BidenSpeechIsNotVeryLongWithKamalaSpeechLonger
-#WhyAwesome qigong, energy healing
+Tags:, WhyAwesome, qigong,, energy, healing
 You can give love to yourself even if unloved externally by energy healing yourself taking the time to do an energy healing session on yourself
 The Tai Chi form is an energy healing session on the different energy systems and also physical body parts and chakras
 Looking forward for the day when people are as ubiquitous and cover with energy work as well other forms of science relates to energy science. Certain it came in
@@ -3437,20 +3439,20 @@ Processing things like you process day behind  closed eyes going to sleep #WhyA
 When you question whether you're special realize that yours are the only eyes you look out from behind
 Came to me now in this imperfect vessel
 Ppa practice
-#Interrupt look at kundalini art
+Tags:, Interrupt, look, at, kundalini, art
 
-#Interrupt Dash starting...
+Tags:, Interrupt, Dash, starting...
 <>#mem being teenagers...
 
-#QigongTrick #structure set gongs/timer #Interrupt
+Tags:, QigongTrick, structure, set, gongs/timer, Interrupt
 
 Branding and design sharp and lightning fast but soft, flowy #Branding #Design
-#Alacrity
+Tags:, Alacrity
 Sensei Joey, Darlene Pilates, Marian
 Alacrity, not leaking all over the place
 Like a sharp ballroom dancer
 Sharp like du qigong warmup
-#Engrain
+Tags:, Engrain
 Get
 Make snappy decisions to clear my space for future decisions
 Also about being sensitive and putting in the time - putting in the hours is about compute time ultimately
@@ -3462,12 +3464,12 @@ Show her how it's done -.- @stresseating #Interrupt
 Realizing that if it's too hard or going against the grain, it might not be the right thing to do in a lot of cases. Only in some circumstances can you change the grain #aging
 It's not the graceful path? #tao #TheWay
 But if even a small seed clamors for life amidst a sea of death, it is going against the grain to not do that seed justice
-#GracefulAlacrity Yoyo #smoothAlacrity #design svelte
+Tags:, GracefulAlacrity, Yoyo, smoothAlacrity, design, svelte
 Make it a fashion statement to be a super connector
 
 @stresseating don't want to get stretch marks when face deflates?'-.-
-#chillAlacrity varenhorst? #ideal
-#word chillacrity
+Tags:, chillAlacrity, varenhorst?, ideal
+Tags:, word, chillacrity
 Mostly chilling
 Know I need to get work done at some point plenty of time
 Hang loose #Attitude #cue  
@@ -3475,7 +3477,7 @@ Hang loose #Attitude #cue  
 Notice breath, drop the weight, engage with squishiness Eg melt ball, don't drop the Chi ball #Interrupt .
 Rest on earth
 
-#Interrupt
+Tags:, Interrupt
 Planning seeing actual deadlines leads to a shock to awareness
 Actual deadlines  not man made ones
 Got to occupy state where not terrified by them
@@ -3484,7 +3486,7 @@ Allows energy and motivation to flow clearly from then to now <>#concept panic m
 
 Focus your eyes focus your mind focus your body #cue #mem #Interrupt
 
-#Interrupt #ritual #art form cast a "mind altering" spell — like with the pen arrangements in the table changing arrangements as if by ritual
+Tags:, Interrupt, ritual, art, form, cast, a, "mind, altering", spell, —, like, with, the, pen, arrangements, in, the, table, changing, arrangements, as, if, by, ritual
 Or can drag same shapes in head?
 Pentagram around whole body  
 
@@ -3509,7 +3511,7 @@ Then you start getting into what is ideally stimulating enviro for a human #whya
 The telekinetic's dilemma <>You think you can take...
 <>"I don't know, do you...
 
-#best** #meditation connecting to force that holds the galaxy up #interrupt #behaviorchange
+Tags:, best**, meditation, connecting, to, force, that, holds, the, galaxy, up, interrupt, behaviorchange
 All will is God's will, whether it is twisted, or straight. Separating yin from Yang. The ultimate godlike telepathic power of the mind the image that I can levitate the keyboard and objects in front of me, and move them around. All that applies to the mental world. Remember, then telekinetic. Always God's will, when it comes out twisted or straight. Hashtag meditation. Weight grounds and emotions, ground into the planet. Feeling the flux of downward force forces towards the center of the earth. Like the salmon against the river of gravity. Then feeling the normal force, the upward force flowing up through the earth, and in to the fingertips into the ground of the head.  the arm must be completely relaxed, so the Chi can flow from the ground into the sword. #quote ~There are no secrets #interrupt #taichi framework #ValueFunction clearing energy
 By Cheng man Ching. Hashtag best hashtag ingrain. Hashtag visualization hashtag idea. Connect visualization and connecting at progressive stages to deeper and deeper energy sources. First the planet and it flows up, connecting to the finger, lifting it beginning the process of washing away the blockages. Then to the Solar System Center, then to the galaxy center, then to the universe center. Well, no, not go, then to the universe itself. The light shining from galaxies center to the center of the Sun to the center of the earth. up the body, brighter and brighter light stronger and stronger color, until a star is coming out of the index finger tip sense that I can change anything telepathically in the world. Charged like this. No heaviness total separation of yin from Yang. I mean telekinetically. And the torrent washing away. Every blockage and wrong thought relates to Kundalini. I can do anything ultimate power sensation. I can do anything. I want, and undo anything. You had to Can I want anything. The secondary connection. The secondary model tracing the flow of energy from the plants. I eat. I guess and the animals, the plants especially into the blood and body into the animal. I eat that is myself, drinking my own blood, as it were. We are all carnivorous, we all eat ourselves. Hashtag vegetarianism. Well we are at least on non vegan. Is it. Non vegan, to go into a muscle wasting mode where you are consuming your own muscle. If it is. How about consuming another person's consensually released muscle. Hashtag self other boundary. Where does the self and and the other begin. Hashtag philosophical question. Hash tag aside maybe the trick. Isn't that you aren't all powerful maybe. The trick is there's a million little things to pay attention to things you don't know to wish for. That happens for free. That's the trick of hashtag aging. Hashtag to ponder. But if I do know what to ponder. Or if I do know. Anything I can telepathically move it, question mark. Hashtag double A side. Hashtag a side. Hashtag meditation. Feeling the trace of energy from the sun, and the sun. From the coalition of stars. And this, in the sun from the coalition of dust particles and dust particles from the Big Bang. All this into the will relate to from nothing comes one from one becomes two. Two becomes three and three B gets many question mark relates to hashtag meditation on the boundary between when food becomes you hashtag profound hashtag powerful technique. Hashtag #meditationtechnique Tilda deema. ~dima
 
@@ -3519,12 +3521,12 @@ Transcribed by https://otter.ai
 <>"Converting" of soul...
 <>Idea of being supported...
 
-#wisdom
+Tags:, wisdom
 Don't get w cavity would suck
 Same caution on other things
-#Motivation
+Tags:, Motivation
 Same seriousness #Motivation #Groundedness, #Interrupt
-#Mortality #engrain @wall
+Tags:, Mortality, engrain, @wall
 21 days perfect sleep
 Also maintain lightness! Defying gravity? Lightness is essential to me — want to cultivate . But don't think it will go away <>#qigongExercise separating...
 I think maintaining the lightness, the sense that you have telepathic powers to control things might actually be the only way to go
@@ -3532,25 +3534,25 @@ You're Magic. Can undo damage of any experience?
 Or It's the extended you that has these powers? Should be able to reverse cavity even? Or fly? Unbounded will? Waking fantasy?
 It clarifies path of
 
-#Interrupt #MaintainInAwarenessUnderStress  <>above the line/Below...
+Tags:, Interrupt, MaintainInAwarenessUnderStress, <>above, the, line/Below...
 
-#Interrupt if you're having mental health issues walk in circles #wisdom #SelfSoothing <>baguazhang  #bagua <>maybe this is why cats go in circles a few times before sleeping?
+Tags:, Interrupt, if, you're, having, mental, health, issues, walk, in, circles, wisdom, SelfSoothing, <>baguazhang, bagua, <>maybe, this, is, why, cats, go, in, circles, a, few, times, before, sleeping?
 
-#engrain #best doing all work as tai chi can make it good or ok
+Tags:, engrain, best, doing, all, work, as, tai, chi, can, make, it, good, or, ok
 Just the simplest idea of tai chi-ing everything  #profound #basic #obvious
-#Interrupt @litany <>parkouring everything...
+Tags:, Interrupt, @litany, <>parkouring, everything...
 everything can be enjoyable if you go down into slow motion! Also room for fa-jin!
 @wall Slo-mo taichi-ing everything
 Maybe just every hard thing?
 <>yin yang wuji <>starting early #lifelesson...
-#OptimallyDiscrepantStimuli <>How they must rage inside!...
-#overstimulation <>sthenic  <>by ending the practice... <>the wisdom of all the...
+Tags:, OptimallyDiscrepantStimuli, <>How, they, must, rage, inside!...
+Tags:, overstimulation, <>sthenic, <>by, ending, the, practice..., <>the, wisdom, of, all, the...
 
 By doing what you are doing now what are you actually seeking? #Best #BehaviorChange
 Shower, seeking warmth. Fire seeking warmth . Can also walk
 food, seeking sense of fullness, or stimulation
 Eat cacao
-#best #BehaviorChange #Interrupt #wuwei
+Tags:, best, BehaviorChange, Interrupt, wuwei
 Pain relief
 <>You're going to be... <>The core thesis of... #nvc
 
@@ -3559,7 +3561,7 @@ Gift to future self @wall #engrain #Interrupt
 Positive energy! #best
 Kids sense it #Interrupt #BehaviorChange
 @team #leadership #transformative
-#engrain
+Tags:, engrain
 That's really all it takes for safety
 That's really all it takes to be a good meditation teacher or workout instructor
 That's what Mike ng has. What Sensei has
@@ -3572,7 +3574,7 @@ Shadi has so much positive energy flowing after hs
 Had gotten a whole buzz from college acceptance
 That's what a fully activated Shadi looks like
 How to produce positive energy sustainability is the question in life
-#best* @wall
+Tags:, best*, @wall
 Enough to cure depression
 Fix whatever
 Pence has positive energy <>you have so much energy...
@@ -3580,7 +3582,7 @@ Who has pure positive energy? Anna? Netta? Cliff Michael ng janis
 Send positive energy to each investor
 Chris pal energy has receded
 All these questions about what should I do become a lot less stressful when buoyed up on positive energy
-#Principle buoyant fitness
+Tags:, Principle, buoyant, fitness
 return positive energy
 Add positive energy to the house and everything will get easier
 To the class, to the tai chi practice
@@ -3601,14 +3603,14 @@ if you don't have any positive energy to give, don't give it?
 <>interact more with Michael...
 
 How can you breathing get boring? You can express your emotions through breathing? Including that boredom? #profound #mostprofound #Interrupt
-#exerc #whyawesome
+Tags:, exerc, whyawesome
 Can you express your emotions through Pilates I think so #powerfulTechnique
 Certainly lifting – get the aggression out
 Art
 Dance
 Tai chi? Not sure
 Music
-#expressingwmotiona <>everything can be commented on emotionally #Keyinsight #Empathy
+Tags:, expressingwmotiona, <>everything, can, be, commented, on, emotionally, Keyinsight, Empathy
 
 Core principles, you can only think or feel one thing at a time, but it can flicker but you can't feel both?
 If you her switching between things rapidly there's a cost associated with it and a third in person in your mind can say hey the war is not worth it, just make a decision
@@ -3621,7 +3623,7 @@ In pursuit of oblivion is maybe really being in pursuit of small beauty, local s
 See how good you feel? Are you scared that you won't seal this after just a moment? Defend that! That is what sustainability is about, making it so you never have to leave samadhi
 Oblivion/distraction tactics are A valiant attempt  to enter the sanctuary
 <>You may be of two minds...
-#write #Interrupt #best #BehaviorChange #rollup
+Tags:, write, Interrupt, best, BehaviorChange, rollup
 
 only time of day I'm fully oxygenated is tai chi
 <>At any point in time... <>Nali’s looping the abs... <>Become aware of the tensions... <>Good Tai Chi is like... <>Good Tai Chi is like... <>#detox...
@@ -3644,11 +3646,11 @@ Remembering that the subjective awareness the percept only comes in the resoluti
 
 Quality of a meal square
 Vegan composition
-#idea vegan cooking puzzles
+Tags:, idea, vegan, cooking, puzzles
 Eg use psyllium #gameidea #Competition
 Using only X ingredients build y #gameshowidea
 Perhaps given only certain life circumstances achieve something, or given only a few holes or a limited strength constraints do rock climbing
-#CreatingChallengesForFun #CreatingConstraintsForFun
+Tags:, CreatingChallengesForFun, CreatingConstraintsForFun
 Relates to using only a compass and a straight edge what can you construct #puzzle
 How do you hack in process optimize the manufacture of satiety and peace of mind? #interrupt
 You need that violent passion surrogate of course occasionally , Or maybe the actual violent passion in fact asking a plate and having crazy ideas
@@ -3671,7 +3673,7 @@ I wonder why so many mathematicians made great discoveries at a young age dash m
 Maybe this is my Galois moment
 Channel for a grand idea?
 
-#engrain fullynoxygenated #best* #interrupt #LatentVariable <>the wisdom of all the...
+Tags:, engrain, fullynoxygenated, best*, interrupt, LatentVariable, <>the, wisdom, of, all, the...
 
 Don't rely on a guru be in experimentalist maybe this is where access is
 Max chin step-by-step cues starting with that particular posture gap
@@ -3680,17 +3682,17 @@ Enroll away experiment with turning towards the right knee to adjust knee pain w
 Drop chest cheng man ching. Heart feels connected w gut feelings connected w gut
 Can miss meal or go days without sleevbut
  not miss exercise #taiChi
-#cue #taichitrick soften back knee in single whip be cool
+Tags:, cue, taichitrick, soften, back, knee, in, single, whip, be, cool
 Perceiving that what high intensity interval training and exercise do is M up the whole system without regard for connection, it's crafts dash the connection is what you're after
 I liq chuan stance may be key to fixing knee
 Weight on ball of feet chest forward up embrace the tree feeling #embracethetree
 Lift ing up out of pelvis
 Swimming in sea  aura or excess qi from food
 @dad not sleeping re qi
-#tt pelvic floor Lori Leslie  howard
-#interrupt #looking chen pan ling  
+Tags:, tt, pelvic, floor, Lori, Leslie, howard
+Tags:, interrupt, looking, chen, pan, ling
 
-#mentalstatehack -./ #Interrupt taste food food don't swallow
+Tags:, mentalstatehack, -./, Interrupt, taste, food, food, don't, swallow
 Can I do same w phone
 
 Do the most kind mother like thing to myself help South cut off if following obsessions #Interrupt
@@ -3701,12 +3703,12 @@ The coherence of the city like the Czech Republic is very powerful in this way b
 Maybe this is what's jarring the mansions at the top of the hill in San Francisco and the homeless at the bottom
 It's not a separate where are you can get lost in like Princeton is and forget about the other states in mind
 <>Texas is a state of mind...
-#good
+Tags:, good
 Houses on the top of matadero #NicePlace
-#WhyAwesome keeping organized at home
+Tags:, WhyAwesome, keeping, organized, at, home
 Each house is a different state of mind
 <>At sharmila’s, The happiest...
-#Interrupt #HappyPlace #NicePlace #GoodAttitude Tom VARGA's house nick chini's
+Tags:, Interrupt, HappyPlace, NicePlace, GoodAttitude, Tom, VARGA's, house, nick, chini's
 Bali
 <>find your happy place...
 luxurious that can't be bought with the fanciest private houses in Palo Alto – the Bility to sit on a rocking chair on your porch and say hi to the neighbors who walk by
@@ -3714,28 +3716,28 @@ You can have a castle but who will populate it? In this way Princeton or yale or
 
 Feeling   how good it feels to give the body what it actually needs, like the missing nutrients in soylent. Vs filling spurious needs
 <>Closing open gestalts - distraction isn't really closing open gestalts
-#Interrupt #LeadingQuestion what are your open gestalts?
+Tags:, Interrupt, LeadingQuestion, what, are, your, open, gestalts?
 Differentiating things that cause immediate stress versus recurring stress
 How good was feel feel not to have the recurring stress of my back pain
 And how easy it is to do this pt routine.  No problem
 Centered
 How easy it is to go to sleep early
 To schedule vacation #Attitude
-#Engrain
+Tags:, Engrain
 
 Need a life rhythm interrupt? Pro basketball player calls me #Interrupt
 @david
 
-#Interrupt #MentalStateHack there is nowhere to be
+Tags:, Interrupt, MentalStateHack, there, is, nowhere, to, be
 
-#Interrupt going swimming
+Tags:, Interrupt, going, swimming
 Reflexology point on arch of foot
 Osteopath
 Craniosacral
 
-#Engrain how nice of a place I'm in! How healing of a place it I let it fill me #Interrupt
+Tags:, Engrain, how, nice, of, a, place, I'm, in!, How, healing, of, a, place, it, I, let, it, fill, me, Interrupt
 
-#best #engrain being moved
+Tags:, best, engrain, being, moved
 Recognize #Interrupt sa
 Ln  b mm. B mm. Mm b. Mm b
  B b
@@ -3773,8 +3775,8 @@ Underactuated robotics #cool #learn #goal <>parkour robots
 The amazing sensation of just lying down #Interrupt Head below heart relates to baroreceptor reflex
 
 Stand up take your time and now say something that is alive and true for you in this moment #Interrupt
-#Heart
-#Tutorial how to get into your heart
+Tags:, Heart
+Tags:, Tutorial, how, to, get, into, your, heart
 
  #Interrupt purify detoxify clarify judgement
 Realize what I’m perceiving as my desire isn’t real don’t be fooled #best #Engrain
@@ -3788,7 +3790,7 @@ At sharmila’s, The happiest place on earth <>Princeton, which is the happiest 
 Maybe the secret is to realize that Stanford is really the happiest place on earth, place I want to be influenced by. The environment that I’m in should be such a place or I should make it so
 Pura vida
 <>Entering a different...
-#Interrupt
+Tags:, Interrupt
 <>Entering a different...
 
 You are experiencing today for the first time! ~Minh Tue #Quote #Engrain #Meditation #Interrupt <>ichigo ichi-e... #directPerception <>our  literary task is...
@@ -3824,14 +3826,14 @@ where the energy is guiding #good
 ## Goggins
 @samvit can david goggins with his duality be a better Atherley than no dual people?
 
-#Interrupt ~david goggins it's not mind over matter
+Tags:, Interrupt, ~david, goggins, it's, not, mind, over, matter
 It's just asking yourself call you are you call
 Getting beyond a person born tiparents and being a spirit existing this world #Fearlessness  
 It's pathetic if you are call down by other peoples expectations review/once possible. Embody the qualities of the universe so that they no longer hold you back let your spirit fly free
 People really don't quite see #Confidence or they'd be doing this
 <>#OpenProblem #best...
 
-#OpenProblem #best #fixesEverything
+Tags:, OpenProblem, best, fixesEverything
 My sleep
 My eating
 My aging
@@ -3846,7 +3848,7 @@ Feeling The heart partially  unclench at the thought of this
 Still a little bit more clenched around idea that I might not be the one to get there first or we'll? Survival? How can I unclench the heart without this — bonus round of life? Ready to die attitude and grateful for this day? Greater mystery of experience? What is this reality? #Lightness #Interrupt now that I have felt what is is like to die partially and it's not so bad? I am still the witness consciousness – I am not the clinch in the heart I am not any of these things Direct previous clear separation. And then realize that is not me observing the universe but the universe observing me that everything is this witness
 How does this relate to adaptive resonant loops and pan psychism? you are both sides of the loop? #question  #Thinkabout #heartchakra #healinf <>#Interrupt ~david goggins...
 
-#watch ~david goggins https://youtube.com/shorts/y-7AAlKB8F8
+Tags:, watch, ~david, goggins, https://youtube.com/shorts/y-7AAlKB8F8
 
 There is no hard and fast boundary between what is psychological and what is physical
 Discovering that all I really want is Neil meal replacement was huge and a great step in cultivating text
@@ -3864,15 +3866,15 @@ What if it's OK to be vulnerable and environment dependent? What is this is the 
 <>#engrain goggins toughness?...
 is this the feminine archetype?
 
-#engrain goggins toughness?
+Tags:, engrain, goggins, toughness?
 Life is not a bowl of cherries
 Don't fall to pieces <>What if it's OK to be...
 
 Non cognitive skills = spiritual power = psychic powers
-#WhyAwesome non cognitive skills
+Tags:, WhyAwesome, non, cognitive, skills
 ~david goggins
-#Interrupt
-#write book titled interrupt  
+Tags:, Interrupt
+Tags:, write, book, titled, interrupt
 
 Realizing that being willing to fall to pieces at ordinary circumstances it's not a way to live relates to David Goggins life is going to throw stuff at you you've got to not fall to pieces when it happens #Ideal #Interrupt
 
@@ -3885,16 +3887,16 @@ The rebalancing of the tao was to follow that potential to attain enlightenment 
 
 ~david goggins Cooke jar of achievements <>#Interrupt
 
-#Interrupt  
+Tags:, Interrupt
 <>~david goggins Cooke...
 
-#Interrupt #cold
+Tags:, Interrupt, cold
 Evil side of Goggins Dash going to be more comfortable in hell week then the officer is in their warm bed — can't hurt me idealogy #book #buy
 ~david goggins
 Not too late to to become a seal and do this #AlternativeLife — do it all on an injured SI etc — burn it all down I have only this life only this one body only this one chance #embracethetree
-#Whyawesome youth
+Tags:, Whyawesome, youth
 Can actually choose different lives and reinvent
-#Whyawesome mental calluses  — so you don't fall apart when life throws tough things at you #parenting? <>#quote Let me tell you... #hardcoreMotivation <>the beauty of the mind and human spirit not learned from man but from god ~david goggins
+Tags:, Whyawesome, mental, calluses, —, so, you, don't, fall, apart, when, life, throws, tough, things, at, you, parenting?, <>quote, Let, me, tell, you..., hardcoreMotivation, <>the, beauty, of, the, mind, and, human, spirit, not, learned, from, man, but, from, god, ~david, goggins
 <>Favorite thing to do...
 <>https://www.youtube....
 
@@ -3918,11 +3920,11 @@ Don't ask God for help externally you are a fragment of got and   have his natu
 
 become the  potential of my dreams. Also, dream bigger . Become the potential of your potential to dream
 <>I am a spirit ! #Interrupt...
-#identity mit badass -.-
+Tags:, identity, mit, badass, -.-
 Doesn't matter if you don't like it still do it running. Life is tough ~david goggins #pain
 Shows you what you can do if you wanted to / put your mind to it, shining ; #identity w the Vargas . What can I actually do? #LeadingQuestion <>#best  I’m thinking about...
 You can do it <>put your ass into it...
-#Interrupt #Motivation ~david goggins
+Tags:, Interrupt, Motivation, ~david, goggins
 Doesn't mean I need to be exclusively tough
  An  endurance sense but that intensity with my focus pleat in in tai chi or precision in Pilates #ideal
 Become happy with how I've taken this life from here  @DavidGreenspan #separatingyinfromyang
@@ -3959,9 +3961,9 @@ Search soul search mind search abilities ; not not looking not going toxins
 Why am I on planet eart — why
 —
 I finished 2 hell weeks you are in a badass
-#Interrupt
+Tags:, Interrupt
 Harvard
-#selfefficacy
+Tags:, selfefficacy
 —
 Put it back in cookie jar
 Self talk viz

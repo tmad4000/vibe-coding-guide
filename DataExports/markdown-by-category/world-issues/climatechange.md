@@ -1,5 +1,7 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  climatechange.jacobcole.net](http://climatechange.jacobcole.net)
-[[[contact: systematicAwesome@gmail.com](mailto:systematicawesome@gmail.com), jacob@ideaflow.io](mailto:jacob@ideaflow.io), maxsong123@gmail.com](mailto:maxsong123@gmail.com)
+# Climatechange
+
+[systematicawesome.jacobcole.net >  climatechange.jacobcole.net](http://climatechange.jacobcole.net)
+[contact: systematicAwesome@gmail.com , jacob@ideaflow.io , maxsong123@gmail.com](mailto:maxsong123@gmail.com)
 
 Contribute new items at the tops of lists!                        
 
@@ -14,15 +16,15 @@ Direct Link](https://docs.google.com/document/d/1ULNUP9HaHxe6DABI0AcfM_sVcqWh93g
 
 Table of Contents:
 
-[[Alarming Climate Change Facts](#h.5aioitbl8p11)1](#h.5aioitbl8p11)
-[[Ideas / High Leverage Points to Make a Difference](#h.t4eou4h4htwr)1](#h.t4eou4h4htwr)
-[[Starred](#h.qwh273ehwtoi)1](#h.qwh273ehwtoi)
-[[Other](#h.2rcliy2qbiqd)2](#h.2rcliy2qbiqd)
-[[Parameters of Climate Change / Mitigation](#h.y4nrav3o7pig)4](#h.y4nrav3o7pig)
-[[Existing Projects that Sound Good but Aren’t Effective](#h.7bdoabffmb9v)4](#h.7bdoabffmb9v)
-[[Notes](#h.2s96upsvwfq2)5](#h.2s96upsvwfq2)
-[[Scratch Notes From Salon 2020-03-06](#h.jvk1i21ir6z2)5](#h.jvk1i21ir6z2)
-[[April 17 Zoom (Dump notes here):](#h.1t82akzhp7dt)8](#h.1t82akzhp7dt)
+- [Alarming Climate Change Facts](#alarming-climate-change-facts)
+- [Ideas / High Leverage Points to Make a Difference](#ideas-high-leverage-points-to-make-a-difference)
+- [Starred](#starred)
+- [Other](#other)
+- [Parameters of Climate Change / Mitigation](#parameters-of-climate-change-mitigation)
+- [Existing Projects that Sound Good but Aren’t Effective](#existing-projects-that-sound-good-but-arent-effective)
+- [Notes](#notes)
+- [Scratch Notes From Salon 2020-03-06](#scratch-notes-from-salon-2020-03-06)
+- [April 17 Zoom (Dump notes here):](#april-17-zoom-dump-notes-here)
 
 Inbox (to sort)
 
@@ -31,13 +33,13 @@ Add more
 
 Alarming to General Public
 [Major new paleoclimatology study shows global warming has upended 6,500 years of cooling](https://www.sciencedaily.com/releases/2020/06/200630072044.htm)
-[[Coral reefs are dying at an alarming rate](http://www.secore.org/site/corals/detail/coral-reefs-are-dying.23.html). "Over the next 20 years, scientists estimate about 70 to 90% of all coral reefs will disappear primarily as a result of warming ocean waters, ocean acidity, and pollution.” ~Forbes](https://www.forbes.com/sites/trevornace/2020/02/24/70-90-percent-of-coral-reefs-will-disappear-over-the-next-20-years-scientists-say/#52c094977d87)
+[Coral reefs are dying at an alarming rate . "Over the next 20 years, scientists estimate about 70 to 90% of all coral reefs will disappear primarily as a result of warming ocean waters, ocean acidity, and pollution.” ~Forbes](https://www.forbes.com/sites/trevornace/2020/02/24/70-90-percent-of-coral-reefs-will-disappear-over-the-next-20-years-scientists-say/#52c094977d87)
 
 Mildly Alarming to General Public
 [Extreme warming of the South Pole](https://www.sciencedaily.com/releases/2020/06/200630111324.htm) – is this #actuallyReallyBad? #todo if this is actually outsizedly alarming to experts, write why this is
 
 Climate Change Effects that Don’t Sound Bad to General Public But are Actually Really Bad #actuallyReallyBad
-#todo
+Tags:, todo
 
 # Ideas / High Leverage Points to Make a Difference
 
@@ -134,14 +136,14 @@ Climate Change Effects that Don’t Sound Bad to General Public But are Actually
 
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5382570/ - Olivine* @ritesh = carbon capture through beachside weathering
 
-#potentialSolution Common type of rock that in the presence of water sucks carbon out of atmosphere
+Tags:, potentialSolution, Common, type, of, rock, that, in, the, presence, of, water, sucks, carbon, out, of, atmosphere
 [Cement](https://www.facebook.com/ritesh.ragavender/posts/2411566095611581) absorbs carbon but not at relevant scales
 
 - [#idea #potentialSolution I think projects like Thunderpledge (kickstarter for pledges, like to become a vegetarian — you don’t have to become a vegetarian unless 1 million other people do, for instance -- connected to http://radicalengineers.com/](https://l.facebook.com/l.php?u=http%3A%2F%2Fradicalengineers.com%2F%3Ffbclid%3DIwAR1P96_AKpOJy1D8wq613mkmK-k7EvzO3aHPdylvhXDEY2kTNVTcoclBjTo&h=AT3Zt3oIr4imcgyxbJ1An7M0hN9UuWqkz27WrvOKGkttwWF2uRNH4X3OoaKdutWSlX5cr_cHhYEagLcpAHhmxB8yX4bHbnFJywq8cjjOP1Hy59j14Fc_FJRs62xyyOPavMvcRmg)) could be a great start to this.
 
-- [[#potentialIf America ate beans instead of beef](https://www.theatlantic.com/health/archive/2017/08/if-everyone-ate-beans-instead-of-beef/535536/?utm_campaign=the-atlantic&utm_content=5bcdadb93ed3f00001fc432e_ta&utm_medium=social&utm_source=facebook&fbclid=IwAR0k3nQnItidSvACwzO2d6uklKMU1YbeqadoiB3bCtgFmXscOvF4i3YKyHc)https://www.facebook.com/49004340/posts/10102017934799771/](https://www.facebook.com/valerie.beltran.98/posts/10102017934799771?hc_location=ufi)
+- [#potentialIf America ate beans instead of beef https://www.facebook.com/49004340/posts/10102017934799771/](https://www.facebook.com/valerie.beltran.98/posts/10102017934799771?hc_location=ufi)
 
-- [[“Scientists... calculated](https://link.springer.com/article/10.1007%2Fs10584-017-1969-1) just what would happen if every American made one dietary change: substituting beans for beef. They found that if everyone were willing and able to do that—hypothetically—the U.S. could still come close to meeting its 2020 greenhouse-gas emission goals](https://www.scientificamerican.com/article/us-may-come-close-to-2020-greenhouse-gas-emission-target/), pledged by President Barack Obama in 2009.”
+- [“Scientists... calculated just what would happen if every American made one dietary change: substituting beans for beef. They found that if everyone were willing and able to do that—hypothetically—the U.S. could still come close to meeting its 2020 greenhouse-gas emission goals](https://www.scientificamerican.com/article/us-may-come-close-to-2020-greenhouse-gas-emission-target/), pledged by President Barack Obama in 2009.”
 - “That is, even if nothing about our energy infrastructure or transportation system changed—and even if people kept eating chicken and pork and eggs and cheese—this one dietary change could achieve somewhere between 46 and 74 percent of the reductions needed to meet the target.”
 - From @Ritesh - is this really true? I think emissions from the entire agricultural sector is ~20% (cattle + deforestation). You’re ignoring deforestation in this estimate, and also, just substituting beef wouldn’t eliminate the agribusiness industry (due to dairy).
 
@@ -156,7 +158,7 @@ Climate Change Effects that Don’t Sound Bad to General Public But are Actually
 - Not actually a solution, but a component of staving off the problem
 - Also, a lot of this is due to palm oil, which is why C16 biosciences is great
 
-- [[#potentialSolution Tom Currier](https://www.facebook.com/tcurrier?__tn__=%2CdC-R-R&eid=ARARKeC6XgsWO5Ez8AaVkQXPy9KqkN5vXroTOd8QJuRunxZBl1Smf6tDPqG_DXnNYlB_4QBQTRRQUfns&hc_ref=ARSakf2XSZ9EpVZWtv4RucyZ_pOn-0HfPplpLc__UJfFuEe0lxi7ZhlKaEii9mP3tpA&fref=nf) -  FB Post](https://www.facebook.com/photo.php?fbid=10220879257832598&set=a.10200558440024853&type=3&theater)
+- [#potentialSolution Tom Currier -  FB Post](https://www.facebook.com/photo.php?fbid=10220879257832598&set=a.10200558440024853&type=3&theater)
 
 Yesterday at 12:26 PM ·
 If the US placed an order for 1.8b tons of wood pellets per year and stored these pellets in long term grain storage containers, we would permanently sequester 5 gigatons of CO2 per year (all US emissions)
@@ -165,7 +167,7 @@ At current grain storage prices of $18/ton ($90k for 5,000t grain bin) and wood 
 We could raise the money to do this with a $25-35/ton carbon tax.
 A $35/ton carbon tax would increase the price of steel from $570/ton to $635/ton, the fuel only price of natural gas from 1.4c/kWh to 3c/kWh, and the price of gasoline by 30-35c/gallon.
 
-- [[Tom Currier](https://www.facebook.com/tcurrier?__tn__=%2CdC-R-R&eid=ARBLCtyDVxyBKlUtxsdU17V3UrxQq8Q7RixvI7EDE0SpcdH1GDpDEsYma9fNAjMqYHkY_1-INdOTTbSi&hc_ref=ARRJZx3T2Xh0sz1ifl_xtZeB9N7-27OYMOPys-PPfq1xEKmpJ22aopWN-GmjH8ddR30&fref=nf)FB Post](https://www.facebook.com/photo.php?fbid=10220777527569405&set=a.10200558440024853&type=3)
+- [Tom Currier FB Post](https://www.facebook.com/photo.php?fbid=10220777527569405&set=a.10200558440024853&type=3)
 
 [February 23 at 10:17 AM](https://www.facebook.com/photo.php?fbid=10220777527569405&set=a.10200558440024853&type=3) ·
 The world’s largest oil & gas companies only spend $201m/year on climate lobbying. We need to put an equal or greater amount of cash on the other side of the equation.
@@ -199,7 +201,7 @@ You can grow about 465 barnacles per square foot of ocean using a buoy and a rop
 [7 years to mitigate 1.5C warming](https://gothamist.com/arts-entertainment/union-squares-giant-clock-now-climate-crisis-countdown-timer)
 [Web Countdown Clock](https://www.mcc-berlin.net/en/research/co2-budget.html)
 
-[[High leverage points https://drawdown.org/solutions](https://drawdown.org/solutions) | http://easilysolvableworldproblems.jacobcole.net/](http://easilysolvableworldproblems.jacobcole.net/)
+[High leverage points https://drawdown.org/solutions | http://easilysolvableworldproblems.jacobcole.net/](http://easilysolvableworldproblems.jacobcole.net/)
 
 ### Existing Projects that Sound Good but Aren’t Effective
 - API to reduce your emissions from AWS
@@ -216,10 +218,10 @@ You can grow about 465 barnacles per square foot of ocean using a buoy and a rop
 ----
 
 Climate Change Effects we Don’t Know How to Mitigate
-#todo
+Tags:, todo
 
 Climate Change Effects we Don’t Think It’s Possible to Mitigate
-#todo
+Tags:, todo
 
 Climate Change Effects we Do Think It’s Possible to Mitigate
 Fully
@@ -264,8 +266,8 @@ Peter Relan
 
 ---------
 
-#countriesThatHaveAttainedSustainability
-#hydropowered
+Tags:, countriesThatHaveAttainedSustainability
+Tags:, hydropowered
 Norway
 Brazil
 Paraguay
@@ -276,7 +278,7 @@ https://www.ipcc.ch/site/assets/uploads/sites/2/2019/02/SR15_Chapter2_Low_Res.pd
 
 http://easilysolvableworldproblems.jacobcole.net/
 
-#potentialSolution Common type of rock that in the presence of water sucks carbon out of atmosphere
+Tags:, potentialSolution, Common, type, of, rock, that, in, the, presence, of, water, sucks, carbon, out, of, atmosphere
 [Cement](https://www.facebook.com/ritesh.ragavender/posts/2411566095611581) absorbs carbon but not at relevant scales
 
 Global financial crisis reduced emissions by 10%
@@ -285,7 +287,7 @@ Ideas to get carbon out of the sky for $100/ton
         Plant $1T trees? Good or bad?
         YC startup bioengineering better trees
 
-#concept “Yield Co”
+Tags:, concept, “Yield, Co”
 
 Ways to get distributed investment and distributed dividends in climate change like massive solar panels
         Samvit’s project <> ETFs/access to private equity
@@ -299,7 +301,7 @@ https://longitudinal.blog/co2-series-part-1-review-of-basics/
 <> #idea #todo Repository so you can know the numbers on these things
         We have 8 yrs, here are the trend lines etc
 
-#project to get solar more distributed ~Ritesh
+Tags:, project, to, get, solar, more, distributed, ~Ritesh
         Figuring out what angles to tilt panels etc is 25% of the cost
 
 Distribution of solar panels – unsexy #lowHangingFruit problem
@@ -331,7 +333,7 @@ Creating financial models
 
 [#bookhttps://www.amazon.com/This-Changes-Everything-Capitalism-Climate/dp/1451697392 https://thischangeseverything.org/the-documentary/ can](https://www.amazon.com/This-Changes-Everything-Capitalism-Climate/dp/1451697392)
 
-#hackathon
+Tags:, hackathon
 https://www.eventbrite.com/e/climate-hack-2020-tickets-90407103079
 
 Bat
@@ -378,8 +380,8 @@ Transport
 Housing
 - Marginal, can be solved with wise policy. Like forcing people to isolate their house + go electric on the heater when renovating any subsequential part of the house. It could become free as it is usually cash positive within 8 years only.
 
-#Perspective:
-[[[One theory states that about 360 million years ago, some plants evolved the ability to produce lignin](https://en.wikipedia.org/wiki/Lignin), a complex polymer that made their cellulose](https://en.wikipedia.org/wiki/Cellulose) stems much harder and more woody. Thus, the first trees](https://en.wikipedia.org/wiki/Trees) evolved. But bacteria and fungi did not immediately evolve the ability to decompose lignin, so the wood did not fully decay but became buried under sediment, eventually turning into coal. About 300 million years ago, mushrooms and other fungi developed this ability, ending the main coal-formation period of earth's history.
+Tags:, Perspective:
+[One theory states that about 360 million years ago, some plants evolved the ability to produce lignin , a complex polymer that made their cellulose stems much harder and more woody. Thus, the first trees](https://en.wikipedia.org/wiki/Trees) evolved. But bacteria and fungi did not immediately evolve the ability to decompose lignin, so the wood did not fully decay but became buried under sediment, eventually turning into coal. About 300 million years ago, mushrooms and other fungi developed this ability, ending the main coal-formation period of earth's history.
 
 https://www.scientificamerican.com/article/mushroom-evolution-breaks-down-lignin-slows-coal-formation/
 
@@ -537,7 +539,7 @@ From Kaixi to Everyone: (09:57 PM)
 From Me to Everyone: (09:57 PM)
  Salon so 🔥 “channel this incredible leadership power that max has into… fixing everything.”
 From J Cole to Everyone: (10:01 PM)
-[[climatechange.jacobcole.net](http://climatechange.jacobcole.net/). coronavirus.jacobcole.net](http://coronavirus.jacobcole.net/)
+[climatechange.jacobcole.net . coronavirus.jacobcole.net](http://coronavirus.jacobcole.net/)
 From Me to Everyone: (10:01 PM)
  aakash: “a root problem is the disparity in opportunities between different people”
 From J Cole to Everyone: (10:01 PM)

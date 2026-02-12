@@ -1,5 +1,7 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  kidactivities.jacobcole.net](http://kidactivities.jacobcole.net)
-#connectordoc #curatedList
+# Kidactivities
+
+[systematicawesome.jacobcole.net >  kidactivities.jacobcole.net](http://kidactivities.jacobcole.net)
+Tags:, connectordoc, curatedList
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
@@ -7,24 +9,24 @@ Contribute to the list at top!                        
 KidActivities
 List of wonderful activities we did as kids (and possibly still do!)
 
-[[Activities](#h.3dfhb4fkq21)1](#h.3dfhb4fkq21)
-[[Good for 3-7 y/o’s](#h.p2jdsty4dlif)1](#h.p2jdsty4dlif)
-[[Top Activities](#h.npuoyt7lbk23)1](#h.npuoyt7lbk23)
-[[Activities Kids Can Do Almost Immediately Independently](#h.glsr07ss0cc9)1](#h.glsr07ss0cc9)
-[[Activities Need Some Parent Involvement to Get Started, then Independent](#h.cqd2wi6iwmj9)1](#h.cqd2wi6iwmj9)
-[[Activities that Need Parent Involvement](#h.1qaqbk3obww1)2](#h.1qaqbk3obww1)
-[[General Kid Activity Dump](#h.rw6b2ignont)2](#h.rw6b2ignont)
-[[#boardgame](#h.2txh3pfpefm6)2](#h.2txh3pfpefm6)
-[[Building Toys](#h.9rhpv5mt43o3)2](#h.9rhpv5mt43o3)
-[[Flying Toys](#h.resgjrt5komk)2](#h.resgjrt5komk)
-[[Racing Toys](#h.7bnt628kofch)2](#h.7bnt628kofch)
-[[Need Parent Involvement](#h.xak5bndpgrs)3](#h.xak5bndpgrs)
-[[Art](#h.my3xst1euze5)3](#h.my3xst1euze5)
-[[Kids Games to Play](#h.i0ctuc5vgmst)3](#h.i0ctuc5vgmst)
-[[Misc](#h.ayk6n57xapbh)3](#h.ayk6n57xapbh)
-[[Scratch Notes (Work in Progress):](#h.57hujydbkjil)6](#h.57hujydbkjil)
-[[Good for Middle Schoolers](#h.1sx8qb9p1eld)6](#h.1sx8qb9p1eld)
-[[Parenting (WIP)](#h.oz75jegb9a07)6](#h.oz75jegb9a07)
+- [Activities](#activities)
+- [Good for 3-7 y/o’s](#good-for-3-7-yos)
+- [Top Activities](#top-activities)
+- [Activities Kids Can Do Almost Immediately Independently](#activities-kids-can-do-almost-immediately-independently)
+- [Activities Need Some Parent Involvement to Get Started, then Independent](#activities-need-some-parent-involvement-to-get-started-then-independent)
+- [Activities that Need Parent Involvement](#activities-that-need-parent-involvement)
+- [General Kid Activity Dump](#general-kid-activity-dump)
+- [#boardgame](#boardgame)
+- [Building Toys](#building-toys)
+- [Flying Toys](#flying-toys)
+- [Racing Toys](#racing-toys)
+- [Need Parent Involvement](#need-parent-involvement)
+- [Art](#art)
+- [Kids Games to Play](#kids-games-to-play)
+- [Misc](#misc)
+- [Scratch Notes (Work in Progress):](#scratch-notes-work-in-progress)
+- [Good for Middle Schoolers](#good-for-middle-schoolers)
+- [Parenting (WIP)](#parenting-wip)
 
 # Activities
 
@@ -48,16 +50,16 @@ Big books e.g. Big Bird’s Big Book
 Duplos
 Rokenbok construction system #awesome
 
-#computerGame #memory Clevermedia Games, Neopets or similar great online games site kids can safely play on in early mornings like I did.
+Tags:, computerGame, memory, Clevermedia, Games,, Neopets, or, similar, great, online, games, site, kids, can, safely, play, on, in, early, mornings, like, I, did.
 
-#outdoors #jacobMemory Playing in the creek by Curt’s cabin, throwing in sticks watching sticks go down the stream; the water striders
+Tags:, outdoors, jacobMemory, Playing, in, the, creek, by, Curt’s, cabin,, throwing, in, sticks, watching, sticks, go, down, the, stream;, the, water, striders
 
 Toy Tools #jacobMemory Cutting the foam sharp corner guard with the little red saw and toy tools.
 
 Toy Story- style toys/play. Theatre/pretend play
 
 Electric trains
-#older? Lego trains
+Tags:, older?, Lego, trains
 
 #### Activities Need Some Parent Involvement to Get Started, then Independent
 Spirograph
@@ -78,15 +80,15 @@ Klutz Kids Shenanigans book
 Klutz book of knots
 Nerf basketball hoop
 Magnets and iron filings
-#book What shall I draw today?
+Tags:, book, What, shall, I, draw, today?
 Knex
 
 Brio trains
 Hot Wheels
 Darda Cars
 
-#computerActivity #programming Turtle/Logo/Scratch
-#computerGame Sim city
+Tags:, computerActivity, programming, Turtle/Logo/Scratch
+Tags:, computerGame, Sim, city
 
 Spy devices— e.g. invisible ink lemon juice
 
@@ -108,14 +110,14 @@ Building a trebuchet
  building a rube goldberg contraption (incl from Klutz Kids’ shenanigans book)
 “Wire tracks” / electronics
 Balloon twisting
-#hobby model airplanes
+Tags:, hobby, model, airplanes
 
 ------
 
 ### General Kid Activity Dump
 
 #### #boardgame
-[[#pencilAndPaperGame #fun Gomoku](https://en.wikipedia.org/wiki/Gomoku) and variants, e.g. Neopets Cellblock (10x10)](http://www.neopets.com/games/cellblock/cellblock_main.phtml)
+[#pencilAndPaperGame #fun Gomoku and variants, e.g. Neopets Cellblock (10x10)](http://www.neopets.com/games/cellblock/cellblock_main.phtml)
 
 #### Building Toys
 Big tinker toys
@@ -124,7 +126,7 @@ Wooden blocks – the colored ones and the castle ones
 The marble blocks that fit together and could form a marble track
 Rokenbok construction system #awesome
 
-#memory Flipping a coin to determine which restaurant to go to; then making actual choice to find out my actual preferences
+Tags:, memory, Flipping, a, coin, to, determine, which, restaurant, to, go, to;, then, making, actual, choice, to, find, out, my, actual, preferences
 The little suction cup ball getting stuck on windows close to the ceiling and needing to build the tinker toy device to get it list
 Indoor Black and blue flying foam plane
 The paper airplane game #KidActivity
@@ -134,7 +136,7 @@ The paper airplane game #KidActivity
 #### Racing Toys
 
 Lego racers 2 slammers
-#videoGame Lego Racers. JetMoto2 (playstation), Crazy taxi 2
+Tags:, videoGame, Lego, Racers., JetMoto2, (playstation),, Crazy, taxi, 2
 
 Beyblades (spinning tops with pull-start wire)
 
@@ -168,7 +170,7 @@ Bocce ball
 Wooden animals
 
 Puzzle boxes — making them out of Legos, having ones made out of wood that contain secret stashes
-#tt Ask Chase Varga
+Tags:, tt, Ask, Chase, Varga
 Metal puzzles in OT.
 
 Silly putty
@@ -182,13 +184,13 @@ Beanbag Toss
 Slingshot – shooting at target
 Sling?
 
-#Music
+Tags:, Music
 drawer drum
 rainstick
 music maker
 wooden pipes
 
-#book Klutz book of knots
+Tags:, book, Klutz, book, of, knots
 
 Weaving, knitting, lego loom, rubbing paper until it becomes a different texture, fuzzy like cloth. Construction paper,
 egg drop contest
@@ -205,15 +207,15 @@ Singing ding dong ding dong
 
  building a pressure sensing mat #spyDevice
 
-#Books! Wizard of Oz, childhood of famous Americans, how to really love a child, everybody poops, love you forever, Siddhartha
+Tags:, Books!, Wizard, of, Oz,, childhood, of, famous, Americans,, how, to, really, love, a, child,, everybody, poops,, love, you, forever,, Siddhartha
 
-#summerCamp science adventure camp
+Tags:, summerCamp, science, adventure, camp
 Model Rockets– science adventure camp. Colloids corn starch Jell-O. Making Jell-O. Fruit roll ups at Chris Ozuna house. Bicycle with training wheels
 
 Slip and slide
 Water balloons
 Cool sprinklers
-#summerCamp Games from iD Tech Camps. Crazy multi person chess. Outdoor games
+Tags:, summerCamp, Games, from, iD, Tech, Camps., Crazy, multi, person, chess., Outdoor, games
 Making lanyards at soccer camp #summerCamp
 Making dream catchers
 
@@ -240,7 +242,7 @@ nested colored cups toy
 
 Russian dolls
 
-#skillToy
+Tags:, skillToy
 Hat tricks
 Tossing and spinning pizza dough/fake pizza dough
 Yoyos
@@ -258,7 +260,7 @@ Magnetic gears on the fridge. The green based gear toy
 Magnetic words on the fridge
 Trike racing around – later, electric scooter with JP
 
-#older Logiblox Circuit toys
+Tags:, older, Logiblox, Circuit, toys
 Popup cards. Making pop-ups books
 
 Folding paper and cutting it in a few places to make cool snowflake patterns
@@ -271,7 +273,7 @@ Fighting Toys
 *?Fighting laser RC tanks.
 Manas Bionicle. Cyberslam
 
-#beach
+Tags:, beach
 Finding a sand pyramid on the beach and thinking there were “mini-Egyptians”. Building sand pyramids
 Mud ball “recipe” at beach
 
@@ -288,7 +290,7 @@ Making dioramas
 
 Making gingerbread houses and things out of food
 
-#Gardening
+Tags:, Gardening
 Planting and growing seed
 Topiaries. Chia pets
 
@@ -304,7 +306,7 @@ Toy miniature golf, having to whack the little baseball off that keychain with t
 Ping pong popper – klutz crazy action contraptions book
 Parachute toys – parachute army man
 
-#videoGame Zoombinis and mudball wall - upon reflection I realize why I didn't love the Zoombinis games – a lot of them require you to sacrifice zoombinis. I really don't like to think that way. I want to save all of them. It seemed heartless
+Tags:, videoGame, Zoombinis, and, mudball, wall, -, upon, reflection, I, realize, why, I, didn't, love, the, Zoombinis, games, –, a, lot, of, them, require, you, to, sacrifice, zoombinis., I, really, don't, like, to, think, that, way., I, want, to, save, all, of, them., It, seemed, heartless
 
 Remote control sailboat racing (e.g. at Disney). String controlled sailboat racing
 Charge up electric cars little toys. Even cooler was the chargeup electric skateboarder
@@ -314,7 +316,7 @@ Coconuts
 
 Dyson 44 exp #KidActivity
 
-#KidActivity
+Tags:, KidActivity
 Baking - healthy muffins and cookies
 Paint
 Paint In the tub
@@ -325,7 +327,7 @@ Beach — Shannon?
 Half a day — paints bed time
 Have her Read books
 School
-#KidActivity
+Tags:, KidActivity
 Blowing Bubbles. Blowing Giant Bubbles
 Draw hopscotch on concrete -
 4 square
@@ -334,19 +336,19 @@ Get goals
 Pillow fights
 Kids yoga class
 
-#KidActivity bouncing on exercise ball
+Tags:, KidActivity, bouncing, on, exercise, ball
 Metal puzzles
 Balance board
 Max t
 
-#KidActivity water wheels
+Tags:, KidActivity, water, wheels
 Nerf balls
 
 Making Pinwheels
 Making Popup Books
 
 Throwing stuff #KidActivity – balls, toys
-#memory throwing jacket back and forth with anu at picnic w mom
+Tags:, memory, throwing, jacket, back, and, forth, with, anu, at, picnic, w, mom
 Going to the park with dad, playground, baseball, teeball, throwing a Vortex, or Aerobie Flying Ring, or Boomerang, or wind up airplane with aunt
 little suction cup ball
 
@@ -363,7 +365,7 @@ Start w kids energy
 Channel it
 @joshwhiton fully resourced #KidActivity
 
-#tt @jacob ask Robyn and Shawn and other people who had cool childhood. Felipe? Stuff from Feynman's childhood #curatedList #curate Ask Wegene—kids activities. Mollie f @assistants
+Tags:, tt, @jacob, ask, Robyn, and, Shawn, and, other, people, who, had, cool, childhood., Felipe?, Stuff, from, Feynman's, childhood, curatedList, curate, Ask, Wegene—kids, activities., Mollie, f, @assistants
 @jacob What all did I have behind my chair?
 
 What did I do with Carson and Devon? Besides Diddy Kong racing
@@ -374,7 +376,7 @@ When there is ubiquitous Internet will the Jamaicans kids still be running races
 Jahooma’s logic box is a great way to understand some of the fundamentals of programming in the context of a fun game!
 
 # Parenting (WIP)
-#todo add monet article on kids and video games
+Tags:, todo, add, monet, article, on, kids, and, video, games
 
 ~monet
 Labeled praise
@@ -383,11 +385,11 @@ say what you expect the kid to do in the morning or whatever what's this day goi
 Rewards charts
 Coop game
 Emotional check in for the parent
-#Parenting
+Tags:, Parenting
 
  #Parenting alt parenting group
 
-[[Replacing punishment with connection #Article #Parenting #Good](https://allfunandgamesblog.wordpress.com/2019/03/02/replacing-punishment-with-connection/)https://allfunandgamesblog.wordpress.com/2019/03/02/replacing-punishment-with-connection/](https://allfunandgamesblog.wordpress.com/2019/03/02/replacing-punishment-with-connection/) To punish kids, very simply, is to make something unpleasant happen to them — or prevent them from experiencing something pleasant – usually with the goal of changing their future behavior. The punisher makes them suffer, in other words, to teach them a lesson” (Alfi Kohn)
+[Replacing punishment with connection #Article #Parenting #Good https://allfunandgamesblog.wordpress.com/2019/03/02/replacing-punishment-with-connection/](https://allfunandgamesblog.wordpress.com/2019/03/02/replacing-punishment-with-connection/) To punish kids, very simply, is to make something unpleasant happen to them — or prevent them from experiencing something pleasant – usually with the goal of changing their future behavior. The punisher makes them suffer, in other words, to teach them a lesson” (Alfi Kohn)
 
 Definition of revenge: To inflict punishment in return for (injury or insult)
 

@@ -1,4 +1,6 @@
-[[Things You Didn’t Know Existed in Portland                                                               thingsyoudidntknowexisted.jacobcole.net](http://thingsyoudidntknowexisted.jacobcole.net) >thingsyoudidntknowexistedinsandiego.jacobcole.net](http://thingsyoudidntknowexistedinsandiego.jacobcole.net)
+# Thingsyoudidntknowexistedinsandiego
+
+[Things You Didn’t Know Existed in Portland                                                               thingsyoudidntknowexisted.jacobcole.net >thingsyoudidntknowexistedinsandiego.jacobcole.net](http://thingsyoudidntknowexistedinsandiego.jacobcole.net)
 Contribute to the list at top!                                                                                                                                             started by jacob@ideaflow.io
 
 Notice: does anyone want to help me make a web app for this? I want to make the site: thingsyoudidntknowexisted.in, which transcends and includes thingsyoudidntknowexistedatmit, this page, and more. (Maybe thingsyoudidntknowexistedthatarerelevanttoyou. If so, email me at jcole@mit.edu)
@@ -29,7 +31,7 @@ Table of Contents
 ###
 
 ### Related Lists
-#todo
+Tags:, todo
 
 ## Things to Do When Visiting San Diego
 Recommended to young couple:
@@ -119,13 +121,13 @@ XYO protocol #outliers
 Ronan O'Brien
 
 ## Inbox (To Process)
-#pt  #SanDiego #t  https://thealternativept.com/ Jera Ratliff with 29 years of training treating ALL areas and #physicaltherapist
+Tags:, pt, SanDiego, t, https://thealternativept.com/, Jera, Ratliff, with, 29, years, of, training, treating, ALL, areas, and, physicaltherapist
 
-#SanDiego Ronan O'Brien
+Tags:, SanDiego, Ronan, O'Brien
 
 https://sattvikfoods.com/ #Restaurant #indian #SanDiego
 
-#restaurant #SanDiego oscars shrimp tacos
+Tags:, restaurant, SanDiego, oscars, shrimp, tacos
 
 The city museum #stlouis #adultsizedplayground #CoolPlace #thingsyoudidntknowexisted <>#t #SanDiego Natalie Fleet...
 
@@ -198,7 +200,7 @@ True names #Read #ShortStory
 Peter attia <>Peter Thiel <>tomer #sandiego @dad #doctor
 
 Verner vinges #meet #person
-#book #sandiego
+Tags:, book, sandiego
 
  #author thanissaro #buddhism #WhyAwesome
 Ian Campbell <>Mettawat #Monastery #SanDiego...

@@ -1,11 +1,13 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  mentalstatehacks.jacobcole.net](http://mentalstatehacks.jacobcole.net)
-#connectordoc
+# Mentalstatehacks
+
+[systematicawesome.jacobcole.net >  mentalstatehacks.jacobcole.net](http://mentalstatehacks.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
 
 Mental State Hacks
-#spiritualTechnology
+Tags:, spiritualTechnology
 
 [Inbox        1](#h.npuoyt7lbk23)
 [General Tricks        2](#h.3081lnjzttsr)
@@ -26,8 +28,8 @@ Mental State Hacks
 -----
 https://www.sparknotes.com/philosophy/hegelphilhist/terms/
 
-[[#read](https://www.sparknotes.com/philosophy/hegelphilhist/terms/)https://www.sparknotes.com/philosophy/hegelphilhist/terms/](https://www.sparknotes.com/philosophy/hegelphilhist/terms/)
-#philosophy #hegel
+[#read https://www.sparknotes.com/philosophy/hegelphilhist/terms/](https://www.sparknotes.com/philosophy/hegelphilhist/terms/)
+Tags:, philosophy, hegel
 if the body does not correspond to the soul, it is a wretced thing indeed. the unity of existence and the concept, of body and soul, is the Idea. it is not jsut a harmony, but a complete interpenetration. nothing lives which is not in someway Idea. the Idea of right is freeom, and in order to be truly apprehended, it must be recognizable in its concept;nd in the concept's existence  ~hegel   ~elements of the philosophy of right
 Subjective Will
 Hegel distinguishes between universal will, which refers to the overall drive of Spirit, Reason, or the State, and subjective will, which refers to the multitude of individual wills of the people that comprise the State. In its strongest form, subjective will commands an "infinite right" to be fulfilled. If individuals are to follow a universal cause, that cause must encompass their own subjective will--it must address their own "sense of self." Subjective will is essentially arbitrary in the sense that it does not necessarily follow fixed, universal principles; Hegel also refers to subjective will as "caprice" in order to point out this fickle, arbitrary nature. Subjective will can be linked very closely to universal will (though it need not be)--the ultimate goal of a given State is to unite the subjective wills of its citizens with the universal will expressed in its abstract central principle (which is an expression of the will of Spirit). The State, Hegel argues, does not limit true freedom but only the most arbitrary, animal aspects of subjective will ("caprice"). Subjective will also becomes linked to the will of Spirit through world-historical individuals, whose own passions and goals stem partly from a recognition of the next step in the development of Spirit.
@@ -42,7 +44,7 @@ For both Hegel and Kant, "we arrive at the concept of the thing in itself by rem
 If we abstract 'Ding' [thing] from 'Ding an sich' [thing in itself], we get one of Hegel's standard phrases: 'an sich.' [in itself]....A child, in Hegel's example, is thus 'in itself' the adult it will become: to know what a 'child' is means to know that it is, in some respects, a vacancy which will only gain content after it has grown out of childhood.[89]
 The "thing as it is in itself" is indeed knowable: it is the indeterminate, "futural" aspect of the thing we experience—it is what we will come to know. In other words, although the thing-in-itself is at any given moment thoroughly unknown, it nevertheless remains that part of the thing about which it is possible to learn more.[90]:101–102
 <>chase varga's remove all qualia and retain essence of object
-#philosophy
+Tags:, philosophy
 
 -----
 Nietzcsche eternal recurrence
@@ -116,9 +118,9 @@ One aspect of self-soothing tactics is that they need to mesh with you enough wh
 - Reflexology/foot massage balls
 
 - [Small Bouncy balls](https://www.amazon.com/Pllieay-Pieces-Jet-Bouncy-Filler-Children/dp/B074Z8C8RP/ref=sr_1_6?dchild=1&keywords=bouncy+balls&qid=1600844866&sr=8-6)
-- [[Slightly larger ones like the hard Melt ball](https://www.amazon.com/MELT-Hand-Foot-Treatment-Kit/dp/B071RH22SN) or Foot Rubz](https://www.amazon.com/Due-North-Massage-Plantar-Fasciitus/dp/B002QEY6NK/ref=sr_1_2?crid=3D1E7CXIKGLNB&dchild=1&keywords=foot+rubz+ball&qid=1600845039&sprefix=foot+rubz%2Caps%2C223&sr=8-2)
+- [Slightly larger ones like the hard Melt ball or Foot Rubz](https://www.amazon.com/Due-North-Massage-Plantar-Fasciitus/dp/B002QEY6NK/ref=sr_1_2?crid=3D1E7CXIKGLNB&dchild=1&keywords=foot+rubz+ball&qid=1600845039&sprefix=foot+rubz%2Caps%2C223&sr=8-2)
 
-- [[1min Friction](https://www.meltmethod.com/blog/get-feet-ready-summer/) technique on a large soft Melt ball](https://www.amazon.com/MELT-Hand-Foot-Treatment-Kit/dp/B071RH22SN)
+- [1min Friction technique on a large soft Melt ball](https://www.amazon.com/MELT-Hand-Foot-Treatment-Kit/dp/B071RH22SN)
 
 -
 - #VeryRelaxing Leaning into exercise bands attached to pull up bar or door or door knob, or letting your feet be sightly elevated / suspended by them while lying on your back
@@ -143,7 +145,7 @@ One aspect of self-soothing tactics is that they need to mesh with you enough wh
 -
 - Chanting / singing
 
-- [[E.g. Buddhist or Byzantine Chanting](https://open.spotify.com/track/0D5BiVej4AxZIlngMcXVCE) (lyrics](https://en.wikipedia.org/wiki/O_Virgin_Pure)). Or just Ommm
+- [E.g. Buddhist or Byzantine Chanting (lyrics](https://en.wikipedia.org/wiki/O_Virgin_Pure)). Or just Ommm
 
 -
 - Using essential oils or pain relieving ointments if in pain
@@ -190,4 +192,4 @@ http://hypnosis.jacobcole.net/
 
 http://chronicpain.jacobcole.net/
 
-[[[See also: http://interrupt.jacobcole.net/](http://interrupt.jacobcole.net/)http://wall.jacobcole.net/](http://wall.jacobcole.net/)https://engrain.jacobcole.net/](https://engrain.jacobcole.net/)
+[See also: http://interrupt.jacobcole.net/ http://wall.jacobcole.net/ https://engrain.jacobcole.net/](https://engrain.jacobcole.net/)

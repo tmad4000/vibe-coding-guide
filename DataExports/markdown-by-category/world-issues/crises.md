@@ -1,16 +1,18 @@
-[[[`systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldgestalts.jacobcole.net](http://worldgestalts.jacobcole.net) > GlobalIdeaBank.jacobcole.net](http://globalideabank.jacobcole.net)
-#connectordoc
+# Crises
+
+[`systematicawesome.jacobcole.net > worldgestalts.jacobcole.net > GlobalIdeaBank.jacobcole.net](http://globalideabank.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Unsung Crises
 Crises in the world people may not be talking about enough
 
-[[[[See also:  worldgestalts.jacobcole.net](http://worldgestalts.jacobcole.net) • globalideabank.jacobcole.net/](http://globalideabank.jacobcole.net/) • worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com/) • projectconnect.jacobcole.net](http://projectconnect.jacobcole.net/)
+[See also:  worldgestalts.jacobcole.net • globalideabank.jacobcole.net/ • worldquestguild.connectordocs.com • projectconnect.jacobcole.net](http://projectconnect.jacobcole.net/)
 
 Table of Contents
-[[Crises](#h.k25y7ir2k1w7)1](#h.k25y7ir2k1w7)
-[[Tooling Crisis](#h.vmxe2rykzyzu)1](#h.vmxe2rykzyzu)
-[[America Sucks at Non Emergency Medicine](#h.n9xk1tbtqd0d)1](#h.n9xk1tbtqd0d)
+- [Crises](#crises)
+- [Tooling Crisis](#tooling-crisis)
+- [America Sucks at Non Emergency Medicine](#america-sucks-at-non-emergency-medicine)
 
 # Crises
 

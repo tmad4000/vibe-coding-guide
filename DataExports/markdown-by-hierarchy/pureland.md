@@ -1,11 +1,13 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > pureland.jacobcole.net](http://pureland.jacobcole.net)
+# Pureland
+
+[systematicawesome.jacobcole.net > pureland.jacobcole.net](http://pureland.jacobcole.net)
 [Started by jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 “Pure Land” For The Sensitive Person
 [Highly Sensitive Person](https://hsperson.com/)PureLand – Pure Places To Spend Time for a Seamlessly Pristine Life – Free of Pesticides, Noise, Etc.
 
-#curatedlist #connectordoc
+Tags:, curatedlist, connectordoc
 
-[[[See Also: thoughtfulweb.jacobcole.net](http://thoughtfulweb.jacobcole.net/) • foodslist.jacobcole.net](http://foodslist.jacobcole.net/) • products.jacobcole.net](https://products.jacobcole.net/)
+[See Also: thoughtfulweb.jacobcole.net • foodslist.jacobcole.net • products.jacobcole.net](https://products.jacobcole.net/)
 
 Table of Contents:
 [Places](#h.v5ljao8m4r5d)

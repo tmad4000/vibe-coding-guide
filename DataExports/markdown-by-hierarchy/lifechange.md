@@ -1,9 +1,11 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > lifechange.jacobcole.net](http://lifechange.jacobcole.net)
+# Lifechange
+
+[systematicawesome.jacobcole.net > lifechange.jacobcole.net](http://lifechange.jacobcole.net)
 [Contact:jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 
 Life-Changing Meditation Program Experiment Tutorial
 
-[[[See also: qigong.garden](http://qigong.garden/) • qigong.connectordocs.com](http://qigong.connectordocs.com/) • lifechangingthings.jacobcole.net](http://lifechangingthings.jacobcole.net)
+[See also: qigong.garden • qigong.connectordocs.com • lifechangingthings.jacobcole.net](http://lifechangingthings.jacobcole.net)
 
 # My hypothesis
 this program of 10 min meditation 3x / day can be easily complied with and change people’s lives, and, most often, enable people to save at least those 10 minutes even within the next hour.

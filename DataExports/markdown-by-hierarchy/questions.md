@@ -1,4 +1,6 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > questions.jacobcole.net](http://questions.jacobcole.net)
+# Questions
+
+[systematicawesome.jacobcole.net > questions.jacobcole.net](http://questions.jacobcole.net)
 [Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Questions
 Questions we would ask a person who has attained enlightenment

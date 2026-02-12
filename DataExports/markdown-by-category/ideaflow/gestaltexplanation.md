@@ -1,3 +1,5 @@
+# Gestaltexplanation
+
 Cole, Lee
 Writings on Open Gestalts and the Origins of Ideaflow: IdeaOverflow Paper & Notes
 
@@ -26,7 +28,7 @@ Jacob Cole, Holden Lee
 [Notes on Gestalts](#h.dtw3hlhxsl6o)
 [Appendix: Source Code](#h.5k7kc3w1t26p)
 
-[[[[[A MindMap of this paper is available at http://app.wisemapping.com/c/maps/124943/public](http://app.wisemapping.com/c/maps/124943/public). The matching algorithm is available at https://github.com/tmad4000/IdeaOverflow_som](https://github.com/tmad4000/IdeaOverflow_som) and the web platform source code is available at https://github.com/tmad4000/ideaoverflow-hackny](https://github.com/tmad4000/ideaoverflow-hackny). A demo of the web app is available at http://pacific-tundra-3629.herokuapp.com/](http://pacific-tundra-3629.herokuapp.com/) or (old) http://agile-ocean-3244.herokuapp.com/](http://agile-ocean-3244.herokuapp.com/).
+[A MindMap of this paper is available at http://app.wisemapping.com/c/maps/124943/public . The matching algorithm is available at https://github.com/tmad4000/IdeaOverflow_som and the web platform source code is available at https://github.com/tmad4000/ideaoverflow-hackny . A demo of the web app is available at http://pacific-tundra-3629.herokuapp.com/ or (old) http://agile-ocean-3244.herokuapp.com/](http://agile-ocean-3244.herokuapp.com/).
 
 # Abstract
 

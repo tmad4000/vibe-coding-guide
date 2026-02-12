@@ -1,7 +1,9 @@
+# Thoughtstreaming
+
 Thoughtstream: a smart notetaking app, the ideal software for keeping lists of ideas, and a commandline for the 21st century – Ideaflow Future
 Updated: 2/20/2018
-[[Jacob Cole <jacob@ideapad.io](mailto:jacob@ideapad.io)> <jcole@mit.edu](mailto:jcole@mit.edu)>
-[[More Info: http://ideaflow.jacobcole.net](http://ideaflow.jacobcole.net),  ideaflowplan.jacobcole.net](http://ideaflowplan.jacobcole.net)
+[Jacob Cole <jacob@ideapad.io > <jcole@mit.edu](mailto:jcole@mit.edu)>
+[More Info: http://ideaflow.jacobcole.net ,  ideaflowplan.jacobcole.net](http://ideaflowplan.jacobcole.net)
 
 [Alpha: Thoughtstream iOS app](#h.x252d8v4hxpe)
 [Quick Start Guide](#h.ggxtx5jqs23z)
@@ -26,7 +28,7 @@ Thoughtstream is a single, giant “text file” where you keep all your notes, 
 Entries are separated by double line breaks. To create a new entry, you hit the plus button in the bottom right hand corner.
 
 I recommend starting by playing with the hashtags feature. Hit Plus to create a new note. Now think of, say, a book you have been recommended recently. Write it down and add #Book to it, e.g.:
-#Book A Fire Upon the Deep
+Tags:, Book, A, Fire, Upon, the, Deep
 
 Now hit plus again.  Think of something else that you have come across recently you want to remember for the future. Perhaps a potential investor? A potential customer? A potential friend?
 
@@ -68,7 +70,7 @@ Next and idea next a quote that really resonates with you comes up. You write it
 Boom. Done.
 
 Then someone recommends you another book, Name of the Wind. So you say (because it doesn’t matter where you put the tag)
-#book Name of the Wind
+Tags:, book, Name, of, the, Wind
 
 Try this now.
 
@@ -99,15 +101,15 @@ I keep a central WordPad document in which I write down all that I want to remem
 - I also often write that an idea or quote RELATES TO another I’ve previously written. My shorthand for “RELATES TO” is “<>”.
 
 Here's an excerpt from a thoughtstream using my syntax:
-#ideamapping graphcommons.com
+Tags:, ideamapping, graphcommons.com
 
-#song breezeblocks alt-J – Breezeblocks
+Tags:, song, breezeblocks, alt-J, –, Breezeblocks
 
-#sugg @stcatz fix washing machines
+Tags:, sugg, @stcatz, fix, washing, machines
 
-#idea google feedback clone
+Tags:, idea, google, feedback, clone
 
-#idea platform teach others things for small amounts of money <> Eagerpanda.com
+Tags:, idea, platform, teach, others, things, for, small, amounts, of, money, <>, Eagerpanda.com
 
 [Eagerpanda.com <investor> Charlie Cheever [l]](#cmnt12)
 
@@ -181,7 +183,7 @@ Thoughtstreaming with CJ (a history)---
 
 ( Pardon the prolixity of my writing, it could be a third the size. )
 
-[[[[It starts with reading Lion Kimbro's "How to Make a Complete Map of Every Thought you Think" http://users.speakeasy](http://users.speakeasy.net/~lion/nb/).net/~lion/nb/](http://users.speakeasy.net/~lion/nb/)[q]](#cmnt17)[r]](#cmnt18)
+[[[It starts with reading Lion Kimbro's "How to Make a Complete Map of Every Thought you Think" http://users.speakeasy .net/~lion/nb/](http://users.speakeasy.net/~lion/nb/)[q]](#cmnt17)[r]](#cmnt18)
 
 The idea is compelling, but his system is awfully inefficient. It involves carrying around huge binders. I don't know why he didn't make a digital system, he worked for microsoft at the time.
 

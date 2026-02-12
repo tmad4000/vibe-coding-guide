@@ -1,5 +1,7 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > ideaflowbackground.jacobcole.net](http://ideaflowbackground.jacobcole.net)
-#connectordoc #curatedList
+# Ideaflowbackground
+
+[systematicawesome.jacobcole.net > ideaflowbackground.jacobcole.net](http://ideaflowbackground.jacobcole.net)
+Tags:, connectordoc, curatedList
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
@@ -21,13 +23,13 @@ IdeaFlow Discursive Background Reading
 [Supporting Quote        6](#h.5xo6uy4d8m0y)
 [Further Reading        7](#h.e1zromwk434q)
 
-[[[See also: gestaltexplanation.jacobcole.net](http://gestaltexplanation.jacobcole.net) • quests.world](http://quests.world/) • manifestos.world](http://manifestos.world)
+[See also: gestaltexplanation.jacobcole.net • quests.world • manifestos.world](http://manifestos.world)
 
 ##
-#TODO: this page needs to be revised to provide a clear, coherent overall vision for Ideaflow. It provides a series of tangential ideas, but should ideally communicate a synthesis of how they connect together.
+Tags:, TODO:, this, page, needs, to, be, revised, to, provide, a, clear,, coherent, overall, vision, for, Ideaflow., It, provides, a, series, of, tangential, ideas,, but, should, ideally, communicate, a, synthesis, of, how, they, connect, together.
 
 ## Demos
-- [[Try Ideaflow Notes](http://onboarding.ideaflow.app)onboarding.ideaflow.app](http://onboarding.ideaflow.app)
+- [Try Ideaflow Notes onboarding.ideaflow.app](http://onboarding.ideaflow.app)
 - [Ideaflow Speech + Parse with AI Demo](https://youtu.be/hQaLg4o73yY?si=KEHZ2eihuAMLXbym)
 - [Bullet View](https://www.youtube.com/watch?v=4feZo9PqTlo)
 - [Paper2Graph Demo Updated – Paths from Ovarian Cancer to IGF2](https://www.loom.com/share/1286b34df8284ae3b33890b3a0a59267)
@@ -49,7 +51,7 @@ Future vision (longer)
 https://en.wikipedia.org/wiki/Collective_intelligence
 
 https://en.m.wikipedia.org/wiki/Douglas_Engelbart
-[[[Read career and accomplishments. Specifically the guiding philosophy](https://en.wikipedia.org/wiki/Douglas_Engelbart#Guiding_philosophy), for the best existential crisis ever 🙂  intelligence amplification](https://en.wikipedia.org/wiki/Intelligence_amplification) too!  (Famously, Engelbart also invented the mouse and gave the Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY))
+[Read career and accomplishments. Specifically the guiding philosophy , for the best existential crisis ever 🙂  intelligence amplification too!  (Famously, Engelbart also invented the mouse and gave the Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY))
 
 Doug "Engelbart's career was inspired in December 1950 when he was
 engaged to be married and realized he had no career goals other "than
@@ -127,14 +129,14 @@ really hope it’ll succeed.” ~Fields Medalist Tim Gowers on IdeaFlow
 Cody and I just had an epic conversation which outlined the high-level version of Ideaflow, that we are working towards in a way that made him, in his words,  particularly motivated to build
 https://develop.ideaflow.app/shared/nlZ5j3jYYs
 [Here are the notes and the recording! I would encourage everyone to listen to at least the first ~20 minutes because I think it points us in some very good directions, and make clarify decisions we make. It was also so fun![b]](#cmnt2)
-#grandVision
+Tags:, grandVision
 
 ## More Related Projects
 [category theory http://math.mit.edu/~dspivak/teaching/sp13/CT4S.pdf](http://math.mit.edu/~dspivak/teaching/sp13/CT4S.pdf)
 https://ideapad.io/top-level/graph
 Semantic Web / GGG
 Society of Mind / Marvin Minsky
-[[Memex](https://en.wikipedia.org/wiki/Memex#:~:text=The%20memex%20(originally%20coined%20%22at,%22As%20We%20May%20Think%22.) – vannevar bush / As we may think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) essay
+[Memex – vannevar bush / As we may think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) essay
 Doug Engelbart
 [Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu) / Ted Nelson
 
@@ -143,16 +145,16 @@ https://ideapad.io/related-projects/graph?snapshot=related-projects
 ## See also:
 
 ###  College papers
-[[[(IdeaOverflow, the basis for a platform for collaborative ideation and project sharing. Society of Mind Final Paper v1.1](https://docs.google.com/document/d/1O8t7ouEYC_1TMI9XbvWWT0wRPDxRpIIHafA-lJVqZls/edit) (Covers gestalt psychology). Co-authored with Holden Lee](http://holdenlee.github.io/blog/). Also at gestalt explanation.jacob cole.net](http://gestaltexplanation.jacobcole.net))
+[(IdeaOverflow, the basis for a platform for collaborative ideation and project sharing. Society of Mind Final Paper v1.1 (Covers gestalt psychology). Co-authored with Holden Lee . Also at gestalt explanation.jacob cole.net](http://gestaltexplanation.jacobcole.net))
 
 Nexus of related thoughts (many dead links)
-[[IdeaOverflow IDE (Idea Development Environment) Plan](http://ideaflowplan.jacobcole.net/) (direct link](https://docs.google.com/document/d/1UFjkJyI_D3JvVSeMQwN0HixOgYuISGwhcuyFuxqwhsY/edit))
+[IdeaOverflow IDE (Idea Development Environment) Plan (direct link](https://docs.google.com/document/d/1UFjkJyI_D3JvVSeMQwN0HixOgYuISGwhcuyFuxqwhsY/edit))
 
 ---
 
 ### Inspiring Global Vision
 
-[[If you want to see the thing that inspired me probably the most in the last few years it’s this clip from Jack Park (former colleague of Doug Engelbart). He has a clear vision for “how this planet is going to get fixed”. Which he states here](http://worldquestguild.connectordocs.com/)http://worldquestguild.connectordocs.com/](http://worldquestguild.connectordocs.com/) (see key quotes, or better, watch the linked video clip; on 2x speed for 20min))
+[If you want to see the thing that inspired me probably the most in the last few years it’s this clip from Jack Park (former colleague of Doug Engelbart). He has a clear vision for “how this planet is going to get fixed”. Which he states here http://worldquestguild.connectordocs.com/](http://worldquestguild.connectordocs.com/) (see key quotes, or better, watch the linked video clip; on 2x speed for 20min))
 
 #### @Team
 Related projects to be aware of
@@ -174,7 +176,7 @@ The data collected from this system is vast and hopes to lay the groundwork for 
 In parallel, a second problem we see is that many of the smartest people we know spend their days working to improve the ad recommendation system on Facebook instead of curing cancer or building strong AI. We are, ultimately, striving to give these people a materially equally appealing or more appealing alternative option that also gives them an opportunity to directly help people!
 [Thiel fellowship app (unsent)](https://docs.google.com/document/d/1bl7UYhz_EGxAJAmwW364ThAmhY8jdmS07uEdejV22b4/edit)
 <> Untapped internet potential
-#idea all ages thiel fellowship
+Tags:, idea, all, ages, thiel, fellowship
 [See also: http://ideabank.global/](http://ideabank.global/)
 
 # Supporting Quote
@@ -182,7 +184,7 @@ In parallel, a second problem we see is that many of the smartest people we know
 [Testimonials and Videos](https://www.notion.so/Ideaflow-Onboarding-Quickstart-34f45fb3dd9f49e381cd161c32afa94e?pvs=4#29c8c26fb7774136bac4d468de23aa2a)
 - [How I Use Ideaflow for Blogging](https://www.youtube.com/watch?v=NJ7DwH77os4)
 
-#supportingquote from Josh Kopelman, founder of First Round Capital (Tier 1 VC, our investor)
+Tags:, supportingquote, from, Josh, Kopelman,, founder, of, First, Round, Capital, (Tier, 1, VC,, our, investor)
 "I think it's fascinating, what you're working on.  And more importantly than the whizzy-bang demo is the thought behind it, the framework.  It's really sophisticated for a company of your stage.  I've seen a lot, and I'm rarely as blown away as I am right now.
 
 Congrats on finding a... Let's put it this way.

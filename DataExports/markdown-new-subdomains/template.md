@@ -1,9 +1,11 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > foodslist.jacobcole.net](http://foodslist.jacobcole.net/) >tea.jacobcole.net](http://tea.jacobcole.net)
+# Template
+
+[systematicawesome.jacobcole.net > foodslist.jacobcole.net >tea.jacobcole.net](http://tea.jacobcole.net)
 [Started by jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 [Tea [#Template copy & redirect for new #connectordoc](https://docs.google.com/document/d/1MqFMJAMx2mg5eJWlvgYaCTK-DrUmFBGZDhG09Q4rZ-w/edit#)]
 List of great teas!
 
-[[[[See Also: foodslist.jacobcole.net](http://foodslist.jacobcole.net/) • cheese.jacobcole.net](http://cheese.jacobcole.net) • chocolate.jacobcole.net](http://chocolate.jacobcole.net/) • tea.jacobcole.net](http://tea.jacobcole.net)
+[See Also: foodslist.jacobcole.net • cheese.jacobcole.net • chocolate.jacobcole.net • tea.jacobcole.net](http://tea.jacobcole.net)
 
 Table of Contents:
 [Teas](#h.pt211dv4lw7v)
@@ -15,7 +17,7 @@ Ginger turmeric #tea #buy
 
 Soothing bedtime caramel #tea
 
-#tea pumpkin spice rooibos  #Grocery
+Tags:, tea, pumpkin, spice, rooibos, Grocery
 
  #tea  “It's a ginger tea with crystal sugars that you typically can find in a Chinese grocery store. There's no specific brand name!”
 

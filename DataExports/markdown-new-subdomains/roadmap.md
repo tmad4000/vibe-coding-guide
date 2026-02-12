@@ -1,7 +1,9 @@
-[[#connectordoc #ideaflowpan        systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/)> roadmap.jacobcole.net](http://roadmap.jacobcole.net)
+# Roadmap
+
+[#connectordoc #ideaflowpan        systematicawesome.jacobcole.net > roadmap.jacobcole.net](http://roadmap.jacobcole.net)
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 Ideaflow Roadmap
-[[[[[[See also: Current](https://docs.google.com/document/d/1-SzJqsDZbMY3N_7dDMty28FUc4WA5mPwhuq6xO8_tmE/edit) •  Path to Product-Market Fit (formerly: Path to Series A) V1.4 (May 18 2020)](https://docs.google.com/document/d/1nnP-45KiW2CmncF6Yn1HvIvQcBHGh63SzKkC1blmknc/edit#heading=h.xx6ibmlpkgj8)  • businessroadmap.jacobcole.net](https://businessroadmap.jacobcole.net/) • Productfeedback.jacobcole.net](http://productfeedback.jacobcole.net) • ideaflowproject.jacobcole.net](http://ideaflowproject.jacobcole.net/) •User Profiles and Feedback Doc](https://docs.google.com/document/d/1MXvmAOcMZg0Qo_w6SvcdxVina2LkZcgU19lU6HtTOok/edit)
+[See also: Current •  Path to Product-Market Fit (formerly: Path to Series A) V1.4 (May 18 2020) • businessroadmap.jacobcole.net • Productfeedback.jacobcole.net • ideaflowproject.jacobcole.net •User Profiles and Feedback Doc](https://docs.google.com/document/d/1MXvmAOcMZg0Qo_w6SvcdxVina2LkZcgU19lU6HtTOok/edit)
 
 # 2022-09-30 Current Roadmap (Sprint Planning)
 
@@ -46,21 +48,21 @@ Q4 2022
 
 - UX tweaks
 
-- [[[[[[having](https://linear.app/ideaflow/issue/ENT-1504/take-into-account-prefix-match-into-sorting-autocomplete-suggestions)exact](https://linear.app/ideaflow/issue/ENT-1504/take-into-account-prefix-match-into-sorting-autocomplete-suggestions)[e]](#cmnt5)[f]](#cmnt6)[g]](#cmnt7) or prefix](https://linear.app/ideaflow/issue/ENT-1504/take-into-account-prefix-match-into-sorting-autocomplete-suggestions) match occur at top of + relation list
+- [[[[[having exact](https://linear.app/ideaflow/issue/ENT-1504/take-into-account-prefix-match-into-sorting-autocomplete-suggestions)[e]](#cmnt5)[f]](#cmnt6)[g]](#cmnt7) or prefix](https://linear.app/ideaflow/issue/ENT-1504/take-into-account-prefix-match-into-sorting-autocomplete-suggestions) match occur at top of + relation list
 - Polish shortcuts, e.g. for inline expansion etc. E.g. cmd down
 
-- [[shortcut  to Pivot](https://linear.app/ideaflow/issue/ENT-1505/shortcut-to-pivot-around-left-most-hashtag)around hashtag](https://linear.app/ideaflow/issue/ENT-1477/req-have-cmd-enter-pivot-around-hashtag-currently-under-the-cursor) cursor is currently on? #10-24
+- [shortcut  to Pivot around hashtag](https://linear.app/ideaflow/issue/ENT-1477/req-have-cmd-enter-pivot-around-hashtag-currently-under-the-cursor) cursor is currently on? #10-24
 - Recreate cmd + b for bold
 - [[[linear](https://linear.app/ideaflow/issue/ENT-1441/pressing-escape-in-a-folder-doesnt-take-you-to-all-notes)]  Esc to go back to all notes from filter](https://linear.app/ideaflow/issue/ENT-1441/pressing-escape-in-a-folder-doesnt-take-you-to-all-notes) - now totally missing on develop? #10-24
-- [[[[#maybe Put](https://linear.app/ideaflow/issue/ENT-1506/put-back-the-back-to-all-notes-button)back](https://linear.app/ideaflow/issue/ENT-1506/put-back-the-back-to-all-notes-button)[h]](#cmnt8) the “<-- back to all notes” link at the top when on a filter. Maybe even have that position:fixed for easier self-onboarding #ttt #10-24  — sounds like this is resolved with general back button](https://github.com/IdeaFlowCo/thoughtstream-web/pull/858/files#diff-2b61f219511570c3d6aa2ffda503b6c645813c071bace232ad5e5d42c2ee43e8R51-R70)?
+- [[[#maybe Put back](https://linear.app/ideaflow/issue/ENT-1506/put-back-the-back-to-all-notes-button)[h]](#cmnt8) the “<-- back to all notes” link at the top when on a filter. Maybe even have that position:fixed for easier self-onboarding #ttt #10-24  — sounds like this is resolved with general back button](https://github.com/IdeaFlowCo/thoughtstream-web/pull/858/files#diff-2b61f219511570c3d6aa2ffda503b6c645813c071bace232ad5e5d42c2ee43e8R51-R70)?
 - Show note menu in inline expansions — e.g. would include ability to “jump to” (show in timeline) #tttt
 
 - Make Jump To easier (1 click vs 2 clicks)? Perhaps swap with Pin, as pin is infrequent, placing Pin in the Menu. ​​#10-24
-- [[[Some kind of](https://linear.app/ideaflow/issue/ENT-1507/import-mechanism)import](https://linear.app/ideaflow/issue/ENT-1507/import-mechanism)[i]](#cmnt9) — esp Ability to paste in a bunch of text separated by \n\n—\n\n and have it be split (can be custom option on settings page)
+- [[Some kind of import](https://linear.app/ideaflow/issue/ENT-1507/import-mechanism)[i]](#cmnt9) — esp Ability to paste in a bunch of text separated by \n\n—\n\n and have it be split (can be custom option on settings page)
 
 - #p1.5 confirm dialog popping up asking if you want to split multiline note on paste
 
-- [[[[[Mobile](https://linear.app/ideaflow/issue/ENT-993/mobile-keyboard-bar-buttons)keyboard](https://linear.app/ideaflow/issue/ENT-993/mobile-keyboard-bar-buttons)[j]](#cmnt10)[k]](#cmnt11)bar with](https://linear.app/ideaflow/issue/ENT-993/mobile-keyboard-bar-buttons) # and +, and maybe more, e.g. tab. (Also, Create Note button, though that could be floating ); + ? tab button ; maybe long press on button #ttt #10-24
+- [[[[Mobile keyboard](https://linear.app/ideaflow/issue/ENT-993/mobile-keyboard-bar-buttons)[j]](#cmnt10)[k]](#cmnt11)bar with](https://linear.app/ideaflow/issue/ENT-993/mobile-keyboard-bar-buttons) # and +, and maybe more, e.g. tab. (Also, Create Note button, though that could be floating ); + ? tab button ; maybe long press on button #ttt #10-24
 - #tweak hitting " #" (space hashtag)  shouldn't break a + relation ; nor should  ~ and ?, or typing a url #10-24
 - #tweak if first line is blank maybe show next non blank line in condensed view. Thoughts? #10-24
 - General case collapse note feature #10-24
@@ -79,7 +81,7 @@ Q4 2022
 - On iPad, and I am guessing iPhone, it takes two touches to click on and filter by a hashtag
 
 - #P2 (priority 2) Nice sliding left animations for filter by hashtag / back to all notes, like on thoughtstream-iOS
-- [[#P2 Link title extraction — e.g. when you paste https://www.bbc.com/travel/article/20220928-mexicos-ancient-unknown-pyramids](https://www.bbc.com/travel/article/20220928-mexicos-ancient-unknown-pyramids) , it would prepend the title, a la Bear, sans markdown. Making it: Mexico's 1,500-year-old unknown pyramids https://www.bbc.com/travel/article/20220928-mexicos-ancient-unknown-pyramids](https://www.bbc.com/travel/article/20220928-mexicos-ancient-unknown-pyramids)
+- [#P2 Link title extraction — e.g. when you paste https://www.bbc.com/travel/article/20220928-mexicos-ancient-unknown-pyramids , it would prepend the title, a la Bear, sans markdown. Making it: Mexico's 1,500-year-old unknown pyramids https://www.bbc.com/travel/article/20220928-mexicos-ancient-unknown-pyramids](https://www.bbc.com/travel/article/20220928-mexicos-ancient-unknown-pyramids)
 - #P2 First load takes a long time #tweak onboarding flow
 - #P2 way to turn a list of items you've selected into checklist (edited)
 - “I sometimes also forget whether I made something a hashtag or not so I have to search for both “#community-building” & “community building” ~tara” <> #duplicate searching based on prefix - ~taylor
@@ -96,7 +98,7 @@ Goal: 10 power users + 100 auxiliary active users
 
 —-
 
-#legend ?? means J thinks it’s fixed but hasn’t checked
+Tags:, legend, ??, means, J, thinks, it’s, fixed, but, hasn’t, checked
 —-
 
 ### Top priorities for sprint planning from teammates besides Jacob:
@@ -116,7 +118,7 @@ Goal: 10 power users + 100 auxiliary active users
 
 - UI/UX
 
-- [[Fix folder jank (see ENT-1468](https://linear.app/ideaflow/issue/ENT-1468/dragging-a-folder-in-sidebar-shouldnt-open-it), ENT-1469](https://linear.app/ideaflow/issue/ENT-1469/after-reordering-folder-on-mobile-it-briefly-skips-back-to-original))
+- [Fix folder jank (see ENT-1468 , ENT-1469](https://linear.app/ideaflow/issue/ENT-1469/after-reordering-folder-on-mobile-it-briefly-skips-back-to-original))
 - [Pressing spaceship, note menu, etc shouldn’t pull up keyboard tray. This is reeeeally annoying(in progess](https://linear.app/ideaflow/issue/ENT-1457/on-mobile-pressing-a-spaceships-and-shouldnt-open-the-keyboard))
 - Jump to timeline not working on mobile (fixed in develop)
 
@@ -204,26 +206,26 @@ popup for quick capture - not fundamental
 
 —
 
-[[#v1.1](#h.tb88c1r36kke)1](#h.tb88c1r36kke)
-[[Intro](#h.kw7wruyxzx2d)1](#h.kw7wruyxzx2d)
-[[Background on Types of Notetaking](#h.17uknu1iql03)2](#h.17uknu1iql03)
-[[Timeline](#h.26yfi1o39d8e)2](#h.26yfi1o39d8e)
-[[---](#h.qher2hv81p2y)5](#h.qher2hv81p2y)
-[[#v0.1 (f.k.a Current)](#h.4olidnbd1mcn)7](#h.4olidnbd1mcn)
-[[#Old road maps](#h.5pv01x5mn74j)7](#h.5pv01x5mn74j)
-[[Web Product Roadmap](#h.fegmw9rpj4c3)7](#h.fegmw9rpj4c3)
-[[Mocks](#h.iby429x4wn2z)8](#h.iby429x4wn2z)
-[[Websites](#h.pkyekp2rid4q)8](#h.pkyekp2rid4q)
-[[Notes from http://productfeedback.jacobcole.net/](#h.bejapswppnvt)10](#h.bejapswppnvt)
-[[Top Priorities for December Alpha Launch/Share to Investors. Also Touchstones #designPrinciple](#h.7ni2z4eh30a5)10](#h.7ni2z4eh30a5)
-[[Detail Breakout examples (more tweaks below)](#h.482w0lnxp3zd)10](#h.482w0lnxp3zd)
-[[Marketing and Communications](#h.5jimmbhs1gqk)10](#h.5jimmbhs1gqk)
-[[Press Release Workplan](#h.plssoggagwxu)10](#h.plssoggagwxu)
-[[Positioning Prompt #1](#h.gdt4e8f1csm8)11](#h.gdt4e8f1csm8)
-[[Help Wanted](#h.s9wknfyldns8)11](#h.s9wknfyldns8)
-[[Roadmap](#h.zbh6k952bzs5)11](#h.zbh6k952bzs5)
-[[Team Pulse](#h.htshbom7ez5b)11](#h.htshbom7ez5b)
-[[Financials](#h.rd66dr25k2y3)11](#h.rd66dr25k2y3)
+- [#v1.1](#v11)
+- [Intro](#intro)
+- [Background on Types of Notetaking](#background-on-types-of-notetaking)
+- [Timeline](#timeline)
+- [---](#)
+- [#v0.1 (f.k.a Current)](#v01-fka-current)
+- [#Old road maps](#old-road-maps)
+- [Web Product Roadmap](#web-product-roadmap)
+- [Mocks](#mocks)
+- [Websites](#websites)
+- [Notes from http://productfeedback.jacobcole.net/](#notes-from-httpproductfeedbackjacobcolenet)
+- [Top Priorities for December Alpha Launch/Share to Investors. Also Touchstones #designPrinciple](#top-priorities-for-december-alpha-launchshare-to-investors-also-touchstones-designprinciple)
+- [Detail Breakout examples (more tweaks below)](#detail-breakout-examples-more-tweaks-below)
+- [Marketing and Communications](#marketing-and-communications)
+- [Press Release Workplan](#press-release-workplan)
+- [Positioning Prompt #1](#positioning-prompt-1)
+- [Help Wanted](#help-wanted)
+- [Roadmap](#roadmap)
+- [Team Pulse](#team-pulse)
+- [Financials](#financials)
 
 #
 
@@ -292,10 +294,10 @@ All items are tentative in order/timeline. Items followed by a ? indicates very 
 
 - 3b. Slightly more formal notes for interesting group conversations, idea brainstorming sessions at work, etc.  Note that this may be distinct from 1b. “General company meeting notes”.
 
-- [[Zoom or Clubhouse group discussions/salons: Setting up a Google doc with notes like http://salon.jacobcole.net/](http://salon.jacobcole.net/) or http://systematicawesome.jacobcole.net/](http://systematicawesome.jacobcole.net/) . Roam is planning to becoming a tool for this as well.
+- [Zoom or Clubhouse group discussions/salons: Setting up a Google doc with notes like http://salon.jacobcole.net/ or http://systematicawesome.jacobcole.net/](http://systematicawesome.jacobcole.net/) . Roam is planning to becoming a tool for this as well.
 - Ideaflow Phase 2 ideally hopes to be a tool for this as well, but slightly less important than the 3a. use case. This might wait for Ideaflow Phase 3: Rich(ish) Collaborative Documents
 
-- [[4. Keeping “dossiers” on people (see also https://en.wikipedia.org/wiki/Farley_file](https://en.wikipedia.org/wiki/Farley_file)). Tools that Target this:  getdex.com](https://getdex.com/) CRM, Affinity CRM, Roam (sorta), and Ideaflow Phase 1.5 (Bullet view, will discuss later) will target this.
+- [4. Keeping “dossiers” on people (see also https://en.wikipedia.org/wiki/Farley_file ). Tools that Target this:  getdex.com](https://getdex.com/) CRM, Affinity CRM, Roam (sorta), and Ideaflow Phase 1.5 (Bullet view, will discuss later) will target this.
 - [5. Creating high quality reference sources on various topics, like http://chronicpain.jacobcole.net/](http://chronicpain.jacobcole.net/) . Requires precisely the same features as “1b. General shared company meeting notes. Requires Collaboration, Outlining, and at least some way to fudge todos in. Google Docs, Notion target this.” Ideaflow Phase 3: Rich(ish) Collaborative Documents explicitly addresses this
 
 ## Timeline
@@ -403,7 +405,7 @@ Jan 31
 - Highly requested by VC’s
 - Targets Notetaking Use Case 4
 
-- [[“4. Keeping “dossiers” on people (see also https://en.wikipedia.org/wiki/Farley_file](https://en.wikipedia.org/wiki/Farley_file)). Tools that Target this:  getdex.com](https://getdex.com/) CRM, Affinity CRM, Roam (sorta), and Ideaflow Phase 1.5 (Entanglement view, will discuss later) target this.”
+- [“4. Keeping “dossiers” on people (see also https://en.wikipedia.org/wiki/Farley_file ). Tools that Target this:  getdex.com](https://getdex.com/) CRM, Affinity CRM, Roam (sorta), and Ideaflow Phase 1.5 (Entanglement view, will discuss later) target this.”
 
 - Built off of core Thoughtstream Web codebase; ideally, minimal changes needed.
 - Design Possibilities:
@@ -505,7 +507,7 @@ Jan 31
 
 - “3b. Slightly more formal notes for interesting group conversations, idea brainstorming sessions at work, etc.  Note that this may be distinct from 1b. “General company meeting notes”.”
 
-- [[Zoom or Clubhouse group discussions/salons: Setting up a Google doc with notes like http://salon.jacobcole.net/](http://salon.jacobcole.net/) or http://systematicawesome.jacobcole.net/](http://systematicawesome.jacobcole.net/) . Roam is planning to becoming a tool for this as well.
+- [Zoom or Clubhouse group discussions/salons: Setting up a Google doc with notes like http://salon.jacobcole.net/ or http://systematicawesome.jacobcole.net/](http://systematicawesome.jacobcole.net/) . Roam is planning to becoming a tool for this as well.
 
 - Ideaflow should be the buddy tool every group chat – Create a Collaborative Thoughtstream for each one
 
@@ -926,8 +928,8 @@ Can it be used by someone who is dictating/ quadruplegic
 
 -----------
 
-#book Shabhala – the sacred path of the warrior
-#spiritualWarriorship
+Tags:, book, Shabhala, –, the, sacred, path, of, the, warrior
+Tags:, spiritualWarriorship
 
 -----------
 
@@ -938,7 +940,7 @@ Can it be used by someone who is dictating/ quadruplegic
 
 -----------
 
-#book Stealing Fire
+Tags:, book, Stealing, Fire
 
 -----------
 
@@ -1072,7 +1074,7 @@ ios hackernamedCharlie Cheever, wholivesinpalo alto
 
 Who ( named( subject: ios hacker, direct object: Charlie Cheever), in(lives, palo alto) )
 
-#tt #catchup brody <> spencer kim   #linguistics #neurobiology
+Tags:, tt, catchup, brody, <>, spencer, kim, linguistics, neurobiology
 
 - 1 1
 

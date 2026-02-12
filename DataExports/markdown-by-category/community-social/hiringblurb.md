@@ -1,5 +1,7 @@
-[[`                     systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > hiringblurb.jacobcole.net](http://hiringblurb.jacobcole.net)
-#project #connectordoc
+# Hiringblurb
+
+[`                     systematicawesome.jacobcole.net > hiringblurb.jacobcole.net](http://hiringblurb.jacobcole.net)
+Tags:, project, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 cc
 —
@@ -76,9 +78,7 @@ We believe that what we're doing is on the critical path to unlock global collec
 [Technical challenges on the horizon include performance UX engineering across the stack, such as collaborative editing in prosemirror.net](http://prosemirror.net/), IDE-like autocompletes with tens of thousands of items, and building an LLM of your notes you can talk to.
 [Email me at hiringvip@ideaflow.io](mailto:hiringvip@ideaflow.io) – I am a former MIT Media Lab Collective Intelligence researcher, and this project has been my life mission for over 7 years. I’d love to share why it matters so much to me, and why I think it’s so important.
 Our team is currently five fascinating, heart-centered, and inquisitive people 🌱. This is a chance to join the founding team of a company we hope becomes a new intellectual hub, and be a creative partner with huge autonomy and upside in what our investors think could be a $10B+ business in size and impact. We're a great fit for someone who can really fall in love with building a super fast personal notetaking system or has a lot of thoughts (writings, lists, quotes, ideas, or notes on people!). Also a great fit some someone who is philosophical, spiritual, and oriented towards emotional and physical healing 🤗
-[[[[[• Try it: http://onboarding.ideaflow.app](http://onboarding.ideaflow.app/)
-• Ideaflow Speech + Parse with AI Demo](https://youtu.be/hQaLg4o73yY?si=KEHZ2eihuAMLXbym)https://www.youtube.com/watch?v=hQaLg4o73yY](https://www.youtube.com/watch?v=hQaLg4o73yY)
-• Bullet View](https://www.youtube.com/watch?v=4feZo9PqTlo)https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
+[• Try it: http://onboarding.ideaflow.app • Ideaflow Speech + Parse with AI Demo https://www.youtube.com/watch?v=hQaLg4o73yY • Bullet View https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
 
 Open Roles:
 🚀 full stack JavaScript engineer up to the challenge of building something as complex and high-performance as an IDE
@@ -99,27 +99,27 @@ Open Roles:
  iOS engineer with a deep care for UX engineering
  Warm-hearted, highly organized, fast-typing, operations person, enthusiastic to be a human superconnector of people,
 
-[[Blurbs](#h.l9il63fct0kb)1](#h.l9il63fct0kb)
-[[Current (Web)](#h.3lmlydms3mlo)1](#h.3lmlydms3mlo)
-[[1.](#h.j2m3f67634zg)1](#h.j2m3f67634zg)
-[[2.](#h.qtqysnr8sp5x)1](#h.qtqysnr8sp5x)
-[[Current (Designer) WIP](#h.1zi7howtkkdn)2](#h.1zi7howtkkdn)
-[[1.](#h.8l7vhi791xi4)2](#h.8l7vhi791xi4)
-[[Current (iOS) WIP](#h.cturfo5hl80a)2](#h.cturfo5hl80a)
-[[--](#h.7xb6qozd9ti0)2](#h.7xb6qozd9ti0)
-[[Drafts](#h.ze39o41s7g0c)2](#h.ze39o41s7g0c)
-[[Web](#h.53c1r9i5wkkp)2](#h.53c1r9i5wkkp)
-[[3. ​​](#h.htd0v65zob8h)2](#h.htd0v65zob8h)
-[[4. (Long)](#h.dbt6x6guvjod)3](#h.dbt6x6guvjod)
-[[---](#h.w6c1elfdfjdw)4](#h.w6c1elfdfjdw)
-[[Old](#h.qdw93z1fp792)4](#h.qdw93z1fp792)
-[[JS and iOS #emailable](#h.e4jk3lpbvnl)4](#h.e4jk3lpbvnl)
-[[JS](#h.m5so814nx5zd)4](#h.m5so814nx5zd)
-[[FB Post and Funding Announcement: All Jobs](#h.trkry1j18aih)4](#h.trkry1j18aih)
-[[People](#h.3scmwp2rygc)5](#h.3scmwp2rygc)
-[[See Also](#h.gw5qelc6p42r)5](#h.gw5qelc6p42r)
+- [Blurbs](#blurbs)
+- [Current (Web)](#current-web)
+- [1.](#1)
+- [2.](#2)
+- [Current (Designer) WIP](#current-designer-wip)
+- [1.](#1)
+- [Current (iOS) WIP](#current-ios-wip)
+- [--](#)
+- [Drafts](#drafts)
+- [Web](#web)
+- [3. ​​](#3)
+- [4. (Long)](#4-long)
+- [---](#)
+- [Old](#old)
+- [JS and iOS #emailable](#js-and-ios-emailable)
+- [JS](#js)
+- [FB Post and Funding Announcement: All Jobs](#fb-post-and-funding-announcement-all-jobs)
+- [People](#people)
+- [See Also](#see-also)
 
-[[See also: https://www.ideaflow.io/careers](https://www.ideaflow.io/careers) • Ideaflow Background • Intelligence and Gestalts](https://docs.google.com/document/d/12RYDjQKqYPjAkFG1QJJLr2cmAjB-3dsORXz-SWbkkIc/edit%091)
+[See also: https://www.ideaflow.io/careers • Ideaflow Background • Intelligence and Gestalts](https://docs.google.com/document/d/12RYDjQKqYPjAkFG1QJJLr2cmAjB-3dsORXz-SWbkkIc/edit%091)
 
 # WIP
 Description
@@ -234,7 +234,7 @@ We've raised a $10M seed round from top VCs – including First Round, Sequoia s
 I would love to get to know people who are prolific makers, mindful intellectuals, and up to the challenge of building something at least as complex and high performance as an IDE in Javascript (Typescript)!  Excited to build community! Remote ok!
 
 [Email: jacob@ideaflow.io](mailto:jacob@ideaflow.io)
-[[Demo (notes on Sequoia)](https://www.youtube.com/watch?v=4feZo9PqTlo)https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
+[Demo (notes on Sequoia) https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
 [Other roles available as well: http://ideaflow.io/careers](http://ideaflow.io/careers)
 
 *We also see this as a critical step to unlocking the potential of the Web as a medium for collective intelligence and global action. See #rabbithole on ideaflow.io 🙂
@@ -290,17 +290,17 @@ ideaflow is an API for your brain; query and interact with your thoughts, ideas,
 
 ### 3. ​​
 
-[[My name is Jacob Cole. I’m a former MIT Media Lab product designer and current co-founder of](http://ideaflow.io/)Ideaflow.io](http://ideaflow.io/). We are a small team but growing fast, and I’m on the hunt for a founding-team engineer to join, straight away, as a true thought partner.
+[My name is Jacob Cole. I’m a former MIT Media Lab product designer and current co-founder of Ideaflow.io](http://ideaflow.io/). We are a small team but growing fast, and I’m on the hunt for a founding-team engineer to join, straight away, as a true thought partner.
 
 [Ideaflow.io](http://ideaflow.io/) is bringing tools for thought mainstream by making them collaborative, lightweight, and approachable. This advancement is a critical step to unlocking the potential of the Web as a medium for collective intelligence and global action.* We’ve started with a notebook that augments your intelligence.
 
 I want to talk to those who are: prolific makers, mindful intellectuals, and up to the challenge of building something at least as complex and high performance as an IDE in Javascript (Typescript)! Your location is not a constraint; remote ok! Email: jacob@ideaflow.io
 
-[[Ideaflow has raised a $10M seed round from top VCs, including First Round, Sequoia scouts, and Naval.  Not an engineer but excited by the vision? We are hiring for other roles as well:](http://ideaflow.io/careers)http://ideaflow.io/careers](http://ideaflow.io/careers)
+[Ideaflow has raised a $10M seed round from top VCs, including First Round, Sequoia scouts, and Naval.  Not an engineer but excited by the vision? We are hiring for other roles as well: http://ideaflow.io/careers](http://ideaflow.io/careers)
 
-[[Check out our demo (notes on Sequoia):](https://www.youtube.com/watch?v=4feZo9PqTlo)https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
+[Check out our demo (notes on Sequoia): https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
 
-[[* See #rabbithole on](http://ideaflow.io/)ideaflow.io](http://ideaflow.io/)
+[* See #rabbithole on ideaflow.io](http://ideaflow.io/)
 
 ### 4. (Long)
 • MIT Media Lab product designer Jacob Cole and exited YC founder David Greenspan (creator of Etherpad, YC ‘07 as AppJet, sold to Google) have teamed up to build IdeaFlow —a notebook that augments your intelligence as you type.
@@ -332,7 +332,7 @@ We've raised a $10M seed round from top VCs – including First Round, Sequoia s
 I would love to get to know people who are prolific makers, mindful intellectuals, and up to the challenge of building something at least as complex and high performance as an IDE in Javascript (Typescript)!  Excited to build community! Remote ok.
 
 [Email: jacob@ideaflow.io](mailto:jacob@ideaflow.io)
-[[Demo (notes on Sequoia)](https://www.youtube.com/watch?v=4feZo9PqTlo)https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
+[Demo (notes on Sequoia) https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
 [Other roles available as well: http://ideaflow.io/careers](http://ideaflow.io/careers)
 
 *We also see this as a critical step to unlocking the potential of the Web as a medium for collective intelligence and global action. See #rabbithole on ideaflow.io 🙂
@@ -388,7 +388,7 @@ We Offer:
 - A problem worth solving
 
 ## JS and iOS #emailable
-#actionable #specific
+Tags:, actionable, specific
 MIT Media Lab researcher/product designer Jacob Cole, exited YC founder David Greenspan (creator of Etherpad, YC ‘07 as AppJet, sold to Google), and other veteran entrepreneurs have teamed up to build Ideaflow —a notebook that augments your intelligence as you type.
 [Demo: Post a meeting with Sequoia
 https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
@@ -399,7 +399,7 @@ Also looking for an iOS Swift engineer of similar persuasions, ready to build t
 ##
 
 ## JS
-#actionable #specific
+Tags:, actionable, specific
 MIT Media Lab researcher/product designer Jacob Cole, exited YC founder David Greenspan (creator of Etherpad, YC ‘07 as AppJet, sold to Google), and other veteran entrepreneurs have teamed up to build Ideaflow —a notebook that augments your intelligence as you type.
 [Demo: Post a meeting with Sequoia https://www.youtube.com/watch?v=4feZo9PqTlo](https://www.youtube.com/watch?v=4feZo9PqTlo)
 We see this not only as a chance to build the ultimate personal information management system for individuals and teams, but a critical step to unlocking the potential of the Web as a medium for collective intelligence.
@@ -415,8 +415,8 @@ Does anyone know someone with a deep intellectual spirit who might be a great fi
  iOS engineer with a deep care for UX engineering
  Warm-hearted, highly organized, fast-typing, operations person, enthusiastic to be a human superconnector of people, ideas, and resources
 In each case, we can offer a perhaps unique amount of creative freedom, and are looking for someone who can really fall in love with personal information management systems with us, which we see is integral to the destiny of the web.
-[[Check out](http://ideaflow.io/careers?fbclid=IwAR1ZoLZy2sQ0iRhEaiqOjuJ3ez8TaC67L2mVsOKNkVFStdR23HzL9ZYZKLo)ideaflow.io/careers](http://ideaflow.io/careers?fbclid=IwAR1ZoLZy2sQ0iRhEaiqOjuJ3ez8TaC67L2mVsOKNkVFStdR23HzL9ZYZKLo) and / or email me at jacob@ideaflow.io for more!
-[[[[[[[[Massive shoutout and gratitude to](https://www.facebook.com/david.greenspan.96?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R)David Greenspan](https://www.facebook.com/david.greenspan.96?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R)](https://www.facebook.com/baptiste.manson?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R)Baptiste Manson](https://www.facebook.com/baptiste.manson?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R)](https://www.facebook.com/errendir?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R)Albert Sławiński](https://www.facebook.com/errendir?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R)](https://www.facebook.com/ayylist?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R)Alex List](https://www.facebook.com/ayylist?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R) and countless others for making this happen!
+[Check out ideaflow.io/careers](http://ideaflow.io/careers?fbclid=IwAR1ZoLZy2sQ0iRhEaiqOjuJ3ez8TaC67L2mVsOKNkVFStdR23HzL9ZYZKLo) and / or email me at jacob@ideaflow.io for more!
+[Massive shoutout and gratitude to David Greenspan Baptiste Manson Albert Sławiński Alex List](https://www.facebook.com/ayylist?__cft__[0]=AZWNE4pFF8dPSOY-FhOLhvQpnGZbKemzBKhKJo4Mq-W9RYn8eaMsqkfWY8019kiVYmMuY3HD5rP0IICON3sXU0TLKFFsp_GNEz9nD--mQZMP96UhDlFX2o-xFRArW3ruTAI&__tn__=-]K-R) and countless others for making this happen!
 
 ## People
 
@@ -500,7 +500,7 @@ I reflect on the power of a highly effective design-centered execution team, who
 Someone who is as much a good writer and mental health counselor as can ace an algorithms class.
 —
 Someone who can make a graph viz with a million nodes render smartly and also be able to kindly tell the rest of us when it probably doesn't make sense to do so.
-#HiringBlurb
+Tags:, HiringBlurb
 Wanting to build a Really strong product / design centric culture
 There are so many opportunities branching out of this.
 For instance, Neo4j the graph database company, recently released a “user-friendly“ graph, exploration, interface, that on some level is a competitor to the old Ideapad. Lots of overlapping features. However, I’ve been trying to use it for the last several hours, and it’s honestly truly awful to learn how to use, and still off all even once you have learned how! For instants, to create a new none, you have to right click, and then go into a context menu, and then fill out a whole dialog. Obviously, nobody working on this has ever been into mind mapping or getting into flow 🙈
@@ -550,7 +550,7 @@ Start date: right away
 
 If you’re interested in augmenting human intelligence and ready to jump right in with a team of exceptional engineers, I want to talk to you. DM me your portfolio of projects and why you want to work at Ideaflow.
 
-[[Looking for someone who would be able to build  a high quality offline-first, real-time collaborative web and Electron app that's high performance and has real-time collaboration with CRDTs like Google Documents.  Also someone who is able to build a powerful collaboratively editable real time graph visualization or mind mapping interface with zoom that reveals different levels of granularity like  Nomic AI —](https://www.nomic.ai/)https://www.nomic.ai/](https://www.nomic.ai/)
+[Looking for someone who would be able to build  a high quality offline-first, real-time collaborative web and Electron app that's high performance and has real-time collaboration with CRDTs like Google Documents.  Also someone who is able to build a powerful collaboratively editable real time graph visualization or mind mapping interface with zoom that reveals different levels of granularity like  Nomic AI — https://www.nomic.ai/](https://www.nomic.ai/)
 Spiritually our product is a bit like designing an IDE for human thought replete with  high performance autocompletes  And we're looking for someone who can get into making every detail of the interaction just right so it does not break the user's flow
 It's a Greenfield space as if space for someone who really likes aspects of Roam Research and Obsidian.md even if those tools don't quite fit your user needs.  it's also a great opportunity for people who default to taking all their notes in giant text files
 
@@ -562,5 +562,5 @@ Full stack
  also, they will we are
 can make electron app
 crdt system
-[[Looking for someone who can make something like nomic Nomic AI —](https://www.nomic.ai/)https://www.nomic.ai/](https://www.nomic.ai/)
-#hiringblurb
+[Looking for someone who can make something like nomic Nomic AI — https://www.nomic.ai/](https://www.nomic.ai/)
+Tags:, hiringblurb

@@ -1,20 +1,22 @@
-[[`             systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > wall.jacobcole.net](http://wall.jacobcole.net)
-#connectordoc
+# Wall
+
+[`             systematicawesome.jacobcole.net > wall.jacobcole.net](http://wall.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Wall Cards and Quotes #Engrain @Wall #Interrupt #connectordoc
 Wall
 [Direct link](https://docs.google.com/document/d/1ryhBvqjzJxC__S7DJdhSIwN484AVnoFpha779Lrb1wg/edit#)
-[[See also: interrupt.jacobcole.net](http://interrupt.jacobcole.net) ª memorypalaces.jacobcole.net](http://memorypalaces.jacobcole.net/)
+[See also: interrupt.jacobcole.net ª memorypalaces.jacobcole.net](http://memorypalaces.jacobcole.net/)
 \
 
-[[Pilates](#h.60s0dhob4n62)1](#h.60s0dhob4n62)
-[[#interrupt](#h.qo9e0op2pebb)1](#h.qo9e0op2pebb)
-[[#pain](#h.e3rmzuuecjwn)1](#h.e3rmzuuecjwn)
-[[#inducesQi](#h.wmfqzry7m6f1)2](#h.wmfqzry7m6f1)
-[[Full Imported List @Wall 4/4/21](#h.ku4r9q4uhrmh)2](#h.ku4r9q4uhrmh)
-[[From Ideaflow.app](#h.uyht7ltucy39)2](#h.uyht7ltucy39)
-[[From Phone](#h.jqge87toq943)9](#h.jqge87toq943)
+- [Pilates](#pilates)
+- [#interrupt](#interrupt)
+- [#pain](#pain)
+- [#inducesQi](#inducesqi)
+- [Full Imported List @Wall 4/4/21](#full-imported-list-wall-4421)
+- [From Ideaflow.app](#from-ideaflowapp)
+- [From Phone](#from-phone)
 
 Hang loose drop weight to floor
 
@@ -34,22 +36,22 @@ Positive energy.
 Wrist circles from paul lam tai chi for energy
 
 ## #con
-#word ample #best  #Satiety
-#Eating
+Tags:, word, ample, best, Satiety
+Tags:, Eating
 I have ample food in my system just need to distribute it #ConstantAwareness #Affirmation
 
 Need to go lightly and transcend all these hooks #ConstantAwareness #engrain
 
-#ConstantAwareness chung Yang connecting heaven and earth
+Tags:, ConstantAwareness, chung, Yang, connecting, heaven, and, earth
 
 Emotional blowing off steam
 Eating exercise imbalance
 Building up tension and then stretching
 Imbalance around PT — built up over many years #ConstantAwareness
 
-#ConstantAwareness When I hear this line by the way, I've tried to uncover unite the truth buried and scattered, under the opinions of all the different philosophical sects. I think like this is my constant experience of the world, meaning like I'm always thinking like, What just happened. They constantly importance, or just happens like this This universe is here. It's so bizarre and trying to piece together all these moving. Yeah, all these clues and it's like, it was all this debris that's been left when you're trying to piece together the debris this great book called Gods debris by Scott Adams, the creator of Dilbert actually which is a good read God's degree is his these these two verses like what I hear here when scattered with different philosophers expresses the degree of the truth of what's going on here. <>I have tried to uncover...
+Tags:, ConstantAwareness, When, I, hear, this, line, by, the, way,, I've, tried, to, uncover, unite, the, truth, buried, and, scattered,, under, the, opinions, of, all, the, different, philosophical, sects., I, think, like, this, is, my, constant, experience, of, the, world,, meaning, like, I'm, always, thinking, like,, What, just, happened., They, constantly, importance,, or, just, happens, like, this, This, universe, is, here., It's, so, bizarre, and, trying, to, piece, together, all, these, moving., Yeah,, all, these, clues, and, it's, like,, it, was, all, this, debris, that's, been, left, when, you're, trying, to, piece, together, the, debris, this, great, book, called, Gods, debris, by, Scott, Adams,, the, creator, of, Dilbert, actually, which, is, a, good, read, God's, degree, is, his, these, these, two, verses, like, what, I, hear, here, when, scattered, with, different, philosophers, expresses, the, degree, of, the, truth, of, what's, going, on, here., <>I, have, tried, to, uncover...
 
-#ConstantAwareness thought karma
+Tags:, ConstantAwareness, thought, karma
 
 Realizing I installed falun years ago and it's been spinning this whole time? -.- #ConstantAwareness
 
@@ -57,8 +59,8 @@ Ching Yang cheng man ching
 Top of the head pushing up on heaven sacrum heavy as if 1000 pounds were pulling down #separatingyinfromyang
 Relates to the Pilates Q of imagine someone is calling year hands and feet into directions #PilatesTrick #cue #ConstantAwareness
 
-#KeyConcept this stuff isn't theoretical or abstract but you can actually feel it as energy . And you realize that the biggest thing do you want is this energy at all times! #ConstantAwareness . Hence alignment with the universe is qualities #cue #Interrupt . I suppose it's orthogonal to physical body health? Or how does it relate dash gives you a ridiculous energy boost? This is the essence of what it means to be a cultivator! #LifeGoal #ExplainingQigong bike in the wedding gown of stuff you get an instant gong boost #engrain what I really want is gong #LifeGoal #Intention
-#ValueFunction changes @teasing trick is perceiving energy / gong #QigongTrick
+Tags:, KeyConcept, this, stuff, isn't, theoretical, or, abstract, but, you, can, actually, feel, it, as, energy, ., And, you, realize, that, the, biggest, thing, do, you, want, is, this, energy, at, all, times!, ConstantAwareness, ., Hence, alignment, with, the, universe, is, qualities, cue, Interrupt, ., I, suppose, it's, orthogonal, to, physical, body, health?, Or, how, does, it, relate, dash, gives, you, a, ridiculous, energy, boost?, This, is, the, essence, of, what, it, means, to, be, a, cultivator!, LifeGoal, ExplainingQigong, bike, in, the, wedding, gown, of, stuff, you, get, an, instant, gong, boost, engrain, what, I, really, want, is, gong, LifeGoal, Intention
+Tags:, ValueFunction, changes, @teasing, trick, is, perceiving, energy, /, gong, QigongTrick
 lose. When others see this very foolish person, they will.
 all verbally abuse him, “You’re such a fool.” With this.
 verbal abuse, a piece of de will be thrown over there. By.
@@ -68,8 +70,8 @@ him, “You’re such a big idiot,” well, a big chunk of de will.
 again be tossed to him. When someone bullies or kicks.
 him, he will only smile, “Bring it on. You’re giving me.
 de all the same, and I’m not going to reject a bit of it
-#falu
-#principle in our universe, there.
+Tags:, falu
+Tags:, principle, in, our, universe,, there.
 is this principle: no loss, no gain. To gain, one must.
 lose. When others see this very foolish person, they will.
 —
@@ -168,35 +170,35 @@ outside your body, that is, a layer of large external.
 channels, is driving your body in practice—it is all.
 automatic. It can also rotate in reverse, as it rotates both.
 ways and is constantly opening your energy channels. #constantawareness
-#falu
+Tags:, falu
 
-#syntax #constantawareness <>#lens
+Tags:, syntax, constantawareness, <>lens
 
-#meditation #Interrupt #eating wait and watch the energy to eat the thing in front of you come up and say: how beautiful! These attachments are our energy source? More "temptation" more energy? Don't resist but glory in that energy fountain!
+Tags:, meditation, Interrupt, eating, wait, and, watch, the, energy, to, eat, the, thing, in, front, of, you, come, up, and, say:, how, beautiful!, These, attachments, are, our, energy, source?, More, "temptation", more, energy?, Don't, resist, but, glory, in, that, energy, fountain!
 <>Gandhi sleeping nearg...
 <>the 3 ahas during travel... <>Quality of movement —... <>Keep getting sniped by...
-#charging #constantawareness #taoResonator
+Tags:, charging, constantawareness, taoResonator
 Maybe my psi is qi?
 Feeling what energies this moves in me! <>#Interrupt @internet...
 
 anything that can be accomplished with hardness can be done better with softness ~Dan-Dan Li
 <>Does it ever make sense... #Profound #constantawareness #engrain
 
-#constantawareness #Profound always going to be breathing Prm-ing heartbeating
+Tags:, constantawareness, Profound, always, going, to, be, breathing, Prm-ing, heartbeating
 Might as well do it well
 Surfing
 Ocean is waving
 
-#constantawareness #purify
+Tags:, constantawareness, purify
 
 Keeping the wheel circulating at all times
 Imagining the rock art piece I want to have in my background giant granite split in the center with some light color feathering or something like that maybe lava inside my black rock #ConstantAwareness
-#LifeGoal #Art
+Tags:, LifeGoal, Art
 
 Set myself up just give myself all the ingredients to see him too so easily I have them! I really have all I need! #ConstantAwareness
 Relate to food sleep exercise physical environment social environment. Just make things so easy?
 
-#falu  advantages of Falun Dafa, I say that Falun Dafa can.
+Tags:, falu, advantages, of, Falun, Dafa,, I, say, that, Falun, Dafa, can.
 enable gong to refine practitioners and so reduce the.
 lecture eight Whoever Practices Cultivation Will Obtain Gong. #faluprinciple #constantawareness — gong is intelligent and refines you from most subatomic level
 364.
@@ -208,9 +210,9 @@ undergo great changes. Falun Dafa has yet another.
 advantage, the greatest, which I have not mentioned.
 previously.
 —-
-#differentiator it cultivates the main soul
+Tags:, differentiator, it, cultivates, the, main, soul
 —-
-#taoism
+Tags:, taoism
 only a brief second had just passed. Others may admire.
 this person’s ability for being in trance. Did he actually.
 practice? He himself does not know whatsoever. In.
@@ -220,7 +222,7 @@ we call “the Main Soul,” and what “Original Soul” refers.
 to we call “the Assistant Soul.” If your shishen really.
 dies, you will indeed be dead, and you really will not
 —-
-#actionYouCanFeel practices. If one has the supernormal ability of.
+Tags:, actionYouCanFeel, practices., If, one, has, the, supernormal, ability, of.
 clairvoyance, one will probably see this scene: When you.
 sit in meditation, as soon as you are in trance, someone.
 with the same appearance as yours will suddenly leave.
@@ -243,13 +245,13 @@ the practice and go through numerous hardships for one.
 or two hours daily. When the person returns from the.
 practice, you will also wake up from trance. This is the.
 
-#constantawareness possible to achieve psychedelic blastoff even in this moment
+Tags:, constantawareness, possible, to, achieve, psychedelic, blastoff, even, in, this, moment
 Why would someone need a margarita to change mental state?
-#Interrupt qigong session at least as good as drinking margarita
-#ExplainingQigong want to get supercharged?  
+Tags:, Interrupt, qigong, session, at, least, as, good, as, drinking, margarita
+Tags:, ExplainingQigong, want, to, get, supercharged?
 <>Nourish jade yang can...
 
-#constantawareness how fast can I let things go? #engrain
+Tags:, constantawareness, how, fast, can, I, let, things, go?, engrain
 
 does Mike Stark's expanding out gathering the energy and packing it in exercise relate to packing qi? ~Mike stark
 <>#falu  #marginNote Is...
@@ -260,7 +262,7 @@ This is an alternative #InternalStructure versus a world that's about power and 
 Relate to the law of the heart #lawoftheheart #constantawareness
 
  Let  each thing go in impermanence to become your true  spiritual self #nonattachment <>“When I let go of who...
-#constantawareness
+Tags:, constantawareness
 
 Law of the heart @memorypalace #constantawareness #lawoftheheart
 
@@ -281,7 +283,7 @@ to direct qi or think about it as the gong will be there
 already. When you try to ward off someone’s attack, the
 gong will also be there already. No matter how quickly
 you throw a punch, it will travel faster than you do as the
-#TaiChiTrick
+Tags:, TaiChiTrick
 Also, after seeing the demeanor
 of the students who travel with me, some people will
 imitate them without realizing whether they are good
@@ -289,24 +291,24 @@ or bad. In fact, it does not matter who the person is—
 there is only one Fa. Only by observing this Dafa can one
 meet the genuine standard. The people who work by my
 side have not received any special treatment and are the
-#ideal buddha
+Tags:, ideal, buddha
 In fact, let me
 tell you that when you truly cultivate, you have already
 at the beginning developed many supernormal abilities.
 You have already reached this high level, so you have
 many supernormal abilities. This situation may have
-#actionYouCanFeel #falu
+Tags:, actionYouCanFeel, falu
 
-#constantawareness aura as energetic spacesuit
+Tags:, constantawareness, aura, as, energetic, spacesuit
 
-#falu  What’s not a righteous mind? It refers to a person’s inability
+Tags:, falu, What’s, not, a, righteous, mind?, It, refers, to, a, person’s, inability
 to always treat himself as a practitioner. A practitioner
 A practitioner
 will come across tribulations in cultivation. When a
 tribulation comes, it may manifest as an interpersonal
 conflict. There will be mind games and the like involved,
 which directly affect your xinxing. There will be many
-#engrain #constantawareness
+Tags:, engrain, constantawareness
 Because one is lost among everyday people,
 one will often form in one’s mind thoughts for fame,
 benefits, lust, anger, and so on. Over time, these thoughts
@@ -335,12 +337,12 @@ possessing spirit or animal. If it is given to you, what
 will you do? “It is easier to invite an immortal than to see
 one off.”
 
-#Interrupt @internetaddiction #sleep sink the qi
+Tags:, Interrupt, @internetaddiction, sleep, sink, the, qi
 Feel it as energy is moving in my body
 Different chakras saying different things #constantawareness
 Straight head and shoulders for no neuroses #WarriorMeditation
 
-#eating #constantawareness it's not that you have to catch up to wait to be full— all that makes it to the future is happening now
+Tags:, eating, constantawareness, it's, not, that, you, have, to, catch, up, to, wait, to, be, full—, all, that, makes, it, to, the, future, is, happening, now
  it's happening #Interrupt #engrain
 
 Everything gets reflected into aura
@@ -348,12 +350,12 @@ Chakras — face is a chakra
 Meridians
 Foot hands
 — perhaps every atom contains the universe <>Indra's net
-#Engrain #FormHabit #constantawareness
+Tags:, Engrain, FormHabit, constantawareness
 Craniosacral breathing —universe speaking
-#eating
+Tags:, eating
 Energy moves to energy is moving, do exercises with the energy
 Normal breathing
-#Interrupt #cue crystal ball or magnet #talisman
+Tags:, Interrupt, cue, crystal, ball, or, magnet, talisman
 All desires habits etc food are desires for energy
 All activities and desires to to things as originating on energy level
 <>Realizing what I really...
@@ -364,17 +366,17 @@ All activities and desires to to things as originating on energy level
 Curated with love at https://ideaflow.app
 --
 get long in #sideplank - extend thru infinite #cue
-#interrupt pilates creating length and space
+Tags:, interrupt, pilates, creating, length, and, space
 @wall get springy. quality of movement. Pilates: create length. Extend into infinite
 train tunnel cue for #sideplank #pttrick
 realizing #pilatesTrick #best #pttrick trying to open conduit of body and stabilize it as such. make self as long as possible in plank/dying bug. That's why it's great to get perfect alignment using springy tools
-#recall #review trick of some sort with exhale for #dyingbug . maybe get hollow chest wccc or gymnastics style?
+Tags:, recall, review, trick, of, some, sort, with, exhale, for, dyingbug, ., maybe, get, hollow, chest, wccc, or, gymnastics, style?
 
 dima #tt #thank
 
 master of PRactice of pt, of exercise #engrain
 --
-#engrain "turning over an old leaf"
+Tags:, engrain, "turning, over, an, old, leaf"
 hunting demons
 then free <>remove blockages @litany  #litany
 being able to identify what is a demon and what is not
@@ -383,9 +385,9 @@ being able to identify what is a demon and what is not
 @wall go slow at speed of growing things
 Of growth #tt*
 
-#visit #tt dinsen @mom
+Tags:, visit, tt, dinsen, @mom
 
-#col2
+Tags:, col2
 --
 autocomplete in search bar? #tweak
 delete unused entities from @, like @wall The  
@@ -393,7 +395,7 @@ delete unused entities from @, like @wall The  
 @wall -.- no world in which this lack of self care is acceptable #engrain
 
 --
-#memory how good it feels just to crank and get work done @wall  #engrain
+Tags:, memory, how, good, it, feels, just, to, crank, and, get, work, done, @wall, engrain
 
 --
 i am beautiful. do the beautiful thing @wall -.-
@@ -412,7 +414,7 @@ not too much not too littel but just right amt tension
 --
 
 be conscious of th
-#best #taichiprinciple tai chi and life as a series of stepping stones #write @blog <> ... <>seeing the chain of consequences, the ripples of each action like paul atreides in ~dune
+Tags:, best, taichiprinciple, tai, chi, and, life, as, a, series, of, stepping, stones, write, @blog, <>, ..., <>seeing, the, chain, of, consequences,, the, ripples, of, each, action, like, paul, atreides, in, ~dune
 in tai chi stillness isn't stasis, but a journey forward; the shortest path, the fastest way for internal processes to complete ; this is aliveness
 Similarly, repetition isn't repetition; each move brings you closer toward a goal, like steps up a mountain. Each one might be more challenging to do. Imagine if you wanted to climb a mountain and insisted on going backward every other step because it was "too repetitious"! You'd never get beyond basecamp. And that would actually be what gets repetitious indeed. We need to have sustained, repeated practice to get out of the mental equivalent of basecamp
 <> the tai chi form is a series of stepping stones, one movement leads to another <> one thing leads to another from college essay @litany
@@ -421,17 +423,17 @@ Similarly, repetition isn't repetition; each move brings you closer toward a goa
 
 On each repetition, pulsation, breath, internal counters are ticking forward. Or external counters. cycles are not cycles but spirals
 It's like choices down the ski slope. We are always lower down the mountain of time <>parinam-vada ~religiousness in yoga
-#motivation #exercise
-#whyawesome weight training
-#whyawesome swimming <>swimming is journey, meditation is journey, weight lifting is journey
+Tags:, motivation, exercise
+Tags:, whyawesome, weight, training
+Tags:, whyawesome, swimming, <>swimming, is, journey,, meditation, is, journey,, weight, lifting, is, journey
 Realizing that things are always changing , always different helps me be present now #interrupt #presence. "nothing is ever the same" . the choices you make now matter! <>experiencing now for the first time buddhist quote from MIT 5 year reunion talk ~minh tue
 This can help if you're stuck in a rut #profound
 <>sword is alive
 "Each action leads to next like the next note in a song, word in a poem, step in a dance" #engrain @wall
  – the medium is alive and has "preferences". Like the body <>"I want a sandwich" is no different than a bubble "wants" to get to the top of a glass. Both have "preferences"
 ?#flow
-#best*
-#microcosm #containsWholeWorld
+Tags:, best*
+Tags:, microcosm, containsWholeWorld
 Everything is a
 Dance
 videogames
@@ -460,14 +462,14 @@ a chemical language
 
 vitamins are a message – got to be ready to listen
 --
-#engrain #affirmation @wall May the actions of my life open the energy channels in myself and the world
+Tags:, engrain, affirmation, @wall, May, the, actions, of, my, life, open, the, energy, channels, in, myself, and, the, world
 --
 
-#best correct as soon as wrong #engrain @wall <> ... n
+Tags:, best, correct, as, soon, as, wrong, engrain, @wall, <>, ..., n
 correct things as soon as they start to go wrong (e.g. health)
-#aging
+Tags:, aging
 really go ham then #getgoodat
-#aging
+Tags:, aging
 pristine @sanctuary #litany @litany
 --
 @wall home alone
@@ -493,16 +495,16 @@ Fear distant things, like affect physical therapy like SI pain or what I will be
 play basketball be cool to kids/positive pressure to be cool/positive peer pressure #virtueFriendship <> virtue
 Plan for them as if they are now @wall  #tt
 
-#idea workoutbuddy random person to do zoom classes with <> focusbuddy
+Tags:, idea, workoutbuddy, random, person, to, do, zoom, classes, with, <>, focusbuddy
 
 get mind unstuck/off things
 get fully resourced
 --
-#rule
+Tags:, rule
 5 days a week
 3x20flex10
 5 days important vs even 6 because more opportunityyo reflect on whattou'd do ifbot forced
-#wisdom
+Tags:, wisdom
 @wall #rule's on wall
 makes relations w ppl better
 to interact not in emerg / demand mode, just presence
@@ -541,7 +543,7 @@ The point is procrastinating isn't even the right thing to be trying to sto. It'
 And then it's about realizing you want something
 pD
 
-#o
+Tags:, o
 
 Integrated wellness guide book Jarvis Patricia Tom osteopaths everybody Sorry song I am sorry for each of these things, sorry poem, apology as rewriting other people's copywf you @whale
 mission is to help anna
@@ -550,7 +552,7 @@ whatever path i took this is what i can do now. thee people are infinities unive
 Being the smart guy in the village people go to with their problems Dash reincarnations
 
 Vision of self as this guy who is always building stuff like the rope dart game and robots and I'll kinds of fun stuff and it's amazing #selfImage #identity
-#mem first he's into chemistry now he's into electronics
+Tags:, mem, first, he's, into, chemistry, now, he's, into, electronics
 --
 @wall feel how good it feels to do exactly the right thing
 --
@@ -569,7 +571,7 @@ opposite of madness?
 wellness <> beauty
 that's what's ungraceful about requiring social reinforcement for procrastination
 or philosophy for right action. it's missing beauty
-#best* #engrain @wall
+Tags:, best*, engrain, @wall
 @personalHomepage #tt #tagline "in pursuit of beauty" <>helen vendler came to her senses <> artists awakening
 "In pursuit of beauty, and that which observes the pursuing" #personalTagline "In pursuit of beauty and that which remains when I return to center"
 "In pursuit of beauty, and that observes the pursuing"
@@ -584,8 +586,8 @@ is beauty the opposite of oblivion?
 beauty as #valuefunction resolves the #dialectic #dialecticResolution
 don't want any of these things, want beauty <> what keeps the love flowing <>what keeps the qi flowing <> left the world of right and wrong and do what keeps the love flowing
 - wasting resources is a little ugly
-#domain #word #playaname buoyant; buoyant fitness <> weightless fitness <> ... s <>springiness #springiness buoyantfitness.com  #domain buoyantsoul #username #domain #purchased buoyant.fitness springy.fitness
-#domain #name reticulum . buoyantreticulum. buoyantrhizome. @personalWebsite   #username buoyantspider <> ... r
+Tags:, domain, word, playaname, buoyant;, buoyant, fitness, <>, weightless, fitness, <>, ..., s, <>springiness, springiness, buoyantfitness.com, domain, buoyantsoul, username, domain, purchased, buoyant.fitness, springy.fitness
+Tags:, domain, name, reticulum, ., buoyantreticulum., buoyantrhizome., @personalWebsite, username, buoyantspider, <>, ..., r
 lifesurfer.me
 worldsurfer.me
 lifesurfer.universe
@@ -596,7 +598,7 @@ by contrast, expanding consciousness gives more surfaces and resonators for beau
 
 ## From Phone
 They have so much spiritual strength
-#tt aku
+Tags:, tt, aku
  Hanging out / watching baller people who have extreme disabilities is so inspiring #Inspiration @blog @wall #engrain
 Or live login from African life
 Or astronaut life #Interrupt*
@@ -631,9 +633,9 @@ Search soul search mind search abilities ; not not looking not going toxins
 Why am I on planet eart — why
 —
 I finished 2 hell weeks you are in a badass
-#Interrupt
+Tags:, Interrupt
 Harvard
-#selfefficacy
+Tags:, selfefficacy
 —
 Put it back in cookie jar
 Self talk viz
@@ -642,7 +644,7 @@ Because I got up off that chair — who on earth would do that
 This room is psychic as well as physical, no difference between the two?
 You are a fragment of God #Interrupt @wall #engrain #awe
 
-#tt* hook stream  
+Tags:, tt*, hook, stream
 Wayne cook , spoon #grounding #engrain @wall
 
 Remove toxins #engrain @wall <>I can bear the truth... <>litany of gendlin...
@@ -662,30 +664,30 @@ https://nuubu.com/nuubu/product/?c=usd&l=en&wr=1&fdav=2&vndr=nuubu2021&subid=w46
 If I want that 1ocosx got to eat train and rest right
 Can start enjoying the fruits pretty quick
 Just got to put in the work and willget results
-#best
-#Interrupt @wall
+Tags:, best
+Tags:, Interrupt, @wall
 What shall I do today? <>#attitude what shall...
 
 Asking with each thing I observe: mom breathing heavily me eating: is it of the Lethani? Is it an expression of the tao #Profound #mostprofound #Interrupt #engrain @wall
 If it's of the lethani then it's ok #okness
 
-#Engrain @wall Arkansas time
+Tags:, Engrain, @wall, Arkansas, time
 
 Living withm lesson on how to take things lightly ever so lightly @te #engrain @wall #best
 Don't be attached to Qing sentiment — what if you do it with positive psychology, like telling a kid you are   so resistant to cold so light so balanced 1ocosx — do from both directions! Pain the vision you want to love and step into it! Vs "I am so behind?" Maybe say I'm in the dance of the fight
 Remove unreasonable aversion to cold #cold body will follow if you change mind - Basic human desires are so simple and easy to meet all these extra attachments and so on and so forth is super unnecessary for happiness #best <>food sleep exercise physics...
 Or unreasonable need to pe just connect at the front and back channel with pelvic floor
 -.-
-#Aversion
+Tags:, Aversion
 Squeeze and relax on pelvic floor and on foot #Cold
  Interesting to learn more about the reflex that causes someone to P if you put their hand in warm water #chineseMedicine
 Experience on the other side of cosign X eventually just get bored of it and it's like not the same thing again then learn to dance
 What would the view look like from the other side?
 
-#ExtremesToUnderstandNotExtremes
+Tags:, ExtremesToUnderstandNotExtremes
 Fish swimming in stream of life with hook #Engrain @wall <>Hungry ghosts You’re...
 
-#engrain "To transcend motion and stillness is the highest meditation." ~Bodhidharma @wall
+Tags:, engrain, "To, transcend, motion, and, stillness, is, the, highest, meditation.", ~Bodhidharma, @wall
 
 Transcend everything
 None of this grindstone stuff matters, lift off,
@@ -711,7 +713,7 @@ Play phone like instrument with emotion like tai chi
 Hit one after another, two a once longer rhythm
 The energy you're giving isn't yours anyway ~peter caughey
 Tapping rhythmically, hitting the reset button, cycles like music
-#ImportantQuestion how can we know what is the way? How can we study the way? Energy test various activities, intuitively move through world buoyed by energy , even desire to keep using app or do something different
+Tags:, ImportantQuestion, how, can, we, know, what, is, the, way?, How, can, we, study, the, way?, Energy, test, various, activities,, intuitively, move, through, world, buoyed, by, energy, ,, even, desire, to, keep, using, app, or, do, something, different
 In this mindset ready to move things like the wind — how can I know which things to move first? And do things over many days?
 Ready to reach out to people though
 ?same place/state big insights come from
@@ -735,7 +737,7 @@ Like fairy godmother from a cheek casts the waves of chemicals Fantasia style
 
 Having a fun time I know how to do that on my own, bring my own party #SelfUnderstanding @wall  #best
 
-#engrain @wall compression stockings  
+Tags:, engrain, @wall, compression, stockings
 
 -.- personality of assistant bot has to be one that makes me want to be cool #engrain @wall
 Patty Andrea Alina Justine nancy. Power of genuine compliment #transformative #powerOfCompliment #powerful #BehaviorChange "you're so strong" so centered or "I see x potential in you"
@@ -745,11 +747,11 @@ Be Demo model for Andreas, wccc, dad, teachers. Mom, First Round, Lonsdale, Berg
 List off this heavy world of small arguments and considerations and Be somewhere else. Small agonies
 Relates to let the needle of my attention skate on the record of my consciousness #Best #engrain transcend the current situation. #ExplainingTm @wall <>skate on the record #best
 Nothing is big deal
-#WhyAwesome transcendental meditation
+Tags:, WhyAwesome, transcendental, meditation
 
 Taoist wizard remembering from birth #meditation  #Centering #meditationtechnique
 <>Turning over an old leaf... <>Meditation as remembering...
-#remembering
+Tags:, remembering
 Is remembering what you do after you get dismembered?
  I #Process is that your environment and the things and toys you interact with can have a huge impact on how you are, in the board slack line series of challenges enriched environment #Education
 Circuits is fine there it's a series of different challenges #Attitude #Motivation @wall
@@ -763,7 +765,7 @@ Hunting demons,
 Turning over an old leaf
 <>Turning over an old leaf...
 
-#Grounding #engrain #distantPain rsi – Feeling the wrist pain now even though I want to go make the roadmap realizing I can't do it for at least another day, I simply have to take the time off, accepting that
+Tags:, Grounding, engrain, distantPain, rsi, –, Feeling, the, wrist, pain, now, even, though, I, want, to, go, make, the, roadmap, realizing, I, can't, do, it, for, at, least, another, day,, I, simply, have, to, take, the, time, off,, accepting, that
 Getting sick
 If I don't do these things #thingsineedtotakeseriously @beingtooexcited
 Remembering I c
@@ -800,7 +802,7 @@ Tape on chin @wall #Posture
 Our destiny, our birthright as humans is flourishing. The natural state if things are not in the way.
 relates to, as each blockage is removed. You become lighter and lighter until you become enlightened #Insight <>The point of Tai Chi... #concept birthright relates to potential
 plant the seed of the idea, and see it growing see its power and get out of its way.
-#management. That's what seeding a company is seeding an idea. Well, #good,  #whatiscustomaryvswhatisnatural
+Tags:, management., That's, what, seeding, a, company, is, seeding, an, idea., Well,, good,, whatiscustomaryvswhatisnatural
 
 perhaps posture alone is enough to make me antenna to pick up qi #heart
 Just my open heart to bring it in from the sun and sky and my open feet. And my open crown, my blessing and my curse. If quite well like David, if I am going to do something I need to build it from scratch. I'm going to invent to meditate. I'm going to have to invent meditation, #posture #qigong
@@ -809,7 +811,7 @@ new one, maybe I have to think about what William cc Chen is saying all day
 
 about softening the rib cage. hash tag think about hash tag review hash tag to do do a full energy field workup . New Line
 energy science #engrain @wall. #concept
-#takestime #Curate things that take time
+Tags:, takestime, Curate, things, that, take, time
  Okay. Will you tell me in five minutes from now
 <>destiny...
 <>Spiritual technology...
@@ -828,7 +830,7 @@ Something to orient life around? Can probably find in meditation too need streng
 Something worth being alive for
 What happens if I compress and don't stay up late?
 
-#motivation What if I had to do things the restful way due to hand strain? @wall
+Tags:, motivation, What, if, I, had, to, do, things, the, restful, way, due, to, hand, strain?, @wall
 
 @wall go slow at speed of growing things
 Of growth
@@ -858,7 +860,7 @@ Some explanations take longer to get there
 Relieve me exploring Kanye space
 Colaneri space cooking space you can generalize this exact her space I have us all expiration is open
 Generalize this to him mathematical vector space. Hence all exploration is "space" exploration #Line #WhyAwesome
-#write? @blog
+Tags:, write?, @blog
 <>@wall List range of...
 
 My gurus
@@ -883,12 +885,12 @@ I'm someone who figures out how to make things success #hiring
 His biggest gambit yet
 Others nonwinners? This is why I beat them? Succeed at meditation
 Find the art in whatever I do,
-#selfefficacy
+Tags:, selfefficacy
 Do physical therapy
 Success
 Life as chain of successes
 Crest of wave
-#winner #Attitude Harvard people
+Tags:, winner, Attitude, Harvard, people
 Buduma?
 Oxford/cambridge?
 Feeling proud I found the hack #mem
@@ -898,10 +900,10 @@ Operating by whst I think is cool
 Being really honest about what will deepen that understanding
 Can get all these things and pretty easily if you don't waste time
 Get into some sports . Magazine? Find self reinforcing loop / thing to do when bored #litmusTest can I use it as a distraction/ addiction? Find te gamelike quality? Where is "the zoom". get into that
-#tt dk
-#Attitude "colleges aren't going to find two more people who do programming projects for fun and XNYNZ other thing" - Brent #Memory  . Smart funny financially stable readable fit easy enough criteria
+Tags:, tt, dk
+Tags:, Attitude, "colleges, aren't, going, to, find, two, more, people, who, do, programming, projects, for, fun, and, XNYNZ, other, thing", -, Brent, Memory, ., Smart, funny, financially, stable, readable, fit, easy, enough, criteria
 
-#concept at any time you can embrace sanidad or saidin @wall doesn't solve your worldly problems but wow it's better than Anything material  #best
+Tags:, concept, at, any, time, you, can, embrace, sanidad, or, saidin, @wall, doesn't, solve, your, worldly, problems, but, wow, it's, better, than, Anything, material, best
 Channeling the world instead of being passively moved by it
 It's a mental trick?
 But the key realization is it's ALWAYS there,  good, better than anything material and doesn't require solving all your problems first, though when you have it you end up solving your problems  <>das seine ~heidegger...
@@ -915,7 +917,7 @@ I'm hoping that, like watching Du be perfectly content him to do his tai chi in 
 it I will be effortless to
 It's important to be accurate because you can only channel with what's there?
 
-#NotBeingDefensive
+Tags:, NotBeingDefensive
 In addition to above the line and below the line which is really important for me to engrain and memorize and execute at every moment conversation with expectations are met, may be an equivalent and equally powerful idea is to notice the energy that's coming at me and to redirect it, so that 4 ounces can redirect 100 tons, and let it go past so doesn't strike me personally. I don't need to worry about it but to be perfectly soft #engrain @wall
         Maybe this relates to not telling a kid they are bad behavior is bad, the energy moves past them and onto the behavior and separates them from the behavior and creates gulf between them and the behavior hopefully #Parenting
 But noticing when there's a lot of intense energy coming at me and redirect
@@ -938,7 +940,7 @@ Smooth sharp corners of the world
         Tai Chi approach to gently work towards things
 Sometimes consider the hell of the hospital/ end of lifer. Visit it
 
-#challenge
+Tags:, challenge
 How fast can I get fully released, centered, on track? #engrain @wall
 With friend : race you ; competition . Samvit? Pj?
 
@@ -947,7 +949,7 @@ To move with the stillness and steadiness and grace one of Jupiter's moons conti
 Aes sedai serenity perfect collectedness always carrying it with me always keeping things becoming a master of the mind and all its nuances, going into the most extreme circumstances and learning the fluency and the tricks, in addition to becoming strong #Ideal #engrain @wall
 I am learning to channel, after all
 Channel subconscious forces and flows
-#mentalstate
+Tags:, mentalstate
 The wind itself is on my side <>"Pack like the wind itself...
 So I can but turn my hand and all flows effortlessly from it into the world
 Money an example of such channels
@@ -961,11 +963,11 @@ The concept or the term subtle energy isn't quite right because they're not subt
 
 Get centered (realize it's possible). Stabilize. Stay that way. @wall
 
-#engrain @wall keep qi up
+Tags:, engrain, @wall, keep, qi, up
 
 @wall Limbic motiv 1ocosx
 
-#engrain tai chi like a bath @wall
+Tags:, engrain, tai, chi, like, a, bath, @wall
 
 Just do things and rationalize later @wall?
 
@@ -983,11 +985,11 @@ Make aliah make a life for myself, sounds nice. Idea that we all have a place wa
 "siddhartha, we've turned a blind eye so far on account of your evident nobility, but we've just about had it" ~buddha – The forest of uruvela
 Image of a society where I could find acceptance, a place I could call home, a place for my people
 Everyone deserves that. A world where they can be treated like family . There was no love here for me?
-#Whyawesome Israel
+Tags:, Whyawesome, Israel
 Can I feel a sense of similar sense of belonging with my Irish Scottish roots? Or Polish?
 Maybe that's why people came to America as well, looking for home
 Like people came to burning man
-#Whyawesome America
+Tags:, Whyawesome, America
 Idea there's a nice life waiting if we just join a particular community #startMovement #t @wall #Principle you put in energy and you get energy back, get more energy back. Like exercise and physical therapy. Keep self fit. It's like starting a cult. Untaidians? Ah brother, you put in energy and get more back - concept of investing in x or gardenining seed planting #constructedLanguages #jacobLanguage #jacobsway idea that all future things are happening now so Seed isn't future payoff but all things happen now
 Movement
 Makes it easier #best
@@ -995,7 +997,7 @@ Most people who come to America #speech
 Most people who are in America left another country often they weren't quite satisfied there and they dreamed of making a better life and it's with that spirit that we want to enable To shine here, like at Burning Man you can see through what is and into what is trying to be created relates to seeing the world not as it is but as it might become, I'm going with the spirit helping people build what they're trying to build not criticizing what they have built where our work in progress
 So what is awesome about America it's that it can be home who is America home to the home to the outcasts the rebels the crazy ones this is the very idea our nation is founded on and what in the people with the chutzpah with the courage to get up and leave all they know behind
 And here they can find home
-#Whyawesome Native American reservations
+Tags:, Whyawesome, Native, American, reservations
 I understand whiteness grandmas view in Native American ceremony — two feather man etc
 <>Digital soft landing...
 
@@ -1041,7 +1043,7 @@ Depend on the counterbalance — it’s like a scale
 "Not too little not too much but just the right amount." Balance short term and long term pleasure, the miracle is there is a sense of enough short term? Not perfectly fit, just fit enough to do what you want. You don't need to be perfectly flexible to do qigong, just flexible enough to catch the qi flowing out of your ears. Then you get so happy inside that it's totally enough and you don't need more seeking. This is the difference between seeking and finding.
  #best #cue #qigong @wall #mem . (remember the exercise where we held our arms up like a cactus, palms facing the ears?)
 Not perfectly anything but enough that it makes you happy. That's the secret — not just that balance is a good thing but that within the middle way there is the aliveness of 1000 suns and we just need to sip a little bit
-#satiety
+Tags:, satiety
 If I could just do x I would be happy
 So close now!
 Could live a much simpler life
@@ -1053,7 +1055,7 @@ I'm going to be fine.
 In exercise 2 falu arms at ears
 
 not perfectly fit, just fit enough to do what you want
-#Seeking #Finding
+Tags:, Seeking, Finding
 Not perfectly anything but enough that it makes you happy
 That's the secret not just that balance is a good thing but that within the middle way there is the aliveness of 1000 suns and we just need to sip a little bit
 If you have balance like yes
@@ -1072,7 +1074,7 @@ Can I physically do this? Can I do this with grace and ease? Can I get the world
 Inspiration is a known phenomenon
 Fulfillment
 Meditation
-#best @wall <>no unforced errors
+Tags:, best, @wall, <>no, unforced, errors
 Eg sleep
 
 @wall you are my reincarnation  
@@ -1087,7 +1089,7 @@ If you always do where you always did you're going to always get what you always
 @wall ah how strange
 
 @whale Courage to believe in someone
-#word #concept @wall courage take heart
+Tags:, word, concept, @wall, courage, take, heart
 Brave pillow #mem @grandma
 Best destiny #book
 
@@ -1123,7 +1125,7 @@ Having private space you can converse, shake the fingers shake the arms spasm ev
 @wall Lightheartedness
 @carrie how goes the lightness of your heart?
 @Poseidon nectome
-#tt
+Tags:, tt
 
 "If you are expecting something to hurt it's harder to tell as you're doing it wrong" ~Paul Graham
 PT?
@@ -1131,15 +1133,15 @@ Aging?
 Diet?
 Exercise?
 Running a team?
-#Insight #engrain ? @wall
+Tags:, Insight, engrain, ?, @wall
 <>Anything that is not...
 
-#wisdom
+Tags:, wisdom
 Don't get w cavity would suck
 Same caution on other things
-#Motivation
+Tags:, Motivation
 Same seriousness #Motivation #Groundedness, #Interrupt
-#Mortality #engrain @wall
+Tags:, Mortality, engrain, @wall
 21 days perfect sleep
 Also maintain lightness! Defying gravity? Lightness is essential to me — want to cultivate . But don't think it will go away <>#qigongExercise separating...
 I think maintaining the lightness, the sense that you have telepathic powers to control things might actually be the only way to go
@@ -1165,24 +1167,24 @@ Cleaning the room is removing triggers #TriggerDesign #Organization #BehaviorCha
 Do you want to meditate longer? That's good, because the rest of life gets to be your continued meditation #meditation
 Relates
 Separately oppositely, how can I save 20 to an hour in my day by taking 20 minutes to meditate what can I let go, what can I add
-#Best @wall Allocate time. See what emerges
+Tags:, Best, @wall, Allocate, time., See, what, emerges
 Cure the beauty of the birds chirping the wind blowing the traffic flowing, the way of nature
 Meditation as the space to remember our original nature
 Pursue it like you are trying to remember some thing you have forgotten
 Maybe this is a way that you can use memory Sport to train toward awakening, read discovering your original nature
 Good, that's what the rest of life is
 Separating yin from Yang relate to
-#postQigong #toProcess #raw
+Tags:, postQigong, toProcess, raw
 
-#engrain #best doing all work as tai chi can make it good or ok
+Tags:, engrain, best, doing, all, work, as, tai, chi, can, make, it, good, or, ok
 Just the simplest idea of tai chi-ing everything  #profound #basic #obvious
-#Interrupt @litany <>parkouring everything...
+Tags:, Interrupt, @litany, <>parkouring, everything...
 everything can be enjoyable if you go down into slow motion! Also room for fa-jin!
 @wall Slo-mo taichi-ing everything
 Maybe just every hard thing?
 <>yin yang wuji <>starting early #lifelesson...
-#OptimallyDiscrepantStimuli <>How they must rage inside!...
-#overstimulation <>sthenic  <>by ending the practice... <>the wisdom of all the...
+Tags:, OptimallyDiscrepantStimuli, <>How, they, must, rage, inside!...
+Tags:, overstimulation, <>sthenic, <>by, ending, the, practice..., <>the, wisdom, of, all, the...
 
 Gift to future self @wall #engrain #Interrupt
 
@@ -1192,7 +1194,7 @@ Having to scurry off to write down everything is not actually staying level #Bal
 Positive energy! #best
 Kids sense it #Interrupt #BehaviorChange
 @team #leadership #transformative
-#engrain
+Tags:, engrain
 That's really all it takes for safety
 That's really all it takes to be a good meditation teacher or workout instructor
 That's what Mike ng has. What Sensei has
@@ -1205,7 +1207,7 @@ Shadi has so much positive energy flowing after hs
 Had gotten a whole buzz from college acceptance
 That's what a fully activated Shadi looks like
 How to produce positive energy sustainability is the question in life
-#best* @wall
+Tags:, best*, @wall
 Enough to cure depression
 Fix whatever
 Pence has positive energy <>you have so much energy...
@@ -1213,7 +1215,7 @@ Who has pure positive energy? Anna? Netta? Cliff Michael ng janis
 Send positive energy to each investor
 Chris pal energy has receded
 All these questions about what should I do become a lot less stressful when buoyed up on positive energy
-#Principle buoyant fitness
+Tags:, Principle, buoyant, fitness
 return positive energy
 Add positive energy to the house and everything will get easier
 To the class, to the tai chi practice
@@ -1247,7 +1249,7 @@ Instead I am hacking it all out from us for myself instead of following the reci
 Obvious one more sleep, definitely more sleep, that helps the learning newline and more time for a restorative yoga? There's a lot to learn and it's a marathon #Interrupt
 There are vantages to this hacking it out, it means if I learned something I probably am going to have find really deeply, but I can't learn as much different stuff well
 
-#quote @wall  I love the #attitude btw of “Just hack out the future you want w/ great energy and abandon” #engrain
+Tags:, quote, @wall, I, love, the, attitude, btw, of, “Just, hack, out, the, future, you, want, w/, great, energy, and, abandon”, engrain
 
 @wall become aware of tension systems
 I see knees #Memory  ~grandma
@@ -1276,10 +1278,10 @@ Once one accepts the fact that surplus food ingestion is poison to the body, it�
 
 @bloodtest Your objective in combating carbohydrate overload is to drive fasting glucose levels below 86 mg/dL of blood. I suggest that you have your blood tested within two months of initiating a comprehensive program to make sure the nutrients, drugs, and/or lifestyle changes are working for you.
 
-#engrain @wall contrology / in what range am I able to keep physically and mentally stop with physical activity, with hunger, with other things
+Tags:, engrain, @wall, contrology, /, in, what, range, am, I, able, to, keep, physically, and, mentally, stop, with, physical, activity,, with, hunger,, with, other, things
 <>Andrey said I can fast
 <>cocontraction
-#worldbuilding this process implies a center where things are ok
+Tags:, worldbuilding, this, process, implies, a, center, where, things, are, ok
 
 cocontraction
 <>#engrain @wall contrology...
@@ -1287,7 +1289,7 @@ cocontraction
 Andrey said I can fast
 <>#engrain @wall contrology...
 
-#engrain @wall spirit of contrology
+Tags:, engrain, @wall, spirit, of, contrology
 
 No unforced errors #quote #Engrain #StartUpTricksWiki #BehaviorChange #best #life @wall
 
@@ -1298,7 +1300,7 @@ Be gentle with myself #Engrain @wall
 
 @wall #Engrain pura vida
 
-#Engrain @wall detox
+Tags:, Engrain, @wall, detox
 
 doing the right thing regardless of how you feel #wall @wall #interrupt
 <>Doing the right thing

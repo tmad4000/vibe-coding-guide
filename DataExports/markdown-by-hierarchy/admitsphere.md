@@ -1,3 +1,5 @@
+# Admitsphere
+
 [If I Went to MIT[1]](#ftnt1) I would…
 
 [Contribute (at the bottom) and comment![2]](#ftnt2)
@@ -15,12 +17,12 @@ Breakdancing, cross-country ski, martial arts, rock climbing, surfing*, snowboar
 **whether or not I become an admissions  blogger :)
 Comments:
 +5
-- [[Get Into Programming: robowiki.net/](http://robowiki.net/) + TPP Robocode Tutorials](http://programmers.tpclubs.com/robocode/)- Awesome game that teaches programming and math from ground up through creation of AI for battling virtual tanks. Will make you fall in love with programming. Detailed Introductory Robocode/Java/Trig tutorials and sample robots)
-- [[How to Get Into Web Development](http://jacobsstuff.com/howtolearnwebdevelopment.php),, PHP Handout](http://jacobsstuff.com/files/PHP_Handout_1.pdf) (dated)
-- [[Get Into Rubik’s Cubing](http://whyisitawesome.wikispaces.com/Rubik%27s+Cubing)http://jacobsstuff.com/files/PHP_Handout_1.pdf](http://jacobsstuff.com/files/PHP_Handout_1.pdf)
+- [Get Into Programming: robowiki.net/ + TPP Robocode Tutorials](http://programmers.tpclubs.com/robocode/)- Awesome game that teaches programming and math from ground up through creation of AI for battling virtual tanks. Will make you fall in love with programming. Detailed Introductory Robocode/Java/Trig tutorials and sample robots)
+- [How to Get Into Web Development ,, PHP Handout](http://jacobsstuff.com/files/PHP_Handout_1.pdf) (dated)
+- [Get Into Rubik’s Cubing http://jacobsstuff.com/files/PHP_Handout_1.pdf](http://jacobsstuff.com/files/PHP_Handout_1.pdf)
 - [Get Into Meditation and Tai Chi](http://whyisitawesome.wikispaces.com/Meditation%2C+Yoga%2C+Tai+Chi%2C+Qigong)
 - [Get Into Thoughtstreaming/Keeping Lists](http://whyisitawesome.wikispaces.com/Keeping+Lists+of+Things) (just a spark of inspiration)
-- [[Get Into Literature](http://whyisitawesome.wikispaces.com/Literature) and Writing](http://whyisitawesome.wikispaces.com/Writing) (just a spark of inspiration)
+- [Get Into Literature and Writing](http://whyisitawesome.wikispaces.com/Writing) (just a spark of inspiration)
 - [Get Into Yoyo-ing](http://whyisitawesome.wikispaces.com/YoYoing) (just a spark of inspiration)
 - To build: CuriosityThread, a site that shows the chain of questions/interests a person asked/followed to gain the knowledge they have. Perhaps to partially populate this site, Wikipedia could track threads of browsing, and scrolling. Subsequently, tutorials (even a textbook!) customized to the curiosity profiles of different people could be made of it? (Relatedly, creating a web database of the series of questions bright students ask could be extremely powerful. I would love, for instance, to have documentation of the series of questions one of my friends asked over the course of his life to ultimately gain the knowledge to get gold at the International Chemistry Olympiad. Maybe you could get data from everybody and look specifically at how the ultra successful differ?)
 

@@ -1,6 +1,8 @@
+# Systematicawesome
+
 [systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net)
  #connectordoc
-[[started by jacob@ideaflow.io](mailto:jacob@ideaflow.io), trattner@alum.mit.edu](mailto:trattner@alum.mit.edu)
+[started by jacob@ideaflow.io , trattner@alum.mit.edu](mailto:trattner@alum.mit.edu)
 
 Systematic Awesome
 
@@ -21,21 +23,21 @@ Lift the fog of nonconnection that sits on the world. Enable the global mind to 
 
 ##  Instances
 
-[[The Manifesto of Systematic Awesome](#h.qd1ov5w2tb03)1](#h.qd1ov5w2tb03)
-[[Instances](#h.zdw5er9pashk)1](#h.zdw5er9pashk)
-[[Inbox (to process) – feed of new #connectordoc‘s](#h.m7y7e79bcklw)1](#h.m7y7e79bcklw)
-[[#attendeelist](#h.90s8ll16ol25)3](#h.90s8ll16ol25)
-[[#network](#h.kjwf4yebp7g9)3](#h.kjwf4yebp7g9)
-[[#publicAsset](#h.c75uqnoxe9qk)3](#h.c75uqnoxe9qk)
-[[#curatedlist #knowledgebase #wiki](#h.vcgktcj0jxd8)3](#h.vcgktcj0jxd8)
-[[#SupportGroup](#h.wtjphddpab5c)5](#h.wtjphddpab5c)
-[[Group Chats (Facebook)](#h.nas4tgzehqty)5](#h.nas4tgzehqty)
-[[#gestaltlist](#h.o03y2032lcf)5](#h.o03y2032lcf)
-[[#idealist](#h.s6ji0yx92sj6)5](#h.s6ji0yx92sj6)
-[[#BrainstormDocs](#h.5mwsqa6dudzj)6](#h.5mwsqa6dudzj)
-[[#friendrecs](#h.kk535mu5741e)6](#h.kk535mu5741e)
-[[#connector](#h.8wbz0dp4s19q)6](#h.8wbz0dp4s19q)
-[[#volunteerOpportunities](#h.bec5g2ui3h7d)6](#h.bec5g2ui3h7d)
+- [The Manifesto of Systematic Awesome](#the-manifesto-of-systematic-awesome)
+- [Instances](#instances)
+- [Inbox (to process) – feed of new #connectordoc‘s](#inbox-to-process-feed-of-new-connectordocs)
+- [#attendeelist](#attendeelist)
+- [#network](#network)
+- [#publicAsset](#publicasset)
+- [#curatedlist #knowledgebase #wiki](#curatedlist-knowledgebase-wiki)
+- [#SupportGroup](#supportgroup)
+- [Group Chats (Facebook)](#group-chats-facebook)
+- [#gestaltlist](#gestaltlist)
+- [#idealist](#idealist)
+- [#BrainstormDocs](#brainstormdocs)
+- [#friendrecs](#friendrecs)
+- [#connector](#connector)
+- [#volunteerOpportunities](#volunteeropportunities)
 
 ### Inbox (to process) – feed of new #connectordoc‘s
 Contribute to the list at top!
@@ -54,13 +56,13 @@ http://knowledgebase.world/
 [Enlightenment.jacobcole.net](https://enlightenment.jacobcole.net/) – Enlightenment – Blog and Snippets
 [visioncharter.jacobcole.net](http://visioncharter.jacobcole.net/) – Database of people’s visions for the world
 
-[[Globalyogivillage.com](http://globalyogivillage.com) (WIP](https://www.notion.so/jacobblog/eead53cedc8742d8b93009303a041066?v=3a46f207b0014c669842f3a8ebb2b865&pvs=4)) -
+[Globalyogivillage.com (WIP](https://www.notion.so/jacobblog/eead53cedc8742d8b93009303a041066?v=3a46f207b0014c669842f3a8ebb2b865&pvs=4)) -
 
 http://purplepill.wiki/ – Formerly, theupdate.wiki, text that’s psychologically, and perhaps physically transformative to read
 
-[[perfectcoordination.manifestos.world](http://perfectcoordination.manifestos.world/)  (perfectcoordination.jacobcole.net](http://perfectcoordination.jacobcole.net/))
+[perfectcoordination.manifestos.world (perfectcoordination.jacobcole.net](http://perfectcoordination.jacobcole.net/))
 
-[[lifehacks.jacobcole.ne](http://lifehacks.jacobcole.net)t](http://lifehacks.jacobcole.net)
+[lifehacks.jacobcole.ne t](http://lifehacks.jacobcole.net)
 
 [Pureland.jacobcole.net](http://pureland.jacobcole.net) – Safe spaces & products for the sensitive person
 
@@ -78,7 +80,7 @@ http://purplepill.wiki/ – Formerly, theupdate.wiki, text that’s psychologic
 http://ideaflowhiring.jacobcole.net/
 http://ideaflowdemo.jacobcole.net/
 
-[[[Ideabank.global](https://ideabank.global/) - The global strategic idea reserve ; bra1nstorm.world](http://bra1nstorm.world/) ; <> http://globalideabank.jacobcole.net/](http://globalideabank.jacobcole.net/)
+[Ideabank.global - The global strategic idea reserve ; bra1nstorm.world ; <> http://globalideabank.jacobcole.net/](http://globalideabank.jacobcole.net/)
 - [Related: startupideas.jacobcole.net](http://startupideas.jacobcole.net/) - well specced ideas
 
 [issuetracker.world](http://issuetracker.world/)
@@ -143,7 +145,7 @@ SystemicChange.jacobcole.net
 [crises.jacobcole.net](http://crises.jacobcole.net)
 Projectdb.jacobcole.net
 [WorldQuestGuild.connectr.site](http://worldquestguild.connectr.site/)
-#peopleList #peopleSheet http://people.worldquestguild.connectr.site/
+Tags:, peopleList, peopleSheet, http://people.worldquestguild.connectr.site/
 [infrastructure.jacobcole.net/](http://infrastructure.jacobcole.net/)
 [openresearch.connectr.site](http://openresearch.connectr.site/)
 opensource.jacobcole.net
@@ -162,15 +164,14 @@ Globalideabank.jacobcole.net
 
 [futuregaza.world](http://futuregaza.world/)
 [How to Get into Meditation/Meditative Practices meditation.jacobcole.net](http://meditation.jacobcole.net)
-[[See also: UbiquitizingMeditativePractices.connectordocs.com](http://ubiquitizingmeditativepractices.connectordocs.com)(http://meditation.connectordocs.com/](http://meditation.connectordocs.com/))
+[See also: UbiquitizingMeditativePractices.connectordocs.com (http://meditation.connectordocs.com/](http://meditation.connectordocs.com/))
 Qigong.connectordocs.com
 Taichinotes.connectordocs.com
 Thetawaves.jacobcole.net
 Energymedicine.jacobcole.net
 http://lifechange.jacobcole.net/ Life-Changing Meditation Program Experiment Tutorial
 
-[[Buoyantfitness.jacobcole.net](http://buoyantfitness.jacobcole.net)
-circuits.jacobcole.net](http://circuits.jacobcole.net/) Good Trigger Sets #draft
+[Buoyantfitness.jacobcole.net circuits.jacobcole.net](http://circuits.jacobcole.net/) Good Trigger Sets #draft
 
 [HmmTank](https://docs.google.com/spreadsheets/d/1isqNsYj4wBPiqtlDunyZpfXiG3bQUdoISG7tcJyiaH0/edit#gid=0)
 
@@ -216,14 +217,14 @@ https://old.ideapad.io/salon-notes #peopleList #peopleSheet
 
 ### #curatedlist #knowledgebase #wiki
 
-[[Foodslist.jacobcole.net](http://foodslist.jacobcole.net/) (aka Recipes.jacobcole.net](http://recipes.jacobcole.net))
+[Foodslist.jacobcole.net (aka Recipes.jacobcole.net](http://recipes.jacobcole.net))
 - [Cheese.jacobcole.net](http://cheese.jacobcole.net/)
 - [Chocolate.jacobcole.net](http://chocolate.jacobcole.net)
 - [Tea.jacobcole.net](http://tea.jacobcole.net/)
 
-[[books.jacobcole.net](https://books.jacobcole.net/) == bookslist.jacobcole.net](http://bookslist.jacobcole.net)
+[books.jacobcole.net == bookslist.jacobcole.net](http://bookslist.jacobcole.net)
 
-[[P](http://philosophy.jacobcole.net)hilosophy.jacobcole.net](http://philosophy.jacobcole.net)
+[P hilosophy.jacobcole.net](http://philosophy.jacobcole.net)
 [Heidegger.jacobcole.net](http://heidegger.jacobcole.net)
 
 [yogalist.jacobcole.net](http://yogalist.jacobcole.net/)
@@ -235,7 +236,7 @@ https://old.ideapad.io/salon-notes #peopleList #peopleSheet
 
 [Chronicpain.jacobcole.net](http://chronicpain.jacobcole.net) – Tricks, tools, and resources for working with chronic pain
 - [<>rsiwiki.jacobcole.net](http://rsiwiki.jacobcole.net/)
-- [[[http://si.jacobcole.net](http://si.jacobcole.net/) (aliases: sijointpain.jacobcole.net](http://sijointpain.jacobcole.net) • backpain.jacobcole.net](http://backpain.jacobcole.net))
+- [http://si.jacobcole.net (aliases: sijointpain.jacobcole.net • backpain.jacobcole.net](http://backpain.jacobcole.net))
 
 [Favorverse.jacobcole.net](http://favorverse.jacobcole.net/) – list of favors you could do for people or things that would help them
 
@@ -265,7 +266,7 @@ https://old.ideapad.io/salon-notes #peopleList #peopleSheet
 Great Accountants greataccountants.jacobcole.net
 Great Lawyers greatlawyers.jacobcole.net
 
-[[RSIWiki](http://rsiwiki.jacobcole.net)– Wiki of Resources helpful to recovering from repetitive strain injury carpal tunnel syndrome and similar  <rsiwiki.jacobcole.net](http://rsiwiki.jacobcole.net/)>
+[RSIWiki – Wiki of Resources helpful to recovering from repetitive strain injury carpal tunnel syndrome and similar  <rsiwiki.jacobcole.net](http://rsiwiki.jacobcole.net/)>
 [Silicon Valley RSI Meetup #supportgroup https://www.facebook.com/groups/2307252869523120/](https://www.facebook.com/groups/2307252869523120/)
 
 ###
@@ -287,7 +288,7 @@ Great Lawyers greatlawyers.jacobcole.net
 
 [MITDocs #connectordoc](https://docs.google.com/document/d/1jfccVg1HpcSpRsQejcqCfdWs7zxDLr02gD58xo8uK_4/edit)
 
-[[AdmitSphere](http://admitsphere.jacobcole.net/) – Wiki of College Essays and Advice <admitsphere.jacobcole.net](http://admitsphere.jacobcole.net/)>
+[AdmitSphere – Wiki of College Essays and Advice <admitsphere.jacobcole.net](http://admitsphere.jacobcole.net/)>
 [admitsphere.org](http://admitsphere.org/)
 
 [Wiki of why all the things in the world that are awesome are awesome whyisitawesome.jacobcole.net](http://whyisitawesome.jacobcole.net/)
@@ -305,10 +306,10 @@ AestheticCornerstones.jacobcole.net
 # #SupportGroup        
 
 ## Group Chats (Facebook)
-#GroupChat Existential Crisis Support Group
-#GroupChat Finding Meaningful Work
-#GroupChat Heart Centered Intellectuals
-#GroupChat NYC #TaiChiCrew#WCCC
+Tags:, GroupChat, Existential, Crisis, Support, Group
+Tags:, GroupChat, Finding, Meaningful, Work
+Tags:, GroupChat, Heart, Centered, Intellectuals
+Tags:, GroupChat, NYC, TaiChiCrewWCCC
 
 [Silicon Valley RSI Meetup #supportgroup https://www.facebook.com/groups/2307252869523120/](https://www.facebook.com/groups/2307252869523120/)
 
@@ -320,7 +321,7 @@ AestheticCornerstones.jacobcole.net
 [worldproblems.jacobcole.net](http://worldproblems.jacobcole.net/)
 [easilysolvableworldproblems.jacobcole.net](http://easilysolvableworldproblems.jacobcole.net)
 
-#issuetracker
+Tags:, issuetracker
 [ideapad.io/world-problems](http://ideapad.io/world-problems)
 https://ideapad.io/mongolia-issues-ported/graph/all
 
@@ -333,7 +334,7 @@ Stanford sugg box
 ### #idealist
 [globalideabank.jacobcole.net](http://globalideabank.jacobcole.net/)
 [infrastructure.jacobcole.net](http://infrastructure.jacobcole.net/)
-[[hackathon.ideapad.io](http://hackathon.ideapad.io/)  – try this instead for now: https://hackerhub.ideapad.io/hackathon-ideas/](https://hackerhub.ideapad.io/hackathon-ideas/)
+[hackathon.ideapad.io – try this instead for now: https://hackerhub.ideapad.io/hackathon-ideas/](https://hackerhub.ideapad.io/hackathon-ideas/)
 [Hackathonprojects.jacobcole.net](http://hackathonprojects.jacobcole.net/)
 [Startupideas.jacobcole.net](http://startupideas.jacobcole.net)
 Patrick blumenthal
@@ -356,7 +357,7 @@ https://www.aimhigh.org/
 [IRC https://www.rescue.org/](https://www.rescue.org/) <> Clara
 https://ceoworks.org/
 
-#JNet
+Tags:, JNet
 [Index.jacobcole.net](http://index.jacobcole.net)
 [See also: http://connectr.site/](http://connectr.site/)
 http://quotes.jacobcole.net/
@@ -371,9 +372,7 @@ http://recipes.jacobcole.net/
 [SList->Pipe](https://docs.google.com/spreadsheets/d/1UNPMphSCfLiqOxahEMv4w_eCI0G1FnhKyjFgh39M6Ps/edit#gid=0)
 [Hiringblurb.jacobcole.net](http://hiringblurb.jacobcole.net/)
 [dashboard.jacobcole.net](http://dashboard.jacobcole.net)
-[[[Memorypalaces.jacobcole.net](http://memorypalaces.jacobcole.net)
-Pt.jacobcole.net](http://pt.jacobcole.net)
-jacobgestalts.jacobcole.net](http://jacobgestalts.jacobcole.net)
+[Memorypalaces.jacobcole.net Pt.jacobcole.net jacobgestalts.jacobcole.net](http://jacobgestalts.jacobcole.net)
 [#meetingNotes
 donnon.jacobcole.net](http://donnon.jacobcole.net)
 [##Index Spiritual Growth and Healing from Hawaii Sangha  #connectorDoc](https://docs.google.com/document/d/1WIGtZhwCGUCbaAX19xLCu6jim-r8EMXBgkTjqgN4soI/edit#)
@@ -385,7 +384,7 @@ Socialnetworkjuggling.jacobcole.net -.-
 [Press.jacobcole.net](http://press.jacobcole.net) -.-
 [Ideaflowproject.jacobcole.net](http://ideaflowproject.jacobcole.net) -.-
 [Wellnessclasses.jacobcole.net](http://wellnessclasses.jacobcole.net) -.-
-[[Productfeedback.jacobcole.net](http://productfeedback.jacobcole.net) -.- (bugslist.jacobcole.net](http://bugslist.jacobcole.net))
+[Productfeedback.jacobcole.net -.- (bugslist.jacobcole.net](http://bugslist.jacobcole.net))
 [Templates.jacobcole.net](http://templates.jacobcole.net) -.-
 Internaldashboard.jacobcole.net -.-
 http://teamdashboard.jacobcole.net/ -.-

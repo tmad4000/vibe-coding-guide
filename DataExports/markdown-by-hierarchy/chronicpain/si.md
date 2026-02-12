@@ -1,5 +1,7 @@
-[[[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > ChronicPain.jacobcole.net](http://chronicpain.jacobcole.net) > si.jacobcole.net](http://si.jacobcole.net) | sijointpain.jacobcole.net](http://sijointpain.jacobcole.net) • backpain.jacobcole.net](http://backpain.jacobcole.net)
-#connectordoc #curatedList
+# Si
+
+[systematicawesome.jacobcole.net > ChronicPain.jacobcole.net > si.jacobcole.net | sijointpain.jacobcole.net • backpain.jacobcole.net](http://backpain.jacobcole.net)
+Tags:, connectordoc, curatedList
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
@@ -7,20 +9,20 @@ Contribute to the list at top!                        
 SI (Sacroiliac) Joint Pain
 Tricks, tools, and resources for working with SI (Sacroiliac) Joint Pain, in the lower back.
 
-[[SI (Sacroiliac) joint dysfunction (specific type of lower back pain)](#h.qj7bsfh21cgt)1](#h.qj7bsfh21cgt)
-[[Great physical therapists for SI issues](#h.oj45qfn6cb0)1](#h.oj45qfn6cb0)
-[[PT/ osteopathic model of the sacrum](#h.hu0zzl6ysr7x)1](#h.hu0zzl6ysr7x)
-[[Exercises to correct #t](#h.vv9vmhfamrdg)2](#h.vv9vmhfamrdg)
-[[Exercises to stabilize #t](#h.pnz1wxixtl7w)2](#h.pnz1wxixtl7w)
-[[Misc](#h.lb8j4huh7ud)2](#h.lb8j4huh7ud)
+- [SI (Sacroiliac) joint dysfunction (specific type of lower back pain)](#si-sacroiliac-joint-dysfunction-specific-type-of-lower-back-pain)
+- [Great physical therapists for SI issues](#great-physical-therapists-for-si-issues)
+- [PT/ osteopathic model of the sacrum](#pt-osteopathic-model-of-the-sacrum)
+- [Exercises to correct #t](#exercises-to-correct-t)
+- [Exercises to stabilize #t](#exercises-to-stabilize-t)
+- [Misc](#misc)
 
-[[See also: ChronicPain.jacobcole.net](http://chronicpain.jacobcole.net) for extensive resources. And qigong.garden](http://qigong.garden/) (related)
+[See also: ChronicPain.jacobcole.net for extensive resources. And qigong.garden](http://qigong.garden/) (related)
 -----
 
 ## The Magic Bullet!
 For self-releasing the SI Joint. I now do this 12 min in the morning and 12 min before I go to bed daily and it shifted my life from constant pain / seeing a chiro or osteopath 3x/week to being self-sufficient. Works well on other types of low back pain, as well, and scoliosis.
 
-[[*Releasing Low Back Pain and SI Joint via Svaroopa-Inspired Yoga (Video)](https://youtu.be/CjsnDJnLlQQ)* https://www.youtube.com/watch?v=CjsnDJnLlQQ&feature=youtu.be](https://www.youtube.com/watch?v=CjsnDJnLlQQ&feature=youtu.be)
+[*Releasing Low Back Pain and SI Joint via Svaroopa-Inspired Yoga (Video) * https://www.youtube.com/watch?v=CjsnDJnLlQQ&feature=youtu.be](https://www.youtube.com/watch?v=CjsnDJnLlQQ&feature=youtu.be)
 
 [More: Online and live classes: https://svaroopa.org/](https://svaroopa.org/)
 
@@ -62,12 +64,12 @@ https://www.youtube.com/watch?v=phuS5VLQy8c
 
 ##  PRP / Prolotherapy injections to stimulate ligament growth
 Great doctors:
-[[Donna Alderman](http://www.prolotherapy.com/)www.prolotherapy.com](http://www.prolotherapy.com/) Oakland, LA. PRP/Prolotheraphy Takes platelets injects into ligaments
+[Donna Alderman www.prolotherapy.com](http://www.prolotherapy.com/) Oakland, LA. PRP/Prolotheraphy Takes platelets injects into ligaments
 Dr. Bjorn Eek – Burlingame. Prolotherapy
 
 ### Misc
 
-#chiropractor Ron Schmidt Action Chiropractic #santacruz
+Tags:, chiropractor, Ron, Schmidt, Action, Chiropractic, santacruz
 Ron Schmidt <actionchiro1@sbcglobal.net>
 
 What is the technique where you punch my spine at different locations called?
@@ -154,7 +156,7 @@ Click here to visualize right on left sacral torsion with the patient moving fro
 
 [How to correct a Sacroiliac R-on-R sacral torsion using the Sims position - YouTube](https://www.youtube.com/watch?v=36k4x5zyWq4&list=PLTyMpdMrxx9N3frsOHowuwWafQqgxdDDT)
 [How to assess motion of the Sacroiliac Joint - Hip extension test - YouTube](https://www.youtube.com/watch?v=l3IwCem7WIg)
-#SILog
+Tags:, SILog
 https://fadavispt.mhmedical.com/content.aspx?bookid=2154&sectionid=164750771
 
 [Explanation of a Nutated Sacral Torsion (SIJ), Right on Right oblique axis (R ON R) or a L on L - YouTube](https://www.youtube.com/watch?v=uDQhj7Dbu00)

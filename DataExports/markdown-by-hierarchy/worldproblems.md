@@ -1,17 +1,19 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  worldproblems.jacobcole.net](http://worldproblems.jacobcole.net)   #connectordoc
+# Worldproblems
+
+[systematicawesome.jacobcole.net >  worldproblems.jacobcole.net](http://worldproblems.jacobcole.net)   #connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
 
 World Problems (General)
 
-[[General](#h.npuoyt7lbk23)1](#h.npuoyt7lbk23)
-[[From Easily Solvable World Problems List](#h.73mprlbg9uxn)1](#h.73mprlbg9uxn)
-[[Other Lists](#h.wmabff8ax5xg)2](#h.wmabff8ax5xg)
-[[#issuetracker](#h.vm430g36vvi)3](#h.vm430g36vvi)
-[[http://ideapad.io/world-problems](#h.adbkhkkwslub)3](#h.adbkhkkwslub)
-[[https://ideapad.io/mongolia-issues-ported/graph/all](#h.puilpvx2jjlm)3](#h.puilpvx2jjlm)
-[[Related Groups](#h.8d9cpmcz01om)3](#h.8d9cpmcz01om)
+- [General](#general)
+- [From Easily Solvable World Problems List](#from-easily-solvable-world-problems-list)
+- [Other Lists](#other-lists)
+- [#issuetracker](#issuetracker)
+- [http://ideapad.io/world-problems](#httpideapadioworld-problems)
+- [https://ideapad.io/mongolia-issues-ported/graph/all](#httpsideapadiomongolia-issues-portedgraphall)
+- [Related Groups](#related-groups)
 
 # General
 -
@@ -22,12 +24,12 @@ World Problems (General)
 # [From Easily Solvable World Problems](http://easilysolvableworldproblems.jacobcole.net/) List
 
 -
-- [[https://youtu.be/LtWINl3C_7s](https://youtu.be/LtWINl3C_7s?fbclid=IwAR3HUbA4gGH-zEfkBB0BIbe3NLW2Avg56YdSNmzWPk_AD6tNPMVTy-hH-V4) This is a really inspiring TED talk that points out how easy it is and how little money it would take to solve huge global problems and that our belief that we can’t just fix them    s is learned helplessness. I think the only thing that could be better is that the call to action could be more systematic – I think projects like Thunderpledge (kickstarter for pledges, like to become a vegetarian — you don’t have to become a vegetarian unless 1 million other people do, for instance -- connected to http://radicalengineers.com/](https://l.facebook.com/l.php?u=http%3A%2F%2Fradicalengineers.com%2F%3Ffbclid%3DIwAR1P96_AKpOJy1D8wq613mkmK-k7EvzO3aHPdylvhXDEY2kTNVTcoclBjTo&h=AT3Zt3oIr4imcgyxbJ1An7M0hN9UuWqkz27WrvOKGkttwWF2uRNH4X3OoaKdutWSlX5cr_cHhYEagLcpAHhmxB8yX4bHbnFJywq8cjjOP1Hy59j14Fc_FJRs62xyyOPavMvcRmg)) could be a great start to this.
+- [https://youtu.be/LtWINl3C_7s This is a really inspiring TED talk that points out how easy it is and how little money it would take to solve huge global problems and that our belief that we can’t just fix them    s is learned helplessness. I think the only thing that could be better is that the call to action could be more systematic – I think projects like Thunderpledge (kickstarter for pledges, like to become a vegetarian — you don’t have to become a vegetarian unless 1 million other people do, for instance -- connected to http://radicalengineers.com/](https://l.facebook.com/l.php?u=http%3A%2F%2Fradicalengineers.com%2F%3Ffbclid%3DIwAR1P96_AKpOJy1D8wq613mkmK-k7EvzO3aHPdylvhXDEY2kTNVTcoclBjTo&h=AT3Zt3oIr4imcgyxbJ1An7M0hN9UuWqkz27WrvOKGkttwWF2uRNH4X3OoaKdutWSlX5cr_cHhYEagLcpAHhmxB8yX4bHbnFJywq8cjjOP1Hy59j14Fc_FJRs62xyyOPavMvcRmg)) could be a great start to this.
 -
 
-- [[If America ate beans instead of beef](https://www.theatlantic.com/health/archive/2017/08/if-everyone-ate-beans-instead-of-beef/535536/?utm_campaign=the-atlantic&utm_content=5bcdadb93ed3f00001fc432e_ta&utm_medium=social&utm_source=facebook&fbclid=IwAR0k3nQnItidSvACwzO2d6uklKMU1YbeqadoiB3bCtgFmXscOvF4i3YKyHc)https://www.facebook.com/49004340/posts/10102017934799771/](https://www.facebook.com/valerie.beltran.98/posts/10102017934799771?hc_location=ufi)
+- [If America ate beans instead of beef https://www.facebook.com/49004340/posts/10102017934799771/](https://www.facebook.com/valerie.beltran.98/posts/10102017934799771?hc_location=ufi)
 
-- [[“Scientists... calculated](https://link.springer.com/article/10.1007%2Fs10584-017-1969-1) just what would happen if every American made one dietary change: substituting beans for beef. They found that if everyone were willing and able to do that—hypothetically—the U.S. could still come close to meeting its 2020 greenhouse-gas emission goals](https://www.scientificamerican.com/article/us-may-come-close-to-2020-greenhouse-gas-emission-target/), pledged by President Barack Obama in 2009.”
+- [“Scientists... calculated just what would happen if every American made one dietary change: substituting beans for beef. They found that if everyone were willing and able to do that—hypothetically—the U.S. could still come close to meeting its 2020 greenhouse-gas emission goals](https://www.scientificamerican.com/article/us-may-come-close-to-2020-greenhouse-gas-emission-target/), pledged by President Barack Obama in 2009.”
 - “That is, even if nothing about our energy infrastructure or transportation system changed—and even if people kept eating chicken and pork and eggs and cheese—this one dietary change could achieve somewhere between 46 and 74 percent of the reductions needed to meet the target.”
 
 - [Just 100 gigafactories needed to move the world to sustainable energy](https://www.youtube.com/watch?v=RgpHPS7661M&feature=youtu.be&t=1m35s&fbclid=IwAR1Nw2er3EFNUtP9pGhvxn-mtzvHs1MwW_HNcr3BharAkWLnOUeMKUAA5sY)Leonardo DiCaprio and Elon Musk in Gigafactory 2016-10-27
@@ -67,7 +69,7 @@ World Problems (General)
 - We could create a program that would distribute this $6B budget to city governments that offer tax breaks to hotels participating in this program.
 
 # Other Lists
-#gestaltlist
+Tags:, gestaltlist
 http://easilysolvableworldproblems.jacobcole.net
 
 ###         #issuetracker
@@ -84,7 +86,7 @@ Stanford sugg box
 
 [Fixing the Internet – Missing Internet Infrastructure #connectorDoc](https://docs.google.com/document/d/1iFf7MmnXjTK-Z2-Q6oKBqCUfdW_8_4SD3n59ousSfbI/edit#) #conversation with Roger Macdonald <> Internet Archive
 
-#idealist
+Tags:, idealist
 [http://hackathon.ideapad.io/  – try this instead for now: https://hackerhub.ideapad.io/hackathon-ideas/](https://hackerhub.ideapad.io/hackathon-ideas/)
 http://hackathonprojects.jacobcole.net/
 

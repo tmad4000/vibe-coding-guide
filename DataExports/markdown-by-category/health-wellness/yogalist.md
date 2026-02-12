@@ -1,4 +1,6 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > philosophy.jacobcole.net](http://philosophy.jacobcole.net) > yogalist.jacobcole.net](http://yogalist.jacobcole.net/)
+# Yogalist
+
+[systematicawesome.jacobcole.net > philosophy.jacobcole.net > yogalist.jacobcole.net](http://yogalist.jacobcole.net/)
 [Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 
 YogaList.JacobCole.net
@@ -17,7 +19,7 @@ My favorite six pages of philosophy, of any sort, I have ever read.
 [The 5 Koshas (Sheaths of the Soul) Getting to Know You: The 5 Koshas](https://www.yogajournal.com/yoga-101/philosophy/getting-know/)
 
 ## See also:
-- [[http://pranayama.jacobcole.net/ (Yoga of Breath David Harshada Wagner](https://drive.google.com/file/d/161PBGBaRCrZ2F2aXbjBnNKzw_hpvtTwh/view?usp=sharing))a](https://music.amazon.com/albums/B00NGJ47PQ?tab=CATALOG&ref=dm_wcp_albm_link_ard))
+- [http://pranayama.jacobcole.net/ (Yoga of Breath David Harshada Wagner )a](https://music.amazon.com/albums/B00NGJ47PQ?tab=CATALOG&ref=dm_wcp_albm_link_ard))
 
 Ex 1: Noticing 3:48
 Ex 2: Evenness  19:44

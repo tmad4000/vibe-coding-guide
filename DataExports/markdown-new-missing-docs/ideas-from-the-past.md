@@ -1,3 +1,5 @@
+# Ideas From The Past
+
 [Part of systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/)
 
 Ideas from the Past / Prophetic Proposals #CuratedList
@@ -34,10 +36,10 @@ A list of visions for tech from the past which could be realized but haven’t
 Ted Selker
 Room with a view
 
-#idea
+Tags:, idea
 Notebook computer - ted
 
-#lookingfor adoption ccs w rfid that are secure
+Tags:, lookingfor, adoption, ccs, w, rfid, that, are, secure
 30% more prod by delaying text msgs
 Watch drivers eyes
 

@@ -1,8 +1,9 @@
-[[(under](http://jacob.dashbrd.site/)construction](https://docs.google.com/document/d/1WL_sPn8rcMigt6ula7_mxmrgjO91u7PPPMO_dW-c8EY/edit))
+# Hawaiithingsyoudidntknowexisted
+
+[(under construction](https://docs.google.com/document/d/1WL_sPn8rcMigt6ula7_mxmrgjO91u7PPPMO_dW-c8EY/edit))
 
 Ideaflow
-- [[[Ideaflow.io](http://ideaflow.io) • iOS](http://apps.apple.com/us/app/ideaflow-notes/id6463830566)
- • Hiring! Full stack, iOS engineers, & more](http://ideaflowhiring.jacobcole.net)
+- [Ideaflow.io • iOS • Hiring! Full stack, iOS engineers, & more](http://ideaflowhiring.jacobcole.net)
 
 Featured Projects
 - [NVCtranslator.com](http://nvctranslator.com)
@@ -119,7 +120,7 @@ Art/Photoshop
 
 Articles
 - [What I would do if I ran various companies](http://ifiran.jacobcole.net)
-- [[[Untapped](http://allafrica.com/stories/201308190100.html)Internet Potential & the Tanzania-MIT Telehackathon](http://allafrica.com/stories/201308190100.html) – Tanzanian Standard (Full Article](https://www.jacobblog.tpclubs.com/2013/08/hackercasting-tested/#more-450))
+- [Untapped Internet Potential & the Tanzania-MIT Telehackathon – Tanzanian Standard (Full Article](https://www.jacobblog.tpclubs.com/2013/08/hackercasting-tested/#more-450))
 - [Why Pusheen the Cat is Significant](https://www.jacobblog.tpclubs.com/2013/08/why-pusheen-is-significant/) (temp down)
 
 Tutorials/Teaching
@@ -145,7 +146,7 @@ Freelance Web Design
 - [michellecole.com](http://michellecole.com/)
 
 Other
-- [[MIT Surf Club](http://web.mit.edu/mitoc/www/#jointrip/mailinglist.html)surfers@mit.edu](mailto:surfers@mit.edu)
+- [MIT Surf Club surfers@mit.edu](mailto:surfers@mit.edu)
 
 Music
 
@@ -197,14 +198,14 @@ Others’ Blogs/Sites
 
 - [holdenlee.wordpress.com/about/](https://holdenlee.wordpress.com/about/)
 
-- [[Aurellem.org](http://aurellem.org/) – AI, Brain Preservation, Ideas](http://aurellem.org/thoughts/html/good-ideas.html)
+- [Aurellem.org – AI, Brain Preservation, Ideas](http://aurellem.org/thoughts/html/good-ideas.html)
 - [Alexkchen.substack.com](http://alexkchen.substack.com/)
 - [Will Zeng](http://willzeng.com/) – Quantum Computing, Category Theory, and Philosophy
 - [Thomas Braun](https://www.facebook.com/n0logik) – Physics, Self-Realization, and Mind
 - [Meta: thoughtfulweb.jacobcole.net](http://thoughtfulweb.jacobcole.net/)
 
 [Projects from (my continued) Childhood](https://drive.google.com/file/d/1FP2oFG7ZnGo2I2G3VSLxRmNFLwpcodnL/view?usp=sharing)
-- [[Twizzle Cards Trading Card Game](https://drive.google.com/file/d/1yW26VNKDHtniTO2S6DEUJ3mFs_JhGx1R/view?usp=sharing), Story](https://docs.google.com/document/d/1ByD6N0YntfP07pm3KgXWdQmzc4TOHe2o/edit)
+- [Twizzle Cards Trading Card Game , Story](https://docs.google.com/document/d/1ByD6N0YntfP07pm3KgXWdQmzc4TOHe2o/edit)
 - [Lego.jacobcole.net](http://lego.jacobcole.net/)
 - [kidactivities.jacobcole.net](http://kidactivities.jacobcole.net/)
 
@@ -219,7 +220,7 @@ More URLs (workshop)
 - [Adsa.jacobcole.net](http://adsa.jacobcole.net)
 - [mit14team.jacobcole.net](http://mit14team.jacobcole.net/) From MIT Tim Talks #connectorDoc
 - -- .tk’s largely are expired --
-- [[HegelTerms.tk](http://hegelterms.tk) (d](https://docs.google.com/document/d/1IMCMviIMGi108LtRAsnZeBbAa2cxuUhf6qQOD6vguA8/edit#))
+- [HegelTerms.tk (d](https://docs.google.com/document/d/1IMCMviIMGi108LtRAsnZeBbAa2cxuUhf6qQOD6vguA8/edit#))
 - [2111AID.TK](http://2111aid.tk/)
 - [6034BONUS.TK](http://6034bonus.tk/)
 - [6470PROJECTS.TK](http://6470projects.tk/)

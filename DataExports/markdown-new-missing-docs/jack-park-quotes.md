@@ -1,6 +1,8 @@
-[[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > connectr.site](http://connectr.site)  > worldquestguild.connectr.site](http://worldquestguild.connectr.site) or quests.world](https://quests.world/)
-[[People: people.quests.world](http://people.quests.world) (f](http://people.worldquestguild.connectr.site))
-#connectordoc
+# Jack Park Quotes
+
+[systematicawesome.jacobcole.net > connectr.site > worldquestguild.connectr.site or quests.world](https://quests.world/)
+[People: people.quests.world (f](http://people.worldquestguild.connectr.site))
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 World Quest Guild (Quests.world)
@@ -8,11 +10,11 @@ In the future, we will think of work differently: We will ask: what is there tha
 
 [We have to do what jobs we have to do to survive – but what is life really about? Going on quests – together or alone – to do the worthwhile things in the world (Helping people in need! Cool, instrumentally or intrinsically worthy project!)! World Quest Guild](#h.a2b4aeb47z63) is a central group and dashboard for those playing the “larger game” available in life – that of working together to get everyone’s needs met, solve humanity’s critical problems, and understand the mysterious.
 
-[[[[Watch](https://youtu.be/S_gScJAitg0?t=3180) this ridiculously inspiring introduction section by Jack Park (Youtube ~20min](https://youtu.be/S_gScJAitg0?t=3180)on 2x speed), who knew Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart). Gets all the way from knowledge management to the metaverse/starting a guild/a quest manager for the world. (“Key Quotes](#h.4pc73940gmof)”)
+[Watch this ridiculously inspiring introduction section by Jack Park (Youtube ~20min on 2x speed), who knew Doug Engelbart . Gets all the way from knowledge management to the metaverse/starting a guild/a quest manager for the world. (“Key Quotes](#h.4pc73940gmof)”)
 
-[[See also: ideabank.global](http://ideabank.global/) and Notion (WIP)](https://www.notion.so/41ba92c80acc422d8e68806db2d38961?v=331cb37fa9364d66b18f370077f4501d&pvs=4)
+[See also: ideabank.global and Notion (WIP)](https://www.notion.so/41ba92c80acc422d8e68806db2d38961?v=331cb37fa9364d66b18f370077f4501d&pvs=4)
 
-- [[Members List people.quests.world](http://people.quests.world)(f](http://people.worldquestguild.connectr.site))– Add yourself
+- [Members List people.quests.world (f](http://people.worldquestguild.connectr.site))– Add yourself
 
 [Guild Google group: Joinhttps://groups.google.com/g/world-quest-guild](https://groups.google.com/g/world-quest-guild)
 [Guild Discord chat server: Join! https://discord.gg/GTxTPft](https://discord.gg/GTxTPft)
@@ -20,7 +22,7 @@ Quests Dashboard (below): Add Quests!
 
 [“I'm [alive] today and it's because I learned how to do research. Look, I was simply motivated, you know what I'm saying? Now we're faced with a pandemic [and climate change] and everybody should be as motivated as I was when I was diagnosed with leukemia, but they’re not... the point is [these are] going to be equivalent to a diagnosis of leukemia very soon for all humankind.” ~Jack Park](#h.4pc73940gmof)
 
-[[[See also: globalideabank.connectr.site](http://globalideabank.connectr.site/) • worldgestalts.connectr.site](http://worldgestalts.connectr.site/) • projectdb.jacobcole.net](http://projectdb.jacobcole.net)
+[See also: globalideabank.connectr.site • worldgestalts.connectr.site • projectdb.jacobcole.net](http://projectdb.jacobcole.net)
 
 Available Quests Dashboard
 Available quests to do in the world.Add more!
@@ -33,26 +35,26 @@ Volunteering and Providing Services
 
         #todo Database of Intentions & Database of Resources
 
-[[Specific projects](#h.cx93z1vr3tnz)2](#h.cx93z1vr3tnz)
-[[Excess Vetted Startup Ideas Discussion](#h.nuok8mt2hlk)2](#h.nuok8mt2hlk)
-[[Misc](#h.ozenfas1jtmo)3](#h.ozenfas1jtmo)
-[[Actual Ongoing Startups](#h.x5vkkdu5kkmd)5](#h.x5vkkdu5kkmd)
-[[Well-Run, Worthwhile Initiatives that could use Support or Funding](#h.k06d21lw4rdr)5](#h.k06d21lw4rdr)
-[[Bottom Up World Issues List from Disempowered Groups](#h.rl81qi3fws4b)6](#h.rl81qi3fws4b)
-[[General topic areas](#h.ww6eg7gcadl)6](#h.ww6eg7gcadl)
-[[Problems #problem](#h.a4k9mr1p8798)8](#h.a4k9mr1p8798)
-[[Problems #EasilySolvable with the right connection](#h.t13p2jxca71z)8](#h.t13p2jxca71z)
-[[Contribute to Useful Resource Lists](#h.56n7j2w1ggf0)9](#h.56n7j2w1ggf0)
-[[Art and Literature](#h.m2h5bpkmxibo)10](#h.m2h5bpkmxibo)
-[[To Sort](#h.66mz55a6bc9l)10](#h.66mz55a6bc9l)
-[[#BrainstormDocs](#h.5mwsqa6dudzj)10](#h.5mwsqa6dudzj)
-[[Learning Quests (Self Development, Also Part of Project Earth)](#h.hl890aza0id)17](#h.hl890aza0id)
-[[Related](#h.fwjzcrvx1qly)17](#h.fwjzcrvx1qly)
-[[Related Meta-Initiatives](#h.2tscv2pop9io)18](#h.2tscv2pop9io)
-[[Meta](#h.9fivcc14ovf3)18](#h.9fivcc14ovf3)
-[[Key Quotes from Jack’s inspiring talk](#h.4pc73940gmof)18](#h.4pc73940gmof)
-[[On Guilds](#h.a2b4aeb47z63)19](#h.a2b4aeb47z63)
-[[My Thoughts (Park)](#h.nr6vygmikg2m)21](#h.nr6vygmikg2m)
+- [Specific projects](#specific-projects)
+- [Excess Vetted Startup Ideas Discussion](#excess-vetted-startup-ideas-discussion)
+- [Misc](#misc)
+- [Actual Ongoing Startups](#actual-ongoing-startups)
+- [Well-Run, Worthwhile Initiatives that could use Support or Funding](#well-run-worthwhile-initiatives-that-could-use-support-or-funding)
+- [Bottom Up World Issues List from Disempowered Groups](#bottom-up-world-issues-list-from-disempowered-groups)
+- [General topic areas](#general-topic-areas)
+- [Problems #problem](#problems-problem)
+- [Problems #EasilySolvable with the right connection](#problems-easilysolvable-with-the-right-connection)
+- [Contribute to Useful Resource Lists](#contribute-to-useful-resource-lists)
+- [Art and Literature](#art-and-literature)
+- [To Sort](#to-sort)
+- [#BrainstormDocs](#brainstormdocs)
+- [Learning Quests (Self Development, Also Part of Project Earth)](#learning-quests-self-development-also-part-of-project-earth)
+- [Related](#related)
+- [Related Meta-Initiatives](#related-meta-initiatives)
+- [Meta](#meta)
+- [Key Quotes from Jack’s inspiring talk](#key-quotes-from-jacks-inspiring-talk)
+- [On Guilds](#on-guilds)
+- [My Thoughts (Park)](#my-thoughts-park)
 
 ## Specific projects
 -
@@ -60,7 +62,7 @@ Volunteering and Providing Services
 
 - [Startupideas.jacobcole.net](http://startupideas.jacobcole.net)
 
-- [[People: David Chen <itsdchen@gmail.com](mailto:itsdchen@gmail.com)>, Adam Lawrence <adam@im-asl.org](mailto:adam@im-asl.org)>
+- [People: David Chen <itsdchen@gmail.com >, Adam Lawrence <adam@im-asl.org](mailto:adam@im-asl.org)>
 
 - [Hackathon Ideas List](http://hackathonprojects.jacobcole.net/)
 
@@ -78,7 +80,7 @@ Volunteering and Providing Services
 - [#socialenterprise #nonprofitHelp funnel resources/funding to under resourced/underdog nonprofits via e-commerce/social enterprise; the idea would be to move towards helping nonprofits operate better through a connector entity (like No Rival Industries](http://www.norivalindustries.com)) where projects are created sustainably on a volume basis and purely crowdfunded where 100% of profits are given away on the notion of ideation for the next-gen of nonprofit fundraising
 
 - [Volume 1](https://www.norivalindustries.com/projectcovid): COVID hits, manufacture handcrafted cloth masks in the US and send out donations to shelters, hospitals and grocers across the country
-- [[Volume 2:](https://www.norivalindustries.com/)Partner w/ Spread The Vote](https://www.norivalindustries.com/volume2) ---nonprofit that fights to help the 21 million eligible voters in the US get IDs in voter-ID required states; we sell our first apparel line to get funding towards this cause --$40 is their operating cost for an ID aka 4 shirts sold net 1 ID. How can we scale this without a marketing budget?
+- [Volume 2: Partner w/ Spread The Vote](https://www.norivalindustries.com/volume2) ---nonprofit that fights to help the 21 million eligible voters in the US get IDs in voter-ID required states; we sell our first apparel line to get funding towards this cause --$40 is their operating cost for an ID aka 4 shirts sold net 1 ID. How can we scale this without a marketing budget?
 - [Volume 3 and onward--TBD, looking for ways to scale and the “why](https://www.norivalindustries.com/about-us)” for starting this
 
 - [#actionable #specific “ThunderPledge”  Thunderpledge.jacobcole.net](http://thunderpledge.jacobcole.net) – a website like Kickstarter for pledging to take collective actions when you reach a critical mass. For instance, there are a large number of people who would consider becoming vegetarian for climate reasons, but feel like it's pointless unless millions of others do the same. Using ThunderPledge you could pledge to become vegetarian only when a million other people have also committed the same. At that point, not only would you know for certain that your change is part of making a difference, but you would have a ready-made support group of people all trying to do the same thing.
@@ -96,7 +98,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 - Place acupuncturists, massage therapists, etc. in ER waiting rooms
 - Make it easier for people to have great diets with low climate impact
 
-- [[#urgent #actionable Bail out Garden Fresh restaurants](https://www.qsrmagazine.com/finance/garden-fresh-restaurants-declares-chapter-7-bankruptcy) (Sweet Tomatoes/Souplantation) healthy soup/salad buffet. And/or help them come up with new business model. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+- [#urgent #actionable Bail out Garden Fresh restaurants (Sweet Tomatoes/Souplantation) healthy soup/salad buffet. And/or help them come up with new business model. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 - Better/ More Ubiquitous / cheaper great fake meats like Impossible burgers
 - [Effective fish farming like https://www.aquabyte.ai/](https://www.aquabyte.ai/)
 - [Ubiquitous delicious vegan cooking education / meal delivery services like thistle.co](http://thistle.co)
@@ -104,7 +106,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 - Build really fun adult-sized playgrounds everywhere as alternatives to gyms
 - [Rebuild the legomindstorms.com](http://legomindstorms.com) online robotic sharing community #education
 -
-- [[[Web Clearinghouse for campaign donations -- Currently Democrats and Republicans donate vast amounts of money to their parties to cancel out the media noise from the opposing party. My friend Sam Galler ~smgaller@gmail.com](http://instadefine.com/IdeaOverflow/Outlinr-PHP/public_html/hackathonideas/public_html/index.1.7_suggestionbox.php?mapid=169#), who is super nice, massively connected, and a graduate student at Oxford on a Rhodes scholarship, proposed that we build a website that acts as a clearinghouse for donations to political campaigns in the US. If you donate to the Democratic Party it cancels out the donations to the Republican Party. The resulting bag of saved money goes to charity. He has the connections to get this website, if built, on frontline media, and would love to find people who want to work with him on it. I think this could save millions of dollars, and is a #lowhangingfruit #govtech #good](http://instadefine.com/IdeaOverflow/Outlinr-PHP/public_html/hackathonideas/public_html/index.1.7_suggestionbox.php?mapid=169#)jacob@ideaflow.io](mailto:jacob@ideaflow.io) 858-740-6970
+- [Web Clearinghouse for campaign donations -- Currently Democrats and Republicans donate vast amounts of money to their parties to cancel out the media noise from the opposing party. My friend Sam Galler ~smgaller@gmail.com , who is super nice, massively connected, and a graduate student at Oxford on a Rhodes scholarship, proposed that we build a website that acts as a clearinghouse for donations to political campaigns in the US. If you donate to the Democratic Party it cancels out the donations to the Republican Party. The resulting bag of saved money goes to charity. He has the connections to get this website, if built, on frontline media, and would love to find people who want to work with him on it. I think this could save millions of dollars, and is a #lowhangingfruit #govtech #good jacob@ideaflow.io](mailto:jacob@ideaflow.io) 858-740-6970
 
 -
 -
@@ -133,7 +135,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 
 - Frictionless thought capture
 
-- [[[[[Ideaflow.io](http://ideaflow.io) (#internal](http://ideaflowproject.jacobcole.net)) Ideaflowproject.jacobcole.net](http://ideaflowproject.jacobcole.net/)(https://www.ideaflow.io/](https://www.ideaflow.io/) email jacob@ideaflow.io](mailto:jacob@ideaflow.io) for details)
+- [Ideaflow.io (#internal ) Ideaflowproject.jacobcole.net (https://www.ideaflow.io/ email jacob@ideaflow.io](mailto:jacob@ideaflow.io) for details)
 
 - Tools to Augment Creativity, Brainstorming Software
 
@@ -286,7 +288,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 
 - No fear that we will lose our important thoughts and resources
 
-- [[ideaflow.io](http://ideaflow.io) (#internal doc)](http://ideaflowproject.jacobcole.net)
+- [ideaflow.io (#internal doc)](http://ideaflowproject.jacobcole.net)
 
 - We will be more creative, we will discover connections between our ideas and those of others
 - We will discover people who have thought about the same stuff
@@ -323,8 +325,8 @@ This generalizes to many  applications – for instance organizing a boycott. B
 -
 ### Problems #EasilySolvable with the right connection
 
-- [[Find a hardware / robotics mentor with knowledge of mechanical actuators for master healer, tai chi practitioner and tech visionary Dima Grinberg](https://www.linkedin.com/in/dmitry-grinberg-878b0920/) to help him build awesome next generation interactive smart exercise/pt equipment. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
-- [[Find soft materials engineering, business or AI cofounder for new smart sleep devices company by sleep researcher + yoga teacher Roger Cole](https://www.yogadelmar.com/teacher/roger-cole-ph-d/); Contact: jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+- [Find a hardware / robotics mentor with knowledge of mechanical actuators for master healer, tai chi practitioner and tech visionary Dima Grinberg to help him build awesome next generation interactive smart exercise/pt equipment. Email jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+- [Find soft materials engineering, business or AI cofounder for new smart sleep devices company by sleep researcher + yoga teacher Roger Cole ; Contact: jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 -
 
@@ -371,7 +373,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 - [Kidactivities.jacobcole.net](http://kidactivities.jacobcole.net/) – List of Kids Games and Activities
 -
 -
-- [[AdmitSphere](http://admitsphere.jacobcole.net/) – Wiki of College Essays and Advice <admitsphere.jacobcole.net](http://admitsphere.jacobcole.net/)>
+- [AdmitSphere – Wiki of College Essays and Advice <admitsphere.jacobcole.net](http://admitsphere.jacobcole.net/)>
 
 [Admitsphere.org](http://admitsphere.org/)
 -
@@ -401,7 +403,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 
 - [The Waves](https://www.goodreads.com/book/show/46114.The_Waves)
 
-- [[[See also: http://thoughtfulweb.jacobcole.net/](http://thoughtfulweb.jacobcole.net/) , http://bookslist.jacobcole.net/](http://bookslist.jacobcole.net/) , http://quoteslist.jacobcole.net/](http://quoteslist.jacobcole.net/)
+- [See also: http://thoughtfulweb.jacobcole.net/ , http://bookslist.jacobcole.net/ , http://quoteslist.jacobcole.net/](http://quoteslist.jacobcole.net/)
 -
 
 -
@@ -676,7 +678,7 @@ This generalizes to many  applications – for instance organizing a boycott. B
 - Build an oscillator from scratch with BJTs (transistors)
 
 # Related
-#IdeaList
+Tags:, IdeaList
 http://hackathonprojects.jacobcole.net/
         E.g. has things like
 - #App Shortcut coach that tracks your actions and occasionally suggests a shortcut to improve efficiency and auto-programming macros for you.
@@ -711,7 +713,7 @@ http://hmmtank.com/
 
 [58:57](https://www.youtube.com/watch?v=S_gScJAitg0&t=3537s) "A stage five [kidney disease] means you get a transplant or you go on dialysis. I screwed up and became stage four, so I'm using the crap out of LiteNet [Jack's information management system] now to study kidney disease. This is the kind of stuff that's going to befall a lot of people and they're not even going to see it coming. I mean I'm a guy that studies math, studies medicine, and I listen to my body, and I still screwed up. It's just gonna happen, so whatever we can do – everybody who's in this on this call right now – and whatever we can do to get ourselves geared up to this kind of thinking – whatever it is – your brand is not the same as my brand and I don't want it to be, but your brand is going to affiliate with my brand and I'm going to affiliate with yours, and we're going to learn from each other and that's how this the planet's going to get fixed...There was a lot to like in your demo"
 
-[[56:00](https://youtu.be/S_gScJAitg0?t=3360) “I'm here today and it's because I learned how to do research. Look I was simply motivated, you know what I'm saying? Now we're faced with a pandemic and everybody should be as motivated as I was when I was diagnosed with leukemia, but they're not; they still go to the beach they go to parties and not wear their face masks and blah blah blah, and we have this other thing called climate change – and look, you and I are in California – I don't know about the rest of these people, but California is burning and the Gulf Goast is being flooded and the East Coast is probably going to have some some of its own problems – the point is climate change](https://docs.google.com/document/d/1ULNUP9HaHxe6DABI0AcfM_sVcqWh93gbfKno9_cGKCQ/edit#heading=h.5aioitbl8p11) is going to be equivalent to a diagnosis of leukemia very soon for all humankind.”        
+[56:00 “I'm here today and it's because I learned how to do research. Look I was simply motivated, you know what I'm saying? Now we're faced with a pandemic and everybody should be as motivated as I was when I was diagnosed with leukemia, but they're not; they still go to the beach they go to parties and not wear their face masks and blah blah blah, and we have this other thing called climate change – and look, you and I are in California – I don't know about the rest of these people, but California is burning and the Gulf Goast is being flooded and the East Coast is probably going to have some some of its own problems – the point is climate change](https://docs.google.com/document/d/1ULNUP9HaHxe6DABI0AcfM_sVcqWh93gbfKno9_cGKCQ/edit#heading=h.5aioitbl8p11) is going to be equivalent to a diagnosis of leukemia very soon for all humankind.”        
 
 [57:13](https://youtu.be/S_gScJAitg0?t=3433) “We need these tools, all of them, and to be honest with you, they need to be in the hands of everybody. And we need the MOOCs and the blogs and the people learning how to use them, so they can think clearer. This is it. This is our mission."
 

@@ -1,4 +1,6 @@
-[[[[mitdoc.tk](http://mitdoc.tk/) > thingsyoudidntknowexisted.tk](http://thingsyoudidntknowexisted.tk) > thingsyoudidntknowexistedatmit.tk](http://thingsyoudidntknowexistedatmit.tk/) > MITClasses.tk](https://docs.google.com/document/d/1PwURbKznBHZy1bhwP3wjRi35uivD2KuiH9b0O5zBbTs/edit#)
+# Mit Classes Collab
+
+[mitdoc.tk > thingsyoudidntknowexisted.tk > thingsyoudidntknowexistedatmit.tk > MITClasses.tk](https://docs.google.com/document/d/1PwURbKznBHZy1bhwP3wjRi35uivD2KuiH9b0O5zBbTs/edit#)
 MIT/Harvard Classes to Take
 [Harvard:](#h.jel3wwjd7o9f)
 [MIT:](#h.b8i8sothdbox)
@@ -34,7 +36,7 @@ English 168d - Postwar American and British Fiction (8250) ~James Wood
 
 ## MIT:
 
-[[Anything with Tod Machover, eg Musical Aesthetics and Media Technology  https://www.youtube.com/watch?v=gpWU5a07g7s](https://www.youtube.com/watch?v=gpWU5a07g7s)  21M.580J http://student.mit.edu/catalog/search.cgi?search=machover&style=verbatim](http://student.mit.edu/catalog/search.cgi?search=machover&style=verbatim)
+[Anything with Tod Machover, eg Musical Aesthetics and Media Technology  https://www.youtube.com/watch?v=gpWU5a07g7s 21M.580J http://student.mit.edu/catalog/search.cgi?search=machover&style=verbatim](http://student.mit.edu/catalog/search.cgi?search=machover&style=verbatim)
 
 Literary Theory
 Political Economy 1
@@ -99,13 +101,13 @@ iTeams
 Venture mentoring service
 
 From thoughtstream:
-#course #class to take speechwriting
-#class Harvard Stat 110
-#class arrow of time
-#class 10.04 -- philosophical history of energy. final Do particles follow the precepts of Nietzche's will to power ? is it a useful analogy ~thomas delgado #good
-#class Literary Theory
-#class Political Economy 1
-#class New Subject: Crosslinks Seminar (16.S688)
-#class 21A.504J Cultures of Computing  
-#class http://student.mit.edu/catalog/m21Aa.html#21A.504
-#class 6.815 computational photography
+Tags:, course, class, to, take, speechwriting
+Tags:, class, Harvard, Stat, 110
+Tags:, class, arrow, of, time
+Tags:, class, 10.04, --, philosophical, history, of, energy., final, Do, particles, follow, the, precepts, of, Nietzche's, will, to, power, ?, is, it, a, useful, analogy, ~thomas, delgado, good
+Tags:, class, Literary, Theory
+Tags:, class, Political, Economy, 1
+Tags:, class, New, Subject:, Crosslinks, Seminar, (16.S688)
+Tags:, class, 21A.504J, Cultures, of, Computing
+Tags:, class, http://student.mit.edu/catalog/m21Aa.html21A.504
+Tags:, class, 6.815, computational, photography

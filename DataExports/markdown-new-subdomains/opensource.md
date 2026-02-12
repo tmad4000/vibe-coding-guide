@@ -1,5 +1,7 @@
-[[[[`systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > infrastructure.jacobcole.net](http://infrastructure.jacobcole.net) > opensource.jacobcole.net](http://opensource.jacobcole.net)
-#connectordoc
+# Opensource
+
+[`systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > infrastructure.jacobcole.net > opensource.jacobcole.net](http://opensource.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Open Source Software to Be Built
@@ -43,7 +45,7 @@ Add to this list!
 
 - Platform for people to share resources they can share (e.g. tools, uhaul truck)
 
-- [[See also: favorverse.jacobcole.net/](http://favorverse.jacobcole.net/) • volunteerforce.jacobcole.net/](http://volunteerforce.jacobcole.net/)
+- [See also: favorverse.jacobcole.net/ • volunteerforce.jacobcole.net/](http://volunteerforce.jacobcole.net/)
 
 - [Fixing the Internet](http://fixingtheinternet.jacobcole.net/)
 

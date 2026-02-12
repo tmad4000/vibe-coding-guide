@@ -1,3 +1,5 @@
+# Codingchallenge
+
 [codingchallenge.jacobcole.net](http://codingchallenge.jacobcole.net)
 
 # IdeaFlow JavaScript Coding Challenge
@@ -23,7 +25,7 @@ https://drive.google.com/a/ideapad.io/file/d/0B-I9KaLn57eRWFNuU3BHSEhGbE0/view?u
 
 For now, make up fake data to populate the list of suggested hashtags, @-signs.
 - Element on the list can be chosen through arrow keys and pressing enter or tab
-- [[Post it on a server and email it to careers@ideapad.io](mailto:careers@ideapad.io) and jacob@ideapad.io](mailto:jacob@ideapad.io)
+- [Post it on a server and email it to careers@ideapad.io and jacob@ideapad.io](mailto:jacob@ideapad.io)
 
 Warning: it’s tricky to get this working in a way that is actually bug free and seamless to use. That’s what we are really evaluating this on, above all.  As far as we know, all approaches using off-the-shelf libraries end up with subtle bugs,  so we recommend doing it from scratch with DraftJS.
 

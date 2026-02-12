@@ -1,5 +1,7 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > favorverse.jacobcole.net](http://favorverse.jacobcole.net)
-#connectordoc
+# Favorverse
+
+[systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > favorverse.jacobcole.net](http://favorverse.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 FavorVerse
@@ -7,18 +9,18 @@ List of services you could perform that would help people. We’re building the 
 
 [Contribute to the lists at top! Comment under any issue you’d like to support and email jacob+wcg@ideaflow.io](mailto:jacob+wcg@ideaflow.io) if you need help reaching out.
 
-[[See also:  volunteerforce.jacobcole.net/](http://volunteerforce.jacobcole.net/) • infrastructure.jacobcole.net/](http://infrastructure.jacobcole.net/)
+[See also:  volunteerforce.jacobcole.net/ • infrastructure.jacobcole.net/](http://infrastructure.jacobcole.net/)
 
-[[Asks](#h.obuyebirtbvg)1](#h.obuyebirtbvg)
-[[#introRequests](#h.45z6ve883i2h)3](#h.45z6ve883i2h)
-[[Offers](#h.4arebvuwbuli)3](#h.4arebvuwbuli)
+- [Asks](#asks)
+- [#introRequests](#introrequests)
+- [Offers](#offers)
 
 ## Templates
 hw assignment to catalog lives of interesting people in the neighborhood #Education
 
 ## Asks
 
-- [[Ted Nelson Volunteer Job Opportunity](http://tednelson.connectr.site) – tednelson.connectr.site](http://tednelson.connectr.site)
+- [Ted Nelson Volunteer Job Opportunity – tednelson.connectr.site](http://tednelson.connectr.site)
 - [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson) (inventor of the hyperlink, elderly. Tim Berners-Lee cites him as direct inspiration for the Web) looking for someone to help him organize years of life notes and materials; also personal assistance.
 
 - Contact people – jacob cole jacob@ideaflow.io, james risberg

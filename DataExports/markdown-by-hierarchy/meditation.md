@@ -1,40 +1,42 @@
-[[`             systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > meditation.jacobcole.net](http://meditation.jacobcole.net)
+# Meditation
+
+[`             systematicawesome.jacobcole.net > meditation.jacobcole.net](http://meditation.jacobcole.net)
 [See also: http://meditation.connectordocs.com/](http://meditation.connectordocs.com/)
-#connectordoc
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 How to Get into Meditative Practices
 Resources on how (and why!) to get into meditation and related practices in an enjoyable way, the stories of how people got into them.
 
-[[Quickstart Guide](#h.ja5875iow8jg)2](#h.ja5875iow8jg)
-[[Why Meditation is Awesome](#h.uvxp36wldjv2)2](#h.uvxp36wldjv2)
-[[Great Starting Points](#h.qn0gg592y19f)3](#h.qn0gg592y19f)
-[[Video/Audio](#h.zda8zwhp8mpq)3](#h.zda8zwhp8mpq)
-[[Experiential](#h.7l5qge3nvgcx)3](#h.7l5qge3nvgcx)
-[[Great Courses you can take to get into it](#h.pqqh9e99gzbc)4](#h.pqqh9e99gzbc)
-[[Recorded (many free)](#h.1yw54zkadsyi)4](#h.1yw54zkadsyi)
-[[Live](#h.ocs9cib1t8qt)4](#h.ocs9cib1t8qt)
-[[Great Tutorials](#h.sa8pywxkxlz4)4](#h.sa8pywxkxlz4)
-[[Noticing and releasing thoughts](#h.bfuxeslsdx0h)4](#h.bfuxeslsdx0h)
-[[More Great Books](#h.zfepm76poi3f)6](#h.zfepm76poi3f)
-[[More Advanced Resources and Tricks](#h.6zuin4be6fbm)6](#h.6zuin4be6fbm)
-[[Insights that Could Change the Whole World](#h.he3914y66cky)7](#h.he3914y66cky)
-[[Profound / Powerful Quotes](#h.argtx1ostxsp)7](#h.argtx1ostxsp)
-[[Why Meditate Sunrise Tai Chi ~Ramel Rones](#h.xairs5acz86j)7](#h.xairs5acz86j)
-[[“Qi from the earth into the sword” There are No Secrets ~Cheng Man Ching](#h.76yugci9pljz)10](#h.76yugci9pljz)
-[[For Reference](#h.kl6t65u86w9d)12](#h.kl6t65u86w9d)
-[[Great Masters](#h.ysqn6uwkfhc7)12](#h.ysqn6uwkfhc7)
-[[Relevant Places](#h.agwkqvrgo4mz)12](#h.agwkqvrgo4mz)
-[[Related](#h.p76dioscri0u)12](#h.p76dioscri0u)
-[[Conversations that introduced meditation](#h.ulrn5zvl4ato)14](#h.ulrn5zvl4ato)
-[[Scratch Notes of Related Interest](#h.hfcpcy3i6qnn)15](#h.hfcpcy3i6qnn)
+- [Quickstart Guide](#quickstart-guide)
+- [Why Meditation is Awesome](#why-meditation-is-awesome)
+- [Great Starting Points](#great-starting-points)
+- [Video/Audio](#videoaudio)
+- [Experiential](#experiential)
+- [Great Courses you can take to get into it](#great-courses-you-can-take-to-get-into-it)
+- [Recorded (many free)](#recorded-many-free)
+- [Live](#live)
+- [Great Tutorials](#great-tutorials)
+- [Noticing and releasing thoughts](#noticing-and-releasing-thoughts)
+- [More Great Books](#more-great-books)
+- [More Advanced Resources and Tricks](#more-advanced-resources-and-tricks)
+- [Insights that Could Change the Whole World](#insights-that-could-change-the-whole-world)
+- [Profound / Powerful Quotes](#profound-powerful-quotes)
+- [Why Meditate Sunrise Tai Chi ~Ramel Rones](#why-meditate-sunrise-tai-chi-ramel-rones)
+- [“Qi from the earth into the sword” There are No Secrets ~Cheng Man Ching](#qi-from-the-earth-into-the-sword-there-are-no-secrets-cheng-man-ching)
+- [For Reference](#for-reference)
+- [Great Masters](#great-masters)
+- [Relevant Places](#relevant-places)
+- [Related](#related)
+- [Conversations that introduced meditation](#conversations-that-introduced-meditation)
+- [Scratch Notes of Related Interest](#scratch-notes-of-related-interest)
 
-[[See also: http://lifechange.jacobcole.net/](http://lifechange.jacobcole.net/) • http://qigong.connectordocs.com/](http://qigong.connectordocs.com/)
+[See also: http://lifechange.jacobcole.net/ • http://qigong.connectordocs.com/](http://qigong.connectordocs.com/)
 
 # Quickstart Guide
 - [Try this now! Quick and easy way to start experiencing something different and generally feeling better, especially if sluggish or depressed: Donna Eden Daily Energy Routine](https://www.youtube.com/watch?v=Di5Ua44iuXc) (Acupressure point tapping + more; 10 min). Feel the effect!
-- [[One angle of the goal of meditative practices: it's the skill of getting your brain to produce "theta waves" on demand. And these waves aren't just figures on an EEG – they reflect a dreamlike subjective experience that grants you a new set of tasteful aesthetic lenses on the world. Read this 2 page overview on meditation & related from the book Sunrise Tai Chi](https://www.amazon.com/Sunrise-Tai-Chi-Beginner-M/dp/B0008DB77Y): thetawaves.jacobcole.net](http://thetawaves.jacobcole.net/)!
-- [[Read/do at least one item from each of: Why Meditation is Awesome](#h.uvxp36wldjv2) and Great Starting Points](#h.qn0gg592y19f)!
+- [One angle of the goal of meditative practices: it's the skill of getting your brain to produce "theta waves" on demand. And these waves aren't just figures on an EEG – they reflect a dreamlike subjective experience that grants you a new set of tasteful aesthetic lenses on the world. Read this 2 page overview on meditation & related from the book Sunrise Tai Chi : thetawaves.jacobcole.net](http://thetawaves.jacobcole.net/)!
+- [Read/do at least one item from each of: Why Meditation is Awesome and Great Starting Points](#h.qn0gg592y19f)!
 
 #
 
@@ -49,7 +51,7 @@ Resources on how (and why!) to get into meditation and related practices in an e
 
 - [Experiential: see a great craniosacral therapist, osteopathic doctor who does hands-on manipulation, or massage therapist http://bodymasters.jacobcole.net/](http://bodymasters.jacobcole.net/)
 - [Desikachar on the meaning and purpose of yoga](https://drive.google.com/file/d/1Pq53lXNspSudpaFFUpqlAyuqHBIA7ieH/view)(My favorite six pages of philosophy, of any sort, I have ever read.)
-- [[Passage on the experience of Kundalini Awakening](https://drive.google.com/open?id=1ekNQpVwCd2q4RXqYyyOeN-9LGkQ-SDlp&authuser=0) from The Biological Basis of Religion and Genius](https://www.amazon.com/Biological-Basis-Religion-Genius/dp/094113606X/ref=sr_1_fkmr1_1)
+- [Passage on the experience of Kundalini Awakening from The Biological Basis of Religion and Genius](https://www.amazon.com/Biological-Basis-Religion-Genius/dp/094113606X/ref=sr_1_fkmr1_1)
 - [Heidegger’s idea of “das sein” (“pure Being is underrated”)](https://drive.google.com/file/d/1ccn7QcfBVNgRIPTHdPDhAGOBUCbkC_qq/view)
 - [The Art of Learning](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465) #book #TaiChi
 
@@ -70,7 +72,7 @@ So is the perception of God.” ~Paramahansa Yogananda
 - [Bhastrika Breathing “Bellows Breathing.” “Yogic Coffee”](https://www.youtube.com/watch?v=NH0ZdkGSAPU) (2min)
 - [Desikachar on the meaning and purpose of yoga](https://drive.google.com/file/d/1Pq53lXNspSudpaFFUpqlAyuqHBIA7ieH/view)(My favorite six pages of philosophy, of any sort, I have ever read.)
 - [Pranayama.jacobcole.net](http://pranayama.jacobcole.net/) (Breathing exercises; 1 hr, or you could start with Ex 3: Extending Breath at 35:57)
-- [[Intense Qigong intro set https://vimeo.com/286706414](https://vimeo.com/286706414) (1hr, profound; brief intro](https://www.youtube.com/watch?v=w76_3vnyvS4))
+- [Intense Qigong intro set https://vimeo.com/286706414 (1hr, profound; brief intro](https://www.youtube.com/watch?v=w76_3vnyvS4))
 - [Qi Gong for Anxiety and Chest Tightness w Jeffrey Chand](https://www.youtube.com/watch?v=_ZDCslmNHRI) (less intense)
 - #todo Sabrina classes
 - #todo Roger 2 min short satisfying breath meditation
@@ -129,10 +131,10 @@ A further interesting observation: it seems the more distractible you are, the f
 ^ highly recommended starting point for meditation, philosophically agnostic just teaches the techniques to get results from meditation
 Mastering the Core Teachings of the Buddha
 ^ pragmatic dharma book, useful for a map/highest level overview of where you are going in meditation ("enlightenment") and how to get there.
-[[Science for Greater Mindfulness](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985) (preview](http://yoga.jacobcole.net/)) #philosophy #practice #profound
+[Science for Greater Mindfulness (preview](http://yoga.jacobcole.net/)) #philosophy #practice #profound
 Zen Mind, Beginners Mind
 There Are No Secrets ~Cheng Man Ching
-#complete The Complete Book of Chinese Health and Healing, Guarding the 3 Treasures ~Daniel Reid
+Tags:, complete, The, Complete, Book, of, Chinese, Health, and, Healing,, Guarding, the, 3, Treasures, ~Daniel, Reid
 Shambhala: The Sacred Path of the Warrior ~Chögyam Trungpa
 
 # More Advanced Resources and Tricks
@@ -146,7 +148,7 @@ http://qigong.connectordocs.com/
 [See also: http://mentalstatehacks.jacobcole.net/](http://mentalstatehacks.jacobcole.net/)
 
 # Insights that Could Change the Whole World
-#todo
+Tags:, todo
 “Ah! That’s strange.” Noticing every inner voice
 "Tai Chi is the only time of day I feel I'm fully oxygenated” ~The Art of Learning
 http://lifechangingthings.jacobcole.net/
@@ -174,7 +176,7 @@ http://lifechangingthings.jacobcole.net/
 
 ## Great Masters
 http://bodymasters.jacobcole.net/
-#taiChi
+Tags:, taiChi
 Cheng Man Ching
         William C C Chen #alive
 [Benjamin Lo](https://www.youtube.com/watch?v=o8pCHvGVNf0)
@@ -217,7 +219,7 @@ Jacob
 
 P.S.  Just as interesting would be to find what blockages you have that make it difficult to produce theta waves – whether they are mental, physical, emotional, or due to the structure/busy-ness of your life
 
-[[P.P.S. At some point you should meet dkthehuman.com](https://www.dkthehuman.com/), who is a Princeton grad polymath hacker who in some ways reminds me of you (blog](https://www.notion.so/dkthehuman/Maker-Log-c3be0bb060774c8ba296b3819ac2407b)). Also, he took an entire year off after graduating to train in meditation!
+[P.P.S. At some point you should meet dkthehuman.com , who is a Princeton grad polymath hacker who in some ways reminds me of you (blog](https://www.notion.so/dkthehuman/Maker-Log-c3be0bb060774c8ba296b3819ac2407b)). Also, he took an entire year off after graduating to train in meditation!
 
 --------
 
@@ -225,7 +227,7 @@ Curious if any of this connects with you too!
 
 - Also:
 
-#AGoalOfMeditation Touching the profoundness of the universe. Perhaps relates to a deep curiosity.
+Tags:, AGoalOfMeditation, Touching, the, profoundness, of, the, universe., Perhaps, relates, to, a, deep, curiosity.
 https://youtu.be/HX-TpHlx1As 2:07 “Everything is Brahma, everything is spirit, everything is light. Even as the man who was engrossed in crying in watching the tragedy in the motion picture when he suddenly looks at the beam and sees the beam has created everything he says: ‘Everything is shadow and light! How could I feel sorry about the tragedy picture?’ So is the perception of God.” ~Paramahansa Yogananda
 "...There is one purpose, to get the beam."
 

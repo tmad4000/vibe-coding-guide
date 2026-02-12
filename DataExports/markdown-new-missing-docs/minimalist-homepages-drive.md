@@ -1,7 +1,9 @@
-[[[Minimalist Homepagessystematicawesome.jacobcole.net/](http://systematicawesome.jacobcole.net/) >  mitdoc](https://docs.google.com/document/d/1bT_ncm0h-zrZZsAmmaNrieVM9LrhNQbBX5TZnGDPMBg/edit)  >  minimalisthomepages.com](http://minimalisthomepages.com)
+# Minimalist Homepages Drive
+
+[Minimalist Homepagessystematicawesome.jacobcole.net/ >  mitdoc >  minimalisthomepages.com](http://minimalisthomepages.com)
 [started by jcole@mit.edu](mailto:jcole@mit.edu)
 [A centerpoint for yourself on the web                                                                 See also: homepg.site](http://homepg.site/) •
-[[Click here](https://docs.google.com/document/d/16mZC7AqnNdBosLwYaHSyZSqQEKuoggT3mIfVIoaqvOA/pub)to make your own minimalist homepage in 5 min                                         people.worldquestguild.connectr.site](http://people.worldquestguild.connectr.site)
+[Click here to make your own minimalist homepage in 5 min                                         people.worldquestguild.connectr.site](http://people.worldquestguild.connectr.site)
 It’s amazingly life-organizing and inspiring :)
 
 [note: several .tk homepage domains have expired. Feel free to ping jacob@ideaflow.io](mailto:jacob@ideaflow.io) for a subdomain
@@ -11,11 +13,11 @@ Add yours here!
 [montykosma.com](http://montykosma.com)                        “Monty Kosma’s Space”
 [christainbarnes.com](http://www.christainbarnes.com)                         Christain Barnes
 [catyvigil.minimalisthomepages.com](http://catyvigil.minimalisthomepages.com)“Caty’s Homepage”
-[[V](http://www.vajresh.com)ajresh.com](http://www.vajresh.com)                         “Vajresh’s Space”        
+[V ajresh.com](http://www.vajresh.com)                         “Vajresh’s Space”        
 [Kliment](https://docs.google.com/document/d/e/2PACX-1vQwn2a59SrqU9lW1FFBwj6aHSTG0-jukqYu6arZ2j876hE3z-DHkAE98PvwsEEF5SF8WiRrkybJuxlh/pub)
 [Matthew Calligaro](http://matthewcalligaro.minimalisthomepages.com)
 [jacobcole.net](http://jacobcole.net)“Jacob’s Stuff”
-[[M](http://miles.minimalisthomepages.com/)iles.minimalisthomepages.com](http://miles.minimalisthomepages.com/)        “Miles”
+[M iles.minimalisthomepages.com](http://miles.minimalisthomepages.com/)        “Miles”
 [dheera.net](https://dheera.net)        “Dheera”
 [trezitorxul.tk](http://trezitorul.tk)                “Sam’s Space”
 [X dyon5.tk](http://dyon5.tk)“rht’s ldap”
@@ -26,7 +28,7 @@ Add yours here!
 [x cortexelus.tk](http://cortexelus.tk)        “CJ's minimalist homepage”                
 loosblog        “Project Justine”
 [x Dan-Dan.tk](http://dan-dan.tk)
-[[x kmartinez.tk](http://www.kmartinez.tk/) (direct](https://docs.google.com/document/d/1EIP1In6NqVHkGqeGvBpy4js72iAdNBb8MROgG4RY3YQ/pub))        “Keith’s Creations”
+[x kmartinez.tk (direct](https://docs.google.com/document/d/1EIP1In6NqVHkGqeGvBpy4js72iAdNBb8MROgG4RY3YQ/pub))        “Keith’s Creations”
 x srezchikov.tk                “Semon R’s stuff”
 [markstuff](https://docs.google.com/document/d/1g6_5AqNvJ1TUP6IXKwVMGDPBpvSP_MoSTkIetdlWL-Q/pub)                “Mark Liu”
 [sheenakat.tk](http://sheenakat.tk)                “Sheena’s Footprint”
@@ -39,7 +41,7 @@ x srezchikov.tk                “Semon R’s stuff”
 [x mindylive.tk](http://mindylive.tk)                “Mindy’s Stuff”
 [-  ldogg460.tk](http://ldogg460.tk)                “Ldogg’s stuff”
 [x ericisbored.tk](http://ericisbored.tk)                “Eric Gu’s Brain Droppings”
-[[o theplaz.com](http://theplaz.com)(min](https://docs.google.com/document/d/1pPeXrobq68_xby0IAHWF0tVUZe330sPGfb6lO9mhZEA/edit))        “Plaz (non-minimalist) homepage”
+[o theplaz.com (min](https://docs.google.com/document/d/1pPeXrobq68_xby0IAHWF0tVUZe330sPGfb6lO9mhZEA/edit))        “Plaz (non-minimalist) homepage”
 [alicewumin.tk](https://docs.google.com/document/d/1DSMnNU-XZNNWzgbRZ8Dt_rLgsYT2PHNlzDRYuK7T49U/pub)                “Alice’s Homepage-in-Progress”
 [- vladimirbok.tk](http://vladimirbok.tk)“Vladimir’s minimalist homepage”
 [x jimmyFW.tk](http://jimmyfw.tk)“Jimmy’s projects”
@@ -98,7 +100,7 @@ So actually, how many of you don't have homepage at all? And equally relevant is
 -
 - [Facebook (product): What features do you wish Facebook had?: TL;DR: I think that "facebook for project sharing" is one of the most important "low-hanging fruit" projects yet to be done currently in existence.  http://qr.ae/sLmOn](http://qr.ae/sLmOn)
 - #tt fully resource self by admiring / reviewing past good work #whyawesome minimalist homepages
-- [[Related https://sive.rs/now](https://sive.rs/now) , https://youneedawiki.com/](https://youneedawiki.com/)
+- [Related https://sive.rs/now , https://youneedawiki.com/](https://youneedawiki.com/)
 -
-- [[[under construction](http://instadefine.com/IdeaOverflow/Outlinr-PHP/public_html/catzjcr/public_html/index.1.7_suggestionbox.php?mapid=216) with arcolife](https://github.com/arcolife/homepage-gen): custom platform](http://minimalist.herokuapp.com)
+- [under construction with arcolife : custom platform](http://minimalist.herokuapp.com)
 - [Money Stuff: Sure, Blame the Compliance Consultant](https://emailshot.io/p/K7Baqt6bh8M7XeTr5UCm254oAczuJs5HF)

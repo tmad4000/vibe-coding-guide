@@ -1,6 +1,8 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  cryptoconnect.jacobcole.net](http://cryptoconnect.jacobcole.net)
-#connectordoc
-[[started by SystematicAwesome@gmail.com](mailto:systematicawesome@gmail.com), jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+# Cryptoconnect
+
+[systematicawesome.jacobcole.net >  cryptoconnect.jacobcole.net](http://cryptoconnect.jacobcole.net)
+Tags:, connectordoc
+[started by SystematicAwesome@gmail.com , jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the Feed of Needs at the top!                        
 
@@ -8,13 +10,13 @@ CryptoConnect
 CryptoConnect – things that could help friends in the blockchain community #connectordoc
 Add yourself to Seeking Employment, or add an opportunity
 
-[[Feed of Needs](#h.rtlobv92pwge)1](#h.rtlobv92pwge)
-[[Crypto Companies that are Hiring](#h.25i3ssyzad8y)1](#h.25i3ssyzad8y)
-[[Startups](#h.z3ngbtvkoc4p)1](#h.z3ngbtvkoc4p)
-[[Mobius](#h.ynu2hnsi56fr)2](#h.ynu2hnsi56fr)
-[[TrustToken](#h.wk9ds488ive7)2](#h.wk9ds488ive7)
-[[Seeking Employment](#h.4728r1ta52oo)2](#h.4728r1ta52oo)
-[[Diego Roque (MIT, IMO/IOI Gold Medalist, Haskell)](#h.8wv1g7h1bf7d)2](#h.8wv1g7h1bf7d)
+- [Feed of Needs](#feed-of-needs)
+- [Crypto Companies that are Hiring](#crypto-companies-that-are-hiring)
+- [Startups](#startups)
+- [Mobius](#mobius)
+- [TrustToken](#trusttoken)
+- [Seeking Employment](#seeking-employment)
+- [Diego Roque (MIT, IMO/IOI Gold Medalist, Haskell)](#diego-roque-mit-imoioi-gold-medalist-haskell)
 
 # Feed of Needs
 Add what you or others are looking for here...
@@ -26,7 +28,7 @@ Graphen Protocol - Distributed, decentralized graph database (DLT)
         I heard Sora Ventures is very bullish on graphs, so even a connection there?
 
 Harmony / Li Jiang
-[[Working on full and secure sharding on layer 1 at harmony.one (/architecture](https://medium.com/harmony-one/sharding-consensus-and-contracts-9f2461ea4559), /libunison](https://github.com/harmony-one/libunison))
+[Working on full and secure sharding on layer 1 at harmony.one (/architecture , /libunison](https://github.com/harmony-one/libunison))
         Looking for partners, dapps who want to build with harmony
 li@harmony.one  
 
@@ -101,7 +103,7 @@ Autonomi.io #Hiring
 ### IdeaFlow
 
 - [Jacob@ideaflow.io](mailto:Jacob@ideaflow.io)
-- [["There are millions of scientists trying to cure the likes of AIDS and Alzheimer's. Maybe the cure is currently separated in different people's heads. How can we design the web so that these half-formed solutions can come together?” ~Sir Tim Berners-Lee, 2011
+- ["There are millions of scientists trying to cure the likes of AIDS and Alzheimer's. Maybe the cure is currently separated in different people's heads. How can we design the web so that these half-formed solutions can come together?” ~Sir Tim Berners-Lee, 2011
 
 IdeaFlow is a startup from MIT that came out of research with Tim Berners-Lee building a human-AI hybrid platform to connect all of the ideas and people in the world that should be connected. We are creating a tool to augment the collective intelligence of groups and the world.
 
@@ -116,7 +118,7 @@ ICO Ecosystem https://ideapad.io/blockchain-ecosystem/graph?snapshot=icoconducte
 
 Videos:
 Video: Graph view: IdeaFlow for Investment Banking - Interpersonal Networks in the Autonomous Vehicles Industry
-https://youtu.be/iTxGUhKcfM](https://youtu.be/iTxGUhKcfM) Try it
+https://youtu.be/iTxGUhKcfM Try it
 Video: Bullet view
 https://www.youtube.com/watch?v=s0JGfIYcEGw&feature=youtu.be](https://www.youtube.com/watch?v=s0JGfIYcEGw&feature=youtu.be) Try it: entanglement.ideapad.io
 
@@ -124,7 +126,7 @@ https://www.youtube.com/watch?v=s0JGfIYcEGw&feature=youtu.be](https://www.youtub
 ### Mobius
 
 - http://mobius.network/
-- [[Description: Connecting the world to the blockchain economy. See Roadmap](https://medium.com/mobius-network/mobius-roadmap-update-may-2018-198bb8e08637). First product is DApp Store](https://medium.com/mobius-network/mobius-dapp-store-2-0-demo-d5d1bd574057).
+- [Description: Connecting the world to the blockchain economy. See Roadmap . First product is DApp Store](https://medium.com/mobius-network/mobius-dapp-store-2-0-demo-d5d1bd574057).
 
 - Sold $39M in tokens and raised $3M in investment capital.
 
@@ -149,7 +151,7 @@ https://www.youtube.com/watch?v=s0JGfIYcEGw&feature=youtu.be](https://www.youtub
 
 - Company & Products
 
-- [[TrustToken](https://www.trusttoken.com/) is a platform to create asset-backed tokens that you can easily buy and sell around the world. For example, gold to gold tokens or dollar to dollar tokens. Our first asset token is TrueUSD, a stablecoin that you can redeem 1-for-1 for US dollars. TrueUSD](https://www.trusttoken.com/trueusd) is listed on Bittrex, the largest exchange in the US, and Upbit, one of the largest exchanges in the world.
+- [TrustToken is a platform to create asset-backed tokens that you can easily buy and sell around the world. For example, gold to gold tokens or dollar to dollar tokens. Our first asset token is TrueUSD, a stablecoin that you can redeem 1-for-1 for US dollars. TrueUSD](https://www.trusttoken.com/trueusd) is listed on Bittrex, the largest exchange in the US, and Upbit, one of the largest exchanges in the world.
 
 - What you can expect from us
 
@@ -193,9 +195,9 @@ Client Success
 
 - We're building Puma Browser, a privacy-focused web browser that allows you to directly pay for content. We'd like to deliver better incentives for high-quality content creators and offer users a premium, private, and distraction-free browsing experience.
 
-- [[Video demo of the iOS app:](https://www.pumabrowser.com/video-demo.mp4)https://www.pumabrowser.com/video-demo.mp4](https://www.pumabrowser.com/video-demo.mp4)
-- [[Fan art video:](https://drive.google.com/file/d/19Y-OGmqoXPEQqkYPltkNCQBIfM6pd4a4/view)https://drive.google.com/file/d/1U5re0-IzzbPNrYRtneV59CiO97gps-5M/view](https://drive.google.com/file/d/1U5re0-IzzbPNrYRtneV59CiO97gps-5M/view)
-- [[Stack: Expo/React Native, Interledger Protocol](https://interledger.org/), Web Monetization](https://interledger.org/rfcs/0028-web-monetization/), Coil.com
+- [Video demo of the iOS app: https://www.pumabrowser.com/video-demo.mp4](https://www.pumabrowser.com/video-demo.mp4)
+- [Fan art video: https://drive.google.com/file/d/1U5re0-IzzbPNrYRtneV59CiO97gps-5M/view](https://drive.google.com/file/d/1U5re0-IzzbPNrYRtneV59CiO97gps-5M/view)
+- [Stack: Expo/React Native, Interledger Protocol , Web Monetization](https://interledger.org/rfcs/0028-web-monetization/), Coil.com
 - Open Positions
 
 - Senior React Native / iOS Engineer

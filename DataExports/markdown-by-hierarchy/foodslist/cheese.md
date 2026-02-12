@@ -1,9 +1,11 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > foodslist.jacobcole.net](http://foodslist.jacobcole.net/) >cheese.jacobcole.net](http://cheese.jacobcole.net)
+# Cheese
+
+[systematicawesome.jacobcole.net > foodslist.jacobcole.net >cheese.jacobcole.net](http://cheese.jacobcole.net)
 [Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Cheese
 List of great cheeses!
 
-[[[[See Also: foodslist.jacobcole.net](http://foodslist.jacobcole.net/) • cheese.jacobcole.net](http://cheese.jacobcole.net) • chocolate.jacobcole.net](http://chocolate.jacobcole.net/) • tea.jacobcole.net](http://tea.jacobcole.net)
+[See Also: foodslist.jacobcole.net • cheese.jacobcole.net • chocolate.jacobcole.net • tea.jacobcole.net](http://tea.jacobcole.net)
 
 [Cheese List](#h.sv47alx9aq7b)
 [Misc](#h.5h0epskepyna)
@@ -16,7 +18,7 @@ List of great cheeses!
 ## Cheese List
 
 ### Misc
-#good Moosbacher Austrian Baby Swiss
+Tags:, good, Moosbacher, Austrian, Baby, Swiss
 Holey Cow (from Staff of Life in Santa Cruz)
 Special Provolone (from Staff of Life in Santa Cruz)
 Vacherin

@@ -1,9 +1,11 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > philosophy.jacobcole.net](http://philosophy.jacobcole.net)> ethicaldilemmas.jacobcole.net](http://ethicaldilemmas.jacobcole.net)
+# Ethicaldilemmas
+
+[systematicawesome.jacobcole.net > philosophy.jacobcole.net > ethicaldilemmas.jacobcole.net](http://ethicaldilemmas.jacobcole.net)
 [Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Ethical Dilemmas
 Ethical dilemmas with no conclusive answer. Perhaps the only satisfying course of action is figure out a way to make it so we don't have to face them in reality.
 
-[[[[See Also: Excellent Books (Jacob + Friends Curated)](https://drive.google.com/open?id=1cy36gZz74NwjE9C1UOJ1OUPIIm4v5vSHpuhKcNetfcs) • Jacob’s Raw Books List](https://docs.google.com/document/d/10hCB_gzJZ-Ns5JUkxpPR0DLKXSsCGRUYmsFvrCsairc)• lifechangingthings.jacobcole.net](http://lifechangingthings.jacobcole.net/) • easilysolvableworldproblems.jacobcole.net](http://easilysolvableworldproblems.jacobcole.net/)
+[See Also: Excellent Books (Jacob + Friends Curated) • Jacob’s Raw Books List • lifechangingthings.jacobcole.net • easilysolvableworldproblems.jacobcole.net](http://easilysolvableworldproblems.jacobcole.net/)
 
 (Under construction)
 

@@ -1,4 +1,6 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net) > quotes.jacobcole.net](http://quotes.jacobcole.net)
+# Quoteslist
+
+[systematicawesome.jacobcole.net > quotes.jacobcole.net](http://quotes.jacobcole.net)
 (formerly quoteslist.jacobcole.net)
 [Contact: jacobcole4000@gmail.com](mailto:jacobcole4000@gmail.com)
 Quotes
@@ -7,20 +9,20 @@ Add your own, and add comments on how you connect to quotes!
 
 Goals: Connect people with others who have similar taste in quotes or who liked similar quotes 10 years ago. (Find an older version of yourself!). Wise quotes are wise because they apply to many different human experiences, across people, space, and time. Gather comments from many people on how wise quotes applied to their lives (do this for various wisdom texts, e.g. the Tao Te Ching, the Bible). Connect related wise quotes from across different cultures/times that speak of the same truth in different words
 
-[[[[See Also: Excellent Books (Jacob + Friends Curated)](https://drive.google.com/open?id=1cy36gZz74NwjE9C1UOJ1OUPIIm4v5vSHpuhKcNetfcs) • Jacob’s Raw Books List](https://docs.google.com/document/d/10hCB_gzJZ-Ns5JUkxpPR0DLKXSsCGRUYmsFvrCsairc)• lifechangingthings.jacobcole.net/](http://lifechangingthings.jacobcole.net/) • thoughtfulweb.jacobcole.net](http://thoughtfulweb.jacobcole.net/)
+[See Also: Excellent Books (Jacob + Friends Curated) • Jacob’s Raw Books List • lifechangingthings.jacobcole.net/ • thoughtfulweb.jacobcole.net](http://thoughtfulweb.jacobcole.net/)
 
 Table of Contents
-[[Quotes & Poems Lists](#h.usl5e8m4hc2u)1](#h.usl5e8m4hc2u)
-[[Jacob](#h.qoblpfst4ibu)1](#h.qoblpfst4ibu)
-[[Michael Norman](#h.89oal1l7sjod)11](#h.89oal1l7sjod)
-[[Add Your Own Favorites!](#h.e2ylz0urar9t)235](#h.e2ylz0urar9t)
-[[See also: Life Changing Books, Quotes, and More](#h.t1ue42nvicqk)235](#h.t1ue42nvicqk)
+- [Quotes & Poems Lists](#quotes-poems-lists)
+- [Jacob](#jacob)
+- [Michael Norman](#michael-norman)
+- [Add Your Own Favorites!](#add-your-own-favorites)
+- [See also: Life Changing Books, Quotes, and More](#see-also-life-changing-books-quotes-and-more)
 
 # Quotes & Poems Lists
 
 ## Jacob
 
-[[Annotations on “On Work” ~Kahlil Gibran](http://www.katsandogz.com/onwork.html) (Graph](https://ideapad.io/quotes-1/graph?snapshot=on-work))
+[Annotations on “On Work” ~Kahlil Gibran (Graph](https://ideapad.io/quotes-1/graph?snapshot=on-work))
         "Work is love made visible." ~On Work, Kahlil Gibran
 
 For to be idle is to... to step out of life's procession, that marches in majesty and proud submission towards the infinite.
@@ -48,10 +50,10 @@ Scrabbling for nature
 Sometimes I forget that Earth is here just inches below the pavement
 ~Jacob
 
-[“I have left the world of Right and Wrong and instead focus on what keeps the love flowing.” ~Cristina Casanova, marriage counselor <relates to> “Out beyond ideas of wrongdoing and rightdoing…” ~Rumi](#id.s0xzq5awzip)
+[“I have left the world of Right and Wrong and instead focus on what keeps the love flowing.” ~Cristina Casanova, marriage counselor <relates to> “Out beyond ideas of wrongdoing and rightdoing…” ~Rumi]
 
 Everything people say or do is either an expression of love or a cry for love.
-#lifeChanging
+Tags:, lifeChanging
 
 I am the creativity
 I am the dance step of the paintbrush singing
@@ -81,10 +83,10 @@ The only path to serenity.
 
 ~Lao Tzu, Tao Te Ching
 (chapter nine, translation by Stephen Mitchell)
-#lifeChanging
+Tags:, lifeChanging
 
 Isn’t it amazing that you don’t have to wait a single moment to start becoming the person you want to become?
-#lifeChanging
+Tags:, lifeChanging
 
 “It is…" I trailed off, racking my brain to think how I could describe love without resorting to other, equally abstract terms.
 “This is the nature of love," Vashet said. “To attempt to describe it will drive a woman mad. That is what keeps poets scribbling endlessly away. If one could pin it to the paper all complete, all others would lay down their pens. But it cannot be done"
@@ -102,15 +104,15 @@ Comment: To motivate myself to meditate, I ask myself: honestly, can I save more
  #lifeChanging
 
 Learning to meditate is like a soldier learning to put down his sword — it’s useless if you simply go and pick it up again when you are done ~Dalal Lama
-#lifeChanging
+Tags:, lifeChanging
 
 "I'm skimming across the surface of my own history, moving fast, riding the melt beneath the blades, doing loops and spins, and when I take a high leap into the dark and come down thirty years later, I realize it is as Tim trying to save Timmy's life with a story." ~Tim O’Brian
 
 “There are a thousand hacking at the branches of evil to one who is striking at the root.” ~Henry David Thoreau
-#lifeChanging
+Tags:, lifeChanging
 
 Find a happy person and you will find a project
-#lifeChanging
+Tags:, lifeChanging
 
 That voice of wisdom small but deep
 
@@ -118,7 +120,7 @@ While standing in line
 Tilt to head back and relax the ribs
 To keep the connection
 To the divine
-#PostTaichi #poem #taichi
+Tags:, PostTaichi, poem, taichi
 
 On Children ~Kahlil Gibran #poem
 Your children are not your children.
@@ -189,7 +191,7 @@ Now I see the value of training the fighting as a way to learn to remain centere
 Seeing my own internal stressors as opponents
 Instead of engaging with an unproductive and painful process, return to engaging with the flows within me that are leading to healing — the circulation of qi
 The flow of qi through the channels from foot to fingertip #best #qigong
-#Poem #Haiku-ish
+Tags:, Poem, Haiku-ish
 
 In the cold as ashok’s garage opens
 All I see is peace and excitement and crisp Rochester’s snow
@@ -201,7 +203,7 @@ is a fountain of energy
 The ultimate surf to be ridden
 Which moves me in spite of myself #Poem
 Comment: Surfing is a plainer metaphor than most for what is really going on in the world
-#lifeChanging
+Tags:, lifeChanging
 
 Muted muffled time-constrained friendships like our hearts are slowly going deaf
 
@@ -226,7 +228,7 @@ People are going back and forth across the doorsill
 where the two worlds touch.
 The door is round and open.
 Don’t go back to sleep.” ~Rumi
-[<relates to> “I have left the world of Right and Wrong and instead focus on what keeps the love flowing.” ~Cristina Casanova](#id.l4woicj1zxqz)
+[<relates to> “I have left the world of Right and Wrong and instead focus on what keeps the love flowing.” ~Cristina Casanova]
 
 https://www.poetryfoundation.org/poems/51296/ithaka-56d22eef917ec #poem ithaka ~cavafy @chase
 
@@ -280,7 +282,7 @@ Loss has already transfigured your life into an altar.
 ~ Friedrich Nietzsche%%% #morality #darkness
 
 “You must have chaos within you to give birth to a dancing star.” ~ Friedrich Nietzsche%%%
-#chaos #dance #creativity #beautiful
+Tags:, chaos, dance, creativity, beautiful
 
 “In heaven, all the interesting people are missing.” ~ Friedrich Nietzsche%%% #funny
 
@@ -326,7 +328,7 @@ Two roads diverged in a wood, and I—
 I took the one less traveled by,
 And that has made all the difference.
 ~ ROBERT FROST%%%
-#lifepath #journey #bedifferent #beweird #individuality
+Tags:, lifepath, journey, bedifferent, beweird, individuality
 
 There is no greater impediment to the advancement of knowledge than the ambiguity of words.
 ~Thomas Reid%%% #knowledge #communication #problem
@@ -882,7 +884,7 @@ https://revsponderings.wordpress.com/2013/10/16/thomas-merton-a-letter-to-a-youn
 the wounds have changed me. i am so soft with scars my skin breathes and beats stars. ~ Nayyirah Waheed%%% #wounds #resilience #beauty
 
 i want more ‘men’ with flowers falling from their skin. more water in their eyes. more tremble in their bodies. more women in their hearts than on their hands. more softness in their height. more honesty in their voice. more wonder. more humility in their feet. ~ Nayyirah Waheed%%%
-#vulnerability #men #relationships #truth #wonder #humility #tender #honesty
+Tags:, vulnerability, men, relationships, truth, wonder, humility, tender, honesty
 
 ...can we speak in flowers. it will be easier for me to understand.
 ~ Nayyirah Waheed%%%%%% #language

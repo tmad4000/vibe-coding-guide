@@ -1,5 +1,7 @@
-[[[`                     systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > ideaflowproject.jacobcole.net](http://ideaflowproject.jacobcole.net)
-#project #connectordoc
+# Ideaflowproject
+
+[`                     systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > ideaflowproject.jacobcole.net](http://ideaflowproject.jacobcole.net)
+Tags:, project, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Ideaflow (The Project)
@@ -7,14 +9,14 @@ ideaflow.app
 - Unlock people’s ability to connect with one another
 - Catalogue and connect the world’s ideas
 
-[[About](#h.3222yn14cg40)1](#h.3222yn14cg40)
-[[People](#h.3scmwp2rygc)1](#h.3scmwp2rygc)
-[[Mocks](#h.xm72mt6mtb4l)1](#h.xm72mt6mtb4l)
-[[Press](#h.icphxc8r01sc)1](#h.icphxc8r01sc)
-[[Purpose](#h.kutdy0g2na45)1](#h.kutdy0g2na45)
-[[Positioning](#h.59cohlbkke8s)2](#h.59cohlbkke8s)
-[[Scratch](#h.tidfwfj5hrex)2](#h.tidfwfj5hrex)
-[[See Also](#h.gw5qelc6p42r)3](#h.gw5qelc6p42r)
+- [About](#about)
+- [People](#people)
+- [Mocks](#mocks)
+- [Press](#press)
+- [Purpose](#purpose)
+- [Positioning](#positioning)
+- [Scratch](#scratch)
+- [See Also](#see-also)
 
 # About
 
@@ -32,7 +34,7 @@ Ben WIlliams
 
 ## Press
 [See also: Final Launch Communications (Shared) press.jacobcole.net](https://docs.google.com/document/d/1bmi7h5Uw5s_R_zf9WsPlHJtaH-qynhRq2Jns6el3pN4/edit?ts=5f9afdf8#)
-#aside Projection of people’s brain into digital space – some parts private some parts public
+Tags:, aside, Projection, of, people’s, brain, into, digital, space, –, some, parts, private, some, parts, public
 creating tools that give people information processing superpowers.
 
 ideaflow rm from website
@@ -59,7 +61,7 @@ Which is [initially] made possible through…
 - By creating a medium for people to catalogue their ideas and the connections between them
 
 ### Positioning
-#DELIVERABLE #FINAL2: [[     ]]
+Tags:, DELIVERABLE, FINAL2:, [[, ]]
 
 - For (target customer) - who are your first 10K users?
 

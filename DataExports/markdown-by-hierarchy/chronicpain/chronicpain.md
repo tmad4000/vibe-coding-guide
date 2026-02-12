@@ -1,36 +1,38 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > ChronicPain.jacobcole.net](http://chronicpain.jacobcole.net)
-#connectordoc #curatedList
-[started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
+# Chronic Pain
 
-Contribute to the list at top!                
+*Tricks, tools, and resources for working with chronic pain*
 
-Chronic Pain
-Tricks, tools, and resources for working with chronic pain
+[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > [ChronicPain.jacobcole.net](http://chronicpain.jacobcole.net)
+Tags: connectordoc, curatedList — started by jacob@ideaflow.io
 
-[[Key Related Lists](#h.un1tmhe555sc)2](#h.un1tmhe555sc)
-[[General Techniques, Tips, and Tools](#h.uiu1pnu4aeu)2](#h.uiu1pnu4aeu)
-[[Things that have totally fixed people's chronic pain issues](#h.7uvoxqb6qwuj)2](#h.7uvoxqb6qwuj)
-[[Understanding Tension Myositis Syndrome](#h.sdocllu69qf2)2](#h.sdocllu69qf2)
-[[PRP / Prolotherapy injections to stimulate ligament growth](#h.bvutvj12npex)4](#h.bvutvj12npex)
-[[Gabapentin](#h.y6ve2kjo6vrv)4](#h.y6ve2kjo6vrv)
-[[Techniques](#h.6wq1d9ip2yri)4](#h.6wq1d9ip2yri)
-[[Supplementary Tools](#h.earls59raebp)6](#h.earls59raebp)
-[[Specific conditions](#h.cqt0kiojrr7t)6](#h.cqt0kiojrr7t)
-[[Repetitive Strain Injury (RSI)](#h.h8hwgvhxsthw)6](#h.h8hwgvhxsthw)
-[[Concussions](#h.gbbj85qul5jo)6](#h.gbbj85qul5jo)
-[[TFCC Rupture (causes ulnar pain on wrist supination)](#h.6jnjqd7jvc78)6](#h.6jnjqd7jvc78)
-[[Chronic knee pain](#h.wlrvggg3skyc)7](#h.wlrvggg3skyc)
-[[Back pain](#h.j0zd1n4433jm)7](#h.j0zd1n4433jm)
-[[SI (Sacroiliac) joint dysfunction  (specific type of lower back injury / pain)](#h.otrm8gizogjo)7](#h.otrm8gizogjo)
-[[Herniated Disc](#h.80yd9km65p50)7](#h.80yd9km65p50)
-[[TMJ temporomandibular joint (Jaw pain)](#h.stzaizvjxwoc)7](#h.stzaizvjxwoc)
-[[Migraines #WIP](#h.lbzhsdhg8m4b)7](#h.lbzhsdhg8m4b)
-[[Dietary sensitivities / digestion issues](#h.w0s5nkufi1ir)8](#h.w0s5nkufi1ir)
-[[Chronic fatigue syndrome  #wip](#h.6k435jot188z)8](#h.6k435jot188z)
-[[Ulcer #wip](#h.g7yryviclv8o)8](#h.g7yryviclv8o)
-[[Allergies #wip](#h.2979tm4gvqmc)8](#h.2979tm4gvqmc)
-[[People who have recovered from chronic pain who have resources or practices](#h.pi38np9oajdj)9](#h.pi38np9oajdj)
-[[Comments / Discussion](#h.k2bruz3z28wo)9](#h.k2bruz3z28wo)
+---
+
+**Contents**
+
+- [Key Related Lists](#key-related-lists)
+- [General Techniques, Tips, and Tools](#general-techniques-tips-and-tools)
+  - [Things that have totally fixed people's chronic pain issues](#things-that-have-totally-fixed-peoples-chronic-pain-issues)
+  - [Understanding Tension Myositis Syndrome (TMS)](#understanding-tension-myositis-syndrome-tms)
+  - [PRP / Prolotherapy injections](#prp-prolotherapy-injections-to-stimulate-ligament-growth)
+  - [Gabapentin](#gabapentin)
+- [Techniques](#techniques)
+- [Supplementary Tools](#supplementary-tools)
+- [Specific conditions](#specific-conditions)
+  - [Repetitive Strain Injury (RSI)](#repetitive-strain-injury-rsi)
+  - [Concussions](#concussions)
+  - [TFCC Rupture](#tfcc-rupture-causes-ulnar-pain-on-wrist-supination)
+  - [Chronic knee pain](#chronic-knee-pain)
+  - [Back pain](#back-pain)
+  - [SI joint dysfunction](#si-sacroiliac-joint-dysfunction-specific-type-of-lower-back-injury-pain)
+  - [Herniated Disc](#herniated-disc)
+  - [TMJ (Jaw pain)](#tmj-temporomandibular-joint-jaw-pain)
+  - [Migraines](#migraines-wip)
+  - [Dietary sensitivities / digestion](#dietary-sensitivities-digestion-issues)
+  - [Chronic fatigue syndrome](#chronic-fatigue-syndrome-wip)
+  - [Ulcer](#ulcer-wip)
+  - [Allergies](#allergies-wip)
+- [People who have recovered](#people-who-have-recovered-from-chronic-pain-who-have-resources-or-practices)
+- [Comments / Discussion](#comments--discussion)
 
 ### Key Related Lists
 [Tools and tricks for dealing with RSI rsiwiki.jacobcole.net](http://rsiwiki.jacobcole.net/)
@@ -40,7 +42,7 @@ Tricks, tools, and resources for working with chronic pain
 
 [See also: mentalstatehacks.jacobcole.net](http://mentalstatehacks.jacobcole.net/)
 
-[[a](http://adhd.jacobcole.net)dhd.jacobcole.net](http://adhd.jacobcole.net)
+[adhd.jacobcole.net](http://adhd.jacobcole.net)
 
 [Knee.jmdiveris.net](http://knee.jmdiveris.net) (broken link)
 
@@ -71,7 +73,7 @@ http://medicinalfoods.world/strategies-for-stress-and-anxiety/ ~Bobby Fishkin
 - Mobility and control exercise. Kinstretch.
 - Research terms:FRC, CARS, PAILs/RAILs
 
-- [[Functional Range Conditioning.](https://functionalanatomyseminars.com/frs-system/kinstretch/)This website](https://functionalanatomyseminars.com/frs-system/kinstretch/)
+- [Functional Range Conditioning](https://functionalanatomyseminars.com/frs-system/kinstretch/)
 - Controller Articular Rotation <joint>
 
 - [Hips](https://www.youtube.com/watch?v=hRMrq6G81p8&ab_channel=ClevelandClinic)
@@ -97,7 +99,7 @@ Learning about/how to work with it.
 [Intro: Breakthrough with Healing Chronic Pain | Howard Schubiner | Talks at Google](https://www.youtube.com/watch?v=0VyH1laOd2M&t=844s)
 [See also: http://aaroniba.net/how-i-cured-my-rsi-pain](http://aaroniba.net/how-i-cured-my-rsi-pain)
 [Reading Book: The Mindbody Prescription: Healing the Body, Healing the Pain](https://www.amazon.com/Mindbody-Prescription-Healing-Body-Pain/dp/0446675156) ~John Sarno completely cured a range of Highly skeptical, successful, technical friends from a variety of chronic pain conditions (including back pain / RSI)
-[[[“‘the mindbody workbook by david schechter](https://www.amazon.com/MindBody-Workbook-Program-Awareness-Disorders/dp/1929997051) is the book my friend used, and he also recommends unlearn your pain by howard schubiner](https://www.amazon.com/Unlearn-Your-Pain-third-Keller/dp/0984336745) which he says is better (site](https://www.unlearnyourpain.com/))” ~BL
+[“‘the mindbody workbook by david schechter is the book my friend used, and he also recommends unlearn your pain by howard schubiner which he says is better (site](https://www.unlearnyourpain.com/))” ~BL
                         http://sjbyrnes.com/rsi.html
 
 [Pain recovery workbook / 5th grade reading level book on pain](http://www.greglehman.ca/pain-science-workbooks)
@@ -111,9 +113,9 @@ John M:.
 - Going to trigger point massage, then doing it on self. Esp. unexpected spot on outer deltoid
 
 HR:
-- [[[[Strengthening arm muscles](https://docs.google.com/document/d/1GKaacv6LtOrwAH4Vogpf_qQWeGhnHkV_lMrdxNG51Ik/edit)Guide](https://docs.google.com/document/d/1GKaacv6LtOrwAH4Vogpf_qQWeGhnHkV_lMrdxNG51Ik/edit)](https://drive.google.com/drive/u/0/folders/1dZSrZ8o-vutqTS9csG1gv0ARKe86K-Zx)Exercises](https://drive.google.com/drive/u/0/folders/1dZSrZ8o-vutqTS9csG1gv0ARKe86K-Zx)
+- [Strengthening arm muscles - Guide & Exercises](https://docs.google.com/document/d/1GKaacv6LtOrwAH4Vogpf_qQWeGhnHkV_lMrdxNG51Ik/edit)
 
-- [[Just getting an Ergodox EZ Keyboard (see](https://sites.google.com/view/rsi-wiki/jacobs-tools-and-tricks-for-managing-rsi?authuser=0)https://sites.google.com/view/rsi-wiki/jacobs-tools-and-tricks-for-managing-rsi?authuser=0](https://sites.google.com/view/rsi-wiki/jacobs-tools-and-tricks-for-managing-rsi?authuser=0))
+- [Just getting an Ergodox EZ Keyboard](https://sites.google.com/view/rsi-wiki/jacobs-tools-and-tricks-for-managing-rsi?authuser=0)
 
 AS
 - [Wearing wrist braces at night and often during the day for several months + doing physical therapy exercises such as rug angels. Example brace](https://www.amazon.com/gp/product/B0053D1YAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
@@ -123,7 +125,7 @@ JC
 - Dramatically improved by:
 
 - [Getting even one round of PRP injections made a dramatic difference. (With Dr. Donna Alderman](https://www.prolotherapy.com/DrAlderman.php))
-- [[Wearing wrist braces at night and often during the day for several months + doing physical therapy exercises such as rug angels made a big difference.](https://www.amazon.com/gp/product/B0053D1YAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)Example brace](https://www.amazon.com/gp/product/B0053D1YAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Wearing wrist braces at night + physical therapy exercises like rug angels made a big difference. Example brace](https://www.amazon.com/gp/product/B0053D1YAE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Doing qigong zhan zhuang standing postures, such as embrace the tree](http://whyisitawesome.wikispaces.com/Meditation%2C+Yoga%2C+Tai+Chi%2C+Qigong) variations, or santi stance for at least 12min 2x/day. (6min ea posture)
 - Resolving poor posture/thoracic outlet syndrome issues with regular yoga, trigger point massage and better ergonomics
 
@@ -133,7 +135,7 @@ JC
 
 ####  PRP / Prolotherapy injections to stimulate ligament growth
 Great doctors:
-[[Dr. Donna Alderman](http://www.prolotherapy.com/)www.prolotherapy.com](http://www.prolotherapy.com/) Oakland, LA. PRP (platelet rich plasma)/Prolotheraphy Takes platelets injects into ligaments. Applies to RSI, SI joint, tfcc, shoulder, and many other injuries, especially where there is laxity in ligaments/joints.
+[Dr. Donna Aldermanwww.prolotherapy.com](http://www.prolotherapy.com/) Oakland, LA. PRP (platelet rich plasma)/Prolotheraphy Takes platelets injects into ligaments. Applies to RSI, SI joint, tfcc, shoulder, and many other injuries, especially where there is laxity in ligaments/joints.
 Dr. Bjorn Eek – Burlingame. Prolotherapy
 
 #### Gabapentin
@@ -199,7 +201,7 @@ Green Thumb massage tool
 http://rsiwiki.jacobcole.net/
 
 ### Concussions
-[[Traumatic Brain Injuries triggers a long-term reduction in growth hormone, or GH, secretion that is linked with Brain Injury Associated Fatigue and Altered Cognition (BIAFAC). Most TBI patients experience dramatic symptom relief with GH replacement therapy, but the symptoms can return if treatment stops (Source](https://www.technologynetworks.com/neuroscience/news/growth-hormone-treatment-can-improve-long-term-effects-of-brain-injury-329718#:~:text=The%20team%20has%20been%20building,return%20if%20the%20treatment%20stops.)). Scientific Explanation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6651180/)
+[Traumatic Brain Injuries triggers a long-term reduction in growth hormone, or GH, secretion that is linked with Brain Injury Associated Fatigue and Altered Cognition (BIAFAC). Most TBI patients experience dramatic symptom relief with GH replacement therapy, but the symptoms can return if treatment stops (Source). Scientific Explanation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6651180/)
 
 ### TFCC Rupture (causes ulnar pain on wrist supination)
 (triangular fibrocartilage complex)
@@ -219,7 +221,7 @@ Get hand therapy
         NE
         Great physical therapy studio Active Care PT – Bay Area #physicalTherapist
 
-[Pilates](#id.oyrmr8m93d1l)
+[Pilates]
 
 #### SI (Sacroiliac) joint dysfunction  (specific type of lower back injury / pain)
         JM, JC
@@ -232,7 +234,7 @@ https://www.youtube.com/watch?v=phuS5VLQy8c
 ####          Herniated Disc
 [Often possible to vastly alleviate pain with careful and proper yoga. Yoga With a Herniated Disk](https://www.yogajournal.com/practice/yoga-with-a-herniated-disk)
 
-[Tension myositis syndrome / Sarno book & related](#id.fqexav1hix00)
+[Tension myositis syndrome / Sarno book & related]
 - Pain reprocessing therapy, and somatic tracking <> nic
 - [Alan gordan – backpain study #boulder #podcast tell me about your pain https://podcasts.apple.com/us/podcast/tell-me-about-your-pain/id1503847664](https://podcasts.apple.com/us/podcast/tell-me-about-your-pain/id1503847664)
 
@@ -247,8 +249,8 @@ https://www.youtube.com/watch?v=phuS5VLQy8c
         ?DG, DS,
 [Migraine topical oil – Open Apothecary with CBD](https://www.openapothecary.com/home/__trashed/)
 
-[Tension myositis syndrome / Sarno book & related](#id.fqexav1hix00)
-- [[RF “](https://www.amazon.com/Mindbody-Prescription-Healing-Body-Pain/dp/0446675156/ref=nodl_?fbclid=IwAR2dgftkgrLj9df7ASs7S7TU9SlYO2DZWBfhjq7-r5UypwQfIpAPjf_ICRA)https://www.amazon.com/Mindbody.../dp/0446675156/ref=nodl_](https://www.amazon.com/Mindbody-Prescription-Healing-Body-Pain/dp/0446675156/ref=nodl_?fbclid=IwAR2dgftkgrLj9df7ASs7S7TU9SlYO2DZWBfhjq7-r5UypwQfIpAPjf_ICRA)  Simply reading this book and applying its exercises for 15 minutes 3 times a week cured me of 20 years of incapacitating migraine headaches. “
+[Tension myositis syndrome / Sarno book & related]
+- [RF “https://www.amazon.com/Mindbody.../dp/0446675156/ref=nodl_](https://www.amazon.com/Mindbody-Prescription-Healing-Body-Pain/dp/0446675156/ref=nodl_?fbclid=IwAR2dgftkgrLj9df7ASs7S7TU9SlYO2DZWBfhjq7-r5UypwQfIpAPjf_ICRA)  Simply reading this book and applying its exercises for 15 minutes 3 times a week cured me of 20 years of incapacitating migraine headaches. “
 
 [Craniosacral therapy / Access Consciousness Bars](https://www.accessconsciousness.com/en/micrositesfolder/accessbars/)
 

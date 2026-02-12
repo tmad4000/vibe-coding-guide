@@ -1,4 +1,6 @@
-[[Things You Didn’t Know Existed in Santa Cruz                                            thingsyoudidntknowexisted.jacobcole.net](http://thingsyoudidntknowexisted.jacobcole.net) >thingsyoudidntknowexistedinsantacruz.jacobcole.net](http://thingsyoudidntknowexistedinsantacruz.jacobcole.net)
+# Thingsyoudidntknowexistedinsantacruz
+
+[Things You Didn’t Know Existed in Santa Cruz                                            thingsyoudidntknowexisted.jacobcole.net >thingsyoudidntknowexistedinsantacruz.jacobcole.net](http://thingsyoudidntknowexistedinsantacruz.jacobcole.net)
 Contribute to the list at top!                                                                                                                                             started by jacob@ideaflow.io
 
 [Notice: does anyone want to help me make a web app for this? I want to make the site: thingsyoudidntknowexisted.in, which transcends and includes thingsyoudidntknowexistedatmit](http://thingsyoudidntknowexistedatmit.jacobcole.net), this page, and more. (Maybe thingsyoudidntknowexistedthatarerelevanttoyou.tk. If so, email me at jacob@ideaflow.io)
@@ -28,8 +30,7 @@ Table of Contents
 [Discussion Box](#h.5z43th7vwx9a)
 
 ## Other Lists:
-[[Iski's Master List of Mostly Non Consumer Stuff To Do in the Bay Area](https://docs.google.com/document/d/1pb-yPFm7b3j_C7FK1Tp-h40s3AWNbjBuTVZ5NjE7LdI/edit)
-bodymasters.jacobcole.net](http://bodymasters.jacobcole.net/)
+[Iski's Master List of Mostly Non Consumer Stuff To Do in the Bay Area bodymasters.jacobcole.net](http://bodymasters.jacobcole.net/)
 
 ## Misc:
 Bruce Damer #Elder #SantaCruz
@@ -37,7 +38,7 @@ Bruce Damer #Elder #SantaCruz
 ## Athletics/Outdoor/Physical:
 
 ### Surf Spots
-#surf Pleasure Point
+Tags:, surf, Pleasure, Point
 30th and Portola wetsuit repair shop
 Bonny dune
 Waddel
@@ -49,7 +50,7 @@ Nicene #santacruz #beach?
 Sea Bright
 
 ### Hiking Spots
-#hike wilder ranch
+Tags:, hike, wilder, ranch
 Fall creek
 Henry Cowell (Ancient redwoods, streams)
 
@@ -85,11 +86,11 @@ Sawasdee (Thai) #good
 
 Laili - mediterranean #restaurant #SantaCruz
 
-#SantaCruz kayaks Dropped pin
+Tags:, SantaCruz, kayaks, Dropped, pin
 https://goo.gl/maps/D2xwxSG2aNSx2h4S8
-#restaurant #SantaCruz crows nest <>seabright #beach
+Tags:, restaurant, SantaCruz, crows, nest, <>seabright, beach
 
-#restaurant #SantaCruz mission bbq
+Tags:, restaurant, SantaCruz, mission, bbq
 
 ### Coffee
 
@@ -121,7 +122,7 @@ There’s a wine bar that’s also a book store. Bad Animal or something
 There’s a kava bar and a non-alcoholic hammock chair bar downtown
 
 Kofi — Santa Cruz yoga center Santa Cruz
-#SantaCruz
+Tags:, SantaCruz
 Fresno lady
 Dad massage th
 David fournier massage
@@ -131,20 +132,20 @@ Classes
 —
 Silent dance center
 
-#SantaCruz #taichimaster Web results
+Tags:, SantaCruz, taichimaster, Web, results
 From Master Bruce Frantzis; Great Tai Chi Teachers in North America
 Oct 9, 2018 — Judy Pruzinsky: Judy is a talented and insightful EA instructor based in Santa Cruz, CA and teaches weekly classes there and in Half Moon Bay, CA. She is a licensed acupuncturist with a Masters in Medical Qi Gong. Judy has been studying with me for than two decades.
 
-#GyroTonics #SantaCruz https://www.facebook.com/groups/gyrotonic/permalink/10159296143687112/
+Tags:, GyroTonics, SantaCruz, https://www.facebook.com/groups/gyrotonic/permalink/10159296143687112/
 
-#sport #DoMore
+Tags:, sport, DoMore
 Stand up paddle boarding #SanDiego #SantaCruz
 
 1440 multiversity #wellness #SantaCruz
 
-#YogaTeacher Karyn Bristol
+Tags:, YogaTeacher, Karyn, Bristol
 Karyn Bristol – Certified Iyengar Yoga Instructor, Santa Cruz
-#SantaCruz
+Tags:, SantaCruz
 
 805-570-1909 Edna #cleaner #SantaCruz
 https://yelp.to/qTKq/sQxTX5psc9 #cleaningservice
@@ -157,18 +158,18 @@ Phoebe
 Lily
 Noor
 
-#surf #goodvibes #SantaCruz https://youtu.be/RtgZtZnNtZk
+Tags:, surf, goodvibes, SantaCruz, https://youtu.be/RtgZtZnNtZk
 
 Risberg sc Nelson #tt
-#SantaCruz
+Tags:, SantaCruz
 
 No force chiropractic in Allyne ##chiropractor #SantaCruz
 
 GetSuperIntoLegStrengthening!LikeJacobHurwitzWouldSay
-#engrain "you're really into stretching
+Tags:, engrain, "you're, really, into, stretching
 
-#SantaCruz Santa Cruz save list and label on Google maps
-#beach <>seabright #beach...
+Tags:, SantaCruz, Santa, Cruz, save, list, and, label, on, Google, maps
+Tags:, beach, <>seabright, beach...
 Dropped pin
 Near 200-210 4th Ave, Santa Cruz, CA 95062
 https://goo.gl/maps/N58NHF8YrhG7HST29
@@ -177,9 +178,9 @@ seabright #beach
 <>#SantaCruz Santa Cruz...
 <>Frederick St., Park 5...
 
-#SantaCruz kayaks Dropped pin
+Tags:, SantaCruz, kayaks, Dropped, pin
 https://goo.gl/maps/D2xwxSG2aNSx2h4S8
-#restaurant #SantaCruz crows nest <>seabright #beach
+Tags:, restaurant, SantaCruz, crows, nest, <>seabright, beach
 
 seabright #beach  
 <>#SantaCruz kayaks Dropped...
@@ -189,19 +190,19 @@ Contrast with how sad I was when I couldn't find a place to go rowing at MIT
 
 Laili #restaurant #SantaCruz
 
-#restaurant #SantaCruz mission bbq
+Tags:, restaurant, SantaCruz, mission, bbq
 
 San Lorenzo river along Highway nine #RockScrambling #SantaCruz #Hike
 
-#SantaCruz #hike fall creek
+Tags:, SantaCruz, hike, fall, creek
 
-#SantaCruz Maria deloso
+Tags:, SantaCruz, Maria, deloso
 Justine? #intro?
 
 Getting hassled by the kids about having the thick gloves, about wearing a full wetsuit while other people are out in board shorts, about having a thick board, and better about having a sticker on my board peering. Being around them is going to whip me into shape.
 I'm getting asked about what the biggest waves I've ever software and talking about the Bali experience. It's like they can't really tell how old I am given and I feel like one of them. They seemed surprised when I said I was from San Diego what am I doing here – a Lowe's getting hassled by them because at least it means #Experience #Memory #SantaCruz
 
-#packlist #SantaCruz sleeping pad x
+Tags:, packlist, SantaCruz, sleeping, pad, x
 
 New Brighton Beach #SantaCruz
 Fall creek
@@ -211,15 +212,15 @@ The food bin #store #santacruz
 Bonny dune
 Waddel
 Sunny cove
-#surf
-#hike wilder ranch
+Tags:, surf
+Tags:, hike, wilder, ranch
 Henry cowell
 Nicene
  #santacruz  <>beau jansen...
 
-#santacruz #beach sea bright
+Tags:, santacruz, beach, sea, bright
 
-#santacruz #flowtoys #ropedart
+Tags:, santacruz, flowtoys, ropedart
 
 Eric gentry #santacruz  
 Jackson <>Andrew mauboussin...
@@ -227,7 +228,7 @@ Jackson <>Andrew mauboussin...
 Dr tasha turzu  #Craniosacral #Osteopath #santacruz
 Pull up ex hollow holds
 
-#restaurant sawasdee #santacruz
+Tags:, restaurant, sawasdee, santacruz
 
 Turk #carchup #santacruz
 

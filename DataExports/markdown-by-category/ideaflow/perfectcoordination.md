@@ -1,10 +1,12 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > Manifestos.world](http://manifestos.world)
+# Perfectcoordination
+
+[systematicawesome.jacobcole.net > Manifestos.world](http://manifestos.world)
 [• started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
         `                     #connectordoc
 
 [Manifestos.world](http://manifestos.world)
 [List of people’s manifestos.  Manifestos precede what you are going to manifest? And they contain Mana](https://www.hilohattie.com/blogs/news/the-meaning-of-mana#:~:text=In%20the%20native%20Hawaiian%20culture,the%20different%20decisions%20they%20make.) (Hawaiian concept related to Qi)! #etym
-[[[[See also:  VisionCharter](http://visioncharter.jacobcole.net/) •Quests.world](http://quests.world) •Ideabank.global](https://ideabank.global/) • issuetracker.world](http://issuetracker.world/) •
+[See also:  VisionCharter •Quests.world •Ideabank.global • issuetracker.world](http://issuetracker.world/) •
 
 Table of Contents
 [Manifestos](#h.m3rjf2g6mas8)
@@ -112,7 +114,7 @@ You shouldn't have to buy an expensive book or pay an independent college counse
 https://wemotions.app/manifesto
 
 [WeMotions](https://wemotions.app/)
-[[[Motions](https://wemotions.app/motions)Motion Pages](https://wemotions.app/pages)About Us](https://wemotions.app/about)
+[Motions Motion Pages About Us](https://wemotions.app/about)
 Login
 Social Media isn't social anymore we're bringing that back, with a great social blueprint.
 We believe the power of our interconnectedness is barely in use.
@@ -197,7 +199,7 @@ Why Open Source Is Vital
 
 # WIP (Drafts)
 
-#todo L on Why LLMs Won’t Replace Poets
+Tags:, todo, L, on, Why, LLMs, Won’t, Replace, Poets
 
 ## “Freedom to Automate” as a Human Right & Disability Right
 (and “we are all disabled because we don’t have tools that haven’t been invented yet” ~Doug Engelbart Paraphrase)
@@ -212,7 +214,7 @@ This really screws with my workflows and gets in the way of “freedom to automa
 
 * One may argue that it’s technically not low-cost, and cuts into Facebook’s margins, etc. So the actual cost of playing by the “information wants to be free“ open Web playbook could potentially be high in terms of lost profit potential. Maybe I’m just annoyed because as someone who formerly had debilitating RSI, I identify with those receiving the short end of the stick here 🙈. That said, there’s a sense in which I really believe the higher purpose of technology is to be empowering to people (e.g. make people's lives easier), versus an agent of oppression.
 
-#idea (inspired by Nicky Case) How much would it cost to “ransom” free link access from Facebook? If we offered them how many billion dollars would they be willing to change this link policy voluntarily? I acknowledge that it costs a huge amount of capital to build the world's vital technological communication infrastructure, and I wouldn’t want to completely dismantle the incentives that have led to the creation of all these great things we have now – that is, incredible moats, and profits. How do we balance these forces?
+Tags:, idea, (inspired, by, Nicky, Case), How, much, would, it, cost, to, “ransom”, free, link, access, from, Facebook?, If, we, offered, them, how, many, billion, dollars, would, they, be, willing, to, change, this, link, policy, voluntarily?, I, acknowledge, that, it, costs, a, huge, amount, of, capital, to, build, the, world's, vital, technological, communication, infrastructure,, and, I, wouldn’t, want, to, completely, dismantle, the, incentives, that, have, led, to, the, creation, of, all, these, great, things, we, have, now, –, that, is,, incredible, moats,, and, profits., How, do, we, balance, these, forces?
 
 ## Ending “abusive technology”
 “assistive technology” vs “adversarial technology”, and the mix between them: “abusive technology”. One North Star #lifegoal is to put an end to toxic relationships in people’s lives, including with abusive technology
@@ -229,12 +231,12 @@ In the future, we will think of work differently: We will ask: what is there tha
 
 [We have to do what jobs we have to do to survive – but what is life really about? Going on quests – together or alone – to do the worthwhile things in the world (Helping people in need! Cool, instrumentally or intrinsically worthy project!)! World Quest Guild](https://docs.google.com/document/d/1OggVeoEN4zAafRAox3yjFYtNwmYFJQHovXLviWI69zY/edit#heading=h.a2b4aeb47z63) is a central group and dashboard for those playing the “larger game” available in life – that of working together to get everyone’s needs met, solve humanity’s critical problems, and understand the mysterious.
 
-[[[[Watch](https://youtu.be/S_gScJAitg0?t=3180) this ridiculously inspiring introduction section by Jack Park (Youtube ~20min](https://youtu.be/S_gScJAitg0?t=3180)on 2x speed), who knew Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart). Gets all the way from knowledge management to the metaverse/starting a guild/a quest manager for the world. (“Key Quotes](https://docs.google.com/document/d/1OggVeoEN4zAafRAox3yjFYtNwmYFJQHovXLviWI69zY/edit#heading=h.4pc73940gmof)”)
+[Watch this ridiculously inspiring introduction section by Jack Park (Youtube ~20min on 2x speed), who knew Doug Engelbart . Gets all the way from knowledge management to the metaverse/starting a guild/a quest manager for the world. (“Key Quotes](https://docs.google.com/document/d/1OggVeoEN4zAafRAox3yjFYtNwmYFJQHovXLviWI69zY/edit#heading=h.4pc73940gmof)”)
 [See also: {Notion (WIP)](https://www.notion.so/41ba92c80acc422d8e68806db2d38961?v=331cb37fa9364d66b18f370077f4501d&pvs=4)
 
 Inspiring Global Vision
 
-[[If you want to see the thing that inspired me probably the most in the last few years it’s this clip from Jack Park (former colleague of Doug Engelbart). He has a clear vision for “how this planet is going to get fixed”. Which he states here](http://worldquestguild.connectordocs.com/)http://worldquestguild.connectordocs.com/](http://worldquestguild.connectordocs.com/) (see key quotes, or better, watch the linked video clip; on 2x speed for 20min))
+[If you want to see the thing that inspired me probably the most in the last few years it’s this clip from Jack Park (former colleague of Doug Engelbart). He has a clear vision for “how this planet is going to get fixed”. Which he states here http://worldquestguild.connectordocs.com/](http://worldquestguild.connectordocs.com/) (see key quotes, or better, watch the linked video clip; on 2x speed for 20min))
 
 ## If we had perfect coordination how long would it take to get everybody on Earth's basic needs met?
 [Let's restrict this discussion / estimation to food/shelter/water (Not that these are all the needs](https://www.nycnvc.org/needs)). and perfect coordination is like everyone starts to move in a well choreographed dance, but doesn't gain any intellectual superpowers
@@ -256,23 +258,23 @@ What are the things that need to get done? Make a list! Knock them out and compl
 
 ## The Update
 (on reality)
-#write the transcendent power of including people in the circle of human care @theupdate #theupdate with toy story scene #togetherness
+Tags:, write, the, transcendent, power, of, including, people, in, the, circle, of, human, care, @theupdate, theupdate, with, toy, story, scene, togetherness
         Include metamorphosis #psychoactive
 the real enemy is being overzealous, not liquid, not integrated — like the guys who lambasted the person who suggested hand washing
 - other enemy is lack of nvc by brilliant misunderstood geniuses
 
 Suppression of great techniques. Need a forum for citizen science, actual truth
-#gestalt seeing the vision of training qigong with devices — obviously hold be able to find the outputs and the new make new science
-#write
-#theupdate
+Tags:, gestalt, seeing, the, vision, of, training, qigong, with, devices, —, obviously, hold, be, able, to, find, the, outputs, and, the, new, make, new, science
+Tags:, write
+Tags:, theupdate
 light body - embodied aspect of realiation of your divine, miracle-creating nature
 How can consciousness be anything less than infinitely powerful #theupdate
-#quote I pointed out. “There can be many opinions on a thing, but there is only one truth.” Vashet smiled lazily. “And if the pursuit of truth was my goal, that would concern me.” She gave a long yawn, stretching like a happy cat. “Instead I will focus on the joy in my heart, the prosperity of the school, and understanding the Lethani. If I have time left after that, I will put it toward worrying on the truth.”
-#nameOfTheWind #lethani #tao
-#interrupt For truth seeking — argument #theupdate ?
+Tags:, quote, I, pointed, out., “There, can, be, many, opinions, on, a, thing,, but, there, is, only, one, truth.”, Vashet, smiled, lazily., “And, if, the, pursuit, of, truth, was, my, goal,, that, would, concern, me.”, She, gave, a, long, yawn,, stretching, like, a, happy, cat., “Instead, I, will, focus, on, the, joy, in, my, heart,, the, prosperity, of, the, school,, and, understanding, the, Lethani., If, I, have, time, left, after, that,, I, will, put, it, toward, worrying, on, the, truth.”
+Tags:, nameOfTheWind, lethani, tao
+Tags:, interrupt, For, truth, seeking, —, argument, theupdate, ?
 Your subconscious and extended subconscious (the universe) only know music and sound #sound #insight #quote #good
 Anything that works on your subconscious should work on reality
-#firstprinciples
+Tags:, firstprinciples
 @wiki
 TheUpdate wiki #domain theupdate.wiki
 https://www.youtube.com/watch?v=vd9j8uo6OSY  mantra sadhguru
@@ -313,7 +315,7 @@ The data collected from this system is vast and hopes to lay the groundwork for 
 In parallel, a second problem we see is that many of the smartest people we know spend their days working to improve the ad recommendation system on Facebook instead of curing cancer or building strong AI. We are, ultimately, striving to give these people a materially equally appealing or more appealing alternative option that also gives them an opportunity to directly help people!
 [Thiel fellowship app (unsent)](https://docs.google.com/document/d/1bl7UYhz_EGxAJAmwW364ThAmhY8jdmS07uEdejV22b4/edit)
 <> Untapped internet potential
-#idea all ages thiel fellowship
+Tags:, idea, all, ages, thiel, fellowship
 [See also: http://ideabank.global/](http://ideabank.global/)
 
 ## Ending Human Rights Abuses and Other Clearly Motivating Problems
@@ -325,7 +327,7 @@ Very few things are as clearly impactful and motivating. Ending food deserts? Wh
 ## [ideaflowplan.jacobcole.net](https://ideaflowplan.jacobcole.net/)
 
 # External
-[[The Meaning and Purpose of Yoga](https://drive.google.com/file/d/1Pq53lXNspSudpaFFUpqlAyuqHBIA7ieH/view) ~Desikachar](https://www.amazon.com/Religiousness-Yoga-Lectures-Theory-Practice/dp/0819109673)
+[The Meaning and Purpose of Yoga ~Desikachar](https://www.amazon.com/Religiousness-Yoga-Lectures-Theory-Practice/dp/0819109673)
 [A Theory of Immaterial Objects: The Bridge](https://thomaspbraun.com/TheBridge.pdf)
 [Engaging the Movement of Life: Exploring Health and Embodiment Through Osteopathy and Continuum](https://www.amazon.com/Engaging-Movement-Life-Embodiment-Osteopathy/dp/1556436076)
 [Cognitive-Theoretic Model of the Universe](https://ctmucommunity.org/wiki/Main_Page) ~Langan

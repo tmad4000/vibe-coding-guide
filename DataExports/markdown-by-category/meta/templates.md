@@ -1,5 +1,7 @@
-[[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > infrastructure.jacobcole.net](http://infrastructure.jacobcole.net) > Templates.jacobcole.net](http://templates.jacobcole.net)
-#connectordoc
+# Templates
+
+[systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > infrastructure.jacobcole.net > Templates.jacobcole.net](http://templates.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Templates / General Knowledge useful for professional endeavors  #connectordoc #template
@@ -9,10 +11,10 @@ See also:
 
 ## Templates
 Add to this list
-- [[template.connectr.site](http://template.connectr.site/)(template.jacobcole.net](http://template.jacobcole.net/)) #connectordoc template
+- [template.connectr.site (template.jacobcole.net](http://template.jacobcole.net/)) #connectordoc template
 - [template.minimalisthomepages.com](http://template.minimalisthomepages.com/) • create.minimalisthomepages.com
 
-#internal
+Tags:, internal
 - [(#internal folder](https://drive.google.com/drive/u/0/folders/169pcMO4COOzVBtuIvBr66qU8s0qWB9Lv))
 - [Investor Update #Template](https://docs.google.com/document/d/1TeE011EUq8WWa7FditKHcGQCLsNU1ROrMQn0myGKypI/edit#)
 

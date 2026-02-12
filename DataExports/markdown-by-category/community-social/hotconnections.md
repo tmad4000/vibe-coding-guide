@@ -1,18 +1,20 @@
-[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) >  hotconnections.jacobcole.net](http://hotconnections.jacobcole.net)   #connectordoc
+# Hotconnections
+
+[systematicawesome.jacobcole.net >  hotconnections.jacobcole.net](http://hotconnections.jacobcole.net)   #connectordoc
 [started by  jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
 
 Hot Connections
 Jacob's Working Memory as a connector – awesome people that are hiring, fundraising, looking for jobs, and more
-[[See also: hiringlist.jacobcole.net](http://hiringlist.jacobcole.net/) • jcombinator.network](http://jcombinator.network/)
+[See also: hiringlist.jacobcole.net • jcombinator.network](http://jcombinator.network/)
 
 March 2021
 
 - [Forbes 30u30 winner Aakriti Srikanth](https://www.linkedin.com/in/akusf) – PM/Ops/Marketing superconnector looking to join co
 - Efe’s (Awesome MIT community builder/epic math genius/ founder) friend – find co-founder/CTO for sustainability startup
 
-- [[Hello! I’m Rafid](https://www.linkedin.com/in/rafid-sikder/) (prev. cofounder at Passed Plates, lead data scientist at Chaldal (YCS15), engineering fellow at Alter Global, Stanford) Currently working on building Guava](http://tryguava.com/) - a recycling gig economy fostering sustainability. We’re changing the way we collect and pay for plastic material. Currently based out of LA.
+- [Hello! I’m Rafid (prev. cofounder at Passed Plates, lead data scientist at Chaldal (YCS15), engineering fellow at Alter Global, Stanford) Currently working on building Guava](http://tryguava.com/) - a recycling gig economy fostering sustainability. We’re changing the way we collect and pay for plastic material. Currently based out of LA.
 - Just deployed the business facing side of the app not too long ago and raised funding from a Silicon valley VC firm.  
 - Looking for another fellow human who is passionate about sustainability to come on board as founding engineer and cofounder. Ideally a full stack developer with experience building mobile apps from scratch.
 

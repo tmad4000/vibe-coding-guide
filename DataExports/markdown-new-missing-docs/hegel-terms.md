@@ -1,3 +1,5 @@
+# Hegel Terms
+
 Lacan Glossary:
 - Intersubjectivity: speech is essentially an intersubjective process, ‘the allocution of the subject entails an allocutor’ and therefore ‘the locutor is constituted in it as intersubjectivity’ (p. 91)
 

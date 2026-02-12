@@ -1,26 +1,28 @@
-[[`             systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > circuits.jacobcole.net](http://circuits.jacobcole.net)
-#connectordoc
+# Circuits
+
+[`             systematicawesome.jacobcole.net > circuits.jacobcole.net](http://circuits.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Circuits, Triggers, Toys, & Challenges #draft
 
 [See also: http://buoyantfitness.jacobcole.net/](http://buoyantfitness.jacobcole.net/)
 
-[[Circuits](#h.1mcifh8rn5g)1](#h.1mcifh8rn5g)
-[[Whale](#h.c6oieolzvc6c)1](#h.c6oieolzvc6c)
-[[Restorative Yoga](#h.smbixjfs4pls)2](#h.smbixjfs4pls)
-[[Exercise](#h.l9eea3bvk9mt)2](#h.l9eea3bvk9mt)
-[[Rogue Fit](#h.gsfbq4jp5pp8)2](#h.gsfbq4jp5pp8)
-[[Tommy John Exercise](#h.wyunrnjyq1hw)2](#h.wyunrnjyq1hw)
-[[Janet Exercise](#h.lmdy1u16sdo5)2](#h.lmdy1u16sdo5)
-[[20 Min Roller Pilates](#h.fbtmf9uvqbua)3](#h.fbtmf9uvqbua)
-[[Andreas PT](#h.9m1gfvgaplmf)3](#h.9m1gfvgaplmf)
-[[Sensei Joey](#h.2x1nuihc7php)3](#h.2x1nuihc7php)
-[[Related](#h.avhjc1lgh9fg)3](#h.avhjc1lgh9fg)
-[[Mom’s House](#h.md0rlii5lrq7)3](#h.md0rlii5lrq7)
-[[Daily Sched 2](#h.b4b82qjfrd79)4](#h.b4b82qjfrd79)
-[[Daily Sched Elem](#h.8eioabd3fly9)4](#h.8eioabd3fly9)
-[[Weekly schedule](#h.hk03wmma5b21)5](#h.hk03wmma5b21)
+- [Circuits](#circuits)
+- [Whale](#whale)
+- [Restorative Yoga](#restorative-yoga)
+- [Exercise](#exercise)
+- [Rogue Fit](#rogue-fit)
+- [Tommy John Exercise](#tommy-john-exercise)
+- [Janet Exercise](#janet-exercise)
+- [20 Min Roller Pilates](#20-min-roller-pilates)
+- [Andreas PT](#andreas-pt)
+- [Sensei Joey](#sensei-joey)
+- [Related](#related)
+- [Mom’s House](#moms-house)
+- [Daily Sched 2](#daily-sched-2)
+- [Daily Sched Elem](#daily-sched-elem)
+- [Weekly schedule](#weekly-schedule)
 
 # Circuits
 

@@ -1,5 +1,7 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > worldquestguild.connectordocs.com](http://worldquestguild.connectordocs.com) > salon.jacobcole.net](http://salon.jacobcole.net)
-#connectordoc
+# Salon
+
+[systematicawesome.jacobcole.net > worldquestguild.connectordocs.com > salon.jacobcole.net](http://salon.jacobcole.net)
+Tags:, connectordoc
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Salon Notes
@@ -7,16 +9,16 @@ Salon Notes
 See also:
 https://salonpeople.jacobcole.net/
 [Other #SalonNotes autodidacts.jacobcole.net](http://autodidacts.jacobcole.net/)
-[[Related: favorverse.jacobcole.net](http://favorverse.jacobcole.net) • thoughtfulweb.jacobcole.net/](http://thoughtfulweb.jacobcole.net/)
-[[volunteerforce.jacobcole.net](http://volunteerforce.jacobcole.net/) • infrastructure.jacobcole.net](http://infrastructure.jacobcole.net/)
+[Related: favorverse.jacobcole.net • thoughtfulweb.jacobcole.net/](http://thoughtfulweb.jacobcole.net/)
+[volunteerforce.jacobcole.net • infrastructure.jacobcole.net](http://infrastructure.jacobcole.net/)
 
 Table of Contents
 
-[[12/12/2020 Lunchclub Convos Rethinking the Contours of Our Consumption](#h.o141jt2exzet)1](#h.o141jt2exzet)
-[[#Topic We know what people need to be happy from longitudinal studies. Lets build “angel patterns” that can help guide people](#h.uhlbcl32ktb4)1](#h.uhlbcl32ktb4)
+- [12/12/2020 Lunchclub Convos Rethinking the Contours of Our Consumption](#12122020-lunchclub-convos-rethinking-the-contours-of-our-consumption)
+- [#Topic We know what people need to be happy from longitudinal studies. Lets build “angel patterns” that can help guide people](#topic-we-know-what-people-need-to-be-happy-from-longitudinal-studies-lets-build-angel-patterns-that-can-help-guide-people)
 
 Legend/Tags
-#idea • #topic • #psychology • #psychology • #insight
+Tags:, idea, •, topic, •, psychology, •, psychology, •, insight
 ---------------------------
 
 ## 5/15/2021 Dolores Park
@@ -101,4 +103,4 @@ Not realize how fun it could be
 Feedback points you help someone and you get back – product, human relationships #mentorship
         Active love as fun – like an interactive “video game”’
 
-#idea Oases – free massages, acupuncture, well being treatment, wellness / meditation retreat. Even have volunteers who help
+Tags:, idea, Oases, –, free, massages,, acupuncture,, well, being, treatment,, wellness, /, meditation, retreat., Even, have, volunteers, who, help

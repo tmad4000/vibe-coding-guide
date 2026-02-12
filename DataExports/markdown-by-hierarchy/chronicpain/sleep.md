@@ -1,5 +1,7 @@
-[[[systematicawesome.jacobcole.net](http://systematicawesome.jacobcole.net/) > ChronicPain.jacobcole.net](http://chronicpain.jacobcole.net) > sleep.jacobcole.net](http://sleep.jacobcole.net)
-#connectordoc #curatedList
+# Sleep
+
+[systematicawesome.jacobcole.net > ChronicPain.jacobcole.net > sleep.jacobcole.net](http://sleep.jacobcole.net)
+Tags:, connectordoc, curatedList
 [started by jacob@ideaflow.io](mailto:jacob@ideaflow.io)
 
 Contribute to the list at top!                        
@@ -7,10 +9,10 @@ Contribute to the list at top!                        
 Sleep Resources
 Tricks, tools, and resources for falling asleep and sleeping better.
 
-[[[See also: si.jacobcole.net/](http://si.jacobcole.net/) for chronic back pain, ChronicPain.jacobcole.net](http://chronicpain.jacobcole.net) for extensive resources, and qigong.garden](http://qigong.garden/) (related)
+[See also: si.jacobcole.net/ for chronic back pain, ChronicPain.jacobcole.net for extensive resources, and qigong.garden](http://qigong.garden/) (related)
 -----
 
-[[How to Fall Asleep Step By Step - Roger Cole Online Meeting with Jacob and Friends 1-21-2025](https://drive.google.com/file/d/15yKqMNFcBCECxD1T9DL74iwMNjx5fSrW/view?usp=drive_link) (42 min, audio) (Video](https://www.loom.com/share/cf4f1f3d03b24465b33152f55994bc6d) showing poses, low audio quality)
+[How to Fall Asleep Step By Step - Roger Cole Online Meeting with Jacob and Friends 1-21-2025 (42 min, audio) (Video](https://www.loom.com/share/cf4f1f3d03b24465b33152f55994bc6d) showing poses, low audio quality)
 - #ergonomics-and-well-being
 
 Summary Expert Guidance on Sleep:

@@ -1,3 +1,5 @@
+# Arm Exercises
+
 General Principles:
 
 - Grain of salt: This worked for me, to the point where I have been pain free for long periods of time and can play the guitar without pain in my left wrist. That being said-- you’re pain is different. Nevertheless, I suspect if you design your own exercises and adapt my own, you’ll see progress.
