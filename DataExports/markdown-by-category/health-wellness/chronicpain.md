@@ -48,7 +48,7 @@ Tricks, tools, and resources for working with chronic pain
 
 -----
 
-Inbox (uncategorized / #toProcess)
+## Inbox (uncategorized / #toProcess)
 
 Chris Lakin @ChrisChipMonk
 I resolved my chronic (3.5y) neck pain two months ago. Now it’s obvious to me that I was creating the tension all along. Here’s my model of what was causing my tension:
