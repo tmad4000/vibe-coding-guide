@@ -1116,6 +1116,105 @@ For the other direction — capturing what's actually visible on your screen (na
 
 ---
 
+## 16.5. Dotfiles Management with chezmoi + age (Provisional)
+
+As you accumulate AI tool configs (`~/.claude/CLAUDE.md`, MCP configs, LaunchAgents, assistant configs with API keys), you need a way to track and restore them. **[chezmoi](https://www.chezmoi.io/)** with **[age](https://age-encryption.org/)** encryption is the current best approach.
+
+**Why chezmoi over alternatives:**
+- **Handles secrets properly** — `chezmoi add --encrypt` encrypts files with `age` before they enter the repo. API keys, bot tokens, etc. never appear in plaintext in git
+- **No symlinks** — copies files into place, which matters because macOS Sonoma+ breaks symlinked LaunchAgent plists
+- **Manages scattered paths** — files across `$HOME`, `~/Library/`, `~/.claude/`, custom dirs all live in one repo
+- **Drift detection** — `chezmoi diff` shows if your live files diverged from the repo
+
+**Why not other tools:**
+| Tool | Problem |
+|------|---------|
+| GNU Stow | Symlinks break macOS LaunchAgents, zero secrets support |
+| Bare git repo | One wrong `git add` leaks all API keys to GitHub |
+| yadm | OpenSSL encryption broken on macOS Homebrew (known issue) |
+| Deploy script | Not a management system, no encryption, no drift detection |
+
+**Setup (5 minutes):**
+
+```bash
+# Install
+brew install chezmoi age
+
+# Generate encryption key
+mkdir -p ~/.config/chezmoi
+age-keygen -o ~/.config/chezmoi/key.txt
+
+# Note the public key from the output (age1...), then configure:
+cat > ~/.config/chezmoi/chezmoi.toml << 'EOF'
+encryption = "age"
+
+[age]
+  identity = "~/.config/chezmoi/key.txt"
+  recipient = "age1YOUR_PUBLIC_KEY_HERE"
+EOF
+
+# Initialize
+chezmoi init
+```
+
+**Add files:**
+```bash
+# Plain text configs (no secrets)
+chezmoi add ~/.claude/CLAUDE.md
+chezmoi add ~/Library/LaunchAgents/my-service.plist
+
+# Configs with API keys/tokens (encrypted)
+chezmoi add --encrypt ~/.myapp/config.json
+```
+
+**Push to GitHub:**
+```bash
+cd ~/.local/share/chezmoi
+git remote add origin git@github.com:USERNAME/dotfiles.git
+git add -A && git commit -m "initial dotfiles" && git push -u origin main
+```
+
+**Restore on a new machine:**
+```bash
+brew install chezmoi age
+
+# Restore your age key from password manager first:
+mkdir -p ~/.config/chezmoi
+# paste key into ~/.config/chezmoi/key.txt
+
+# Create chezmoi.toml with your encryption config (same as above)
+
+# Clone + apply (puts every file back in its original location)
+chezmoi init YOUR_GITHUB_USERNAME/dotfiles --apply
+```
+
+**Daily workflow:**
+```bash
+chezmoi re-add                    # Pick up changes from live files
+chezmoi diff                      # See what's changed
+cd ~/.local/share/chezmoi && git add -A && git commit -m "update" && git push
+```
+
+**Back up the age key** to your password manager (1Password, iCloud Keychain, etc.). This is the ONE file not in the repo. Without it, encrypted files can't be decrypted on a new machine.
+
+```bash
+# Store in macOS Keychain (syncs via iCloud):
+security add-generic-password \
+  -a "chezmoi-age-key" \
+  -s "chezmoi dotfiles encryption key" \
+  -w "$(cat ~/.config/chezmoi/key.txt | grep AGE-SECRET-KEY)" \
+  -T "" ~/Library/Keychains/login.keychain-db
+```
+
+**What to track:**
+- `~/.claude/CLAUDE.md` — Claude Code global instructions
+- `~/.claude/settings.json` — Claude Code settings and hooks
+- `~/.claude/mcp.json` — MCP server configs
+- `~/Library/LaunchAgents/*.plist` — service configs
+- App configs with API keys (encrypted)
+
+---
+
 ## 17. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
