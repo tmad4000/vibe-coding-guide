@@ -1215,6 +1215,48 @@ security add-generic-password \
 
 ---
 
+## 16.6. Multi-Agent Safety: Binding Fallback in OpenClaw
+
+If you use **[OpenClaw](https://github.com/nichochar/openclaw)** (multi-channel AI assistant platform) with multiple agents and users, be aware of a critical security behavior.
+
+**The problem: Silent fallback to the unsandboxed default agent**
+
+When OpenClaw receives a message, it resolves which agent should handle it via a binding chain:
+1. Direct peer binding (specific user → specific agent)
+2. Parent peer binding
+3. Guild/group binding
+4. Team binding
+5. Account binding
+6. Channel binding
+7. **Default agent** (first agent in list, or one marked `default: true`)
+
+If no binding matches at any level, the message silently falls through to step 7 — the default agent. If your default agent is unsandboxed (has full shell access), **any misconfigured binding gives that user shell access to your machine.**
+
+There is no reject/deny option in the resolution chain. This is by design in OpenClaw's routing.
+
+**Dangerous patterns:**
+- Setting `dmPolicy: "open"` without bindings for every possible user → anyone who finds your bot username gets shell access
+- Removing a binding without checking if the user is still in an allowlist → they fall through to default
+- Adding a user to `allowFrom` before creating their binding → during the gap, they route to default
+
+**Safe patterns:**
+- Keep `dmPolicy: "allowList"` (explicit opt-in)
+- When adding a new user: create their binding to a sandboxed agent FIRST, then add them to `allowFrom`
+- When removing a binding: check if the user/group is still in an allowlist. If so, remove them from the allowlist too
+- Only the owner's ID should route to the unsandboxed default agent
+- Every other user should bind to an agent with `sandbox.mode: "all"` (Docker container)
+
+**Automated protection:**
+
+Write a binding audit script that reads your config and verifies every allowlisted user/group has a corresponding binding to a sandboxed agent. Run it:
+- On every gateway startup (via boot instructions)
+- As a PostToolUse hook in Claude Code (triggers when config files are modified)
+- Before and after any manual config change
+
+This catches misconfigurations before they become security holes.
+
+---
+
 ## 17. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
