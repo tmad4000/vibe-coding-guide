@@ -989,6 +989,29 @@ This works from Claude Code too — just ask "launch Codex on these tickets in t
 
 ---
 
+## 14.7. Recall: Search & Resume Past Sessions
+
+[Recall](https://github.com/zippoxer/recall) lets you search and resume your Claude Code and Codex CLI conversations. Essential when you have dozens of past sessions and need to find the one where you solved a specific problem.
+
+**Install:**
+```bash
+brew tap zippoxer/tap
+brew install recall
+```
+
+**Usage:**
+```bash
+# Search past conversations by keyword
+recall search "websocket auth bug"
+
+# Resume a specific session
+recall resume <session-id>
+```
+
+This is especially useful alongside multi-agent workflows (§14.5) — when you've had agents working across multiple panes and projects, `recall` helps you find and pick up where any of them left off.
+
+---
+
 ## 15. Fetching JavaScript-Heavy Pages (Gemini shares, etc.)
 
 Some URLs can't be fetched with `curl` or standard web tools because they require JavaScript to render the content. Examples:
