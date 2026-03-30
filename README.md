@@ -71,7 +71,7 @@ By default, Claude Code asks permission for many actions. To skip these prompts:
 claude --dangerously-skip-permissions
 ```
 
-**Pro tip:** Use TextExpander (or similar) to expand a short snippet like `cld` into the full command. Much faster than typing it every time.
+**Pro tip:** Use [Espanso](https://espanso.org/) (free, open-source text expander) to expand a short snippet like `cld` into the full command. Much faster than typing it every time. See [`espanso-base.yml`](espanso-base.yml) for a ready-to-use config with shortcuts for Claude Code, Codex, Gemini, SSH, nosleep, and more.
 
 **Extended thinking mode:**
 

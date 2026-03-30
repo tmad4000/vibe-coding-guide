@@ -1,0 +1,242 @@
+# Espanso snippets - easily editable by Claude
+# Trigger format: type the trigger text, it expands automatically
+
+matches:
+  # ===================
+  # Imported from Raycast
+  # ===================
+
+  # nosleep on
+  - trigger: ":nsl"
+    replace: "nosleep --on"
+
+  # nosleep off
+  - trigger: ":nslo"
+    replace: "nosleep --off"
+
+  # nosleep 1 hour
+  - trigger: ":nsl1"
+    replace: "nosleep 3600"
+
+  # nosleep 8 hours
+  - trigger: ":nsl8"
+    replace: "nosleep 28800"
+
+  # Personal Email
+  - trigger: ":@@"
+    replace: "tmad4000@gmail.com"
+
+  # Also available without colon prefix (Raycast-style)
+  - trigger: "@@"
+    replace: "tmad4000@gmail.com"
+
+  # ===================
+  # CLI shortcuts
+  # ===================
+
+  # Claude Code
+  - trigger: ":cld"
+    replace: "claude --dangerously-skip-permissions"
+
+  - trigger: ":clc"
+    replace: "claude --dangerously-skip-permissions --continue"
+
+  - trigger: ":clr"
+    replace: "claude --dangerously-skip-permissions --resume"
+
+  - trigger: ":clf"
+    replace: "claude --dangerously-skip-permissions --fork-session --resume "
+
+  - trigger: ":ccld"
+    replace: "claude --dangerously-skip-permissions --chrome"
+
+  - trigger: ":cclf"
+    replace: "claude --dangerously-skip-permissions --continue --fork-session"
+
+  - trigger: ":cclr"
+    replace: "claude --dangerously-skip-permissions --continue --chrome"
+
+  - trigger: ":dsk"
+    replace: "--dangerously-skip-permissions"
+
+  # Codex
+  - trigger: ":cdx"
+    replace: "codex --yolo --search"
+
+  - trigger: ":cdc"
+    replace: "codex --yolo --search resume"
+
+  # Gemini
+  - trigger: ":gmn"
+    replace: "gemini -m gemini-3-flash-preview --yolo"
+
+  # caffeinate
+  - trigger: ":caf"
+    replace: "caffeinate -t 1800"
+
+  # pmset wake (30 min)
+  - trigger: ":pmw"
+    replace: "sudo bash -c 'pmset -a disablesleep 1; sleep 1800; pmset -a disablesleep 0'"
+
+  # tmux mouse
+  - trigger: ":tmuxma"
+    replace: "tmux set -g mouse on"
+
+  - trigger: ":tmuxmd"
+    replace: "tmux set -g mouse off"
+
+  # beads UI
+  - trigger: ":bdui"
+    replace: "source ~/.zshrc && beads-ui ."
+
+  # ===================
+  # Colon-free aliases (Raycast-style)
+  # ===================
+
+  - trigger: "nsl"
+    replace: "nosleep --on"
+
+  - trigger: "nslo"
+    replace: "nosleep --off"
+
+  - trigger: "nsl1"
+    replace: "nosleep 3600"
+
+  - trigger: "nsl8"
+    replace: "nosleep 28800"
+
+  - trigger: "cld"
+    replace: "claude --dangerously-skip-permissions"
+
+  - trigger: "clc"
+    replace: "claude --dangerously-skip-permissions --continue"
+
+  - trigger: "clr"
+    replace: "claude --dangerously-skip-permissions --resume"
+
+  - trigger: "clf"
+    replace: "claude --dangerously-skip-permissions --fork-session --resume "
+
+  - trigger: "ccld"
+    replace: "claude --dangerously-skip-permissions --chrome"
+
+  - trigger: "cclf"
+    replace: "claude --dangerously-skip-permissions --continue --fork-session"
+
+  - trigger: "cclr"
+    replace: "claude --dangerously-skip-permissions --continue --chrome"
+
+  - trigger: "dsk"
+    replace: "--dangerously-skip-permissions"
+
+  - trigger: "cdx"
+    replace: "codex --yolo --search"
+
+  - trigger: "cdc"
+    replace: "codex --yolo --search resume"
+
+  - trigger: "gmn"
+    replace: "gemini -m gemini-3-flash-preview --yolo"
+
+  - trigger: "caf"
+    replace: "caffeinate -t 1800"
+
+  - trigger: "pmw"
+    replace: "sudo bash -c 'pmset -a disablesleep 1; sleep 1800; pmset -a disablesleep 0'"
+
+  - trigger: "tmuxma"
+    replace: "tmux set -g mouse on"
+
+  - trigger: "tmuxmd"
+    replace: "tmux set -g mouse off"
+
+  - trigger: "bdui"
+    replace: "source ~/.zshrc && beads-ui ."
+
+  # ===================
+  # SSH shortcuts
+  # ===================
+
+  # SSH to HostMyApple
+  - trigger: ":sma"
+    replace: "ssh hostmyapple"
+
+  # SSH to HostMyApple + tmux attach
+  - trigger: ":smt"
+    replace: "ssh hostmyapple -t 'tmux attach || tmux new-session'"
+
+  # SSH to noos prod
+  - trigger: ":snp"
+    replace: "ssh noos-prod"
+
+  # SSH to noos prod + tmux attach
+  - trigger: ":snt"
+    replace: "ssh noos-prod -t 'tmux attach || tmux new-session'"
+
+  # SSH to jcortex
+  - trigger: ":sjc"
+    replace: "ssh jcortex"
+
+  # SSH to jcortex + tmux attach
+  - trigger: ":sjt"
+    replace: "ssh jcortex -t 'tmux attach || tmux new-session'"
+
+  # Colon-free versions (double-s prefix to avoid accidental triggers)
+  - trigger: "ssma"
+    replace: "ssh hostmyapple"
+
+  - trigger: "ssmt"
+    replace: "ssh hostmyapple -t 'tmux attach || tmux new-session'"
+
+  - trigger: "ssnp"
+    replace: "ssh noos-prod"
+
+  - trigger: "ssnt"
+    replace: "ssh noos-prod -t 'tmux attach || tmux new-session'"
+
+  - trigger: "ssjc"
+    replace: "ssh jcortex"
+
+  - trigger: "ssjt"
+    replace: "ssh jcortex -t 'tmux attach || tmux new-session'"
+
+  # ===================
+  # Common phrases
+  # ===================
+
+  - trigger: ":shrug"
+    replace: "¯\\_(ツ)_/¯"
+
+  - trigger: ":lenny"
+    replace: "( ͡° ͜ʖ ͡°)"
+
+  - trigger: ":tableflip"
+    replace: "(╯°□°)╯︵ ┻━┻"
+
+  # ===================
+  # Date/time (dynamic)
+  # ===================
+
+  - trigger: ":date"
+    replace: "{{mydate}}"
+    vars:
+      - name: mydate
+        type: date
+        params:
+          format: "%Y-%m-%d"
+
+  - trigger: ":time"
+    replace: "{{mytime}}"
+    vars:
+      - name: mytime
+        type: date
+        params:
+          format: "%H:%M"
+
+  - trigger: ":now"
+    replace: "{{now}}"
+    vars:
+      - name: now
+        type: date
+        params:
+          format: "%Y-%m-%d %H:%M"
