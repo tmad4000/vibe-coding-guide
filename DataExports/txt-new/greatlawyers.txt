@@ -1,8 +1,0 @@
-greatlawyers.jacobcole.net,,,greatlawyers.jacobcole.net,, see also unfiltered list:,,,,
-Name, Link,Firm,Type,Price Range, Notes,Connected To, Type,Location,Email
-Ward Breeze,,Gunderson,,,,<> Ed Bialek,,SF,
-,,,,,,,,,
-Briza,,WSGR,contract law,,,,,,
-Marta Belcher,,,blockchain law,,,,,,
-Johnnie Cochran,,,,,,,,,
-Alan Dershowitz,,,,,,,,,
