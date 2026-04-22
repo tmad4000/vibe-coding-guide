@@ -82,6 +82,18 @@ For complex problems, enable extended thinking to let Claude reason more deeply:
 
 This gives Claude more "thinking time" for harder tasks.
 
+**Set a default reasoning effort level:**
+
+The `/effort` slash command changes reasoning effort for the current session only. To make it persist across sessions, add `effortLevel` to `~/.claude/settings.json`:
+
+```json
+{
+  "effortLevel": "xhigh"
+}
+```
+
+Valid values: `"low"`, `"medium"`, `"high"`, `"xhigh"`. Use `xhigh` for the deepest reasoning on Opus 4.7 — it's the modern replacement for the old `"max"` value (which still works as a user-facing alias but writes `xhigh` internally).
+
 **Keyboard shortcut: Clear input line** `#shortcut`
 
 Use `Ctrl+U` to clear the entire input line without interrupting Claude. This is the standard readline shortcut - deletes the whole line while staying in the session.
@@ -986,6 +998,55 @@ tmux split-window -t 1 -v    # right splits into top/bottom
 ```
 
 This works from Claude Code too — just ask "launch Codex on these tickets in tmux split panes" and it'll set up the layout and send the prompts.
+
+---
+
+## 14.6. Fast Wakeups: Background Poller Beats Fixed Timers
+
+When you've got 3–7 autonomous agents running in tmux and need Claude Code to wake up **as soon as** any of them land something (not on an arbitrary 25-min timer), use a Bash `run_in_background: true` watcher.
+
+**Why:** Claude Code auto-notifies on background task completion. If you launch a polling script that exits the moment a meaningful signal fires, you re-enter the orchestrator within ~10–60s instead of idling through a `ScheduleWakeup` delay.
+
+**Typical triggers to watch for:**
+1. **New commit** on the working branch — compare `git ls-remote` against a stored baseline SHA
+2. **Tracked tmux session died** — compare `tmux list-sessions` against expected set (catches crashed Claude/Codex agents)
+3. **State change** in the running system — workspace status transitioned, Slack message arrived, a file landed
+4. **Timeout fallback** — e.g., 20 min max so you don't wait forever if nothing happens
+
+**Pattern:**
+
+```bash
+# /tmp/watcher.sh
+set -u
+BASELINE_SHA=$(git ls-remote origin feature-branch 2>/dev/null | awk '{print $1}')
+TRACKED_SESSIONS="tejas-phases fix-g1 e2e-verify"
+MAX_ITER=120  # 20 min @ 10s intervals
+
+iter=0
+while [ $iter -lt $MAX_ITER ]; do
+  # Trigger 1: new commit
+  NEW_SHA=$(git ls-remote origin feature-branch 2>/dev/null | awk '{print $1}')
+  [ "$NEW_SHA" != "$BASELINE_SHA" ] && { echo "new commit: $NEW_SHA"; exit 0; }
+
+  # Trigger 2: session died (every minute)
+  if [ $((iter % 6)) -eq 0 ]; then
+    LIVE=$(ssh remote-host 'tmux list-sessions 2>/dev/null | cut -d: -f1')
+    for s in $TRACKED_SESSIONS; do
+      echo "$LIVE" | grep -qx "$s" || { echo "session '$s' died"; exit 0; }
+    done
+  fi
+
+  sleep 10
+  iter=$((iter + 1))
+done
+echo "20 min elapsed, fallback exit"
+```
+
+Then tell Claude: *"run `bash /tmp/watcher.sh` in background"* — it'll run with `run_in_background: true` and you'll get pinged on any trigger.
+
+**Layer this with a `ScheduleWakeup` fallback** (25-min delay) in case the watcher itself crashes or the SSH fails.
+
+**What this unlocks:** overnight multi-agent builds where 7 autonomous Claude/Codex sessions are landing commits every 3–8 min. Pure timer polling would waste most of that time; event-driven wakes reduce iteration cycle by ~10×.
 
 ---
 
