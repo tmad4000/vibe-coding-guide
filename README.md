@@ -4,7 +4,7 @@ Tips for getting the most out of Claude Code and AI-assisted development.
 
 **New to the terminal?** Start with the [Minimal Terminal Guide](terminal-guide.md) first.
 
-**Running Claude Code + server + logs?** See the [tmux Guide](tmux-guide.md) for managing multiple terminals, or use **iTerm2** with split panes (simpler copy/paste).
+**Running Claude Code + server + logs?** See the [tmux Guide](tmux-guide.md) for managing multiple terminals (including session persistence with Resurrect/Continuum/Logging), or use **iTerm2** with split panes (simpler copy/paste).
 
 **Terminal Recommendation: iTerm2**
 

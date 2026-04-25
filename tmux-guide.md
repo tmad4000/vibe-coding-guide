@@ -227,3 +227,127 @@ tmux ls
 ```
 
 This gives you the benefits of background execution with full visibility.
+
+---
+
+## Session Persistence: Never Lose Your Layout
+
+By default, tmux sessions disappear when the server restarts (reboot, crash, `tmux kill-server`). Three plugins fix this:
+
+### Install TPM (Tmux Plugin Manager)
+
+```bash
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
+### Configure `~/.tmux.conf`
+
+Add to your config:
+
+```bash
+# --- Plugins ---
+set -g @plugin "tmux-plugins/tpm"
+set -g @plugin "tmux-plugins/tmux-resurrect"
+set -g @plugin "tmux-plugins/tmux-continuum"
+set -g @plugin "tmux-plugins/tmux-logging"
+
+# Auto-save sessions every 15 minutes
+# Auto-restore last saved session on tmux start
+set -g @continuum-restore "on"
+
+# Auto-start tmux on boot (macOS)
+set -g @continuum-boot "on"
+
+# Log all pane output automatically
+set -g @logging-auto-start "on"
+set -g @logging-path "$HOME/tmux-logs"
+
+# Initialize TPM (keep at bottom of .tmux.conf)
+run "~/.tmux/plugins/tpm/tpm"
+```
+
+Install plugins: `Ctrl+b I` (capital I), or run:
+```bash
+~/.tmux/plugins/tpm/bin/install_plugins
+```
+
+Then reload: `tmux source-file ~/.tmux.conf`
+
+### What Each Plugin Does
+
+| Plugin | Purpose |
+|--------|---------|
+| **tmux-resurrect** | Save/restore sessions manually (`Ctrl+b Ctrl+s` / `Ctrl+b Ctrl+r`) |
+| **tmux-continuum** | Auto-saves every 15 min, auto-restores on tmux start |
+| **tmux-logging** | Logs all terminal output per-pane to `~/tmux-logs/` |
+
+### What Gets Saved (and What Doesn't)
+
+**Saved by Resurrect/Continuum:**
+- Session names, window names, layouts
+- Pane splits and positions
+- Working directories
+- The command name running in each pane
+
+**NOT saved:**
+- Terminal scrollback / output history ← **tmux-logging fixes this**
+- Running process state (SSH connections, interactive programs)
+- Environment variables beyond basics
+
+After a restore, you get the right tabs and pane layout, but every pane starts a fresh shell in the correct directory. Programs need to be restarted.
+
+### Restoring Specific Programs
+
+To auto-restart certain programs on restore, add:
+
+```bash
+set -g @resurrect-processes 'ssh mosh node python "npm run dev"'
+```
+
+Only works for simple commands — not interactive state.
+
+### Key Bindings
+
+| Keys | Action |
+|------|--------|
+| `Ctrl+b Ctrl+s` | Save session (Resurrect) |
+| `Ctrl+b Ctrl+r` | Restore last saved session |
+| `Ctrl+b Shift+P` | Toggle logging on/off for current pane |
+| `Ctrl+b Alt+p` | Save visible pane content to file |
+| `Ctrl+b Alt+Shift+P` | Save complete pane scrollback history |
+
+### Restore from an Older Snapshot
+
+Continuum saves snapshots to `~/.tmux/resurrect/`. The `last` symlink points to the most recent. To restore an older one:
+
+```bash
+# List available snapshots
+ls -lt ~/.tmux/resurrect/
+
+# Point to the one you want
+ln -sf tmux_resurrect_20260227T225745.txt ~/.tmux/resurrect/last
+
+# Then restore
+# Ctrl+b Ctrl+r
+```
+
+### Enable Logging on All Existing Panes
+
+New panes auto-log with `@logging-auto-start "on"`, but panes that existed before the plugin was installed need a one-time toggle. Either press `Ctrl+b Shift+P` in each pane, or run this to enable logging on all panes at once:
+
+```bash
+tmux list-panes -a -F '#{session_name}:#{window_index}.#{pane_index} #{session_name} #{window_index} #{pane_index}' | while read target sess win pane; do
+  file="$HOME/tmux-logs/tmux-${sess}-${win}-${pane}-$(date +%Y%m%dT%H%M%S).log"
+  tmux pipe-pane -t "$target" "exec cat - | sed -E 's/(\[([0-9]{1,3}((;[0-9]{1,3})*)?)?[m|K]||]0;[^]+|[[:space:]]+$)//g' >> $file"
+  tmux set-option -gq "@${sess}_${win}_${pane}" "logging"
+done
+```
+
+### The Bottom Line
+
+With this setup, rebooting your machine means:
+1. tmux auto-starts on login (Continuum)
+2. Your sessions, windows, and pane layouts are restored (Resurrect)
+3. Going forward, all terminal output is logged to `~/tmux-logs/` (Logging)
+
+You lose running processes but keep the workspace structure and a full record of what happened.
