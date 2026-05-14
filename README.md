@@ -367,58 +367,21 @@ Then use `"command": "~/bin/claude-alert.sh"` in your hook.
 
 ## 5.5. Keep Mac Awake for Long Sessions (Lid Closed)
 
-Running a long Claude Code session and want to close your laptop lid? By default, Macs sleep when the lid closes, killing your terminal sessions. Here's how to prevent that.
+Running a long Claude Code session and want to close your laptop lid? By default, Macs sleep when the lid closes, killing your terminal sessions. Apple's `caffeinate` only prevents *idle* sleep — the moment you close the lid, your Mac sleeps anyway.
 
-**The Problem:**
-- `caffeinate` only prevents *idle* sleep, not lid-close sleep
-- Apps like Amphetamine + Amphetamine Enhancer work but require manual toggling
-- You need `sudo pmset -a disablesleep 1` but it requires password every time
+I spun the fix out into its own tiny repo:
 
-**The Solution: `nosleep` script with passwordless sudo**
-
-**1. Set up passwordless pmset (one-time):**
-```bash
-echo 'YOUR_USERNAME ALL=(ALL) NOPASSWD: /usr/bin/pmset' | sudo tee /etc/sudoers.d/pmset
-sudo chmod 0440 /etc/sudoers.d/pmset
-```
-
-Replace `YOUR_USERNAME` with your actual username. This allows only pmset without password, not all sudo commands.
-
-**2. Install the nosleep script:**
-
-Download [`nosleep.sh`](./nosleep.sh) from this repo, or:
+### → [github.com/tmad4000/nosleep](https://github.com/tmad4000/nosleep)
 
 ```bash
-curl -o /usr/local/bin/nosleep https://raw.githubusercontent.com/tmad4000/vibe-coding-guide/main/nosleep.sh
-chmod +x /usr/local/bin/nosleep
+brew install tmad4000/nosleep/nosleep
+nosleep --setup        # one-time passwordless pmset
+nosleep --on           # disable sleep until --off
+nosleep 3600           # disable for 1 hour, auto-recover
+nosleep --off          # re-enable sleep
 ```
 
-**3. Usage:**
-```bash
-nosleep              # 30 minutes (default)
-nosleep 3600         # 1 hour
-nosleep --on         # Indefinitely (until --off)
-nosleep --off        # Re-enable sleep
-nosleep --status     # Check current settings
-nosleep --help       # Full documentation
-```
-
-**Key features:**
-- **Trap for cleanup:** If you Ctrl+C, sleep is automatically re-enabled
-- **Timed mode:** Set specific duration, sleep re-enables when done
-- **Status check:** See current sleep settings
-
-**Workflow for long Claude Code sessions:**
-```bash
-# Start a long session
-nosleep --on
-claude --dangerously-skip-permissions
-
-# When done (or Ctrl+C will clean up)
-nosleep --off
-```
-
-**Why not Amphetamine?** Amphetamine + Amphetamine Enhancer works great for GUI workflows, but for terminal-heavy vibe coding, a script is faster and can be automated. Use whichever fits your workflow.
+~150 lines of bash, zero network calls, MIT licensed. Reversible end-to-end (`nosleep --uninstall`).
 
 ### Enable Wake-on-LAN for Remote Access
 
