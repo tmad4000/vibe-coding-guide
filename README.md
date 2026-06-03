@@ -1304,6 +1304,56 @@ This catches misconfigurations before they become security holes.
 
 ---
 
+## 16.7. XREAL AR Glasses as a Portable Big-Screen Coding Display
+
+AR glasses (XREAL One / One Pro) are a genuinely great portable monitor for coding on a couch, plane, or cafe — a huge virtual screen nobody else can read over your shoulder. The killer mode for coding is **Ultra-Wide** (one wide 32:9-ish canvas — editor + terminal + browser side by side). But there are a few non-obvious gotchas that cost a whole session to figure out, so here they are.
+
+### The big constraint: the display mode lives on the glasses, not your Mac
+
+On the One/One Pro, the **X1 chip owns the display modes** (Default / Ultra-Wide / Side View / 3D) onboard. You switch by **double-clicking the X button → Display → Ultra-Wide → click X**.
+
+- **There is no way to make the glasses default to Ultra-Wide.** They boot to 16:9 Default *every* reconnect. XREAL's own docs: *"The system does not retain the Ultra-Wide Mode setting until the next reconnection."* No host-side API, no setting (on glasses or computer) changes this.
+- **Best you can do: remap the Quick Button → Ultra-Wide** (glasses menu → *Quick Button Settings*). That turns the 4-step menu dance into **one button press** per session. That's the realistic floor.
+
+### ⚠️ Don't bother hunting for a community driver (confirmed dead end)
+
+The reverse-engineered XR drivers operate at the wrong layer for the One Pro and are Linux-only:
+
+- **`wheaney/XRLinuxDriver`** — only translates the glasses' IMU into **mouse movement** (head-tracking → cursor). It does *not* send display-mode commands. Linux-only.
+- **`wheaney/breezy-desktop`** — a heavy **virtual-display compositor** (head-tracked software reprojection). The opposite of "lightweight"; Linux-only; One Pro support is currently broken.
+- **`Retur1145/XReal-Ultrawide`** (macOS menu-bar app) — for the older **XREAL Air**, and it fakes ultrawide via software reprojection, not the glasses' native mode. Wrong device + wrong approach.
+
+The X1 chip was *designed* to be self-contained — no host command to set a mode, no persistence — so there's no protocol surface to tap. Skip the rabbit hole.
+
+### Stop the "mirror or extend?" prompt on every reconnect
+
+macOS (Sequoia+) treats the glasses as a TV-class display and re-asks every time:
+
+**System Settings → Displays → click the XREAL display → "When connected to TV" → Extend display**
+
+You may need to set it once per resolution mode (the OS remembers 1600×900 and the Ultra-Wide res as *separate* displays). If it still nags, [BetterDisplay](https://github.com/waydabber/BetterDisplay) (free) is the standard escape hatch.
+
+### ⭐ The real unlock: auto-restore your window layout on connect
+
+Since you re-enter Ultra-Wide manually each session, automate the *Mac* side so your windows snap into place the moment the glasses attach. Use [`displayplacer`](https://github.com/jakehilborn/displayplacer) (`brew install displayplacer`):
+
+```bash
+# 1. Arrange your displays once, then capture the layout, keyed by resolution:
+displayplacer list | tail -1   # prints the exact command for the current arrangement
+# save that line to e.g. ~/.config/xreal-displays/layouts/<RESOLUTION>.cmd
+
+# 2. A tiny restore script picks the layout file matching the glasses' current
+#    resolution and re-applies it (separate layouts for Default vs Ultra-Wide).
+```
+
+Trigger that script from **two** places so it fires no matter how the glasses are connected:
+1. **A LaunchAgent** matching the glasses' USB vendor id — catches direct USB-C.
+2. **Hammerspoon `hs.screen.watcher`** — catches DisplayPort/HDMI through a dock (which enumerates *only* as a display, so no USB event fires).
+
+Net effect: double-click into Ultra-Wide (or hit your Quick Button), and your editor/terminal/browser auto-tile across the wide canvas — no manual dragging.
+
+---
+
 ## 17. Meta: Keep This Guide Updated
 
 This guide itself is maintained using Claude Code! Here's the workflow:
@@ -1336,4 +1386,4 @@ Or just open an issue with your suggestion.
 
 ---
 
-*Last updated: 2026-02-10*
+*Last updated: 2026-06-02*
