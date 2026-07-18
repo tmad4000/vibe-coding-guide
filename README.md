@@ -2,6 +2,8 @@
 
 Tips for getting the most out of Claude Code and AI-assisted development.
 
+**Live curated tool list:** the up-to-date companion to this guide — vibe coding tools, workflows, and other good stuff — lives on WikiHub: [Vibe Coding Tools](https://wikihub.md/@jacobcole/systematic-awesome/vibecodingtools) (latest additions at the top). Absolute-beginner path: [Vibe Coding Tutorial](https://wikihub.md/@jacobcole/vibe-coding-tutorial/index).
+
 **New to the terminal?** Start with the [Minimal Terminal Guide](terminal-guide.md) first.
 
 **Running Claude Code + server + logs?** See the [tmux Guide](tmux-guide.md) for managing multiple terminals (including session persistence with Resurrect/Continuum/Logging), or use **iTerm2** with split panes (simpler copy/paste).
